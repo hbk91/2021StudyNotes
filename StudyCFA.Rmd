@@ -1,0 +1,11 @@
+---
+title: "StudyCFA"
+author: "Aman Jindal"
+date: "23 February 2021"
+output: html_document
+---
+
+## Fixed Income:
+
+Fixed Income provide diversification, regular cash flows and inflation protection.
+
