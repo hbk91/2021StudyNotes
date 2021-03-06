@@ -19,13 +19,13 @@ output:
 ### a. Liability Based Mandates:
 
 i. **Cash-flow Matching:** 
-    In this form of hedging the liability cash flows are exatly matched with the asset cash flows.
+    In this form of hedging the liability cash flows are exatly matched with the asset cash flows.<br>
 ii. **Duration Matching:** 
-    The duration of liabilities and assets are matched.
+    The duration of liabilities and assets are matched.<br>
 iii. **Contingent Immunization:**
-    As long as the Present Value of Assets (PVA) is more than the the Present Value of Liabilites (PVL), the portfolio could         be actively managed. However, if PVA becomes smaller than the PVL, then the portfolio must be immediately immunized.
+    As long as the Present Value of Assets (PVA) is more than the the Present Value of Liabilites (PVL), the portfolio could         be actively managed. However, if PVA becomes smaller than the PVL, then the portfolio must be immediately immunized.<br>
 iv. **Horizon Matching:**
-    This is an intermediate strategy between cash-flow matching and Duration matching. The short term liabilites are                 cash-flow matched, while the long term liabilities are duration matched.
+    This is an intermediate strategy between cash-flow matching and Duration matching. The short term liabilites are                 cash-flow matched, while the long term liabilities are duration matched.<br>
 
 ### b. Total Return Mandates:
 
