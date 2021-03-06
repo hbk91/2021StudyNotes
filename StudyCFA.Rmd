@@ -1,17 +1,17 @@
 ---
-title: "StudyCFA"
-author: "Aman Jindal"
-date: "23 February 2021"
+title: <center>CFA<sup>&reg;</sup> Level III
+author: <center>Study Notes by AJ</center>
+date: <center>23 February 2021</center>
 output:
-  word_document:
-    keep_md: yes
   html_document:
     df_print: paged
+  word_document:
+    keep_md: yes
 ---
 
-<h1><center> CFA<sup>&reg;</sup> Level III </center></h1>
+<!-- <h1><center> CFA<sup>&reg;</sup> Level III </center></h1> -->
 
-## Fixed Income
+## A. Fixed Income
 
 ### 1. Fixed Income investments provides:
 - diversification,
@@ -47,6 +47,7 @@ output:
 ### 3. Modelling Fixed Income Return:
 
 Fixed Income return can be broken down into five components viz. <br> 
+
 - Income Yield, 
 - Rolldown Return, 
 - Expected Price Change, 
@@ -57,6 +58,7 @@ Fixed Income return can be broken down into five components viz. <br>
 
 $$ r_p = r_i + \frac{V_B}{V_E}*(r_i - r_b) $$
 where,<br>
+
 - $r_p$ = return on portfolio
 - $r_i$ = return on invested assets
 - $r_b$ = rate paid on borrowings
