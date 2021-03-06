@@ -1,13 +1,35 @@
 ---
-title: <center>CFA<sup>&reg;</sup> Level III
-author: <center>Study Notes by AJ</center>
-date: <center>23 February 2021</center>
+title: "CFA<sup>&reg;</sup> Level III"
+author: "Study Notes by AJ"
+date: "23 February 2021"
 output:
   html_document:
-    df_print: paged
+    keep_md: yes
   word_document:
     keep_md: yes
 ---
+<style type="text/css">
+
+h1.title {
+font-size: 38px;
+color: DarkRed;
+text-align: center;
+}
+h4.author { /* Header 4 - and the author and data headers use this too  */
+font-size: 18px;
+font-family: "Times New Roman", Times, serif;
+color: DarkRed;
+text-align: center;
+}
+h4.date { /* Header 4 - and the author and data headers use this too  */
+font-size: 18px;
+font-family: "Times New Roman", Times, serif;
+color: DarkBlue;
+text-align: center;
+}
+</style>
+
+
 
 <!-- <h1><center> CFA<sup>&reg;</sup> Level III </center></h1> -->
 
@@ -64,7 +86,6 @@ where,<br>
 - $r_b$ = rate paid on borrowings
 - $V_B$ = amount of leverage
 - $V_E$ = amount of equity invested
-
 
 
 
