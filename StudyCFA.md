@@ -91,7 +91,7 @@ where,<br>
 
 <br><br><br>
 
-##### CFA® and Chartered Financial Analyst® are registered trademarks owned by CFA Institute.
+##### CFA<sup>&reg;</sup> and Chartered Financial Analyst<sup>&reg;</sup> are registered trademarks owned by CFA Institute.
 
 
 
