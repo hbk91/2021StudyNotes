@@ -9,7 +9,7 @@ output:
     df_print: paged
 ---
 
-<h1><center> CFA Level III </center></h1>
+<h1><center> CFA<sup>&reg;</sup> Level III </center></h1>
 
 ## Fixed Income
 
