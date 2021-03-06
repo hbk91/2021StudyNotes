@@ -53,5 +53,21 @@ Fixed Income return can be broken down into five components viz. <br>
 - Credit Losses and, 
 - Expected Gain or Losses vs Investors Currency.
 
+### 4. Return on a leveraged Portfolio:
+
+$$ r_p = r_i + \frac{V_B}{V_E}*(r_i - r_b) $$
+where,<br>
+- $r_p$ = return on portfolio
+- $r_i$ = return on invested assets
+- $r_b$ = rate paid on borrowings
+- $V_B$ = amount of leverage
+- $V_E$ = amount of equity invested
+
+
+
+
+
+
+
 
 
