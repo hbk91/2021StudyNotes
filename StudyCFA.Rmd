@@ -44,5 +44,14 @@ output:
   **ii. Enhanced Indexing**<br>
   **iii. Active Management**<br>
     
-    
-    
+### 3. Modelling Fixed Income Return:
+
+Fixed Income return can be broken down into five components viz. <br> 
+- Income Yield, 
+- Rolldown Return, 
+- Expected Price Change, 
+- Credit Losses and, 
+- Expected Gain or Losses vs Investors Currency.
+
+
+
