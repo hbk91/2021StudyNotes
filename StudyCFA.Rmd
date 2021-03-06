@@ -7,16 +7,16 @@ output:
     keep_md: yes
 ---
 
-# Fixed Income:
+# Fixed Income
 
 ## 1. Fixed Income investments provides:
 - diversification,
 - regular cash flows and 
 - inflation protection.
 
-## 2. Types of Fixed Income Mandates:
+## 2. Types of Fixed Income Mandates
 
-### a. Liability Based Mandates:
+### a. Liability Based Mandates
 
   i. **Cash-flow Matching:**<br>
     In this form of hedging the liability cash flows are exatly matched with the asset cash flows.<br>
@@ -27,11 +27,11 @@ output:
   iv. **Horizon Matching:**<br>
     This is an intermediate strategy between cash-flow matching and Duration matching. The short term liabilites are                 cash-flow matched, while the long term liabilities are duration matched.<br>
 
-### b. Total Return Mandates:
+### b. Total Return Mandates
 
-  i. **Pure Indexing**
-  ii. **Enhanced Indexing**
-  iii. **Active Management**
+  i. **Pure Indexing**<br>
+  ii. **Enhanced Indexing**<br>
+  iii. **Active Management**<br>
         
 
             
