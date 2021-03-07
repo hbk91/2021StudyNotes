@@ -1,6 +1,6 @@
 ---
-title: "CFA<sup>&reg;</sup> Level III"
-author: "Study Notes by AJ"
+title: "CFA<sup>&reg;</sup> Level III  Study Notes"
+author: "by AJ"
 date: "23 February 2021"
 output:
   html_document:
@@ -86,6 +86,17 @@ where,<br>
 - $r_b$ = rate paid on borrowings
 - $V_B$ = amount of leverage
 - $V_E$ = amount of equity invested
+
+
+
+                          
+
+
+
+
+
+
+
 
 
 
