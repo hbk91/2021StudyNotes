@@ -1,14 +1,14 @@
 ---
 title: "Udacity_MLEngineer"
 author: "Aman Jindal"
-date: "4 March 2021"
-output: 
-  word_document: 
-    keep_md: yes
 ---
 
-1. ## Software Engineering Fundamentals:
-    a. afadf 
-    b. adasd
-    c. asdas
-    d. gkjlsgnkng
+### Project 1: Building a Movie Review Sentiment Classifier
+
+The following are the key learnings:
+
+a. Building and training a LSTM Network (100 cell single layer) using PyTorch. <a href="https://pythonprogramming.net/training-deep-learning-neural-network-pytorch/ target="_blank">This link</a>link explains the basics of making a model with PyTorch.
+b. Deploying the ML Model.
+c. Building an AWS Lambda Function.
+d. Building an AWS API Gateway.
+  
