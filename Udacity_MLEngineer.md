@@ -16,3 +16,4 @@ The following are the key learnings:
 ### B. Project 1: Building a Movie Review Sentiment Classifier
 
 1. AWS SageMaker Ground Truth.
+2. 
