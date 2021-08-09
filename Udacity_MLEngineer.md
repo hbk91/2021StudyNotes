@@ -7,8 +7,8 @@ author: "Aman Jindal"
 
 The following are the key learnings:
 
-- Building and training a LSTM Network (100 cell single layer) using PyTorch. <a href="https://pythonprogramming.net/training-deep-learning-neural-network-pytorch/" target="_blank">This link</a> explains the basics of making a model with PyTorch.
-- Deploying the ML Model.
-- Building an AWS Lambda Function.
-- Building an AWS API Gateway.
+  i. Building and training a LSTM Network (100 cell single layer) using PyTorch. <a href="https://pythonprogramming.net/training-deep-learning-neural-network-pytorch/" target="_blank">This link</a> explains the basics of making a model with PyTorch.
+  ii. Deploying the ML Model.
+  iii. Building an AWS Lambda Function.
+  iv. Building an AWS API Gateway.
   
