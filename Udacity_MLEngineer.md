@@ -17,5 +17,5 @@ The following are the key learnings:
 
 The following are the key learnings:
 
-1. AWS SageMaker Ground Truth.
+1. **AWS SageMaker Ground Truth:** Helps in going from raw data, to labelled data> It first sends the data to humans for initial labels. Then it trains an ML model based on these initial labels, to automate the labelling process. 
 2. 
