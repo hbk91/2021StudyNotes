@@ -13,7 +13,7 @@ The following are the key learnings:
 4. Building an AWS Lambda Function.
 5. Building an AWS API Gateway.
   
-### B. Project 1: Building a Movie Review Sentiment Classifier
+### B. Project 2: Population Segmentation using SageMaker
 
 1. AWS SageMaker Ground Truth.
 2. 
