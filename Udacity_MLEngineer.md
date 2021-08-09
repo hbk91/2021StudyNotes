@@ -15,5 +15,7 @@ The following are the key learnings:
   
 ### B. Project 2: Population Segmentation using SageMaker
 
+The following are the key learnings:
+
 1. AWS SageMaker Ground Truth.
 2. 
