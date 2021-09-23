@@ -27,10 +27,12 @@ The following are the key learnings:
 
 The following are the key learnings:
 
-- To identify the breed of a dog, built two different CNN algorithms viz.
-  1. Built a CNN Algorithm from scratch to identify dog breed from 133 dog breeds.
-  2. Used <a href="https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html" target="_blank">Transfer Learning</a> to build the dog breed classifier. ResNet-18 model was used whose last fully connected layer was replaced by a 133 neuron fully connected layer. Only the last layer was trained.
+- To identify the breed of a dog, built two different CNN algorithms viz. <br>
 
-- Additionally:   
+  1. Built a CNN Algorithm from scratch to identify dog breed from 133 dog breeds.
+  2. Used <a href="https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html" target="_blank">Transfer Learning</a> to build the dog breed classifier. ResNet-18 model was used whose last fully connected layer was replaced by a 133 neuron fully connected layer. Only the last layer was trained. <br>
+
+- Additionally: <br>
+     
   1. Used <a href='https://docs.opencv.org/master/db/d28/tutorial_cascade_classifier.html' target="_blank">Haar feature based cascade classifier provided by OpenCV</a> to detect human faces in an image.
   2. Used a pre-trained <a href="https://pytorch.org/vision/stable/models.html" target="_blank">VGG-16 from torchvision.models</a> to detect a dog in an image. VGG-16 has been trained on the ImageNet Dataset whose classes 151 to 268 correspond to dogs. Thus, an output within this range implies the image is of a dog. 
