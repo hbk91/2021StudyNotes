@@ -31,6 +31,7 @@ The following are the key learnings:
 
   1. Built a CNN Algorithm from scratch to identify dog breed from 133 dog breeds.
   2. Used <a href="https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html" target="_blank">Transfer Learning</a> to build the dog breed classifier. ResNet-18 model was used whose last fully connected layer was replaced by a 133 neuron fully connected layer. Only the last layer was trained. <br>
+   
 
 - Additionally: <br>
      
