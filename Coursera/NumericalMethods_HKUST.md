@@ -16,4 +16,14 @@ author: "Aman Jindal"
 6. Computed & presented the bifurcation diagram for the logistic map in MATLAB. 
 
 
+### B. Week 2:
+
+1. Learnt three methods for finding roots viz. Bisection method, Newton method & Secant method.
+2. Newton's method is the fastest (speed of convergence), followed by Secant method and then Bisection method. 
+3. The order of convergence for the three methods are: Bisection: 1, Secant: 1.6, Newton 2. The order of convergence signifies with what power the error decreases.
+4. Bisection method would always provided a solution, while the Newton method will only provide  solution when an analytical derivative for the function exists. 
+5. Secant method is a way for resolving the above shortcoming of Newton method. It approximates the derivative when the derivative for the function doesn't exist.
+6. A fractal is a geometrical object that looks similar on all scales. The Newton Fractal is explained in <a href='https://www.youtube.com/watch?v=TOR37v5GV5o' target="_blank">this video</a>.
+7. 
+
 
