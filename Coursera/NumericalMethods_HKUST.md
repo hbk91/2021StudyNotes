@@ -14,7 +14,7 @@ author: "Aman Jindal"
 
 ### B. Week 1:
 
-1. Learnt on how to use MATLAB. 
+1. Learnt how to use MATLAB. 
 2. Understood the concept of <a href="https://en.wikipedia.org/wiki/Logistic_map" target="_blank">logistic map</a>. <a href='https://www.youtube.com/watch?v=ovJcsL7vyrk' target="_blank">This video by Veritasium</a> provides a good explanation. 
 3. Mathematically, Logistic Map is written as ***x<sub>n+1</sub> = rx<sub>n</sub>(1-x<sub>n</sub>)***. 
 4. ***x<sub>n</sub>*** is a number between zero and one, that represents the ratio of existing population to the maximum possible population.
