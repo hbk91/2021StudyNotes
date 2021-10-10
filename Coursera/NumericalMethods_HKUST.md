@@ -8,7 +8,7 @@ author: "Aman Jindal"
 
 ### A. Matlab Notes:
 
-1. A good place to get an understanding of Matlab is <a href='http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html' target="_blank">this</a>
+1. A good place to get an understanding of Matlab is <a href='http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html' target="_blank">this</a>.
 2. Several expressions, separated by comma or semicolons, can be placed on a single line.
 
 
@@ -36,3 +36,8 @@ author: "Aman Jindal"
 
 ### D. Week 3:
 
+1. Gaussian elimination without pivoting may lead to wrong answers while solving a system of linear equations due to round-off error.
+2. Partial Pivoting means row interchange. Complete Pivoting means both row and column interchange.
+3. Gaussian elimination with partial pivoting generally obviates the problem of wrong answers due to round-off errors. This was one of the greatest discoveries in Numerical Analysis.
+4. LU decomposition of a matrix using partial pivoting. Post LU Decomposition, we can use backward and forward substitution to solve a system of linear equations. <a href="https://www.math.ucdavis.edu/~linear/old/notes11.pdf" target="_blank">This link</a> explains the LU decomposition.
+5. LU decomposition is superior to Gaussian elimination, when the right hand side of the equation keeps on changing (for instance in PDEs). Thus, we can do the LU decomposition once, and then used backward & forward substitution repeatedly as the right hand side keeps on changing. Gaussian elimination scales as ***O(N<sup>3</sup>)***. Forward and Backward substitutions scale as ***O(N<sup>2</sup>).***  
