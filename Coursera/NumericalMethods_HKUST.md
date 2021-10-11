@@ -8,9 +8,14 @@ author: "Aman Jindal"
 
 ### A. Matlab Notes:
 
-1. A good place to get an understanding of Matlab is <a href='http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html' target="_blank">this</a>.
+1. A good place to get an understanding of Matlab is <a href='http://www.math.ucsd.edu/~bdriver/21d-s99/matlab-primer.html' target="_blank">this</a>. Matlab is generally case-sensitive. More on case sensitive <a href="https://www.mathworks.com/matlabcentral/answers/442925-is-matlab-case-sensitive-in-all-aspects" target="_blank">here</a>
 2. Several expressions, separated by comma or semicolons, can be placed on a single line.
-
+3. Semi-colon at the end of the line suppresses the value of the expression in that line. Else, the value is displayed.
+4. Ax = b; x is solved using the backslash operator as: x = A\b;
+5. A = LU; LU decomposition of a matrix is obtained as: [L, U] = lu(A)
+6. Ax = L(Ux) = b; x is solved as : x = U\(L\b)
+7. Eigenvalues: lambda = eig(A)
+8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D the matrix of Eigenvalues. The eigenvalues are on the leading diagnol of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
 
 ### B. Week 1:
 
