@@ -15,7 +15,7 @@ author: "Aman Jindal"
 5. A = LU; LU decomposition of a matrix is obtained as: [L, U] = lu(A)
 6. Ax = L(Ux) = b; x is solved as : x = U\(L\b)
 7. Eigenvalues: lambda = eig(A)
-8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D the matrix of Eigenvalues. The eigenvalues are on the leading diagnol of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
+8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D is the matrix of Eigenvalues. The eigenvalues are on the leading diagonal of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
 
 ### B. Week 1:
 
@@ -46,3 +46,4 @@ author: "Aman Jindal"
 3. Gaussian elimination with partial pivoting generally obviates the problem of wrong answers due to round-off errors. This was one of the greatest discoveries in Numerical Analysis.
 4. LU decomposition of a matrix using partial pivoting. Post LU Decomposition, we can use backward and forward substitution to solve a system of linear equations. <a href="https://www.math.ucdavis.edu/~linear/old/notes11.pdf" target="_blank">This link</a> explains the LU decomposition.
 5. LU decomposition is superior to Gaussian elimination, when the right hand side of the equation keeps on changing (for instance in PDEs). Thus, we can do the LU decomposition once, and then used backward & forward substitution repeatedly as the right hand side keeps on changing. Gaussian elimination scales as ***O(N<sup>3</sup>)***. Forward and Backward substitutions scale as ***O(N<sup>2</sup>).***  
+6. Computed & Plotted the fractal by solving the Lorenz Equations.
