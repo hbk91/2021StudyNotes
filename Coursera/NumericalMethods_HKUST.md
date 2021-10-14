@@ -55,7 +55,7 @@ author: "Aman Jindal"
 1. Quadrature is numerical integration. 
 2. Learnt the Midpoint Rule, Trapezoidal Rule & Simpson Rule. Learnt Quadrature rules viz. Composite, Gaussian and Adaptive. Matlab uses Adaptive Quadrature.
 3. Learnt interpolation methods viz. linear, polynomial. Cubic Spline is a cubic polynomial spline interpolations between different points on the curve.
-4. In the project found out the first five positive roots of the first six Bessel Functions.
+4. In the project computed the first five positive roots of the first six Bessel Functions.
 
 ### F. Week 5:
 
