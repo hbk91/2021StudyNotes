@@ -16,6 +16,8 @@ author: "Aman Jindal"
 6. Ax = L(Ux) = b; x is solved as : x = U\(L\b)
 7. Eigenvalues: lambda = eig(A)
 8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D is the matrix of Eigenvalues. The eigenvalues are on the leading diagonal of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
+9. <a href="https://www.mathworks.com/help/matlab/ref/fzero.html" target="_blank">***fzero***</a> is the matlab function that is used to find root of a non-linear function.
+10. <a href="https://www.mathworks.com/help/matlab/ref/interp1.html" target="_blank">***interp1***</a> is the matlab function that is used for 1-D interpolation including cubic spline interpolation.
 
 ### B. Week 1:
 
@@ -47,3 +49,14 @@ author: "Aman Jindal"
 4. LU decomposition of a matrix using partial pivoting. Post LU Decomposition, we can use backward and forward substitution to solve a system of linear equations. <a href="https://www.math.ucdavis.edu/~linear/old/notes11.pdf" target="_blank">This link</a> explains the LU decomposition.
 5. LU decomposition is superior to Gaussian elimination, when the right hand side of the equation keeps on changing (for instance in PDEs). Thus, we can do the LU decomposition once, and then used backward & forward substitution repeatedly as the right hand side keeps on changing. Gaussian elimination scales as ***O(N<sup>3</sup>)***. Forward and Backward substitutions scale as ***O(N<sup>2</sup>).***  
 6. Computed & Plotted the fractal by solving the Lorenz Equations.
+
+### E. Week 4:
+
+1. Quadrature is numerical integration. 
+2. Learnt the Midpoint Rule, Trapezoidal Rule & Simpson Rule. Learnt Quadrature rules viz. Composite, Gaussian and Adaptive. Matlab uses Adaptive Quadrature.
+3. Learnt interpolation methods viz. linear, polynomial. Cubic Spline is a cubic polynomial spline interpolations between different points on the curve.
+4. In the project found out the first five positive roots of the first six Bessel Functions.
+
+### F. Week 5:
+
+1. 
