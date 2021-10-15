@@ -24,9 +24,9 @@ author: "Aman Jindal"
 
 1. Learnt how to use MATLAB. 
 2. Understood the concept of <a href="https://en.wikipedia.org/wiki/Logistic_map" target="_blank">logistic map</a>. <a href='https://www.youtube.com/watch?v=ovJcsL7vyrk' target="_blank">This video by Veritasium</a> provides a good explanation. 
-3. Mathematically, Logistic Map is written as ***x<sub>n+1</sub> = rx<sub>n</sub>(1-x<sub>n</sub>)***. 
-4. ***x<sub>n</sub>*** is a number between zero and one, that represents the ratio of existing population to the maximum possible population.
-5. ***r*** is the growth rate of the population.
+3. Mathematically, Logistic Map is written as **x<sub>n+1</sub> = rx<sub>n</sub>(1-x<sub>n</sub>)**. 
+4. **x<sub>n</sub>** is a number between zero and one, that represents the ratio of existing population to the maximum possible population.
+5. **r** is the growth rate of the population.
 6. Computed & presented the bifurcation diagram for the logistic map in MATLAB. 
 
 
@@ -34,7 +34,7 @@ author: "Aman Jindal"
 
 1. Learnt three methods for finding roots viz. Bisection method, Newton method & Secant method.
 2. Newton's method is the fastest (speed of convergence), followed by Secant method and then Bisection method. 
-3. The order of convergence for the three methods are: Bisection: ***1***, Secant: ***1.6***, Newton: ***2***. The order of convergence signifies with what power the error decreases.
+3. The order of convergence for the three methods are: Bisection: **1**, Secant: **1.6**, Newton: **2**. The order of convergence signifies with what power the error decreases.
 4. Bisection method would always provided a solution, while the Newton method will only provide  solution when an analytical derivative for the function exists. 
 5. Secant method is a way for resolving the above shortcoming of Newton method. It approximates the derivative when the derivative for the function doesn't exist.
 6. A fractal is a geometrical object that looks similar on all scales. The Newton Fractal is explained in <a href='https://www.youtube.com/watch?v=TOR37v5GV5o' target="_blank">this video</a>.
@@ -48,7 +48,7 @@ author: "Aman Jindal"
 2. Partial Pivoting means row interchange. Complete Pivoting means both row and column interchange.
 3. Gaussian elimination with partial pivoting generally obviates the problem of wrong answers due to round-off errors. This was one of the greatest discoveries in Numerical Analysis.
 4. LU decomposition of a matrix using partial pivoting. Post LU Decomposition, we can use backward and forward substitution to solve a system of linear equations. <a href="https://www.math.ucdavis.edu/~linear/old/notes11.pdf" target="_blank">This link</a> explains the LU decomposition.
-5. LU decomposition is superior to Gaussian elimination, when the right hand side of the equation keeps on changing (for instance in PDEs). Thus, we can do the LU decomposition once, and then used backward & forward substitution repeatedly as the right hand side keeps on changing. Gaussian elimination scales as ***O(N<sup>3</sup>)***. Forward and Backward substitutions scale as ***O(N<sup>2</sup>).***  
+5. LU decomposition is superior to Gaussian elimination, when the right hand side of the equation keeps on changing (for instance in PDEs). Thus, we can do the LU decomposition once, and then used backward & forward substitution repeatedly as the right hand side keeps on changing. Gaussian elimination scales as **O(N<sup>3</sup>)**. Forward and Backward substitutions scale as **O(N<sup>2</sup>).**  
 6. Computed & Plotted the fractal by solving the Lorenz Equations.
 
 ### E. Week 4:
