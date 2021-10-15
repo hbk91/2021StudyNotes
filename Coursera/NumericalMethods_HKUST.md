@@ -16,8 +16,9 @@ author: "Aman Jindal"
 6. Ax = L(Ux) = b; x is solved as : x = U\(L\b)
 7. Eigenvalues: lambda = eig(A)
 8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D is the matrix of Eigenvalues. The eigenvalues are on the leading diagonal of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
-9. <a href="https://www.mathworks.com/help/matlab/ref/fzero.html" target="_blank">***fzero***</a> is the matlab function that is used to find root of a non-linear function.
-10. <a href="https://www.mathworks.com/help/matlab/ref/interp1.html" target="_blank">***interp1***</a> is the matlab function that is used for 1-D interpolation including cubic spline interpolation.
+9. <a href="https://www.mathworks.com/help/matlab/ref/fzero.html" target="_blank">**fzero**</a> is the matlab function that is used to find root of a non-linear function.
+10. <a href="https://www.mathworks.com/help/matlab/ref/interp1.html" target="_blank">**interp1**</a> is the matlab function that is used for 1-D interpolation including cubic spline interpolation.
+11. 11. <a href="https://in.mathworks.com/help/matlab/ref/ode45.html" target="_blank">**ode45**</a> is the matlab function that is used for integrating ODEs. 
 
 ### B. Week 1:
 
@@ -59,6 +60,8 @@ author: "Aman Jindal"
 
 ### F. Week 5:
 
-1. Euler Method is a first order method of solving ODE. Let the differential equation be ***dx/dt = f(t,x)***, with the initial condition ***X(t<sub>0</sub>) = X<sub>0</sub>***
-2. Euler's Method can be summarized as marching forward from an initial condition in this fashion: ***x<sub>n+1</sub> = x<sub>n</sub> + t<sub>delta</sub> f(t<sub>n</sub>, x<sub>n</sub>)***
-3. 
+1. Euler Method is a first order method of solving ODE. Let the differential equation be **dx/dt = f(t,x)**, with the initial condition **X(t<sub>0</sub>) = X<sub>0</sub>**
+2. Euler's Method can be summarized as marching forward from an initial condition in this fashion: **x<sub>n+1</sub> = x<sub>n</sub> + t<sub>delta</sub> f(t<sub>n</sub>, x<sub>n</sub>)**
+3. Learnt the Runge-Kutta (RK) the method. Learnt the Modified Euler Method and its expression as a Second order Runge-Kutta Method. Also, the General Second order, Third Order Runge-Kutta Method. Further, an example of Fourth order Runge-Kutta Method. 
+4. Matlab uses Adaptive Runge-Kutta (RK) methods where itself figures appropriate t<sub>delta</sub>. We need to specify only the error tolerance. Smaller the error tolerance, smaller will be t<sub>delta</sub> and more expensive the computation.
+5. **ode45** (Matlab Function) uses Dormand Prince Method which is a six stage (fifth order) Runge-Kutta method.
