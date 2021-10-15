@@ -59,4 +59,6 @@ author: "Aman Jindal"
 
 ### F. Week 5:
 
-1. 
+1. Euler Method is a first order method of solving ODE. Let the differential equation be ***dx/dt = f(t,x)***, with the initial condition ***X(t<sub>0</sub>) = X<sub>0</sub>***
+2. Euler's Method can be summarized as marching forward from an initial condition in this fashion: ***x<sub>n+1</sub> = x<sub>n</sub> + t<sub>delta</sub> f(t<sub>n</sub>, x<sub>n</sub>)***
+3. 
