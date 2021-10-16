@@ -65,3 +65,7 @@ author: "Aman Jindal"
 3. Learnt the Runge-Kutta (RK) the method. Learnt the Modified Euler Method and its expression as a Second order Runge-Kutta Method. Also, the General Second order, Third Order Runge-Kutta Method. Further, an example of Fourth order Runge-Kutta Method. 
 4. Matlab uses Adaptive Runge-Kutta (RK) methods where itself figures appropriate t<sub>delta</sub>. We need to specify only the error tolerance. Smaller the error tolerance, smaller will be t<sub>delta</sub> and more expensive the computation.
 5. **ode45** (Matlab Function) uses Dormand Prince Method which is a six stage (fifth order) Runge-Kutta method.
+6. Solved the <a href="https://en.wikipedia.org/wiki/Two-body_problem" target="_blank"> two body problem</a> (predict the motion of two massive objects which are abstractly viewed as point particles. The problem assumes that the two objects interact only with one another; the only force affecting each object arises from the other one, and all other objects are ignored) using **ode45**.
+
+### F. Week 6:
+   
