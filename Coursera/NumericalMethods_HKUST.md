@@ -18,7 +18,7 @@ author: "Aman Jindal"
 8. Eigenvalues & Eigenvectors: [V, D] = eig(A). V is matrix of Eigenvectors and D is the matrix of Eigenvalues. The eigenvalues are on the leading diagonal of D. The first eigenvalue corresponds to the first column eigenvector in V and so on and so forth.
 9. <a href="https://www.mathworks.com/help/matlab/ref/fzero.html" target="_blank">**fzero**</a> is the matlab function that is used to find root of a non-linear function.
 10. <a href="https://www.mathworks.com/help/matlab/ref/interp1.html" target="_blank">**interp1**</a> is the matlab function that is used for 1-D interpolation including cubic spline interpolation.
-11. 11. <a href="https://in.mathworks.com/help/matlab/ref/ode45.html" target="_blank">**ode45**</a> is the matlab function that is used for integrating ODEs. 
+11. <a href="https://in.mathworks.com/help/matlab/ref/ode45.html" target="_blank">**ode45**</a> is the matlab function that is used for integrating ODEs. 
 
 ### B. Week 1:
 
@@ -69,3 +69,4 @@ author: "Aman Jindal"
 
 ### F. Week 6:
    
+   1. Initial Value problems are solved by marching forw
