@@ -69,4 +69,7 @@ author: "Aman Jindal"
 
 ### F. Week 6:
    
-   1. Initial Value problems are solved by marching forw
+1. Initial Value problems are solved by marching forward while boundary value problems can be solved by solving by solving for all interior points in one go.
+2. Learnt how to solve Laplace and 1-D and 2-D Diffusion Equations PDEs using Finite Difference Method.
+3. Explicit Solution of the Diffusion Equation may become unstable (the values at next time steps exploding) at large time steps. Implicit Solution guarantees that the solution wouldn't become unstable. Crank-Nicolson is an implicit method to solve Diffusion Equation.
+4. Three implicit methods to solve the Laplace Equation are Jacobi Method, Gauss-Siedel Method and SOR Method.
