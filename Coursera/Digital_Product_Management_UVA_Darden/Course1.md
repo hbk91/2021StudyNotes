@@ -9,7 +9,7 @@ author: "Aman Jindal"
    2. Bringing those ideas into the Product Pipeline
    3. Facilitate alignment b/w companies vision and the team's purpose
 
-##### 2. Product Manager:
+#### 2. Product Manager:
    1. User Experience-Tech-Business
    2. Designer-Hacker-Hustler (H2D)
    3. Desirability-Feasibility-Viability
