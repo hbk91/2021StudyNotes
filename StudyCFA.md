@@ -1,7 +1,7 @@
 ---
 title: "CFA<sup>&reg;</sup> Level III  Study Notes"
 author: "by AJ"
-date: "23 February 2021"
+date: 
 output:
   html_document:
     keep_md: yes

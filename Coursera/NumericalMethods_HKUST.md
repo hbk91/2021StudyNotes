@@ -67,7 +67,7 @@ author: "Aman Jindal"
 5. **ode45** (Matlab Function) uses Dormand Prince Method which is a six stage (fifth order) Runge-Kutta method.
 6. Solved the <a href="https://en.wikipedia.org/wiki/Two-body_problem" target="_blank"> two body problem</a> (predict the motion of two massive objects which are abstractly viewed as point particles. The problem assumes that the two objects interact only with one another; the only force affecting each object arises from the other one, and all other objects are ignored) using **ode45**.
 
-### F. Week 6:
+### G. Week 6:
    
 1. Initial Value problems are solved by marching forward while boundary value problems can be solved by solving by solving for all interior points in one go.
 2. Learnt how to solve Laplace and 1-D and 2-D Diffusion Equations PDEs using Finite Difference Method.
