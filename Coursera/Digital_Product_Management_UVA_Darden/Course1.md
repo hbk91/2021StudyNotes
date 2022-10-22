@@ -14,10 +14,10 @@ author: "Aman Jindal"
    2. Designer-Hacker-Hustler (H2D)
    3. Desirability-Feasibility-Viability
 
-#### 3. Desirability:
-    1. Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure
-    2. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a      critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth and thus became the market leader.
-    3. 
+#### 3. Product Manager:
+   1. Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure 
+   2. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a      critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth and thus became the market leader.
+   3. Desirability-Feasibility-Viability
 
 ### B. Week2: Being a Product Manager:
 
