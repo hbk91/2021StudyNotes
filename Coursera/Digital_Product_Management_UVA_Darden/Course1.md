@@ -15,8 +15,8 @@ author: "Aman Jindal"
    3. Desirability-Feasibility-Viability
 
 #### 3. Desirability:
-    - Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure
-    - Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a      critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth and thus became the market leader. 
+    a. Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure
+    b. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a      critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth and thus became the market leader. 
 
 ### B. Week2: Being a Product Manager:
 
