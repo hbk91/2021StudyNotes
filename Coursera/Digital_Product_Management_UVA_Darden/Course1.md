@@ -3,7 +3,7 @@ title: "Course 1: Digital Product Management: Modern Fundamentals"
 author: "Aman Jindal"
 ---
 
-### Introduction:
+## Introduction:
 
 #### 1. <a href='https://www.coursera.org/specializations/uva-darden-digital-product-management' target="_blank"> Digital Product Management specialization </a> comprising 5 courses is taught by<a href='https://www.alexandercowan.com/' target="_blank"> Professor Alex Cowan</a> <a href='https://www.darden.virginia.edu/' target="_blank">, UVA Darden School of Business</a> through Coursera
 
@@ -22,7 +22,7 @@ author: "Aman Jindal"
 
 <hr style="border:.05px solid black">
 
-### A. Week1: Tomorrow's Product Manager:
+## Week1: Tomorrow's Product Manager:
 
 #### 1. Three objectives of a Product Manager:
    1. Identify Product-market fit Hypothesis that are relevant to the user and testable
