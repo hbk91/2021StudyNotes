@@ -15,9 +15,13 @@ author: "Aman Jindal"
    3. Desirability-Feasibility-Viability
 
 #### 3. Product Manager:
-   1. Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure 
-   2. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a      critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth via iTunes and iTunes store and thus became the market leader.
-   3. Desirability-Feasibility-Viability
+   1. Quite often, Product Managers get in the trap of Feasibility and Viability. This often leads to failure
+   2. Desirability is the independent variable. Find the right problems and iterate to the solution to achieve desirability. That is what good Product Managers do.
+   3. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth via iTunes and iTunes store and thus became the market leader.
+   4. Go from Scale Friendly to Innovation Friendly. Move from Waterfall structure to Agile structure
+   5. 
+
+<img src='.//Images/image1.png'/>
 
 ### B. Week2: Being a Product Manager:
 
