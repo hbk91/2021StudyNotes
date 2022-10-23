@@ -5,7 +5,7 @@ author: "Aman Jindal"
 
 ### Introduction:
 
-#### 1. <a href='https://www.coursera.org/specializations/uva-darden-digital-product-management' target="_blank"> Digital Product Management specialization </a> comprising 5 courses is taught by<a href='https://www.alexandercowan.com/' target="_blank"> Professor Alex Cowan</a> <a href='https://www.darden.virginia.edu/' target="_blank"> ,UVA Darden School of Business</a> through Coursera
+#### 1. <a href='https://www.coursera.org/specializations/uva-darden-digital-product-management' target="_blank"> Digital Product Management specialization </a> comprising 5 courses is taught by<a href='https://www.alexandercowan.com/' target="_blank"> Professor Alex Cowan</a> <a href='https://www.darden.virginia.edu/' target="_blank">, UVA Darden School of Business</a> through Coursera
 
 #### 2. The five courses in this specialization are as follows:
    1. <a href='https://www.coursera.org/learn/uva-darden-digital-product-management?specialization=uva-darden-digital-product-management' target="_blank"> Digital Product Management: Modern Fundamentals </a>
