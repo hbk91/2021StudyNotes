@@ -21,7 +21,7 @@ author: "Aman Jindal"
    4. Go from Scale Friendly to Innovation Friendly. Move from Waterfall structure to Agile structure
 
 #### 3. Product Pipeline:
-   1. **Product Priorities**->Continuous Design->Application Development->Continuous Delivery->Released Product>Hypothesis Testing->**Product Priorities**
+   1. **Product Priorities**->Continuous Design->Application Development->Continuous Delivery->**Released Product**>Hypothesis Testing->**Product Priorities**
    2. More specifically the above process is: **Product Priorities**->Ideas->Design->Code/Execution->Tests->Deployment->**Released Product**->Experimental Design->Observations->Inferences->**Product Priorities**
    3. 
 
