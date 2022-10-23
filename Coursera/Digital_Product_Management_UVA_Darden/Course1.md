@@ -20,7 +20,7 @@ author: "Aman Jindal"
 
 #### 4. The notes below are based on my learnings in Course 1: Digital Product Management: Modern Fundamentals
 
-** *** **
+# ***
 
 ### A. Week1: Tomorrow's Product Manager:
 
