@@ -20,10 +20,10 @@ author: "Aman Jindal"
    3. Before iPod came along, there were several mp3 players that did a decent job. However, iPod solved a critical pain point. Loading music into mp3 players was a painful experience via third-party softwares etc. iPod made that process smooth via iTunes and iTunes store and thus became the market leader.
    4. Go from Scale Friendly to Innovation Friendly. Move from Waterfall structure to Agile structure
 
- #### 4. Product Pipeline:
-
-    1. **Product Priorities**->Continuous Design->Application Development->Continuous Delivery->Released Product>Hypothesis Testing->**Product Priorities**
-    2. More specifically the above process is: **Product Priorities**->Ideas->Design->Code/Execution->Tests->Deployment->**Released Product**->Experimental Design->Observations->Inferences->**Product Priorities**   
+#### 3. Product Pipeline:
+   1. **Product Priorities**->Continuous Design->Application Development->Continuous Delivery->Released Product>Hypothesis Testing->**Product Priorities**
+   2. More specifically the above process is: **Product Priorities**->Ideas->Design->Code/Execution->Tests->Deployment->**Released Product**->Experimental Design->Observations->Inferences->**Product Priorities**
+   3. 
 
 <img src='.//Images/image1.png'/>
 
