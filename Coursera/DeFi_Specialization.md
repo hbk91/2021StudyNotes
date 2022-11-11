@@ -14,7 +14,7 @@ description: "Study Notes by AJ"
    3. <a href='https://www.coursera.org/learn/decentralized-finance-deep-dive-duke?specialization=decentralized-finance-duke' target="_blank"> Decentralized Finance (DeFi) Deep Dive </a>
    4. <a href='https://www.coursera.org/learn/decentralized-finance-opportunities-and-risk-duke?specialization=decentralized-finance-duke' target="_blank"> Decentralized Finance (DeFi) Opportunities and Risks </a>
 
-#### 3. <a href='https://www.amazon.in/DeFi-Future-Finance-Campbell-Harvey/dp/1119836018' target="_blank"> DeFi and the Future of Finance </a> by by Campbell R. Harvey, Ashwin Ramachandran, and Joey Santoro is an excellent book to understand the potential of DeFi
+#### 3. <a href='https://www.amazon.in/DeFi-Future-Finance-Campbell-Harvey/dp/1119836018' target="_blank"> DeFi and the Future of Finance </a> by Campbell R. Harvey, Ashwin Ramachandran, and Joey Santoro is an excellent book to understand the potential of DeFi
 
 #### 4. The following are the major topics discussed in the courses above:
 
@@ -23,11 +23,10 @@ description: "Study Notes by AJ"
 # Course 1: DeFi Infrastructure
 
 ## i. History of DeFi:
-
-### a. What is DeFi?
-### b. The Value of Money
-### c. Centralized Finance (CeFi) and Centralized Decentralized Finance
-### d. Introduction to Cryptocurrency
+a. What is DeFi?
+b. The Value of Money
+c. Centralized Finance (CeFi) and Centralized Decentralized Finance
+d. Introduction to Cryptocurrency
 
 ## ii. DeFi Foundations:
 
