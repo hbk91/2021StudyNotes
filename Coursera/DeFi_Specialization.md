@@ -60,24 +60,24 @@ description: "Study Notes by AJ"
 ## iii. Loans and Swaps:
 
 ### a. Swaps:
-1. Centralized Exchange
-2. Decentralized Exchange
-3. Automated Market Maker Makers: Example: **Constant-function market maker (CFMM)** such as Uniswap
+    1. Centralized Exchange
+    2. Decentralized Exchange
+    3. Automated Market Maker Makers: Example: **Constant-function market maker (CFMM)** such as Uniswap
 
 ### b. Collateralized and Flash Loans:
-1. Collateralized Loans
-2. Flash Loans
+    1. Collateralized Loans
+    2. Flash Loans
 
 ## iv. Joining the World of DeFi:
 
 ### a. MetaMask Wallet
 ### b. Blockchain Tech:
-1. Hashes and Keys
-2. Addresses
-3. Signatures and Transaction Mechanics
-4. Consensus
-5. Incentives, Latency, Data, Computing Power
-6. Cross-chain, Immutability, Oracles, Privacy
+    1. Hashes and Keys
+    2. Addresses
+    3. Signatures and Transaction Mechanics
+    4. Consensus
+    5. Incentives, Latency, Data, Computing Power
+    6. Cross-chain, Immutability, Oracles, Privacy
 
 <hr style="border:.05px solid black">
 
