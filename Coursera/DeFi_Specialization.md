@@ -126,22 +126,20 @@ description: "Study Notes by AJ"
 2. DNS Attack
 3. Oracle Attack
 
-### a. Risks:
+### b. Risks:
 1. DEX (Decentralized Exchange) Attack
 2. Custodial Risk
  
 ## iii. Scaling Risk:
-
-### a. Alternative Consensus
-### b. Vertical and Horizontal Scaling
-### c. Layer2
-### d. Rollups
+    a. Alternative Consensus
+    b. Vertical and Horizontal Scaling
+    c. Layer2
+    d. Rollups
 
 ## iv. Other Risks and Opportunities:
-
-### a. Regulatory Risk
-### b. Environmental Risk
-### c. CBDC (Central Bank Digital Currency) Competition
-### d. Investing in DeFi
+    a. Regulatory Risk
+    b. Environmental Risk
+    c. CBDC (Central Bank Digital Currency) Competition
+    d. Investing in DeFi
 
 <hr style="border:.05px solid black">
