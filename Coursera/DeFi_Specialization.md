@@ -124,16 +124,16 @@ description: "Study Notes by AJ"
    1. DEX (Decentralized Exchange) Attack
    2. Custodial Risk
  
-## c. Scaling Risk:
-    1. Alternative Consensus
-    2. Vertical and Horizontal Scaling
-    3. Layer2
-    4. Rollups
+## iii. Scaling Risk:
+    a. Alternative Consensus
+    b. Vertical and Horizontal Scaling
+    c. Layer2
+    d. Rollups
 
-## d. Other Risks and Opportunities:
-    1. Regulatory Risk
-    2. Environmental Risk
-    3. CBDC (Central Bank Digital Currency) Competition
-    4. Investing in DeFi
+## iv. Other Risks and Opportunities:
+    a. Regulatory Risk
+    b. Environmental Risk
+    c. CBDC (Central Bank Digital Currency) Competition
+    d. Investing in DeFi
 
 <hr style="border:.05px solid black">
