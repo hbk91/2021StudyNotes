@@ -48,16 +48,14 @@ description: "Study Notes by AJ"
 # Course 2: DeFi Primitives
 
 ## i. Mechanics:
-
-### a. Transaction Mechanics 
-### b. Fungible Tokens: ERC-20 Protocol
-### c. Non-Fungible Tokens (NFT): ERC-721 Protocol
+    a. Transaction Mechanics 
+    b. Fungible Tokens: ERC-20 Protocol
+    c. Non-Fungible Tokens (NFT): ERC-721 Protocol
 
 ## ii. Supply and Ownership:
-
-### a. Custody
-### b. Supply Adjustment
-### c. Incentives
+    a. Custody
+    b. Supply Adjustment
+    c. Incentives
  
 ## iii. Loans and Swaps:
 
@@ -86,26 +84,22 @@ description: "Study Notes by AJ"
 # Course 3: DeFi Deep Dive
 
 ## i. Credit and Lending:
-
-### a. MakerDAO
-### b. Compound
-### c. Aave
+    a. MakerDAO
+    b. Compound
+    c. Aave
 
 ## ii. Decentralized Exchanges:
-
-### a. Uniswap
-### b. Balancer and Rehypothecation
+    a. Uniswap
+    b. Balancer and Rehypothecation
  
 ## iii. Derivatives:
-
-### a. Yield Protocol
-### b. dYdX
-### c. Synthetix
+    a. Yield Protocol
+    b. dYdX
+    c. Synthetix
 
 ## iv. Tokenization:
-
-### a. Set Protocol
-### b. Wrapped Bitcoin
+    a. Set Protocol
+    b. Wrapped Bitcoin
 
 <hr style="border:.05px solid black">
 
