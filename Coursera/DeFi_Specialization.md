@@ -29,21 +29,19 @@ description: "Study Notes by AJ"
     d. Introduction to Cryptocurrency
 
 ## ii. DeFi Foundations:
-
-### a. Blockchain
-### b. Hashing
-### c. Cryptocurrency
-### d. Smart Contracts, Gas, Oracles
-### e. Stablecoins
-### f. dApps
+    a. Blockchain
+    b. Hashing
+    c. Cryptocurrency
+    d. Smart Contracts, Gas, Oracles
+    e. Stablecoins
+    f. dApps
  
 ## iii. Problems DeFi solves:
-
-### a. Inefficiency
-### b. Limited Access
-### c. Opacity
-### d. Centralized Control
-### e. Lack of Interoperability
+    a. Inefficiency
+    b. Limited Access
+    c. Opacity
+    d. Centralized Control
+    e. Lack of Interoperability
 
 <hr style="border:.05px solid black">
 
