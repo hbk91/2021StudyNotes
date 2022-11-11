@@ -6,7 +6,7 @@ description: "Study Notes by AJ"
 
 # Introduction:
 
-#### 1. <a href='https://www.coursera.org/specializations/decentralized-finance-duke' target="_blank"> Decentralized Finance (DeFi): The Future of Finance Specialization </a> comprising 4 courses is taught by<a href='https://www.fuqua.duke.edu/faculty/campbell-harvey' target="_blank"> Professor Campbell R. Harvey</a> <a href='https://www.fuqua.duke.edu/' target="_blank">, Duke Fuqua School of Business</a> through Coursera
+#### 1. <a href='https://www.coursera.org/specializations/decentralized-finance-duke' target="_blank"> Decentralized Finance (DeFi): The Future of Finance Specialization </a> comprising 4 courses is taught by<a href='https://www.fuqua.duke.edu/faculty/campbell-harvey' target="_blank"> Professor Campbell R. Harvey,</a> <a href='https://www.fuqua.duke.edu/' target="_blank"> Duke Fuqua School of Business</a> through Coursera
 
 #### 2. The four courses in this specialization are as follows:
    1. <a href='https://www.coursera.org/learn/decentralized-finance-infrastructure-duke?specialization=decentralized-finance-duke' target="_blank"> Decentralized Finance (DeFi) Infrastructure </a>
