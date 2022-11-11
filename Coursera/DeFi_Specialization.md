@@ -23,10 +23,10 @@ description: "Study Notes by AJ"
 # Course 1: DeFi Infrastructure
 
 ## i. History of DeFi:
-a. What is DeFi?
-b. The Value of Money
-c. Centralized Finance (CeFi) and Centralized Decentralized Finance
-d. Introduction to Cryptocurrency
+    a. What is DeFi?
+    b. The Value of Money
+    c. Centralized Finance (CeFi) and Centralized Decentralized Finance
+    d. Introduction to Cryptocurrency
 
 ## ii. DeFi Foundations:
 
