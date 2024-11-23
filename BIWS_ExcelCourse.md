@@ -38,6 +38,14 @@ description: "Study Notes"
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
 - **Navigate Emails:** Use the `j` key to move down and `k` key to move up between emails.
 - **Select Emails:** Press `x` to select an email. Repeat for multiple emails.
-- **Delete Emails:** Once emails are selected, press `#` to delete them.
+  - **Delete Emails:** Once emails are selected, press `#` to delete them.
 - **Focus on the search bar:** `/` (Forward Slash)
- 
+
+## VS Code Shortcuts:
+
+- **Hide/Show Sidebar:** Ctrl+Alt+B
+- **Focus on main Window:** Ctrl+1
+- **Focus on Sidebar:** Ctrl+0
+- **Stage & Commit:** Ctrl+Shift+G
+- **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
+   
