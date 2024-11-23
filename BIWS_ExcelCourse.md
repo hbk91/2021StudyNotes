@@ -13,14 +13,14 @@ description: "Study Notes"
 
 ## Keyboard Shortcuts:
 
-- **Collapse a grouped range:** To collapse an already grouped range of rows: Alt+A+H
 - **Group rows/columns:** Alt+A+G+G
 - **Ungroup rows/columns:** Alt+A+U+U
+- **Collapse a grouped range:** To collapse an already grouped range of rows: Alt+A+H
 - **Expand a already grouped and hidden range:** Alt+A+J
-- **Hide Rows:** Ctrl+9, **Unhide Rows:** Ctrl+Shift+9
-- **Hide Columns:** Ctrl+0, **Unhide Rows:** Ctrl+Shift+0
-- **Zoom In** Ctrl+Alt+"+", **Zoom Out:** Ctrl+Alt+"-"
-- **Add row/column above/to the left of the selected row/column**: Ctrl+"+", **Delete selected row/column:** Ctrl+"-
+- **Hide Rows:** Ctrl+`9`, **Unhide Rows:** Ctrl+Shift+`9`
+- **Hide Columns:** Ctrl+`0`, **Unhide Rows:** Ctrl+Shift+`0`
+- **Zoom In** Ctrl+Alt+`+`, **Zoom Out:** Ctrl+Alt+`-`
+- **Add row/column above/to the left of the selected row/column**: Ctrl+`+`, **Delete selected row/column:** Ctrl+`-`
 - **Zoom to a particular %:** Alt+W+Q;
 - **Page Break:** Alt+P+B+I
 - **Insert Link** (Outlook, Excel, Word, PPT, etc): Ctrl+K
@@ -34,6 +34,6 @@ description: "Study Notes"
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
 - **Navigate Emails:** Use the `j` key to move down and `k` key to move up between emails.
 - **Select Emails:** Press `x` to select an email. Repeat for multiple emails.
-- **Delete Emails:** Once emails are selected, press # to delete them.
-- **Focus on the search bar:** /` (Forward Slash)
+- **Delete Emails:** Once emails are selected, press `#` to delete them.
+- **Focus on the search bar:** `/` (Forward Slash)
  
