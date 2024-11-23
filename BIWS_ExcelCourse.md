@@ -27,7 +27,11 @@ description: "Study Notes"
 
 ##  Functions:
 
-- **Indirect Function:** In this, we can enter a text, and the function will return the cells mentioned by that text 
+- **Indirect Function:** In this, we can enter a text, and the function will return the cells mentioned by that text
+- **Match Function:** Gives the numeric position of an item in a range
+- **Index Function:** Gives the content of the cell at the intersection of a row and a column. Usually the row and column number is figured out from the **Match** function
+- **Array Function:** It is a method to apply a function over a range of cells, instead of just one cell
+- **Transpose:** This function works across multiple rows/columns. For example: Transpose(A1:E5)
 
 ## Chrome Shortcuts:
 
