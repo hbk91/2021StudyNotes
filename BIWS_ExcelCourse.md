@@ -36,3 +36,5 @@ description: "Study Notes"
 - **Select Emails:** Press x to select an email. Repeat for multiple emails.
 - **Delete Emails:** Once emails are selected, press # to delete them.
 - **Focus on the search bar:** / (Forward Slash)
+- Aman
+- Jindal
