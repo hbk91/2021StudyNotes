@@ -11,7 +11,20 @@ description: "Study Notes"
 - **Valuation Multiples:** Usually 1 decimal place for valuation multiples
 - **Percentages:** One decimal place as well - even if the financial figures in the model have 0 decimal places
 
-## Keyboard Shortcuts:
+## Excel Ribbon Dictionary:
+
+- **File:** F
+- **Home:** H
+- **Insert:** N
+- **Data:** A
+- **Formulas:** M
+- **View:** W
+- **Page Layout:** P
+- **Review:** R
+- **FactSet:** S
+- **S&P Capital IQ:** G
+
+## Excel Keyboard Shortcuts:
 
 - **Group rows/columns:** Alt+A+G+G
 - **Ungroup rows/columns:** Alt+A+U+U
@@ -24,8 +37,9 @@ description: "Study Notes"
 - **Zoom to a particular %:** Alt+W+Q;
 - **Page Break:** Alt+P+B+I
 - **Insert Link** (Outlook, Excel, Word, PPT, etc): Ctrl+K
+- **Open a new view of the same Excel File:** Alt+W+N
 
-##  Functions:
+##  Excel Functions:
 
 - **Indirect Function:** In this, we can enter a text, and the function will return the cells mentioned by that text
 - **Match Function:** Gives the numeric position of an item in a range
@@ -50,3 +64,5 @@ description: "Study Notes"
 - **Stage & Commit:** Ctrl+Shift+G
 - **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
 - **Open Keyboard Shortcuts Window:**  Ctrl+K Ctrl+S
+
+
