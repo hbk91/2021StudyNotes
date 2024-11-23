@@ -33,8 +33,7 @@ description: "Study Notes"
 - **Using Indirect, and Match together:** `SUMIFS(INDIRECT("Quarters!$D$"&MATCH($B4,Quarters!$B$1:$B$51,0)&":$T$"&MATCH($B4,Quarters!$B$1:$B$51,0)),Quarters!$D$2:$T$2,"<="&E$2,Quarters!$D$2:$T$2,">"&D$2)`
 - **Array Function:** It is a method to apply a function over a range of cells, instead of just one cell
 - **Transpose:** This function works across multiple rows/columns. For example: Transpose(A1:E5)
-
-
+  
 ## Chrome Shortcuts:
 
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
@@ -50,4 +49,4 @@ description: "Study Notes"
 - **Focus on Sidebar:** Ctrl+0
 - **Stage & Commit:** Ctrl+Shift+G
 - **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
-   
+- **Open Keyboard Shortcuts Window:**  Ctrl+K Ctrl+S
