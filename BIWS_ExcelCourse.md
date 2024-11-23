@@ -18,3 +18,4 @@ description: "Study Notes"
 - **Page Break:** Alt+P+B+I
 - **Insert Link** (Outlook, Excel, Word, PPT, etc): Ctrl+K
 - **Indirect Function:** In this, we can enter a text, and the function will return the cells mentioned by that text 
+- Aman
