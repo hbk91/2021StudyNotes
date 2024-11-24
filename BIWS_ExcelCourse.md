@@ -67,6 +67,14 @@ Volatile functions are those that recompute everytime something changes in the e
 - **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28)), and drag the formula to as many items as in the original column.
 - **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39)), and drag the formula to as many items as in the original row.
 
+## Handy Tips & Tricks Excel:
+
+- Always use `INDEX` and `MATCH`, instead of `CHOOSE` to select scenarios. `CHOOSE` doesn't accept the scenarios as a range in cells, and each scenario needs to be specified individually.
+
+## Circular References:
+
+- They mostly crop up while calculating interest expense/income, and cash balances together. Also while calculating implied share price.
+
 ## Chrome Shortcuts:
 
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
@@ -83,5 +91,4 @@ Volatile functions are those that recompute everytime something changes in the e
 - **Stage & Commit:** Ctrl+Shift+G
 - **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
 - **Open Keyboard Shortcuts Window:**  Ctrl+K Ctrl+S
-
 
