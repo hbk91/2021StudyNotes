@@ -85,6 +85,7 @@ Volatile functions are those that recompute everytime something changes in the e
       - **#REF!** Non-valid cell or range reference
       - **#NAME?** Function not recognized by Excel
       - **#VALUE!** Wrong type of input to function
+      - **#NUM!** Non-valid number in calculation formula
       - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
 
   2. **Not so Common:**
