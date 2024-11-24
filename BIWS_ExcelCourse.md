@@ -38,7 +38,9 @@ description: "Study Notes"
 - **Page Break:** Alt+P+B+I
 - **Insert Link** (Outlook, Excel, Word, PPT, etc): Ctrl+K
 - **Open a new view of the same Excel File:** Alt+W+N
-
+- **Highlight precedent cells:** Ctrl+`[`
+- **Highlight dependent cells:** Ctrl+`]`
+  
 ##  Excel Functions:
 
 - **Missing Optional Arguments in Functions:** Suppose you have three optional arguments in a function, and you need to enter the last two and skip the first optional one. Then you need to enter the default value for the first optional argument (generally 1)
