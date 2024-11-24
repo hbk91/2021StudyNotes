@@ -79,7 +79,7 @@ Volatile functions are those that recompute everytime something changes in the e
 
 ## Excel Error Types:
 
-### Most Common Errors:
+    ### Most Common Errors:
 
 - **#DIV/0!** Divide by zero error
 - **#REF!** Non-valid cell or range reference
@@ -87,7 +87,7 @@ Volatile functions are those that recompute everytime something changes in the e
 - **#VALUE!** Wrong type of input to function
 - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
 
-### Not so common:
+    ### Not so common:
 
 - **#NULL!** Incorrect usage of Space in formulas, such as putting a space instead of a comma, colon in a formula. (Space is an intersection operator in excel, that gives the cells at the intersection of two ranges. Space as an operator is rarely used)
 
