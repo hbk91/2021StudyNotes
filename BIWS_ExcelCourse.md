@@ -58,9 +58,9 @@ description: "Study Notes"
 
 Volatile functions are those that recompute everytime something changes in the excel file
 
-- VLOOKUP
-- HLOOKUP
-- OFFSET
+- **VLOOKUP**
+- **HLOOKUP**
+- **OFFSET**. For offset to be really useful, it has to return the entire range of cells, because Offset has the capability. INDEX and MATCH combo gives the value of only one cell. Syntax: OFFSET(Reference, #rows to shift, #cols to shift, [height of the block required], [width of the block required]). Note: The arguments within [] are optional.
 
 ## Some Simple Excel Tasks:
 
