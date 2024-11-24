@@ -81,22 +81,22 @@ Volatile functions are those that recompute everytime something changes in the e
 
     ### Most Common Errors:
 
-- **#DIV/0!** Divide by zero error
-- **#REF!** Non-valid cell or range reference
-- **#NAME?** Function not recognized by Excel
-- **#VALUE!** Wrong type of input to function
-- **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
+      - **#DIV/0!** Divide by zero error
+      - **#REF!** Non-valid cell or range reference
+      - **#NAME?** Function not recognized by Excel
+      - **#VALUE!** Wrong type of input to function
+      - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
 
-    ### Not so common:
+    ### Not so Common:
 
-- **#NULL!** Incorrect usage of Space in formulas, such as putting a space instead of a comma, colon in a formula. (Space is an intersection operator in excel, that gives the cells at the intersection of two ranges. Space as an operator is rarely used)
+      - **#NULL!** Incorrect usage of Space in formulas, such as putting a space instead of a comma, colon in a formula. (Space is an intersection operator in excel, that gives the cells at the intersection of two ranges. Space as an operator is rarely used)
 
 ## Chrome Shortcuts:
 
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
 - **Navigate Emails:** Use the `j` key to move down and `k` key to move up between emails.
 - **Select Emails:** Press `x` to select an email. Repeat for multiple emails.
-  - **Delete Emails:** Once emails are selected, press `#` to delete them.
+- **Delete Emails:** Once emails are selected, press `#` to delete them.
 - **Focus on the search bar:** `/` (Forward Slash)
 
 ## VS Code Shortcuts:
