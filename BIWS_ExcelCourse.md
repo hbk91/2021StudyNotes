@@ -40,6 +40,7 @@ description: "Study Notes"
 - **Open a new view of the same Excel File:** Alt+W+N
 - **Highlight precedent cells:** Ctrl+`[`
 - **Highlight dependent cells:** Ctrl+`]`
+- 
   
 ##  Excel Functions:
 
