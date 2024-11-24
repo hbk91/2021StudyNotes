@@ -52,6 +52,8 @@ description: "Study Notes"
 
 ## List of Volatile Functions in Excel to avoid:
 
+Volatile functions are those that recompute everytime something changes in the excel file
+
 - VLOOKUP
 - HLOOKUP
 - OFFSET
