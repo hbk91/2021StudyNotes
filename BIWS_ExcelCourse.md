@@ -40,8 +40,8 @@ description: "Study Notes"
 - **Open a new view of the same Excel File:** Alt+W+N
 - **Highlight precedent cells:** Ctrl+`[`
 - **Highlight dependent cells:** Ctrl+`]`
-- 
--  
+- **Trace Direct Precedents and Dependents:** Ctrl+`[` and Ctrl+`]` 
+-  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 
 ##  Excel Functions:
 
@@ -73,8 +73,23 @@ Volatile functions are those that recompute everytime something changes in the e
 
 ## Circular References:
 
-- They mostly crop up while calculating interest expense/income, and cash balances together. Also while calculating implied share price.
-- Create a switch to handle circular references
+- They mostly crop up while calculating interest expense/income, and cash balances together. 
+- Also while calculating implied share price, when the #shares and implied share price are dependent on each other.
+ - Create a switch to handle circular references
+
+## Excel Error Types:
+
+### Most Common Errors:
+
+- **#DIV/0!** Divide by zero error
+- **#REF!** Non-valid cell or range reference
+- **#NAME?** Function not recognized by Excel
+- **#VALUE!** Wrong type of input to function
+- **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
+
+### Not so common:
+
+- **#NULL!** Incorrect usage of Space in formulas, such as putting a space instead of a comma, colon in a formula. (Space is an intersection operator in excel, that gives the cells at the intersection of two ranges. Space as an operator is rarely used)
 
 ## Chrome Shortcuts:
 
