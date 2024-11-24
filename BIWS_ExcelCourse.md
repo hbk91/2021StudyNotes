@@ -64,8 +64,8 @@ Volatile functions are those that recompute everytime something changes in the e
 
 ## Some Simple Excel Tasks:
 
-- **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28)), and drag the formula to as many items as in the original column.
-- **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39)), and drag the formula to as many items as in the original row.
+- **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: `INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28))`, and drag the formula to as many items as in the original column.
+- **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: `INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39))`, and drag the formula to as many items as in the original row.
 
 ## Handy Tips & Tricks Excel:
 
@@ -74,6 +74,7 @@ Volatile functions are those that recompute everytime something changes in the e
 ## Circular References:
 
 - They mostly crop up while calculating interest expense/income, and cash balances together. Also while calculating implied share price.
+- Create a switch to handle circular references
 
 ## Chrome Shortcuts:
 
