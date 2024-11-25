@@ -53,6 +53,8 @@ description: "Study Notes"
 - **Array Function:** It is a method to apply a function over a range of cells, instead of just one cell
 - **Transpose:** This function works across multiple rows/columns. For example: Transpose(A1:E5)
 - **Sortby:** Sort a column, table, row, based on any number of criteria. 
+- **Index & Match:** `Index(Array, Row, Col) => Index(Entire Array, Match(Row Lookup Value, Row Array, 0), Match(Col Lookup Value, Col Array, 0))`
+- **Xlookup:** General Format: `Xlookup(Lookup value, lookup array, return array)`, can easily return entire row/col array apart from lookup value. You can also lookup multiple values, just specify them as a range in the lookup value argument. **As a replacement for Index and Match =>** `Xlookup(Row lookup Value, Row Array, Xlookup(Col lookup value, Col Array, Entire Array))`
 
 ## List of Volatile Functions in Excel to avoid:
 
@@ -92,6 +94,16 @@ Volatile functions are those that recompute everytime something changes in the e
 
       - **#NULL!** Incorrect usage of Space in formulas, such as putting a space instead of a comma, colon in a formula. (Space is an intersection operator in excel, that gives the cells at the intersection of two ranges. Space as an operator is rarely used)
 
+## Sensitivity Tables:
+
+- Input and Output variables must be on the same spreadsheet
+- 
+
+## Solver and Goal Seek:
+
+- For Goal Seek to work, there should be circular references. Remove the circular references. I
+- If you can't find the circular references, disable iterative calculations, and then they will show up marked by blue arrows.
+
 ## Chrome Shortcuts:
 
 - **Enable Keyboard Shortcuts:** Settings > See all settings > General tab > Scroll to Keyboard shortcuts and select Keyboard shortcuts on, save changes
@@ -108,4 +120,3 @@ Volatile functions are those that recompute everytime something changes in the e
 - **Stage & Commit:** Ctrl+Shift+G
 - **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
 - **Open Keyboard Shortcuts Window:**  Ctrl+K Ctrl+S
-
