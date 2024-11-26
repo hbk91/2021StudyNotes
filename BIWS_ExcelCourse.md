@@ -57,7 +57,10 @@ description: "Study Notes"
 - **Index & Match:** `Index(Array, Row, Col) => Index(Entire Array, Match(Row Lookup Value, Row Array, 0), Match(Col Lookup Value, Col Array, 0))`
 - **Xlookup:** General Format: `Xlookup(Lookup value, lookup array, return array)`, can easily return entire row/col array apart from lookup value. You can also lookup multiple values, just specify them as a range in the lookup value argument. **As a replacement for Index and Match =>** `Xlookup(Row lookup Value, Row Array, Xlookup(Col lookup value, Col Array, Entire Array))`
 - **Xlookup Multiple Criteria Search:** `Xlookup(Lookup_Val_1&Lookup_Val_2, Lookup_Val_Array1&Lookup_Val_Array2, Return Array)`
-- **IFS:** `IFS(logical_test1, value_if_true1, [logical_test2, value_if_true2], …)` It evaluates multiple conditions in a sequence and returns a value corresponding to the first condition that is TRUE. There is a workaround of adding a default value to `IFS`. Use the last logical condition as `TRUE`, and then add whatever default value you want. For example, `IFS(A1=2,Apple, A1=5, Banana, TRUE, Orange)` 
+- **IFS:** `IFS(logical_test1, value_if_true1, [logical_test2, value_if_true2], …)` It evaluates multiple conditions in a sequence and returns a value corresponding to the first condition that is TRUE. There is a workaround of adding a default value to `IFS`. Use the last logical condition as `TRUE`, and then add whatever default value you want. For example, `IFS(A1=2,Apple, A1=5, Banana, TRUE, Orange)`
+- **COUNT:** All non-blank cells **with numbers**
+- **COUNTA:** All non-blank cells
+
 ## List of Volatile Functions in Excel to avoid:
 
 - Volatile functions are those that recompute everytime something changes in the excel file
