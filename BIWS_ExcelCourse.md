@@ -60,7 +60,7 @@ description: "Study Notes"
 
 ## List of Volatile Functions in Excel to avoid:
 
-Volatile functions are those that recompute everytime something changes in the excel file
+### Volatile functions are those that recompute everytime something changes in the excel file
 
 - **VLOOKUP**
 - **VLOOKUP multiple columns:** `VLOOKUP(B4,$B$2:$E$17,{2,3,4},FALSE)`. Alternatively, just use **XLOOKUP** as `XLOOKUP(B6,B3:B17,C3:E17)` . For backward compatibility, with older Excels, we use the `@` symbol, such as, `VLOOKUP(B4,$B$2:$E$17,@{2,3,4},FALSE)`. However, this addition of `@` will only yield the `2` column, that is the first argument in the argument list within `{}` 
