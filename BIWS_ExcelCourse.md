@@ -68,15 +68,13 @@ description: "Study Notes"
 - **VLOOKUP multiple columns:** `VLOOKUP(B4,$B$2:$E$17,{2,3,4},FALSE)`. Alternatively, just use **XLOOKUP** as `XLOOKUP(B6,B3:B17,C3:E17)` . For backward compatibility, with older Excels, we use the `@` symbol, such as, `VLOOKUP(B4,$B$2:$E$17,@{2,3,4},FALSE)`. However, this addition of `@` will only yield the `2` column, that is the first argument in the argument list within `{}` 
 - **HLOOKUP**
 - **OFFSET**. For offset to be really useful, it has to return the entire range of cells, because Offset has the capability. INDEX and MATCH combo gives the value of only one cell. Syntax: OFFSET(Reference, #rows to shift, #cols to shift, [height of the block required], [width of the block required]). Note: The arguments within [] are optional.
-
-## Some Simple Excel Tasks:
-
-- **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: `INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28))`, and drag the formula to as many items as in the original column.
-- **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: `INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39))`, and drag the formula to as many items as in the original row.
  
-## Handy Tips & Tricks Excel:
+## Excel tricks, behaviors:
 
 - Always use `INDEX` and `MATCH`, instead of `CHOOSE` to select scenarios. `CHOOSE` doesn't accept the scenarios as a range in cells, and each scenario needs to be specified individually.
+- Anything in double quotes, Excel assumes it is hard-coded.
+- **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: `INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28))`, and drag the formula to as many items as in the original column.
+- **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: `INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39))`, and drag the formula to as many items as in the original row.
 
 ## New Dynamic Array Functions introduced by Microsoft:
 
@@ -97,6 +95,10 @@ description: "Study Notes"
 - Also while calculating implied share price, when the #shares and implied share price are dependent on each other.
 - Create a switch to handle circular references
 
+## Data Tables:
+
+- They are very helpful in data analysis, but not so much in pure financial modelling.
+
 ## Excel Error Types:
 
   1. **Most Common Errors:**
@@ -106,7 +108,7 @@ description: "Study Notes"
       - **#NAME?** Function not recognized by Excel
       - **#VALUE!** Wrong type of input to function
       - **#NUM!** Non-valid number in calculation formula
-      - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
+      - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions <br>
 
   2. **Not so Common:**
 
