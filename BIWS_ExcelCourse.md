@@ -43,7 +43,14 @@ description: "Study Notes"
 - **Trace Direct Precedents and Dependents:** Ctrl+`[` and Ctrl+`]` 
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 -  **Name Manager:** Ctrl+F3,  or Alt+M+N
-  
+
+## Excel Logical Conditions: 
+
+- **IF:** Returns true values for all conditions that evaluate to non-zero
+- **OR Condition:** `+`  IF((Q:Q="Apple")+(S:S="Banana"),R:R,""), will give all rows in R, where Q has Apple or S has Banana 
+- **AND Condition:** `*` IF((Q:Q="Apple")*(S:S="Banana"),R:R,""), will give all rows in R, where Q has Apple and S has Banana
+- **NOT Condition:** `-` IF((Q:Q="Apple")-(S:S="Banana")=0,R:R,""), will give all rows in R, where Q has Apple and S doesn't has a Banana. If we don't put a zero in the condition, it would return values where S has a banana, and Q doesn't have an Apple, because the condition will become -1 in that case, and **IF returns a true for all non-zero values**. Such an issue doesn't arise in OR or AND, and hence we skipped it over there.
+
 ##  Excel Functions:
 
 - **Missing Optional Arguments in Functions:** Suppose you have three optional arguments in a function, and you need to enter the last two and skip the first optional one. Then you need to enter the default value for the first optional argument (generally 1)
@@ -117,7 +124,14 @@ description: "Study Notes"
 ## Sensitivity Tables:
 
 - Input and Output variables must be on the same spreadsheet
-  
+- **Alt+A+W+T**. This option is under Data and then What if analysis. This option is called Data Table (but actually these are sensitivity tables). Mind the difference from the Data Table described below.
+
+## Data Tables:
+ 
+- **You can create Data Tables, via Alt+H+T.** It will apply some sort of formatting by default. If you wish, **remove the formatting via, Alt+JT+S+C.**
+- Data Tables create a structured table, out of your data stored as a table. Then you can refer to these tables by their names, and column names elsewhere.
+- Other benefits include, **automatic totals/average/count/etc.** in the last row via **Ctrl+Shift+T**. Filtering/sorting etc. is much easier.
+
 ## Solver and Goal Seek:
 
 - For Goal Seek to work, there should be circular references. Remove the circular references. I
