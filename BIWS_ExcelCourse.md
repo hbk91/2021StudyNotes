@@ -42,7 +42,8 @@ description: "Study Notes"
 - **Highlight dependent cells:** Ctrl+`]`
 - **Trace Direct Precedents and Dependents:** Ctrl+`[` and Ctrl+`]` 
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
-
+-  **Name Manager:** Ctrl+F3,  or Alt+M+N
+  
 ##  Excel Functions:
 
 - **Missing Optional Arguments in Functions:** Suppose you have three optional arguments in a function, and you need to enter the last two and skip the first optional one. Then you need to enter the default value for the first optional argument (generally 1)
@@ -62,6 +63,7 @@ description: "Study Notes"
 Volatile functions are those that recompute everytime something changes in the excel file
 
 - **VLOOKUP**
+- **VLOOKUP multiple columns:** `VLOOKUP(B4,$B$2:$E$17,{2,3,4},FALSE)`. Alternatively, just use **XLOOKUP** as `XLOOKUP(B6,B3:B17,C3:E17)` . For backward compatibility, with older Excels, we use the `@` symbol, such as, `VLOOKUP(B4,$B$2:$E$17,@{2,3,4},FALSE)`. However, this addition of `@` will only yield the `2` column, that is the first argument in the argument list within `{}` 
 - **HLOOKUP**
 - **OFFSET**. For offset to be really useful, it has to return the entire range of cells, because Offset has the capability. INDEX and MATCH combo gives the value of only one cell. Syntax: OFFSET(Reference, #rows to shift, #cols to shift, [height of the block required], [width of the block required]). Note: The arguments within [] are optional.
 
@@ -69,16 +71,27 @@ Volatile functions are those that recompute everytime something changes in the e
 
 - **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: `INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28))`, and drag the formula to as many items as in the original column.
 - **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: `INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39))`, and drag the formula to as many items as in the original row.
-
+ 
 ## Handy Tips & Tricks Excel:
 
 - Always use `INDEX` and `MATCH`, instead of `CHOOSE` to select scenarios. `CHOOSE` doesn't accept the scenarios as a range in cells, and each scenario needs to be specified individually.
+
+## New Dynamic Array Functions introduced by Microsoft:
+
+- **FILTER:** Example: FILTER(A1:B3, (B1:B3 > 85) * (A1:A3 <> "Bob"), "No Results"). Use logical operators (**+ for OR, * for AND**) to combine multiple conditions.
+- SORTBY
+- SORT
+- XLOOKUP
+- XMATCH
+- UNIQUE
+- SEQUENCE
+- RANDARRAY
 
 ## Circular References:
 
 - They mostly crop up while calculating interest expense/income, and cash balances together. 
 - Also while calculating implied share price, when the #shares and implied share price are dependent on each other.
- - Create a switch to handle circular references
+- Create a switch to handle circular references
 
 ## Excel Error Types:
 
@@ -98,8 +111,7 @@ Volatile functions are those that recompute everytime something changes in the e
 ## Sensitivity Tables:
 
 - Input and Output variables must be on the same spreadsheet
-- 
-
+  
 ## Solver and Goal Seek:
 
 - For Goal Seek to work, there should be circular references. Remove the circular references. I
