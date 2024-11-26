@@ -60,7 +60,7 @@ description: "Study Notes"
 
 ## List of Volatile Functions in Excel to avoid:
 
-### Volatile functions are those that recompute everytime something changes in the excel file
+###  Volatile functions are those that recompute everytime something changes in the excel file
 
 - **VLOOKUP**
 - **VLOOKUP multiple columns:** `VLOOKUP(B4,$B$2:$E$17,{2,3,4},FALSE)`. Alternatively, just use **XLOOKUP** as `XLOOKUP(B6,B3:B17,C3:E17)` . For backward compatibility, with older Excels, we use the `@` symbol, such as, `VLOOKUP(B4,$B$2:$E$17,@{2,3,4},FALSE)`. However, this addition of `@` will only yield the `2` column, that is the first argument in the argument list within `{}` 
@@ -77,6 +77,8 @@ description: "Study Notes"
 - Always use `INDEX` and `MATCH`, instead of `CHOOSE` to select scenarios. `CHOOSE` doesn't accept the scenarios as a range in cells, and each scenario needs to be specified individually.
 
 ## New Dynamic Array Functions introduced by Microsoft:
+
+### You can reference the unknown ending point of ranges using the `#` symbol. For example: `N3:#`, if you don't know where the ending point is in column `N`
 
 - **FILTER:** Example: FILTER(A1:B3, (B1:B3 > 85) * (A1:A3 <> "Bob"), "No Results"). Use logical operators (**+ for OR, * for AND**) to combine multiple conditions.
 - SORTBY
