@@ -57,11 +57,10 @@ description: "Study Notes"
 - **Index & Match:** `Index(Array, Row, Col) => Index(Entire Array, Match(Row Lookup Value, Row Array, 0), Match(Col Lookup Value, Col Array, 0))`
 - **Xlookup:** General Format: `Xlookup(Lookup value, lookup array, return array)`, can easily return entire row/col array apart from lookup value. You can also lookup multiple values, just specify them as a range in the lookup value argument. **As a replacement for Index and Match =>** `Xlookup(Row lookup Value, Row Array, Xlookup(Col lookup value, Col Array, Entire Array))`
 - **Xlookup Multiple Criteria Search:** `Xlookup(Lookup_Val_1&Lookup_Val_2, Lookup_Val_Array1&Lookup_Val_Array2, Return Array)`
-
+- **IFS:** `IFS(logical_test1, value_if_true1, [logical_test2, value_if_true2], …)` It evaluates multiple conditions in a sequence and returns a value corresponding to the first condition that is TRUE. There is a workaround of adding a default value to `IFS`. Use the last logical condition as `TRUE`, and then add whatever default value you want. For example, `IFS(A1=2,Apple, A1=5, Banana, TRUE, Orange)` 
 ## List of Volatile Functions in Excel to avoid:
 
-###  Volatile functions are those that recompute everytime something changes in the excel file
-
+- Volatile functions are those that recompute everytime something changes in the excel file
 - **VLOOKUP**
 - **VLOOKUP multiple columns:** `VLOOKUP(B4,$B$2:$E$17,{2,3,4},FALSE)`. Alternatively, just use **XLOOKUP** as `XLOOKUP(B6,B3:B17,C3:E17)` . For backward compatibility, with older Excels, we use the `@` symbol, such as, `VLOOKUP(B4,$B$2:$E$17,@{2,3,4},FALSE)`. However, this addition of `@` will only yield the `2` column, that is the first argument in the argument list within `{}` 
 - **HLOOKUP**
@@ -78,8 +77,8 @@ description: "Study Notes"
 
 ## New Dynamic Array Functions introduced by Microsoft:
 
-### You can reference the unknown ending point of ranges using the `#` symbol. For example: `N3:#`, if you don't know where the ending point is in column `N`
-
+- You can reference the unknown ending point of ranges using the `#` symbol. For example: `N3:#`, if you don't know where the ending point is in column `N`
+- However, results of dynamic functions create issues with conditional formatting, charts, and graphs.  
 - **FILTER:** Example: FILTER(A1:B3, (B1:B3 > 85) * (A1:A3 <> "Bob"), "No Results"). Use logical operators (**+ for OR, * for AND**) to combine multiple conditions.
 - SORTBY
 - SORT
