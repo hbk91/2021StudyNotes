@@ -43,6 +43,7 @@ description: "Study Notes"
 - **Trace Direct Precedents and Dependents:** Ctrl+`[` and Ctrl+`]` 
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 -  **Name Manager:** Ctrl+F3,  or Alt+M+N
+-  **New Line while entering text in a cell:** Alt+Enter
 
 ## Excel Logical Conditions: 
 
@@ -67,6 +68,9 @@ description: "Study Notes"
 - **IFS:** `IFS(logical_test1, value_if_true1, [logical_test2, value_if_true2], …)` It evaluates multiple conditions in a sequence and returns a value corresponding to the first condition that is TRUE. There is a workaround of adding a default value to `IFS`. Use the last logical condition as `TRUE`, and then add whatever default value you want. For example, `IFS(A1=2,Apple, A1=5, Banana, TRUE, Orange)`
 - **COUNT:** All non-blank cells **with numbers**
 - **COUNTA:** All non-blank cells
+- **EDATE:** Extends a date by the number of months specified. `EDATE(Start Date, #Months)`. Months can be negative as well.
+- **EOMONTH:** Outputs the last date of the month a date is extended to. `EOMONTH(Start Date, #Months)`. Months can be negative as well.
+- **DATE:** `DATE(YEAR, MONTH, DATE)`
 
 ## List of Volatile Functions in Excel to avoid:
 
@@ -82,6 +86,8 @@ description: "Study Notes"
 - Anything in double quotes, Excel assumes it is hard-coded.
 - **Reversing a column:** Suppose the column is in AM24:AM29. Use the following trick: `INDEX($AM$24:$AM$28,ROWS($AM24:$AM$28))`, and drag the formula to as many items as in the original column.
 - **Reversing a row:** Suppose the column is in AN39:AS39. Use the following trick: `INDEX($AN$39:$AR$39,1,COLUMNS(AN$39:$AR$39))`, and drag the formula to as many items as in the original row.
+- **Creating a Date/Finding a year out of dates in a column:** `DATE(YEAR(MIN(Order_Table[Order Date])),1,1)`
+- **Converting Text to Numbers:** **Enter 1 in a separate cell.** Then **Paste as special**, in all the columns where you wish to change text to numbers. While Pasting Special **choose the option Multiply**. The same can also be achieved by adding 0. Excel does't have a dedicated option in the ribbon for this. However, we can trick excel into doing this, via this trick. **Alternatively, do a Value(A1), in a separate cell, then paste as values in cell A1.**
 
 ## New Dynamic Array Functions introduced by Microsoft:
 
@@ -115,7 +121,8 @@ description: "Study Notes"
       - **#NAME?** Function not recognized by Excel
       - **#VALUE!** Wrong type of input to function
       - **#NUM!** Non-valid number in calculation formula
-      - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions <br>
+      - **#N/A** Cannot find match for value with lookup function; if reference range are not of the same size in array functions
+<br>
 
   2. **Not so Common:**
 
@@ -131,11 +138,16 @@ description: "Study Notes"
 - **You can create Data Tables, via Alt+H+T.** It will apply some sort of formatting by default. If you wish, **remove the formatting via, Alt+JT+S+C.**
 - Data Tables create a structured table, out of your data stored as a table. Then you can refer to these tables by their names, and column names elsewhere.
 - Other benefits include, **automatic totals/average/count/etc.** in the last row via **Ctrl+Shift+T**. Filtering/sorting etc. is much easier.
+- **Data Table Referencing:** Data_Table_Name[Column_Name]
 
 ## Solver and Goal Seek:
 
 - For Goal Seek to work, there should be circular references. Remove the circular references. I
 - If you can't find the circular references, disable iterative calculations, and then they will show up marked by blue arrows.
+
+## Database Functions:
+
+- **DSUM:** DSUM(Database, Field, Criteria)
 
 ## Chrome Shortcuts:
 
@@ -153,3 +165,7 @@ description: "Study Notes"
 - **Stage & Commit:** Ctrl+Shift+G
 - **Push to Git:** Open Command Pallete by Ctrl+Shift+P, then search `Push`
 - **Open Keyboard Shortcuts Window:**  Ctrl+K Ctrl+S
+
+## Windows Shortcuts:
+
+- **Auto adjust the display width of all file Names in a Folder** Ctrl+`+` (Numeric Pad one). Regular one doesn't work. For Laptop => Find how to do it
