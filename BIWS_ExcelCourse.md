@@ -26,6 +26,7 @@ description: "Study Notes"
 
 ## Excel Keyboard Shortcuts:
 
+  **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
 - **Group rows/columns:** Alt+A+G+G
 - **Ungroup rows/columns:** Alt+A+U+U
 - **Collapse a grouped range:** To collapse an already grouped range of rows: Alt+A+H
@@ -147,7 +148,13 @@ description: "Study Notes"
 
 ## Database Functions:
 
-- **DSUM:** DSUM(Database, Field, Criteria)
+- **DSUM:** DSUM(Database, Field, Criteria). 
+  - **Database** is your Data Table (select everything including the headers). 
+  - **Field** is the column that you want to operate upon. 
+  - **Criteria** is the combination of other column values for which you want the total of the field column (It is entered along with the column names). 
+    - The Criteria column names should be entered in the same order as they appear in the Database. However, you can skip columns if they aren't required. 
+    - Further, you can add the same column more than once, if you have multiple conditions based on that column. 
+    - For example, if the Date should be less than Aug 1, 2024 and greater than July 1, 2024, then you can add two columns for dates.  
 
 ## Chrome Shortcuts:
 
