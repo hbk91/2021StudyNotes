@@ -1,5 +1,5 @@
 ---
-title: "BIWS Excel & VBA Course"
+title: "Excel, VBA, & Others"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
@@ -51,6 +51,9 @@ description: "Study Notes"
 
 
 ## Capital IQ Shortcuts:
+
+
+## PitchBook Shortcuts:
 
 
 ## Excel Logical Conditions: 
