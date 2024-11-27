@@ -26,7 +26,7 @@ description: "Study Notes"
 
 ## Excel Keyboard Shortcuts:
 
-  **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
+- **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
 - **Group rows/columns:** Alt+A+G+G
 - **Ungroup rows/columns:** Alt+A+U+U
 - **Collapse a grouped range:** To collapse an already grouped range of rows: Alt+A+H
@@ -45,6 +45,13 @@ description: "Study Notes"
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 -  **Name Manager:** Ctrl+F3,  or Alt+M+N
 -  **New Line while entering text in a cell:** Alt+Enter
+-  
+
+## FactSet Shortcuts:
+
+
+## Capital IQ Shortcuts:
+
 
 ## Excel Logical Conditions: 
 
