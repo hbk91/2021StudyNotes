@@ -4,6 +4,11 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
+## Burning Questions (figure out solutions):
+
+- How to apply formatting to only first row of a Pivot Table? For example: if I am showing dollar values in my Pivot Table, how to show the dollar sign only in the first row?
+- How to move focus to the formula bar while editing a cell, using the keyboard?
+
 ## Formatting:
 
 - **Display Share Prices and EPS:** upto two decimal places, because that's how they are displayed by convention
@@ -23,7 +28,7 @@ description: "Study Notes"
 - **Review:** R
 - **FactSet:** S
 - **S&P Capital IQ:** G
-
+    
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
@@ -156,6 +161,14 @@ description: "Study Notes"
 - For Goal Seek to work, there should be circular references. Remove the circular references. I
 - If you can't find the circular references, disable iterative calculations, and then they will show up marked by blue arrows.
 
+##  Pivot Tables:
+
+- They are composed of four building blocks:
+  - **Columns:** Here you can put any of your categories (Ex: Region, Geographies) in which you want to summarize the data
+  - **Rows:** Similar to columns. Rows and Columns give you a 2-D breakdown of your data. You can add sub-fields too within rows and columns
+  - **Values:** This is the column whose summary (Sum, Count, Average) you wish to see in the table (example: Sales, Orders)
+  - **Filters:** This is at a macro level, above the Pivot table itself, to filter the entire data for one or more values of a column. For example: You want your table to show the sales figures of only Northeast region, broken down by Industry, and Years. Then, you can put a FILTER for region, and select Northeast. In COLUMN you can put Industries, in ROWS you can put Order Dates, and in VALUES you can select Sales.
+
 ## Database Functions:
 
 - **DSUM:** DSUM(Database, Field, Criteria). 
@@ -163,8 +176,10 @@ description: "Study Notes"
   - **Field** is the column that you want to operate upon. While entering it in the formula, we only need to enter the header (column name). If you select the entire column, it will result in a #Value error. 
   - **Criteria** is the combination of other column values for which you want the total of the field column (It is entered along with the column names). 
     - The Criteria column names should be entered in the same order as they appear in the Database. However, you can skip columns if they aren't required. 
-    - Further, you can add the same column more than once, if you have multiple conditions based on that column. 
+    - Further, you can add the same column more than once, if you have multiple conditions based on that column. Only one condition can be entered in one column. 
     - For example, if the Date should be less than Aug 1, 2024 and greater than July 1, 2024, then you can add two columns for dates.  
+    - You can have multiple rows of criteria. All the conditions in one row are joined by `AND`. Rows are joined by `OR`.
+    - Do not include blank rows in criteria. Excel would interpret that as no criteria, and since rows are joined by `OR`, you will get the sum/etc. of the entire Field column.
 
 ## Chrome Shortcuts:
 
