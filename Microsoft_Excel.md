@@ -160,7 +160,7 @@ description: "Study Notes"
 
 - **DSUM:** DSUM(Database, Field, Criteria). 
   - **Database** is your Data Table (select everything including the headers). 
-  - **Field** is the column that you want to operate upon. 
+  - **Field** is the column that you want to operate upon. While entering it in the formula, we only need to enter the header (column name). If you select the entire column, it will result in a #Value error. 
   - **Criteria** is the combination of other column values for which you want the total of the field column (It is entered along with the column names). 
     - The Criteria column names should be entered in the same order as they appear in the Database. However, you can skip columns if they aren't required. 
     - Further, you can add the same column more than once, if you have multiple conditions based on that column. 
