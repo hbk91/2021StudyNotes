@@ -30,7 +30,7 @@ description: "Study Notes"
 
 ## F1 to F12 and Shift Shortcuts Master Table:
 
- **F1 to F12**         | **Shift + F1 to F12**                                     |
+| **F1 to F12**         | **Shift + F1 to F12**                                     |
 |------------------------|----------------------------------------------------------|
 | **F1**: Opens **Help** | **Shift + F1**: Displays **What’s This?** descriptions   |
 | **F2**: Edit cell      | **Shift + F2**: Add/Edit **Comment/Note**                |
