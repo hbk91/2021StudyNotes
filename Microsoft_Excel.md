@@ -162,6 +162,7 @@ description: "Study Notes"
   - **Rows:** Similar to columns. Rows and Columns give you a 2-D breakdown of your data. You can add sub-fields too within rows and columns
   - **Values:** This is the column whose summary (Sum, Count, Average) you wish to see in the table (example: Sales, Orders)
   - **Filters:** This is at a macro level, above the Pivot table itself, to filter the entire data for one or more values of a column. For example: You want your table to show the sales figures of only Northeast region, broken down by Industry, and Years. Then, you can put a FILTER for region, and select Northeast. In COLUMN you can put Industries, in ROWS you can put Order Dates, and in VALUES you can select Sales.
+  - **Calculated Fields:** You can add a calculated column, in your Pivot Table, based on the columns in your data. `Alt+JT+J+F`. For example, difference between two columns such as sales and commissions to yield, net sales. However, the summary statistic that will be presented in the main table for calculated fields will only be SUM, and not anything else. **Best advice, avoid them, and add a column in your underlying table for whatever you are trying to do.**
 
 ## Data Tables:
  
@@ -173,13 +174,14 @@ description: "Study Notes"
 ## Data Table Relationships / Excel's Internal Data Model:
 
 - **Overview:** If you have multiple Data Tables, then we can define relationships between them. By relationship, I mean that one table has one column that has unique values (such as name of states and the region to which each belongs), while the other table has a column that repeatedly uses the names of those states (such as a table containing record of sales in different states). Now, we don't need to ~~VLOOKUP~~/Index-Match, region from the Regions data-table to the Sales data-table. We can define the relationship between them using the State column in both the tables. **Such relationships only work if one of the data-table has unique values.**
-- **How to do:** Alt+A+DM+A, then you can define the relationship.
-- **Excel's Internal Data Model:** The relationships above get stored in Excel's Internal Data Model. We can excess the Internal Data Model via, Alt+A+DM. If we have a very large dataset running into millions of rows, then we can't get that into a spreadsheet. We need to load that directly into the Internal Data Model.
+- **How to do:** `Alt+A+DM+A`, then you can define the relationship.
+- **Excel's Internal Data Model:** The relationships above get stored in Excel's Internal Data Model. We can excess the Internal Data Model via, `Alt+A+DM`. If we have a very large dataset running into millions of rows, then we can't get that into a spreadsheet. We need to load that directly into the Internal Data Model.
 
 ## Power Pivots:
 
 - **Create Power Pivots via Alt+N+V+D** These are more powerful versions of Pivot Tables. We can build them using columns from different tables, provided the relationships between different tables have been defined as explained in the Data Table Relationships section above. 
-
+- **What are Calculations in Power Pivots:**
+- **What are Measures in Power Pivots:**
 
 ## Database Functions:
 
