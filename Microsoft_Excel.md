@@ -180,8 +180,8 @@ description: "Study Notes"
 ## Power Pivots:
 
 - **Create Power Pivots via Alt+N+V+D** These are more powerful versions of Pivot Tables. We can build them using columns from different tables, provided the relationships between different tables have been defined as explained in the Data Table Relationships section above. 
-- **What are Calculations in Power Pivots:**
-- **What are Measures in Power Pivots:**
+- **Calculated Columns:** We can create customized new columns from other columns. We can also use them as rows or columns in the Power Pivots.
+- **What are Measures in Power Pivots:** These are measures that summarize the data, such as sum, count. The difference in **Power Pivots** is that we can create our own customized measures (**Explicit Measures**). In standard **Pivot Tables**, we are restricted to the measures (**Implicit Measures**) provided by Excel. Some examples: SUMX, AVERAGEX, MAXX, MINX, RANKX, COUNTX, CALCULATE(<Expression>, <Filter 1>, <Filter 2>, …).
 
 ## Database Functions:
 
