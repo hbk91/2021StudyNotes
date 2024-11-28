@@ -63,6 +63,23 @@ description: "Study Notes"
 | **F11**: Creates new chart sheet | **Alt + F11**: Opens the VBA editor            |
 | **F12**: Opens **Save As** dialog | **Alt + F12**: (No default action)            |
 
+## Ctrl & F1-F12 Shortcuts Master Table:
+
+| **F1 to F12**         | **Ctrl + F1 to F12**                                      |
+|------------------------|----------------------------------------------------------|
+| **F1**: Opens **Help** | **Ctrl + F1**: Toggles the display of the Ribbon          |
+| **F2**: Edit cell      | **Ctrl + F2**: Opens the **Print Preview** page          |
+| **F3**: Paste Name     | **Ctrl + F3**: Opens the **Name Manager** dialog box     |
+| **F4**: Repeat action  | **Ctrl + F4**: Closes the active workbook                |
+| **F5**: Opens **Go To**| **Ctrl + F5**: Restores the size of the workbook window  |
+| **F6**: Cycle focus    | **Ctrl + F6**: Switches to the next workbook window      |
+| **F7**: Opens **Spelling** dialog | **Ctrl + F7**: Opens the **Move Window** command |
+| **F8**: Extend selection mode | **Ctrl + F8**: Opens the **Resize Window** command  |
+| **F9**: Calculate all  | **Ctrl + F9**: Minimizes the workbook window             |
+| **F10**: Activates Ribbon KeyTips | **Ctrl + F10**: Toggles maximize/restore size   |
+| **F11**: Creates new chart sheet | **Ctrl + F11**: Inserts a new **macro sheet**   |
+| **F12**: Opens **Save As** dialog | **Ctrl + F12**: Opens the **Open File** dialog  |
+
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
