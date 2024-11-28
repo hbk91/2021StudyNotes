@@ -27,6 +27,23 @@ description: "Study Notes"
 - **Review:** R
 - **FactSet:** S
 - **S&P Capital IQ:** G
+
+## F1 to F12 and Shift Shortcuts Master Table:
+
+ **F1 to F12**         | **Shift + F1 to F12**                                     |
+|------------------------|----------------------------------------------------------|
+| **F1**: Opens **Help** | **Shift + F1**: Displays **What’s This?** descriptions   |
+| **F2**: Edit cell      | **Shift + F2**: Add/Edit **Comment/Note**                |
+| **F3**: Paste Name     | **Shift + F3**: Opens **Insert Function** dialog         |
+| **F4**: Repeat action  | **Shift + F4**: Find next occurrence                     |
+| **F5**: Opens **Go To**| **Shift + F5**: Opens **Find and Replace** (Find tab)    |
+| **F6**: Cycle focus    | **Shift + F6**: Cycle focus (reverse)                    |
+| **F7**: Opens **Spelling** dialog | **Shift + F7**: Opens **Thesaurus** (older versions) |
+| **F8**: Extend selection mode | **Shift + F8**: Add non-adjacent selection         |
+| **F9**: Calculate all  | **Shift + F9**: Calculate active worksheet               |
+| **F10**: Activates Ribbon KeyTips | **Shift + F10**: Opens **Context Menu**       |
+| **F11**: Creates new chart sheet | **Shift + F11**: Inserts new worksheet         |
+| **F12**: Opens **Save As** dialog | **Shift + F12**: Saves the workbook           |
     
 ## Excel Keyboard Shortcuts:
 
