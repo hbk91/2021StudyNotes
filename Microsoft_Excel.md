@@ -232,8 +232,9 @@ description: "Study Notes"
 
 - **Create Power Pivots via Alt+N+V+D** These are more powerful versions of Pivot Tables. We can build them using columns from different tables, provided the relationships between different tables have been defined as explained in the Data Table Relationships section above. 
 - **Calculated Columns:** We can create customized new columns from other columns. We can also use them as rows or columns in the Power Pivots.
-- **What are Measures in Power Pivots:** These are measures that summarize the data, such as sum, count. The difference in **Power Pivots** is that we can create our own customized measures (**Explicit Measures**). In standard **Pivot Tables**, we are restricted to the measures (**Implicit Measures**) provided by Excel. 
+- **What are Measures in Power Pivots:** These are measures that summarize the data, such as sum, count. The difference in **Power Pivots** is that we can create our own customized measures (**Explicit Measures**). In standard **Pivot Tables**, we are restricted to the measures (**Implicit Measures**) provided by Excel.  To create an Explicit Measure (Power Pivot -> Measures)
 - **Examples of Functions:** SUMX, AVERAGEX, MAXX, MINX, RANKX, COUNTX, CALCULATE(<Expression>, <Filter 1>, <Filter 2>, …), FILTER(<Table>, <Filter Expression>), ALL(<Table>), RELATED(<Column Name>)
+- **KPIs (Key Performance Indicators):** We can define these in Power Pivots. Values can be checked against, the KPIs, to display visual indicators that if values have met the KPIs. You need **Explicit Measures** for KPIs. Implicit measures won't work. First, define Explicit Measures, and then use them via (Power Pivot -> KPIs)
 
 ## Database Functions:
 
