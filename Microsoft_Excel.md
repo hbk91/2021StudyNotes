@@ -6,8 +6,7 @@ description: "Study Notes"
 
 ## Burning Questions (figure out solutions):
 
-- How to apply formatting to only first row of a Pivot Table? For example: if I am showing dollar values in my Pivot Table, how to show the dollar sign only in the first row?
-- How to move focus to the formula bar while editing a cell, using the keyboard?
+ How to move focus to the formula bar while editing a cell, using the keyboard?
 
 ## Formatting:
 
@@ -181,7 +180,8 @@ description: "Study Notes"
 
 - **Create Power Pivots via Alt+N+V+D** These are more powerful versions of Pivot Tables. We can build them using columns from different tables, provided the relationships between different tables have been defined as explained in the Data Table Relationships section above. 
 - **Calculated Columns:** We can create customized new columns from other columns. We can also use them as rows or columns in the Power Pivots.
-- **What are Measures in Power Pivots:** These are measures that summarize the data, such as sum, count. The difference in **Power Pivots** is that we can create our own customized measures (**Explicit Measures**). In standard **Pivot Tables**, we are restricted to the measures (**Implicit Measures**) provided by Excel. Some examples: SUMX, AVERAGEX, MAXX, MINX, RANKX, COUNTX, CALCULATE(<Expression>, <Filter 1>, <Filter 2>, …).
+- **What are Measures in Power Pivots:** These are measures that summarize the data, such as sum, count. The difference in **Power Pivots** is that we can create our own customized measures (**Explicit Measures**). In standard **Pivot Tables**, we are restricted to the measures (**Implicit Measures**) provided by Excel. 
+- **Examples of Functions:** SUMX, AVERAGEX, MAXX, MINX, RANKX, COUNTX, CALCULATE(<Expression>, <Filter 1>, <Filter 2>, …), FILTER(<Table>, <Filter Expression>), ALL(<Table>), RELATED(<Column Name>)
 
 ## Database Functions:
 
