@@ -50,8 +50,8 @@ description: "Study Notes"
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 -  **Name Manager:** Ctrl+F3,  or Alt+M+N
 -  **New Line while entering text in a cell:** Alt+Enter
--  **Expand all groupings in a Pivot Table:** Alt+A+J
--  **Collapse all groupings in a Pivot Table:** Alt+A+L
+-  **Expand groupings in a Pivot Table:** **Expand All:** groupings: Alt+A+J, or Alt+JT+X. **Expand Individually:** press Shift+F10 (Right click), and then E (Expand/Collapse), and choose whichever option you want
+-  **Collapse groupings in a Pivot Table:** **Collapse All:** Alt+A+L or Alt+JT+P. **Collapse Individually:** press Shift+F10 (Right click), and then E (Expand/Collapse), and choose whichever option you want
 
 ## FactSet Shortcuts:
 
@@ -150,16 +150,9 @@ description: "Study Notes"
 - Input and Output variables must be on the same spreadsheet
 - **Alt+A+W+T**. This option is under Data and then What if analysis. This option is called Data Table (but actually these are sensitivity tables). Mind the difference from the Data Table described below.
 
-## Data Tables:
- 
-- **You can create Data Tables, via Alt+H+T.** It will apply some sort of formatting by default. If you wish, **remove the formatting via, Alt+JT+S+C.**
-- Data Tables create a structured table, out of your data stored as a table. Then you can refer to these tables by their names, and column names elsewhere.
-- Other benefits include, **automatic totals/average/count/etc.** in the last row via **Ctrl+Shift+T**. Filtering/sorting etc. is much easier.
-- **Data Table Referencing:** Data_Table_Name[Column_Name]
-
 ## Solver and Goal Seek:
 
-- For Goal Seek to work, there should be circular references. Remove the circular references. I
+- For Goal Seek to work, there should be circular references. Remove the circular references.
 - If you can't find the circular references, disable iterative calculations, and then they will show up marked by blue arrows.
 
 ##  Pivot Tables:
@@ -169,6 +162,24 @@ description: "Study Notes"
   - **Rows:** Similar to columns. Rows and Columns give you a 2-D breakdown of your data. You can add sub-fields too within rows and columns
   - **Values:** This is the column whose summary (Sum, Count, Average) you wish to see in the table (example: Sales, Orders)
   - **Filters:** This is at a macro level, above the Pivot table itself, to filter the entire data for one or more values of a column. For example: You want your table to show the sales figures of only Northeast region, broken down by Industry, and Years. Then, you can put a FILTER for region, and select Northeast. In COLUMN you can put Industries, in ROWS you can put Order Dates, and in VALUES you can select Sales.
+
+## Data Tables:
+ 
+- **You can create Data Tables, via Alt+H+T.** It will apply some sort of formatting by default. If you wish, **remove the formatting via, Alt+JT+S+C.**
+- Data Tables create a structured table, out of your data stored as a table. Then you can refer to these tables by their names, and column names elsewhere.
+- Other benefits include, **automatic totals/average/count/etc.** in the last row via **Ctrl+Shift+T**. Filtering/sorting etc. is much easier.
+- **Data Table Referencing:** Data_Table_Name[Column_Name]
+
+## Data Table Relationships / Excel's Internal Data Model:
+
+- **Overview:** If you have multiple Data Tables, then we can define relationships between them. By relationship, I mean that one table has one column that has unique values (such as name of states and the region to which each belongs), while the other table has a column that repeatedly uses the names of those states (such as a table containing record of sales in different states). Now, we don't need to ~~VLOOKUP~~/Index-Match, region from the Regions data-table to the Sales data-table. We can define the relationship between them using the State column in both the tables. **Such relationships only work if one of the data-table has unique values.**
+- **How to do:** Alt+A+DM+A, then you can define the relationship.
+- **Excel's Internal Data Model:** The relationships above get stored in Excel's Internal Data Model. We can excess the Internal Data Model via, Alt+A+DM. If we have a very large dataset running into millions of rows, then we can't get that into a spreadsheet. We need to load that directly into the Internal Data Model.
+
+## Power Pivots:
+
+- **Create Power Pivots via Alt+N+V+D** These are more powerful versions of Pivot Tables. We can build them using columns from different tables, provided the relationships between different tables have been defined as explained in the Data Table Relationships section above. 
+
 
 ## Database Functions:
 
