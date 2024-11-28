@@ -28,7 +28,7 @@ description: "Study Notes"
 - **FactSet:** S
 - **S&P Capital IQ:** G
 
-## F1 to F12 and Shift Shortcuts Master Table:
+## Shift & F1-F12 Shortcuts Master Table:
 
 | **F1 to F12**         | **Shift + F1 to F12**                                     |
 |------------------------|----------------------------------------------------------|
@@ -44,7 +44,25 @@ description: "Study Notes"
 | **F10**: Activates Ribbon KeyTips | **Shift + F10**: Opens **Context Menu**       |
 | **F11**: Creates new chart sheet | **Shift + F11**: Inserts new worksheet         |
 | **F12**: Opens **Save As** dialog | **Shift + F12**: Saves the workbook           |
-    
+
+
+## Alt & F1-F12 Shortcuts Master Table:
+
+| **F1 to F12**         | **Alt + F1 to F12**                                      |
+|------------------------|----------------------------------------------------------|
+| **F1**: Opens **Help** | **Alt + F1**: Opens the **Insert Chart** dialog box      |
+| **F2**: Edit cell      | **Alt + F2**: Opens the **Save As** dialog box           |
+| **F3**: Paste Name     | **Alt + F3**: Opens the **Name Manager**                 |
+| **F4**: Repeat action  | **Alt + F4**: Closes the Excel window                   |
+| **F5**: Opens **Go To**| **Alt + F5**: (No default action)                        |
+| **F6**: Cycle focus    | **Alt + F6**: Switches between open windows             |
+| **F7**: Opens **Spelling** dialog | **Alt + F7**: Displays the **Document Recovery Pane** |
+| **F8**: Extend selection mode | **Alt + F8**: Opens the **Macro** dialog box      |
+| **F9**: Calculate all  | **Alt + F9**: Displays the **Code** for active worksheet |
+| **F10**: Activates Ribbon KeyTips | **Alt + F10**: Maximizes the Excel window     |
+| **F11**: Creates new chart sheet | **Alt + F11**: Opens the VBA editor            |
+| **F12**: Opens **Save As** dialog | **Alt + F12**: (No default action)            |
+
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
