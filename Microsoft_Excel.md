@@ -50,7 +50,8 @@ description: "Study Notes"
 -  **Trace All (Direct+Indirect) Precedents and Dependents:** Ctrl+Shift+`[` and Ctrl+Shift+`]`
 -  **Name Manager:** Ctrl+F3,  or Alt+M+N
 -  **New Line while entering text in a cell:** Alt+Enter
--  
+-  **Expand all groupings in a Pivot Table:** Alt+A+J
+-  **Collapse all groupings in a Pivot Table:** Alt+A+L
 
 ## FactSet Shortcuts:
 
