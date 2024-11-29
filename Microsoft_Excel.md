@@ -203,6 +203,17 @@ description: "Study Notes"
 | Move between different element of a chart                                                    | **Alt + Arrow**  |
 | Move inside a single element of a chart (like selecting individual data bars of a bar chart) | **Ctrl + Arrow** |
 
+# Chart Tricks:
+
+- **Dynamic Titles:** Just select the title box (don't press Enter/F2 etc) => Press `=`, and then the cell with arrow keys/mouse wherever your title is stored. This will help you in creating dynamic titles for your charts.
+- **Creating Charts**
+  - Select the data, and then the chart. Use recommended charts option (within Insert). Then go to All Charts. Over there, it is easy to get a preview, and see the list of all possible charts.
+  - Create a blank chart of whichever type you wish, and then select the data, separated by commas (Shift+F10 => Select Data). This is helpful if you are data is all over the place.
+
+## Combination Charts:
+
+
+
 ## Custom Formatting Symbols:
 
 | **Symbol**   | **Meaning**                                                                                      |
