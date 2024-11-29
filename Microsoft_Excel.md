@@ -155,7 +155,6 @@ description: "Study Notes"
 | **Alt + Y**: Opens Help tab               |                                                            |
 | **Alt + Enter**: Starts a new line in a cell |                                                        |
 
-
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
