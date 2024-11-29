@@ -185,7 +185,7 @@ description: "Study Notes"
 | **Data with Negative and Positive Values**| Waterfall Chart                                                | Shows cumulative effect of values, such as profits/losses    |
 | **Financial Data**                        | Candlestick Chart                                              | Tracks price movements, such as stock prices                 |
 
-# Charts:
+# Charts Format Pane Navigation:
 
 | **Action**                 | **Shortcut**            |
 |----------------------------|-------------------------|
@@ -195,6 +195,13 @@ description: "Study Notes"
 | Expand/collapse options    | **Enter**              |
 | Adjust numeric values       | **Arrow Keys**         |
 | Close the Format Pane       | **Esc**                |
+
+# Chart Navigation:
+
+| **Action**                                                                                   | **Shortcut**     |
+|----------------------------------------------------------------------------------------------|------------------|
+| Move between different element of a chart                                                    | **Alt + Arrow**  |
+| Move inside a single element of a chart (like selecting individual data bars of a bar chart) | **Ctrl + Arrow** |
 
 ## Custom Formatting Symbols:
 
