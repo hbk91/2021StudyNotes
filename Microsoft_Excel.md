@@ -28,6 +28,15 @@ description: "Study Notes"
 - **FactSet:** S
 - **S&P Capital IQ:** G
 
+## Excel Ribbon Terminology:
+
+| **Level**          | **Example**                      |
+|---------------------|----------------------------------|
+| **Tab**            | **Home**, **Insert**, **View**   |
+| **Group**          | **Font**, **Alignment**          |
+| **Command**        | **Bold**, **Italic**, **Underline** |
+| **Contextual Tab** | **Chart Tools**, **Table Design**|
+
 ## Shift & F1-F12 Shortcuts:
 
 | **F1 to F12**         | **Shift + F1 to F12**                                     |
