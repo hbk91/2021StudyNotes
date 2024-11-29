@@ -155,6 +155,27 @@ description: "Study Notes"
 | **Alt + Y**: Opens Help tab               |                                                            |
 | **Alt + Enter**: Starts a new line in a cell |                                                        |
 
+## Chart Types and Data:
+
+| **Type of Data**                          | **Recommended Chart Type**                                      | **Purpose**                                                   |
+|-------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|
+| **Trends over Time**                      | Line Chart or Area Chart                                        | Shows changes or trends over a continuous time period         |
+| **Comparing Categories**                  | Column Chart or Bar Chart                                       | Compares quantities across discrete categories                |
+| **Proportions or Percentages**            | Pie Chart or Donut Chart                                        | Highlights the share of parts in a whole                      |
+| **Relationships between Variables**       | Scatter Plot or Bubble Chart                                    | Displays correlations or relationships between two or more variables |
+| **Hierarchical Data**                     | Treemap or Sunburst Chart                                       | Visualizes parts of a whole in a hierarchy                   |
+| **Data Distribution**                     | Histogram or Box and Whisker Chart                              | Shows how data is distributed over intervals                 |
+| **Ranking**                               | Bar Chart or Column Chart                                       | Compares items ranked by size or magnitude                   |
+| **Geographic Data**                       | Map Chart                                                       | Displays data distribution across geographic locations        |
+| **Progress Towards a Goal**               | Gauge Chart (not native, custom) or Bar Chart                  | Tracks progress toward a target                               |
+| **Composition Over Time**                 | Stacked Area Chart or Stacked Bar Chart                         | Shows changes in composition across time                     |
+| **Comparison of Parts to Whole**          | Stacked Column Chart or 100% Stacked Column Chart              | Highlights proportions in each category                      |
+| **Large Dataset with Many Variables**     | Scatter Plot, Bubble Chart, or Heat Map                        | Provides insights into multidimensional data                 |
+| **Project Timelines**                     | Gantt Chart (requires customization)                           | Tracks timelines and dependencies in projects                |
+| **Flow or Process Data**                  | Sankey Diagram (requires custom add-ins)                       | Illustrates flow between processes                           |
+| **Data with Negative and Positive Values**| Waterfall Chart                                                | Shows cumulative effect of values, such as profits/losses    |
+| **Financial Data**                        | Candlestick Chart                                              | Tracks price movements, such as stock prices                 |
+
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
@@ -178,15 +199,6 @@ description: "Study Notes"
 -  **New Line while entering text in a cell:** Alt+Enter
 -  **Expand groupings in a Pivot Table:** **Expand All:** groupings: Alt+A+J, or Alt+JT+X. **Expand Individually:** press Shift+F10 (Right click), and then E (Expand/Collapse), and choose whichever option you want
 -  **Collapse groupings in a Pivot Table:** **Collapse All:** Alt+A+L or Alt+JT+P. **Collapse Individually:** press Shift+F10 (Right click), and then E (Expand/Collapse), and choose whichever option you want
-
-## FactSet Shortcuts:
-
-
-## Capital IQ Shortcuts:
-
-
-## PitchBook Shortcuts:
-
 
 ## Excel Logical Conditions: 
 
@@ -345,3 +357,11 @@ description: "Study Notes"
 ## Windows Shortcuts:
 
 - **Auto adjust the display width of all file Names in a Folder** Ctrl+`+` (Numeric Pad one). Regular one doesn't work. For Laptop => Find how to do it
+
+## FactSet Shortcuts:
+
+
+## Capital IQ Shortcuts:
+
+
+## PitchBook Shortcuts:
