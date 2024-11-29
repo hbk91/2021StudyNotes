@@ -185,6 +185,18 @@ description: "Study Notes"
 | **Data with Negative and Positive Values**| Waterfall Chart                                                | Shows cumulative effect of values, such as profits/losses    |
 | **Financial Data**                        | Candlestick Chart                                              | Tracks price movements, such as stock prices                 |
 
+# Charts:
+
+| **Action**                 | **Shortcut**            |
+|----------------------------|-------------------------|
+| Open Format Pane           | **Ctrl + 1**           |
+| Cycle focus to Format Pane | **F6** or **Shift + F6**|
+| Navigate within the pane    | **Tab / Shift + Tab**  |
+| Expand/collapse options    | **Enter**              |
+| Adjust numeric values       | **Arrow Keys**         |
+| Close the Format Pane       | **Esc**                |
+
+
 ## Excel Keyboard Shortcuts:
 
 - **Enter text/formula in the formula bar instead of the cell:** `F2`, and the `Ctrl+A`. Only, works if the cell is empty. If the cell has something, `Ctrl+A` would just select the cell contents. Try to find if this can be achieved somehow. It is a real pain, to click in the formula bar. 
