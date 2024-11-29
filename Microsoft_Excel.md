@@ -196,6 +196,68 @@ description: "Study Notes"
 | Adjust numeric values       | **Arrow Keys**         |
 | Close the Format Pane       | **Esc**                |
 
+## Custom Formatting Symbols:
+
+| **Symbol**   | **Meaning**                                                                                      |
+|--------------|--------------------------------------------------------------------------------------------------|
+| `0`          | Displays a number, including leading or trailing zeros.                                          |
+| `#`          | Displays a number but does not show extra zeros (e.g., does not pad with leading or trailing).   |
+| `,`          | Divides the number by 1,000 for each comma.                                                      |
+| `.`          | Decimal point.                                                                                   |
+| `%`          | Multiplies the number by 100 and displays it as a percentage.                                    |
+| `$`          | Adds a dollar sign (or other currency symbol, depending on regional settings).                   |
+| `\`          | Escapes the next character, displaying it as literal text.                                       |
+| `"Text"`     | Encloses literal text to display alongside numbers.                                              |
+| `@`          | Represents text in the cell (used for custom text formatting).                                   |
+| `;`          | Separates formatting for positive, negative, zero, and text values.                             |
+| `[Color]`    | Specifies a color for the value (e.g., `[Red]`, `[Green]`, `[Blue]`).                            |
+| `[Condition]`| Applies formatting based on conditions (e.g., `[>100]`).                                         |
+
+## Custom Formatting Order:
+
+| **Section**      | **Purpose**                                   | **Example**          |
+|-------------------|-----------------------------------------------|----------------------|
+| 1st Section       | Format for **positive values**               | `[Blue]#,##0`        |
+| 2nd Section       | Format for **negative values**               | `[Red](#,##0)`       |
+| 3rd Section       | Format for **zeros**                         | `[Green]Zero`        |
+| 4th Section       | Format for **text**                          | `"Text: "@`          |
+
+## Custom Formatting Examples:
+
+| **Custom Format**                     | **Description**                                                     | **Example Input**    | **Displayed Output**      |
+|---------------------------------------|---------------------------------------------------------------------|----------------------|---------------------------|
+| `[Blue]#,##0;[Red](#,##0);[Green]0;Text: "@"` | Positive in blue, negative in red (in parentheses), zero in green, text prefixed with "Text:". | `123, -123, 0, Hello` | `123`, `(123)`, `Zero`, `Text: Hello` |
+| `#,##0;[Red](#,##0);[Gray]Zero;;`     | Positive as-is, negative in red, zero in gray, **text hidden**.     | `123, -123, 0, World`| `123`, `(123)`, `Zero`, (hidden) |
+| `[Blue]$#,##0.00;[Red]-$#,##0.00;[Green]"Zero Dollars";"Text: "@` | Positive as blue currency, negative as red currency, zero as "Zero Dollars", text prefixed with "Text:". | `123.45, -123.45, 0, Hi` | `$123.45`, `-$123.45`, `Zero Dollars`, `Text: Hi` |
+| `0.00%;-0.00%;Zero Percentage;Text`   | Positive as percentage, negative as percentage with `-`, zero as "Zero Percentage", text as-is. | `0.123, -0.123, 0, Text`| `12.30%`, `-12.30%`, `Zero Percentage`, `Text` |
+| `[Green]"Profit: "0;[Red]"Loss: "0;0;"Data: "@` | Adds "Profit" or "Loss" to numbers, "Data" to text, zero as-is.    | `200, -200, 0, Hello`| `Profit: 200`, `Loss: 200`, `0`, `Data: Hello` |
+| `#,##0;[Red](#,##0);[Blue]"Zero Value";` | Positive and negative formatted, zero in blue, **text hidden**.    | `123, -123, 0, Hi`   | `123`, `(123)`, `Zero Value`, (hidden) |
+
+
+## Custom Formatting More Examples:
+
+| **Custom Format**           | **Description**                                                             | **Example Input** | **Displayed Output** |
+|------------------------------|-----------------------------------------------------------------------------|-------------------|-----------------------|
+| `0`                         | Displays numbers as is, including leading/trailing zeros if needed.         | `5`               | `5`                  |
+| `0000`                      | Pads numbers with leading zeros to make 4 digits.                           | `5`               | `0005`               |
+| `#,##0`                     | Displays numbers with thousand separators.                                  | `1234567`         | `1,234,567`          |
+| `#,##0.00`                  | Displays numbers with two decimal places and thousand separators.           | `1234.5`          | `1,234.50`           |
+| `$#,##0`                    | Adds a dollar sign and thousand separators.                                 | `1234567`         | `$1,234,567`         |
+| `€#,##0.00`                 | Adds a Euro sign with two decimal places.                                   | `1234567.89`      | `€1,234,567.89`      |
+| `¥#,##0`                    | Adds a Yen sign with thousand separators.                                   | `1234567`         | `¥1,234,567`         |
+| `£#,##0`                    | Adds a Pound Sterling symbol with thousand separators.                      | `1234567`         | `£1,234,567`         |
+| `$0,,`                      | Divides the number by 1,000,000 and displays in millions with a dollar sign.| `123456789`       | `$123`               |
+| `$0,\B`                     | Divides the number by 1,000 and adds a `B` after it.                        | `123456789`       | `$123456,B`          |
+| `$0,,\M`                    | Divides the number by 1,000,000 and adds `M` for millions.                  | `123456789`       | `$123M`              |
+| `0.0E+00`                   | Displays numbers in scientific notation.                                    | `12345`           | `1.2E+04`            |
+| `0%`                        | Multiplies by 100 and adds a percent sign.                                  | `0.25`            | `25%`                |
+| `[Red]0;[Green]0;[Blue]0`   | Displays positive numbers in red, negative in green, and zeros in blue.     | `123, -123, 0`    | `123 (red)`          |
+| `0" kg"`                    | Adds the text `kg` after the number.                                        | `123`             | `123 kg`             |
+| `#\K`                       | Divides numbers by 1,000 and appends `K`.                                   | `1234567`         | `1235K`              |
+| `[>1000]0,, "M";0`          | Displays numbers above 1,000 as millions (`M`); others as-is.               | `1500000`         | `1.5 M`              |
+| `[Blue]#,##0;[Red]#,##0;0`  | Displays positives in blue, negatives in red, and zeros as-is.              | `123, -123, 0`    | `123 (blue)`         |
+| `#,##0.00 "USD"`            | Displays numbers with `USD` appended.                                       | `1234.5`          | `1,234.50 USD`       |
+
 
 ## Excel Keyboard Shortcuts:
 
@@ -364,7 +426,6 @@ description: "Study Notes"
 - **Select Emails:** Press `x` to select an email. Repeat for multiple emails.
 - **Delete Emails:** Once emails are selected, press `#` to delete them.
 - **Focus on the search bar:** `/` (Forward Slash)
-
 
 ## VS Code Shortcuts:
 
