@@ -28,7 +28,7 @@ description: "Study Notes"
 - **FactSet:** S
 - **S&P Capital IQ:** G
 
-## Shift & F1-F12 Shortcuts Master Table:
+## Shift & F1-F12 Shortcuts:
 
 | **F1 to F12**         | **Shift + F1 to F12**                                     |
 |------------------------|----------------------------------------------------------|
@@ -46,7 +46,7 @@ description: "Study Notes"
 | **F12**: Opens **Save As** dialog | **Shift + F12**: Saves the workbook           |
 
 
-## Alt & F1-F12 Shortcuts Master Table:
+## Alt & F1-F12 Shortcuts:
 
 | **F1 to F12**         | **Alt + F1 to F12**                                      |
 |------------------------|----------------------------------------------------------|
@@ -63,7 +63,7 @@ description: "Study Notes"
 | **F11**: Creates new chart sheet | **Alt + F11**: Opens the VBA editor            |
 | **F12**: Opens **Save As** dialog | **Alt + F12**: (No default action)            |
 
-## Ctrl & F1-F12 Shortcuts Master Table:
+## Ctrl & F1-F12 Shortcuts:
 
 | **F1 to F12**         | **Ctrl + F1 to F12**                                      |
 |------------------------|----------------------------------------------------------|
@@ -79,6 +79,56 @@ description: "Study Notes"
 | **F10**: Activates Ribbon KeyTips | **Ctrl + F10**: Toggles maximize/restore size   |
 | **F11**: Creates new chart sheet | **Ctrl + F11**: Inserts a new **macro sheet**   |
 | **F12**: Opens **Save As** dialog | **Ctrl + F12**: Opens the **Open File** dialog  |
+
+## Ctrl & Ctrl+Shift + 1-9 Shortcuts:
+
+| **Ctrl + 1-9**                  | **Ctrl + Shift + 1-9**                                    |
+|----------------------------------|----------------------------------------------------------|
+| **Ctrl + 1**: Opens **Format Cells** dialog | **Ctrl + Shift + 1**: Applies **Number Format**             |
+| **Ctrl + 2**: Toggles **Bold** text         | **Ctrl + Shift + 2**: Applies **Time Format**              |
+| **Ctrl + 3**: Toggles **Italic** text       | **Ctrl + Shift + 3**: Applies **Date Format**              |
+| **Ctrl + 4**: Toggles **Underline**         | **Ctrl + Shift + 4**: Applies **Currency Format**          |
+| **Ctrl + 5**: Toggles **Strikethrough**     | **Ctrl + Shift + 5**: Applies **Percentage Format**        |
+| **Ctrl + 6**: Show/hide objects             | **Ctrl + Shift + 6**: Applies **Scientific Format**        |
+| **Ctrl + 7**: Show/hide Ribbon (older versions) | **Ctrl + Shift + 7**: Adds a **border outline**         |
+| **Ctrl + 8**: Toggles Outline view          | **Ctrl + Shift + 8**: Selects the **current region**       |
+| **Ctrl + 9**: Hides selected rows           | **Ctrl + Shift + 9**: Unhides hidden rows                 |
+| **Ctrl + 0**: Hides selected columns           | **Ctrl + Shift + 9**: Unhides hidden columns                 |
+
+
+## Ctrl & Ctrl+Shift + A-Z and Special Characters Shortcuts:
+
+| **Ctrl + A-Z / Special Characters**  | **Ctrl + Shift + A-Z / Special Characters**                |
+|---------------------------------------|------------------------------------------------------------|
+| **Ctrl + A**: Select all              | **Ctrl + Shift + A**: Inserts argument names into a formula|
+| **Ctrl + B**: Toggles bold            | **Ctrl + Shift + B**: (No default action)                  |
+| **Ctrl + C**: Copy                    | **Ctrl + Shift + C**: (No default action)                  |
+| **Ctrl + D**: Fill down               | **Ctrl + Shift + D**: (No default action)                  |
+| **Ctrl + E**: Flash Fill              | **Ctrl + Shift + E**: (No default action)                  |
+| **Ctrl + F**: Opens Find and Replace  | **Ctrl + Shift + F**: Opens the Format Cells Font tab      |
+| **Ctrl + G**: Opens Go To dialog      | **Ctrl + Shift + G**: (No default action)                  |
+| **Ctrl + H**: Opens Replace dialog    | **Ctrl + Shift + H**: (No default action)                  |
+| **Ctrl + I**: Toggles italic          | **Ctrl + Shift + I**: (No default action)                  |
+| **Ctrl + K**: Inserts hyperlink       | **Ctrl + Shift + K**: (No default action)                  |
+| **Ctrl + L**: Creates a table         | **Ctrl + Shift + L**: Toggles filters                      |
+| **Ctrl + N**: Creates new workbook    | **Ctrl + Shift + N**: (No default action)                  |
+| **Ctrl + O**: Opens workbook          | **Ctrl + Shift + O**: Selects cells with comments          |
+| **Ctrl + P**: Opens Print dialog      | **Ctrl + Shift + P**: Opens Format Cells Font tab          |
+| **Ctrl + R**: Fill right              | **Ctrl + Shift + R**: (No default action)                  |
+| **Ctrl + S**: Saves workbook          | **Ctrl + Shift + S**: (No default action)                  |
+| **Ctrl + T**: Creates a table         | **Ctrl + Shift + T**: (No default action)                  |
+| **Ctrl + U**: Toggles underline       | **Ctrl + Shift + U**: Expands/collapses formula bar        |
+| **Ctrl + V**: Paste                   | **Ctrl + Shift + V**: Opens Paste Special dialog           |
+| **Ctrl + W**: Closes workbook         | **Ctrl + Shift + W**: (No default action)                  |
+| **Ctrl + X**: Cut                     | **Ctrl + Shift + X**: (No default action)                  |
+| **Ctrl + Y**: Redo                    | **Ctrl + Shift + Y**: (No default action)                  |
+| **Ctrl + Z**: Undo                    | **Ctrl + Shift + Z**: (No default action)                  |
+| **Ctrl + ;**: Inserts current date    | **Ctrl + Shift + ;**: Inserts current time                 |
+| **Ctrl + `**: Toggles formula view    | **Ctrl + Shift + `**: (No default action)                  |
+| **Ctrl + [**: Selects direct precedents | **Ctrl + Shift + [**: (No default action)                 |
+| **Ctrl + ]**: Selects direct dependents | **Ctrl + Shift + ]**: (No default action)                 |
+| **Ctrl + Enter**: Fills selection with entry | **Ctrl + Shift + Enter**: Enters array formula          |
+
 
 ## Excel Keyboard Shortcuts:
 
