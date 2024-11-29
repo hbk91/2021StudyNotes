@@ -1,5 +1,5 @@
 ---
-title: "Other Utility Softwares"
+title: "Utility Softwares"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
