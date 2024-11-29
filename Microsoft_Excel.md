@@ -129,6 +129,32 @@ description: "Study Notes"
 | **Ctrl + ]**: Selects direct dependents | **Ctrl + Shift + ]**: (No default action)                 |
 | **Ctrl + Enter**: Fills selection with entry | **Ctrl + Shift + Enter**: Enters array formula          |
 
+## Alt & Alt+Shift + A-Z and Special Characters Shortcuts:
+
+| **Alt + A-Z / Special Characters**       | **Alt + Shift + A-Z / Special Characters**                  |
+|-------------------------------------------|-------------------------------------------------------------|
+| **Alt + A**: Opens Data tab               | **Alt + Shift + A**: Group rows/columns in a range          |
+| **Alt + B**: Opens the Power Query tab    |                                                            |
+| **Alt + C**: Opens the Review tab         |                                                            |
+| **Alt + D**: Opens Data menu (older versions) | **Alt + Shift + D**: Inserts the current date               |
+| **Alt + F**: Opens File menu              | **Alt + Shift + F**: Opens Format Cells Font tab            |
+| **Alt + G**: Opens Design tab (Chart tools) |                                                            |
+| **Alt + H**: Opens Home tab               |                                                            |
+| **Alt + J**: Opens PivotTable Analyze tab |                                                            |
+| **Alt + K**: Opens Developer tab          |                                                            |
+| **Alt + L**: Opens the Formulas tab       |                                                            |
+| **Alt + M**: Opens the Formulas tab       |                                                            |
+| **Alt + N**: Opens the Insert tab         |                                                            |
+| **Alt + P**: Opens Page Layout tab        |                                                            |
+| **Alt + Q**: Opens the "Tell me what you want to do" box |                                                         |
+| **Alt + R**: Opens Review tab             |                                                            |
+| **Alt + S**: Opens View tab               |                                                            |
+| **Alt + T**: Opens Tools menu (older versions) | **Alt + Shift + T**: Inserts current time                   |
+| **Alt + V**: Opens View tab               |                                                            |
+| **Alt + W**: Opens View tab               |                                                            |
+| **Alt + Y**: Opens Help tab               |                                                            |
+| **Alt + Enter**: Starts a new line in a cell |                                                        |
+
 
 ## Excel Keyboard Shortcuts:
 
