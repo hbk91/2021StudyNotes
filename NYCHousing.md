@@ -6,8 +6,6 @@ description: "Notes"
 
 ## Affordable Long-Term Housing Options in New York City
 
-# Affordable Long-Term Housing Options in New York City
-
 Below is a comparison table of affordable housing options in New York City suitable for long-term stays, excluding short-term-only facilities.
 
 | Facility Name             | Average Monthly Rent       | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                          |
@@ -26,4 +24,4 @@ Below is a comparison table of affordable housing options in New York City suita
 | Common                   | Not specified; contact for details | Various locations near multiple lines               | 20–40 minutes            | <a href="https://www.common.com/" target="_blank">Apply here</a>                                            |
 | WeLive                   | Not specified; contact for details | Near Wall St station (2, 3 lines)                   | ~20 minutes              | <a href="https://www.wework.com/welive" target="_blank">Learn more here</a>                                 |
 
-> **Note**: Prices and availability are subject to change. Contact the facility directly for the most accurate and up-to-date information.
+
