@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## Affordable Long-Term Housing Options in New York City
+## Affordable Long-Term Housing Options in New York City:
 
 | Facility Name             | Average Monthly Rent       | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                          |
 |---------------------------|----------------------------|---------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -23,3 +23,7 @@ description: "Notes"
 | WeLive                   | Not specified; contact for details | Near Wall St station (2, 3 lines)                   | ~20 minutes              | <a href="https://www.wework.com/welive" target="_blank">Learn more here</a>                                 |
 
 
+## Other major marketplaces:
+
+- <a href="https://streeteasy.com/" target="_blank">StreetEasy</a>
+- <a href="https://www.listingsproject.com/" target="_blank">Listings Project</a>
