@@ -26,7 +26,7 @@ description: "Notes"
 - <a href="https://streeteasy.com/" target="_blank">StreetEasy</a>
 - <a href="https://www.listingsproject.com/" target="_blank">Listings Project</a>
 
-## Additional long-term housing options near Grand Central Terminal:
+## More Options:
 
 | Facility Name                     | Average Monthly Rent | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                              |
 |-----------------------------------|----------------------|----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -35,6 +35,11 @@ description: "Notes"
 | Windsor Court                     | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.relatedrentals.com/apartment-rentals/new-york-city/midtown/windsor-court" target="_blank">Apply here</a>           |
 | The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
+| **The Markle Residence**  | $1,430–$1,995        | Near 14th St station (F, M, L lines)               | ~15 minutes              | <a href="https://marklenyc.org/" target="_blank">Apply here</a>                                               |
+| **92NY Residence**        | $1,650–$2,000        | Near 86th St station (4, 5, 6 lines)               | ~10 minutes              | <a href="https://www.92ny.org/residence" target="_blank">Apply here</a>                                       |
+| **Student Housing Works** | Varies by location; contact for details | Multiple locations near various lines               | Varies by location       | <a href="https://studenthousingworks.com/" target="_blank">Apply here</a>                                     |
+| **Harrington Housing**    | Varies by location; contact for details | Various locations near multiple lines               | Varies by location       | <a href="https://www.harringtonhousing.com/location/new-york-city" target="_blank">Apply here</a>             |
+| **Intern Housing NYC**    | Varies by location; contact for details | Various locations near multiple lines               | Varies by location       | <a href="https://interns.nyc/" target="_blank">Apply here</a>                                                 |
 
-## 
+
 
