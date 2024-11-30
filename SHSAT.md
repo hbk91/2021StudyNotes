@@ -50,7 +50,7 @@ description: "Notes"
 | Math Prep Tips                            | Strategies for SHSAT math concepts.               | [Math Tips](https://www.schools.nyc.gov/learning/testing/how-to-prepare-for-the-specialized-high-schools-admissions-test/how-to-prepare-for-the-math-section){:target="_blank"} |
 | DREAM Program                             | Free SHSAT prep for eligible students.            | [DREAM](https://www.schools.nyc.gov/learning/programs/dream-program){:target="_blank"}                                     |
 
-## SHSAT Math Section BreakdownL
+## SHSAT Math Section Breakdown:
 
 | **Category**                 | **Topics Tested**                                                | **Number of Questions** | **Difficulty Level**         |
 |------------------------------|------------------------------------------------------------------|--------------------------|------------------------------|
