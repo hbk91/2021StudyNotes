@@ -21,21 +21,12 @@ description: "Notes"
 | Cohabs                   | $1,600–$2,700              | Various locations near multiple lines               | 20–40 minutes            | <a href="https://www.cohabs.com/" target="_blank">Apply here</a>                                            |
 | Common                   | Not specified; contact for details | Various locations near multiple lines               | 20–40 minutes            | <a href="https://www.common.com/" target="_blank">Apply here</a>                                            |
 
-
 ## Other major marketplaces:
 
 - <a href="https://streeteasy.com/" target="_blank">StreetEasy</a>
 - <a href="https://www.listingsproject.com/" target="_blank">Listings Project</a>
 
 ## Additional long-term housing options near Grand Central Terminal:
-
-# Affordable Housing Options Near Grand Central Terminal
-
-Below is a comparison of affordable long-term housing options near Grand Central Terminal in New York City:
-
-# Affordable Housing Options Near Grand Central Terminal
-
-Below is a comparison of affordable long-term housing options near Grand Central Terminal in New York City:
 
 | Facility Name                     | Average Monthly Rent | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                              |
 |-----------------------------------|----------------------|----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
@@ -45,5 +36,5 @@ Below is a comparison of affordable long-term housing options near Grand Central
 | The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
 
-
+## 
 
