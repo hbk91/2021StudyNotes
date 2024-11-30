@@ -20,7 +20,6 @@ description: "Notes"
 | Educational Housing Services (EHS) | Not specified; contact for details | Multiple locations near various lines               | 15–30 minutes            | <a href="https://www.studenthousing.org/" target="_blank">Apply here</a>                                    |
 | Cohabs                   | $1,600–$2,700              | Various locations near multiple lines               | 20–40 minutes            | <a href="https://www.cohabs.com/" target="_blank">Apply here</a>                                            |
 | Common                   | Not specified; contact for details | Various locations near multiple lines               | 20–40 minutes            | <a href="https://www.common.com/" target="_blank">Apply here</a>                                            |
-| WeLive                   | Not specified; contact for details | Near Wall St station (2, 3 lines)                   | ~20 minutes              | <a href="https://www.wework.com/welive" target="_blank">Learn more here</a>                                 |
 
 
 ## Other major marketplaces:
