@@ -36,6 +36,7 @@ description: "Notes"
 | The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
 
+<br /><br />
 
 | Facility Name             | Average Monthly Rent | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                              |
 |---------------------------|----------------------|----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
