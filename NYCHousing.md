@@ -33,12 +33,17 @@ description: "Notes"
 
 Below is a comparison of affordable long-term housing options near Grand Central Terminal in New York City:
 
+# Affordable Housing Options Near Grand Central Terminal
+
+Below is a comparison of affordable long-term housing options near Grand Central Terminal in New York City:
+
 | Facility Name                     | Average Monthly Rent | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                              |
 |-----------------------------------|----------------------|----------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
-| National at 888 6th Avenue        | Not specified; contact for details | Near 34th St–Herald Square station (B, D, F, M, N, Q, R, W lines) | ~10 minutes              | [Apply here](https://www.nationalcorporatehousing.com/new-york-metro/national888sixthavenue-1)           |
-| Marquis Apartments                | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | [Apply here](https://www.marquisapts.com/)           |
-| Windsor Court                     | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | [Apply here](https://www.relatedrentals.com/apartment-rentals/new-york-city/midtown/windsor-court)           |
-| The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | [Apply here](https://www.thecentranyc.com/)           |
-| FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | [Apply here](https://www.foundstudy.com/turtlebay)           |
+| National at 888 6th Avenue        | Not specified; contact for details | Near 34th St–Herald Square station (B, D, F, M, N, Q, R, W lines) | ~10 minutes              | <a href="https://www.nationalcorporatehousing.com/new-york-metro/national888sixthavenue-1" target="_blank">Apply here</a>           |
+| Marquis Apartments                | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.marquisapts.com/" target="_blank">Apply here</a>           |
+| Windsor Court                     | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.relatedrentals.com/apartment-rentals/new-york-city/midtown/windsor-court" target="_blank">Apply here</a>           |
+| The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
+| FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
 
+> **Note**: Prices and availability are subject to change. Contact each facility directly for the most accurate and up-to-date information.
 
