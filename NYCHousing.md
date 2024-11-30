@@ -45,6 +45,5 @@ description: "Notes"
 | **Harrington Housing**    | Varies by location; contact for details | Various locations near multiple lines               | Varies by location       | <a href="https://www.harringtonhousing.com/location/new-york-city" target="_blank">Apply here</a>             |
 | **Intern Housing NYC**    | Varies by location; contact for details | Various locations near multiple lines               | Varies by location       | <a href="https://interns.nyc/" target="_blank">Apply here</a>                                                 |
 
-> **Note**: Prices and availability are subject to change. Contact each facility directly for the most accurate and up-to-date information.
 
 
