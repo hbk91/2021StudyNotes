@@ -49,3 +49,25 @@ description: "Notes"
 | ELA Prep Tips                             | Revising/editing and reading comprehension tips.  | [ELA Tips](https://www.schools.nyc.gov/learning/testing/how-to-prepare-for-the-specialized-high-schools-admissions-test/how-to-prepare-for-the-english-language-arts-section){:target="_blank"} |
 | Math Prep Tips                            | Strategies for SHSAT math concepts.               | [Math Tips](https://www.schools.nyc.gov/learning/testing/how-to-prepare-for-the-specialized-high-schools-admissions-test/how-to-prepare-for-the-math-section){:target="_blank"} |
 | DREAM Program                             | Free SHSAT prep for eligible students.            | [DREAM](https://www.schools.nyc.gov/learning/programs/dream-program){:target="_blank"}                                     |
+
+## SHSAT Math Section BreakdownL
+
+| **Category**                 | **Topics Tested**                                                | **Number of Questions** | **Difficulty Level**         |
+|------------------------------|------------------------------------------------------------------|--------------------------|------------------------------|
+| **Arithmetic**               | - Fractions, decimals, percentages, ratios<br>- Order of operations (PEMDAS)<br>- Prime numbers and factors<br>- Absolute values | 10–15                     | Easy to Moderate            |
+| **Algebra**                  | - Linear equations and inequalities<br>- Expressions and simplifications<br>- Word problems involving algebraic concepts<br>- Patterns and sequences | 10–15                     | Moderate to Challenging     |
+| **Geometry**                 | - Angles (complementary, supplementary)<br>- Triangles (Pythagorean theorem, area)<br>- Circles (radius, diameter, circumference)<br>- Coordinate geometry | 8–12                      | Moderate to Challenging     |
+| **Statistics & Probability** | - Mean, median, mode, and range<br>- Simple probability<br>- Data interpretation (charts and graphs) | 5–8                       | Moderate                    |
+| **Word Problems**            | - Real-life applications combining multiple concepts<br>- Multi-step problem-solving | 5–10                      | Challenging                 |
+| **Total Questions**          | Covers all the above topics                                     | ~57                      | Varies across sections      |
+
+
+## SHSAT English Language Arts (ELA) Section Breakdown:
+
+| **Category**                 | **Topics Tested**                                                                 | **Number of Questions** | **Difficulty Level**         |
+|------------------------------|-----------------------------------------------------------------------------------|--------------------------|------------------------------|
+| **Revising/Editing**         | - Grammar and punctuation<br>- Sentence structure and clarity<br>- Conciseness<br>- Identifying errors | 20–25                     | Moderate to Challenging     |
+| **Reading Comprehension**    | - Main idea and central theme<br>- Inference and interpretation<br>- Vocabulary in context<br>- Author’s tone and purpose | 30–35                     | Easy to Moderate            |
+| **Passage Types**            | - Fiction (stories)<br>- Nonfiction (informational texts)<br>- Poetry (occasionally) | Included in Reading Questions | Varies with passage type     |
+| **Total Questions**          | Covers both Revising/Editing and Reading Comprehension                            | ~57                      | Varies across sections      |
+
