@@ -37,4 +37,4 @@ description: "Notes"
 | The Centra                        | $3,720–$6,995         | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | $1,835–$2,800         | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
 
-> **Note**: Prices and availability are subject to change. Contact each facility directly for the most accurate and up-to-date information.
+
