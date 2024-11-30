@@ -45,5 +45,5 @@ Below is a comparison of affordable long-term housing options near Grand Central
 | The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
 
-> **Note**: Prices and availability are subject to change. Contact each facility directly for the most accurate and up-to-date information.
+
 
