@@ -26,3 +26,15 @@ description: "Notes"
 
 - <a href="https://streeteasy.com/" target="_blank">StreetEasy</a>
 - <a href="https://www.listingsproject.com/" target="_blank">Listings Project</a>
+
+## Additional long-term housing options near Grand Central Terminal:
+
+| Facility Name                     | Average Monthly Rent  | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                              |
+|-----------------------------------|-----------------------|---------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
+| National at 888 6th Ave Furnished Apartments | $4,500–$14,970         | Near 34th St–Herald Square station (B, D, F, M, N, Q, R, W lines) | ~10 minutes              | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
+| Marquis Apartments                | $2,603–$4,655         | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
+| Windsor Court                     | $3,825–$7,650         | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
+| The Centra                        | $3,720–$6,995         | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
+| FOUND Study Turtle Bay            | $1,835–$2,800         | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.forrent.com/find/NY/metro-NYC/New%2BYork/transit-Grand%2BCentral%2BTerminal" target="_blank">Apply here</a>           |
+
+> **Note**: Prices and availability are subject to change. Contact each facility directly for the most accurate and up-to-date information.
