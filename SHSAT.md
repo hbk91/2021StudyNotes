@@ -9,7 +9,7 @@ description: "Notes"
 | **Aspect**                     | **Details**                                                                                     |
 |--------------------------------|-------------------------------------------------------------------------------------------------|
 | **Who Takes It?**              | - 8th graders (primary audience).<br>- 9th graders (limited seats available for rising 10th grade applicants).<br>- Students must reside in NYC or attend an NYC school to be eligible. |
-| **Purpose**                    | Admission to NYC’s eight specialized high schools:<br>- Stuyvesant High School<br>- Bronx High School of Science<br>- Brooklyn Technical High School<br>- Staten Island Technical High School<br>- Brooklyn Latin School<br>- High School for Math, Science, and Engineering at City College<br>- High School of American Studies at Lehman College<br>- Queens High School for the Sciences at York College.<br> (The ninth specialized high school, LaGuardia High School, admits students based on auditions and academic records, not SHSAT.) |
+| **Purpose**                    | **Admission to NYC’s eight specialized high schools**:<br>- Stuyvesant High School<br>- Bronx High School of Science<br>- Brooklyn Technical High School<br>- Staten Island Technical High School<br>- Brooklyn Latin School<br>- High School for Math, Science, and Engineering at City College<br>- High School of American Studies at Lehman College<br>- Queens High School for the Sciences at York College.<br> (The ninth specialized high school, LaGuardia High School, admits students based on auditions and academic records, not SHSAT.) |
 | **Exam Contents**              | Two sections:<br>- **English Language Arts (ELA):** Reading comprehension, revising/editing passages.<br>- **Mathematics:** Word problems, computation, algebra, and geometry. |
 | **Format**                     | - Total time: **3 hours (180 minutes)**.<br>- Multiple-choice questions.<br>- No penalty for wrong answers.<br>- Total score is out of 800 (400 for each section). |
 | **Frequency**                  | Held **once a year**, typically in October or November.                                        |
@@ -39,3 +39,13 @@ description: "Notes"
 | [Queens High School for the Sciences at York College](https://www.qhss.org/){:target="_blank"}                                   | 524                                       | 120                              |
 | [High School of American Studies at Lehman College](https://www.hsas-lehman.org/){:target="_blank"}                              | 514                                       | 100                              |
 | [The Brooklyn Latin School](https://www.brooklynlatin.org/){:target="_blank"}                                                    | 492                                       | 400                              |
+
+## Official Prep:
+
+| **Resource**                              | **Description**                                   | **Link**                                                                                     |
+|-------------------------------------------|---------------------------------------------------|---------------------------------------------------------------------------------------------|
+| NYC Guide to SHSAT                        | Overview, strategies, and practice tests.         | [Guide](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/specialized-high-schools){:target="_blank"} |
+| Practice Tests and Answer Keys            | Two full-length practice tests with solutions.    | [Tests](https://www.schools.nyc.gov/learning/testing/specialized-high-school-admissions-test){:target="_blank"} |
+| ELA Prep Tips                             | Revising/editing and reading comprehension tips.  | [ELA Tips](https://www.schools.nyc.gov/learning/testing/how-to-prepare-for-the-specialized-high-schools-admissions-test/how-to-prepare-for-the-english-language-arts-section){:target="_blank"} |
+| Math Prep Tips                            | Strategies for SHSAT math concepts.               | [Math Tips](https://www.schools.nyc.gov/learning/testing/how-to-prepare-for-the-specialized-high-schools-admissions-test/how-to-prepare-for-the-math-section){:target="_blank"} |
+| DREAM Program                             | Free SHSAT prep for eligible students.            | [DREAM](https://www.schools.nyc.gov/learning/programs/dream-program){:target="_blank"}                                     |
