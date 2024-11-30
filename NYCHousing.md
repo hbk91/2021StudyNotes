@@ -6,8 +6,6 @@ description: "Notes"
 
 ## Affordable Long-Term Housing Options in New York City
 
-Below is a comparison table of affordable housing options in New York City suitable for long-term stays, excluding short-term-only facilities.
-
 | Facility Name             | Average Monthly Rent       | Proximity to Subway Lines                          | Commute to Grand Central | Application Process                                                                                          |
 |---------------------------|----------------------------|---------------------------------------------------|--------------------------|--------------------------------------------------------------------------------------------------------------|
 | Intern Housing NYC        | Not specified; contact for details | Varies by location; e.g., Fort Greene House near A, C, G lines | ~30 minutes              | <a href="https://interns.nyc/" target="_blank">Apply here</a>                                               |
