@@ -6,8 +6,6 @@ description: "Notes"
 
 ## Credits Card Comparison for Students in US:
 
-<div style="overflow-x: auto;">
-
 | **Credit Card**                                | **Rewards Structure**                                                                                          | **Annual Fee** | **Foreign Transaction Fees** | **Credit Bureau Reporting** | **Credit History Required** | **International Student Eligibility** | **Application Link**                                                                                  |
 |------------------------------------------------|---------------------------------------------------------------------------------------------------------------|----------------|-----------------------------|-----------------------------|----------------------------|----------------------------------------|-------------------------------------------------------------------------------------------------------|
 | **Discover it® Student Cash Back**             | 5% cash back on rotating categories (activation required), up to $1,500 per quarter; 1% on other purchases   | $0             | None                        | All three major bureaus     | No                         | Requires SSN or ITIN                    | [Apply Here](https://www.discover.com/credit-cards/student-credit-card/it-card.html)                  |
@@ -19,5 +17,3 @@ description: "Notes"
 | **Bank of America® Travel Rewards for Students** | 1.5 points per dollar spent on all purchases (redeemable for travel/dining credits)                          | $0             | None                        | All three major bureaus     | Yes                        | Requires SSN or ITIN                    | [Apply Here](https://www.bankofamerica.com/credit-cards/products/student-travel-rewards-credit-card/) |
 | **Deserve® EDU Mastercard for Students**       | 1% cash back on all purchases                                                                               | $0             | None                        | All three major bureaus     | No                         | Does not require SSN                    | [Apply Here](https://www.studentuniverse.com/deserve)                                                 |
 | **Petal® 2 "Cash Back, No Fees" Visa®**        | 1% cash back immediately; up to 1.5% after 12 on-time payments; 2%-10% cash back at select merchants         | $0             | None                        | All three major bureaus     | No                         | Requires SSN or ITIN                    | [Apply Here](https://www.petalcard.com/petal-2)                                                       |
-
-</div>
