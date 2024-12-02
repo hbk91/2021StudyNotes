@@ -209,6 +209,7 @@ description: "Study Notes"
 - **Creating Charts**
   - Select the data, and then the chart. Use recommended charts option (within Insert). Then go to All Charts. Over there, it is easy to get a preview, and see the list of all possible charts.
   - Create a blank chart of whichever type you wish, and then select the data, separated by commas (Shift+F10 => Select Data). This is helpful if you are data is all over the place.
+- **Keeping only certain entries in the Legend:** Click/Select the particular data series legend (yes you can do this! - selecting individual legend items), and then just press delete.
 
 ## Combination Charts:
 
