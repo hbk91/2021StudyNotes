@@ -210,6 +210,8 @@ description: "Study Notes"
   - Select the data, and then the chart. Use recommended charts option (within Insert). Then go to All Charts. Over there, it is easy to get a preview, and see the list of all possible charts.
   - Create a blank chart of whichever type you wish, and then select the data, separated by commas (Shift+F10 => Select Data). This is helpful if you are data is all over the place.
 - **Keeping only certain entries in the Legend:** Click/Select the particular data series legend (yes you can do this! - selecting individual legend items), and then just press delete.
+- **Color a single col different in a column/bar chart:** You can do it the manual way, by selecting that particular col, and changing its fill colour. **OR, more dynamically:** Create a helper column that is `#NA` or col value - if(col value = "Ticker reqd.", col value, NA()). Now plot the col and the helper col as a clustered column chart (Alt+N+C1). Next select the Helper col in the plotted chart, and change its `Series Overlap` in `Format Pane` (Ctrl+1) to `100%`. This will plot the Helper col on top of the original column. Make sure to always plot the helper col second, and original col first (original col should be Series 1, and helper Series 2), such that when you change `Series Overlap` to `100%`, the helper col plots on top, and not vice versa.
+
 
 ## Combination Charts:
 
