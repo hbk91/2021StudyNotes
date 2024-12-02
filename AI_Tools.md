@@ -143,7 +143,6 @@ description: "Notes"
 | **Autonomous Machinery**     | AI enables self-operating tractors and harvesters to perform tasks with minimal human intervention.     | Reduces labor costs and increases operational efficiency.           | - [FarmWise](https://farmwiselabs.com/){:target="_blank"} <br> - [Blue River Technology](https://www.bluerivertechnology.com/){:target="_blank"} <br> - [Naïo Technologies](https://www.naio-technologies.com/en/){:target="_blank"} <br> - [Agrobot](https://www.agrobot.com/){:target="_blank"} <br> - [Ecorobotix](https://www.ecorobotix.com/en/){:target="_blank"} |
 
 
-
 ## Government Services:
 
 | **Type of Task**             | **AI's Role**                                                                                          | **Impact on Government Services**                                           | **Top AI Tools**                                                                                                                                                                                                                                                                                                                                                  |

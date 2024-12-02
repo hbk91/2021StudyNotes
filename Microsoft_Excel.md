@@ -265,7 +265,7 @@ description: "Study Notes"
 | `¥#,##0`                    | Adds a Yen sign with thousand separators.                                   | `1234567`         | `¥1,234,567`         |
 | `£#,##0`                    | Adds a Pound Sterling symbol with thousand separators.                      | `1234567`         | `£1,234,567`         |
 | `$0,,`                      | Divides the number by 1,000,000 and displays in millions with a dollar sign.| `123456789`       | `$123`               |
-| `$0,\B`                     | Divides the number by 1,000 and adds a `B` after it.                        | `123456789`       | `$123456,B`          |
+| `$0,\B`                     | Divides the number by 1,000 and adds a `B` after it.                        | `123456789`       | `$123456 B`          |
 | `$0,,\M`                    | Divides the number by 1,000,000 and adds `M` for millions.                  | `123456789`       | `$123M`              |
 | `0.0E+00`                   | Displays numbers in scientific notation.                                    | `12345`           | `1.2E+04`            |
 | `0%`                        | Multiplies by 100 and adds a percent sign.                                  | `0.25`            | `25%`                |
