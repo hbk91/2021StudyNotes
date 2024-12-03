@@ -8,12 +8,12 @@ description: "Study Notes"
 
 | Action                              | Shortcut                |
 |-------------------------------------|-------------------------|
-| Go to Mail                          | `Ctrl + 1`             |
-| Go to Calendar                      | `Ctrl + 2`             |
+| **Go to Mail**                          | `Ctrl + 1`             |
+| **Go to Calendar**                      | `Ctrl + 2`             |
 | Go to People                        | `Ctrl + 3`             |
 | Go to To Do                         | `Ctrl + 4`             |
-| Go to Inbox                         | `Ctrl + Shift + I`     |
-| Search your email                   | `Ctrl + E` / `F3` / `Alt + Q` |
+| **Go to Inbox**                         | `Ctrl + Shift + I`     |
+| **Search your email**                   | **`Ctrl + E`** / `F3` / `Alt + Q` |
 | Open or collapse the left pane      | `Alt + F1`             |
 | Jump Focus                          | `F6`                   |
 | Jump Focus                          | `Shift + F6`           |
@@ -26,14 +26,14 @@ description: "Study Notes"
 
 | Action                      | Shortcut                              |
 |-----------------------------|---------------------------------------|
-| Create a new email message  | `Ctrl + N` / `Ctrl + Shift + M`      |
+| **Create a new email message**  | **`Ctrl + N`** / `Ctrl + Shift + M`      |
 | Send this message           | `Ctrl + Enter` / `Alt + S`           |
-| Reply to this message       | `Ctrl + R`                           |
-| Reply all to this message   | `Ctrl + Shift + R`                   |
+| **Reply to this message**       | **`Ctrl + R`**                           |
+| **Reply all** to this message   | **`Ctrl + Shift + R`**                   |
 | Forward this message        | `Ctrl + F`                           |
 | Save draft                  | `Ctrl + S`                           |
 | Discard draft               | `Esc`                                |
-| Insert a hyperlink          | `Ctrl + K`                           |
+| **Insert a hyperlink**          | **`Ctrl + K`**                           |
 | Exit message editor         | `Alt + F10`                          |
 
 ## Read Email:
@@ -52,7 +52,7 @@ description: "Study Notes"
 
 | Action                                      | Shortcut                |
 |--------------------------------------------|-------------------------|
-| Select/Unselect this message               | `Ctrl + Space`          |
+| **Select/Unselect this message**               | **`Ctrl + Space`**          |
 | Select all messages                        | `Ctrl + A`              |
 | Clear all messages                         | `Esc`                   |
 | Select first message                       | `Home` / `Ctrl + Home`  |
