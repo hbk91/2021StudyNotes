@@ -8,11 +8,11 @@ description: "Study Notes"
 
 | Action                              | Shortcut                |
 |-------------------------------------|-------------------------|
-| **Go to Mail**                          | `Ctrl + 1`             |
-| **Go to Calendar**                      | `Ctrl + 2`             |
+| **Go to Mail**                          | **`Ctrl + 1`**             |
+| **Go to Calendar**                      | **`Ctrl + 2`**             |
 | Go to People                        | `Ctrl + 3`             |
 | Go to To Do                         | `Ctrl + 4`             |
-| **Go to Inbox**                         | `Ctrl + Shift + I`     |
+| **Go to Inbox**                         | **`Ctrl + Shift + I`**     |
 | **Search your email**                   | **`Ctrl + E`** / `F3` / `Alt + Q` |
 | Open or collapse the left pane      | `Alt + F1`             |
 | Jump Focus                          | `F6`                   |
@@ -74,13 +74,13 @@ description: "Study Notes"
 | Mark this message as unread         | `Ctrl + U`             |
 | Flag this message                   | `Insert`               |
 | Archive                             | `Backspace`            |
-| Mark this message as junk           | `Ctrl + J`             |
+| **Mark this message as junk**           | **`Ctrl + J`**             |
 | Zoom in this message                | `Ctrl + +` / `Ctrl + =` |
 | Zoom out this message               | `Ctrl + -` / `Ctrl + _` |
 | Reset the zoom of this message      | `Ctrl + 0`             |
 | Move to a folder                    | `Ctrl + Shift + V`     |
 | Ignore                              | `Ctrl + Delete`        |
-| Sync sent and received email        | `F9`                   |
+| **Sync sent and received email**        | **`F9`**                   |
 | Quick step shortcut (various)       | `Ctrl + Shift + [5–9]` |
 
 
