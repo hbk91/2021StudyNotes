@@ -1,5 +1,5 @@
 ---
-title: "Chrome"
+title: "Browsers"
 author: "Aman Jindal"
 description: "Notes"
 ---
