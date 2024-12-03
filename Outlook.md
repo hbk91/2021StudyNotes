@@ -61,6 +61,7 @@ description: "Study Notes"
 | Cut selected messages to the clipboard     | `Ctrl + X`              |
 | Paste messages                             | `Ctrl + V`              |
 
+
 ## Email Actions:
 
 | Action                              | Shortcut                |
