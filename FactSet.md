@@ -17,7 +17,7 @@ description: "Notes"
 
 | **Command Name**          | **Key Stroke**       | **Priority** | **Comments**                                       |
 |-------------------------|--------------------|----------|--------------------------------------------------|
-| Return To Audited Cell    | Ctrl Shift |         | 5          | Navigates to the last cell audited using Smart Pre |
+| Return To Audited Cell    | Ctrl Shift \|        | 5          | Navigates to the last cell audited using Smart Pre |
 | Smart Dependents          | Ctrl Shift }         | 5          | Traces and allows navigation through a cell's depe |
 | Smart Precedents          | Ctrl Shift {         | 5          | Traces and allows navigation through a cell's prec |
 | Find                      | ( Ctrl f ) / Alt ef  | 4          |                                                    |
