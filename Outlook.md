@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
-## Go To
+## Go To:
 
 | Action                              | Shortcut                |
 |-------------------------------------|-------------------------|
@@ -22,7 +22,7 @@ description: "Study Notes"
 | Navigate to the folder pane         | `Ctrl + Y`             |
 
 
-## Write Email
+## Write Email:
 
 | Action                      | Shortcut                              |
 |-----------------------------|---------------------------------------|
@@ -36,7 +36,7 @@ description: "Study Notes"
 | Insert a hyperlink          | `Ctrl + K`                           |
 | Exit message editor         | `Alt + F10`                          |
 
-## Read Email
+## Read Email:
 
 | Action                              | Shortcut       |
 |-------------------------------------|----------------|
@@ -48,7 +48,7 @@ description: "Study Notes"
 | Expand a conversation               | `Right`        |
 | Collapse a conversation             | `Left`         |
 
-## Email List
+## Email List:
 
 | Action                                      | Shortcut                |
 |--------------------------------------------|-------------------------|
@@ -61,7 +61,7 @@ description: "Study Notes"
 | Cut selected messages to the clipboard     | `Ctrl + X`              |
 | Paste messages                             | `Ctrl + V`              |
 
-## Email Actions
+## Email Actions:
 
 | Action                              | Shortcut                |
 |-------------------------------------|-------------------------|
