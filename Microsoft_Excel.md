@@ -330,6 +330,8 @@ description: "Study Notes"
 - **EDATE:** Extends a date by the number of months specified. `EDATE(Start Date, #Months)`. Months can be negative as well.
 - **EOMONTH:** Outputs the last date of the month a date is extended to. `EOMONTH(Start Date, #Months)`. Months can be negative as well.
 - **DATE:** `DATE(YEAR, MONTH, DATE)`
+- **SERIES:** SERIES(name, x_values, y_values, plot_order)
+- **TEXT:** TEXT(value, format_text). **Value:** The number, date, or time to format. Can be a cell reference or a direct value. **Format_text:** A format string specifying how you want the value to appear. This must be enclosed in double quotes (" ").
 
 ## List of Volatile Functions in Excel to avoid:
 
