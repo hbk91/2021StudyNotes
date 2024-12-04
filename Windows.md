@@ -57,7 +57,7 @@ description: "Notes"
 
 ## Taskbar Shortcuts:
 
-| **Shortcut **                                         | **Action**                                      |
+| **Shortcut**                                         | **Action**                                      |
 |---------------------------------------------------|---------------------------------------------|
 | Windows Key + Number (0-9)                        | Open app pinned to taskbar in that position |
 | Shift + Windows Key + Number (0-9)                | Open new instance of app pinned to taskbar in that position |
