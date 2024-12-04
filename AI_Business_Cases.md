@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-f## Limitations of ChatGPT and Large Models: 
+## Limitations of ChatGPT and Large Models: 
 
 | **Limitation**                          | **Potential Solution**                                                                 | **Businesses Working on It**                                              |
 |------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
