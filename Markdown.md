@@ -1,5 +1,5 @@
 ---
-title: "MArkdown"
+title: "Markdown"
 author: "Aman Jindal"
 description: "Notes"
 ---
