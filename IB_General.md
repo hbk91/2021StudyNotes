@@ -14,7 +14,7 @@ description: "Notes"
 | **Calculations**            | Black         | Denotes formula-based data.                                 |
 | **Text**                    | Mostly Black  | Black for standard text, adjusted for contrast on dark backgrounds (e.g., table headings). |
 
-### Plotting a Dynamic Stock Price Line on a Football Field:
+## Plotting a Dynamic Stock Price Line on a Football Field:
 
 **Essentially we have to plot a scatter plot with stock price on one axis as all values, and on the other axis a large number for only one point, and zero for all the others. This is a standard trick to plot straight lines.**
 
