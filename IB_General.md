@@ -14,9 +14,9 @@ description: "Notes"
 | **Calculations**            | Black         | Denotes formula-based data.                                 |
 | **Text**                    | Mostly Black  | Black for standard text, adjusted for contrast on dark backgrounds (e.g., table headings). |
 
-## Football Field Tricks:
+### Plotting a dynamic Stock Price line on a Football Field:
 
-### Plotting a dynamic Stock Price line:
+**Essentially we have to plot a scatter plot with stock price on one axis as all values, and on the other axis a large number for only one point, and zero for all the others. This is a standard trick to plot straight lines.**
 
     - In your data for the football field, add a new row for the stock price. For one axis (doesn't matter x or y), add the stock price, for the other add a large number (like 1000/10,000) for the Min point and 0 for everything else.
     - Next add the stock price data from above as a new cluster column/bar (depending upon how you are presenting the football field).
