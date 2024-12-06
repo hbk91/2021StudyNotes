@@ -32,4 +32,8 @@ description: "Notes"
 - Now the x-axis labels are messed up. So in "Select data" for the entire chart fix the x-axis to your regular labels.
 - Hide/Delete the secondary axis (Hide option is better, get in the habit of using it -> Format pane select axis labels as none).
 - Format the share price line as you wish.
-  
+
+## Fixing the Dates Axis in a Stock Price/Volume Chart:
+
+**Problem:** Have a fixed start date, end date and a small number of dates in between. While the data plotted is for the entire year.
+**Solution:**
