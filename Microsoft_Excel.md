@@ -441,4 +441,8 @@ description: "Study Notes"
     - You can have multiple rows of criteria. All the conditions in one row are joined by `AND`. Rows are joined by `OR`.
     - Do not include blank rows in criteria. Excel would interpret that as no criteria, and since rows are joined by `OR`, you will get the sum/etc. of the entire Field column.
 
+## Form Controls:
+
+- **How to Insert?** Developer -> Insert -> Create a shape wherever you need it in the excel
+- **How to move it around:** Hover over it -> A hand symbol(instead of the mouse pointer) appears -> Right click -> This selects the entire box. Now either Hold the `Alt` key and move around the box with the `mouse/Arrow keys` (this results in the box snapping to the grid boundaries). Else, just move it around with the `mouse/Arrow keys`, without holding the `Alt` key.
 
