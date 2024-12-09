@@ -39,6 +39,10 @@ description: "Notes"
 | **Synchrony Bank**              | 4.75%   | $0                          | None             | Yes, with ATM card provided | iOS: 4.8/5<br>Android: 4.6/5 | Online              | 2003        | BBB- (Positive Outlook) | Yes              | Offers CDs and money market accounts                     |
 | **Marcus by Goldman Sachs**     | 4.10%   | $0                          | None             | No             | iOS: 4.9/5<br>Android: 4.3/5   | Online              | 2016        | A+ (Stable Outlook)    | Yes              | Offers CDs and personal loans                           |
 | **American Express National Bank** | 3.90% | $0                          | None             | No             | iOS: 4.9/5<br>Android: 4.2/5   | Online              | 1989        | A2 (Stable Outlook)    | Yes              | Offers CDs and credit cards                             |
+| **Discover Bank**               | 3.90%   | $0                          | None             | No             | iOS: 4.8/5<br>Android: 4.6/5   | Online              | 1985        | A (Stable Outlook)     | Yes              | Offers a wide range of banking products, including credit cards and loans |
+| **Capital One**                 | 3.80%   | $0                          | None             | Yes, with access to Capital One ATMs | iOS: 4.8/5<br>Android: 4.7/5 | Online and Branches | 1994        | A- (Stable Outlook)    | Yes              | Provides both online and branch services, with a variety of financial products |
+
+
 
 
 ## Tech Companies
