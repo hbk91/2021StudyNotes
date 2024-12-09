@@ -18,8 +18,6 @@ description: "Notes"
 
 ## Comparison of High-Yield Savings Accounts
 
-## Comparison of High-Yield Savings Accounts
-
 | **Bank**                        | **APY** | **Minimum Opening Deposit** | **Monthly Fees** | **ATM Access** | **Mobile App Ratings**         | **Account Opening** | **Founded** | **Credit Rating**       | **FDIC Insured** | **Additional Features**                                   |
 |---------------------------------|---------|-----------------------------|------------------|----------------|-------------------------------|---------------------|-------------|-------------------------|------------------|-----------------------------------------------------------|
 | **Pibank**                      | 5.00%   | $0                          | None             | No             | N/A                           | Online              | 1984        | Not Rated              | Yes              | Online-only bank, competitive APY                        |
