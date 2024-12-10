@@ -1,5 +1,5 @@
 ---
-title: "Excel and VBA"
+title: "Microsoft Excel"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
