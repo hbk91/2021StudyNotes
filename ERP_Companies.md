@@ -48,6 +48,7 @@ description: "Study Notes"
 | **Core Strength**    | Integrated cloud ERP      | Advanced database features | Industry-specific solutions|
 
 ### **2. Features**
+
 | **Feature**                      | **NetSuite**                       | **Oracle**                      | **SAP**                       |
 |-----------------------------------|-------------------------------------|----------------------------------|-------------------------------|
 | **Financial Management**          | Strong accounting & reporting      | Advanced analytics & compliance | Robust financial modules     |
@@ -57,6 +58,7 @@ description: "Study Notes"
 | **User Experience**               | Intuitive                          | Feature-rich but complex        | Modern with Fiori UX          |
 
 ### **3. Pricing**
+
 | **Criteria**           | **NetSuite**       | **Oracle Cloud ERP**   | **SAP ERP (S/4HANA)**  |
 |-------------------------|--------------------|------------------------|------------------------|
 | **Cost**               | Mid-range          | Higher-end for SMEs    | Premium pricing        |
@@ -64,12 +66,14 @@ description: "Study Notes"
 | **Hidden Costs**       | Training, support  | Implementation fees    | Consulting fees        |
 
 ### **4. Deployment Time**
+
 | **Criteria**           | **NetSuite**       | **Oracle**             | **SAP**               |
 |-------------------------|--------------------|------------------------|-----------------------|
 | **Deployment Time**     | ~3-6 months       | 6-12 months            | 6-18 months          |
 | **Ease of Deployment**  | Faster for SMEs   | Moderate               | Complex              |
 
 ### **5. Industry Fit**
+
 | **Industry**           | **NetSuite**       | **Oracle**             | **SAP**               |
 |-------------------------|--------------------|------------------------|-----------------------|
 | **Retail**             | Strong             | Good                   | Excellent             |
@@ -78,6 +82,7 @@ description: "Study Notes"
 | **Technology**         | Excellent          | Good                   | Good                  |
 
 ### **6. Pros & Cons**
+
 | **Platform**   | **Pros**                                   | **Cons**                                  |
 |----------------|-------------------------------------------|------------------------------------------|
 | **NetSuite**   | Scalable, fast deployment, cloud-native   | Limited for highly complex enterprises  |
