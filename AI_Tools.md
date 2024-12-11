@@ -4,6 +4,15 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
+## AI Primitive Skills:
+
+1. Research
+2. Data Analytics
+3. Content Creation
+4. Coding & Automation
+5. Reasoning
+
+
 ## Personal Use:
 
 | **Type of Task**        | **AI's Role**                                                             | **Impact on Individuals**                                   | **Top 5 AI Tools**                                                                                                                                                                                                                       |
