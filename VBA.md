@@ -61,7 +61,7 @@ description: "Study Notes"
 | `With`            | Groups multiple operations on the same object.                                 | Used to simplify repetitive code that modifies the same object.                             | `With Range("A1"): .Value = 10: .Font.Bold = True: End With`                                      |
 | `Call`            | Invokes a `Sub` or `Function`. Optional in VBA.                                | Used to explicitly call another procedure.                                                  | `Call MySub()` <br> `MySub()`                                                                     |
 
-## **`xl` Prefix: Logic**
+## **Logic of Prefix: `xl`**
 
 The prefix **`xl`** is used in VBA to represent **Excel-specific constants and enumerations**. These constants simplify coding by replacing cryptic numeric values or strings with human-readable terms, making the code easier to write, understand, and maintain. 
 
@@ -70,7 +70,7 @@ The prefix **`xl`** is used in VBA to represent **Excel-specific constants and e
 - **Namespace Consistency**: Keeps Excel-specific constants organized and identifiable within the VBA environment.
 
 
-### **`xl` Categories**
+### **Categories of `xl`**
 
 | **Category**        | **Examples**                                                                                         | **Purpose**                                   |
 |---------------------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------|
