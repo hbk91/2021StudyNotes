@@ -39,6 +39,7 @@ description: "Study Notes"
 ## **NetSuite vs Oracle vs SAP: A Comparison**
 
 ### **1. Overview**
+
 | **Feature**         | **NetSuite**                | **Oracle**                | **SAP**                     |
 |----------------------|-----------------------------|---------------------------|-----------------------------|
 | **Company**          | Subsidiary of Oracle       | Oracle Corporation        | SAP SE                     |
