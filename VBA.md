@@ -26,8 +26,19 @@ description: "Study Notes"
 | **Automatic Correction**    | ```vba Sub CasingExample() Dim totalValue As Double totalvalue = 500 End Sub ```                             | VBA autocorrects `totalvalue` to `totalValue`.                                                 |
 | **Pascal Case Example**     | ```vba Dim TotalSales As Integer Dim CustomerName As String ```                                              | Improves readability and follows convention.                                                   |
 
+## **Table: VBA Naming Conventions**
 
-
+| **Element**          | **Naming Convention**            | **Example**             | **Explanation**                                                                                     |
+|-----------------------|----------------------------------|-------------------------|-----------------------------------------------------------------------------------------------------|
+| **Variables**         | Pascal Case                     | `MyVar`, `TotalSales`   | Capitalize each word for clarity and consistency.                                                  |
+| **Constants**         | Upper Snake Case                | `PI_VALUE`, `MAX_LIMIT` | Use all uppercase letters with underscores separating words to denote that the value is constant.   |
+| **Procedures (Sub)**  | Pascal Case                     | `CalculateTotal`        | Use descriptive names that clearly indicate the procedure’s purpose.                               |
+| **Functions**         | Pascal Case                     | `GetCustomerName`       | Similar to procedures, describe what the function returns or performs.                             |
+| **Objects**           | Pascal Case                     | `CustomerData`          | Follow Pascal Case to name objects like `Range` or user-defined objects for clarity.               |
+| **Forms/UserForms**   | Pascal Case                     | `CustomerInputForm`     | Use Pascal Case to name user forms to reflect their purpose.                                        |
+| **Modules**           | Pascal Case                     | `DataProcessing`        | Name modules to reflect the category or purpose of the code they contain.                          |
+| **Parameters**        | Camel Case                      | `customerName`, `itemID`| Use camelCase for function or sub parameters to distinguish them from variables.                   |
+| **Worksheet Events**  | Predefined Event Name (Pascal Case) | `Worksheet_Change`     | Use Excel's predefined naming structure, which follows Pascal Case for events.                     |
 
 ## **Components of the VBA Project**
 
