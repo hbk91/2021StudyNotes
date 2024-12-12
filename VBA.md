@@ -4,6 +4,31 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
+# **Casing in VBA**
+
+## **Casing in VBA**
+
+| **Aspect**                  | **Explanation**                                                                                              | **Example**                                                                                     |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Casing Style**            | VBA typically follows **Pascal Case** for built-in functions, constants, and variables.                      | `Range`, `Selection`, `Dim TotalSales`                                                        |
+| **Case Sensitivity**        | VBA is **not case-sensitive**, meaning variable names, functions, and keywords are treated the same regardless of case. | `Dim MyVar As Integer` <br> `Myvar = 10` (VBA accepts this without errors).                   |
+| **Automatic Casing**        | VBA corrects the case of your code to match its declaration or usage.                                        | Declaring `Dim TotalSales As Integer` and typing `totalsales = 100` will autocorrect to `TotalSales = 100`. |
+| **Case-Insensitive Behavior** | VBA doesn’t differentiate between `MyVar`, `MYVAR`, or `myvar`.                                            | `Dim MyVariable As Integer` <br> `myvariable = 10` is valid.                                    |
+| **Pascal Case Convention**  | Pascal Case capitalizes the first letter of each word for readability.                                       | `TotalSales`, `CustomerName`                                                                  |
+| **Best Practice**           | Use consistent casing to improve code readability and avoid ambiguity.                                       | Always use `TotalSales` consistently instead of mixing with `totalsales` or `totalsales`.      |
+
+
+## **Casing Practical Examples**
+
+| **Scenario**                | **Code**                                                                                                    | **Explanation**                                                                                 |
+|-----------------------------|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
+| **Case-Insensitive Behavior** | ```vba                                                                                                     Sub CaseTest() Dim MyVariable As Integer myvariable = 10 MsgBox MyVariable End Sub ```           | The variable `MyVariable` is treated the same regardless of casing.                            |
+| **Automatic Correction**    | ```vba Sub CasingExample() Dim totalValue As Double totalvalue = 500 End Sub ```                             | VBA autocorrects `totalvalue` to `totalValue`.                                                 |
+| **Pascal Case Example**     | ```vba Dim TotalSales As Integer Dim CustomerName As String ```                                              | Improves readability and follows convention.                                                   |
+
+
+
+
 ## **Components of the VBA Project**
 
 | **Component**                 | **Description**                                                                                           |
