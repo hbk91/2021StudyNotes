@@ -4,6 +4,44 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
+## **Components of the VBA Project**
+
+| **Component**                 | **Description**                                                                                           |
+|-------------------------------|-----------------------------------------------------------------------------------------------------------|
+| **VBAProject**                | The root node representing the VBA code and components for a workbook or add-in.                         |
+| **Microsoft Excel Objects**   | Contains the workbook and worksheets. Code here runs when specific events occur (e.g., worksheet events). |
+| **Modules**                   | Containers for macros and functions. These are used for general-purpose VBA code.                        |
+| **Macros**                    | Subroutines stored in modules to perform specific automated tasks in Excel.                              |
+| **Forms**                     | Used to create custom user interfaces for interacting with users.                                        |
+| **References**                | External libraries or object models linked to the VBA project.                                           |
+
+
+## **Tree Diagram: Relationship Between VBA Project Components**
+
+```plaintext
+VBAProject (WorkbookName)
+│
+├── Microsoft Excel Objects
+│   ├── Sheet1 (Sheet1)
+│   ├── Sheet2 (Sheet2)
+│   └── ThisWorkbook
+│
+├── Modules
+│   ├── Module1
+│   │   ├── Sub Macro1()
+│   │   └── Sub Macro2()
+│   └── Module2
+│       └── Sub Macro3()
+│
+├── Forms
+│   └── UserForm1
+│
+└── References (Optional)
+    ├── Libraries
+    └── Object Models
+
+
+
 ## **Shortcuts for Using Macros in Excel**
 
 | **Shortcut**             | **Action**                                   | **Description**                                                                                  |
