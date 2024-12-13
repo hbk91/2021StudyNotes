@@ -18,3 +18,5 @@ description: "Notes"
 | 8        | Frontier Airlines       | 3.0%             | Ultra-low-cost model with domestic routes targeting leisure destinations.                                  | Focused on profitability over expansion with improved capacity management.                                                                 | Market Cap: Not Specified          | Public             |
 | 9        | Allegiant Air           | 2.5%             | Serves underserved markets with low-frequency, low-cost flights targeting leisure travelers.               | Stable outlook with expectations for EBITDAR growth over the next three years.                                                             | Market Cap: Not Specified          | Public             |
 | 10       | Hawaiian Airlines       | 1.8%             | Niche focus on flights between Hawaii and the U.S. mainland, as well as international routes in the Pacific. | Recovery from pandemic-related losses; growth driven by increasing tourism demand and strategic partnerships.                               | Market Cap: Not Specified          | Public             |
+
+*Note: Outlook as of Dec, 2024*
