@@ -6,8 +6,6 @@ description: "Study Notes"
 
 ## Overview of Financial Markets:
 
-## Overview of Seven Major Financial Markets
-
 | **Market**             | **Approximate Size**                                                                 | **Liquidity**                                                                                          | **Primary Instruments**                                                                                  |
 |------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 | **Equity Markets**     | Global market capitalization of approximately $109 trillion as of Q2 2023.            | High liquidity; stocks can be bought and sold quickly with minimal price impact.                       | Shares of publicly traded companies.                                                                     |
