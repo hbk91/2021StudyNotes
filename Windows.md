@@ -102,5 +102,11 @@ description: "Notes"
 | Scroll slowly in any direction | Use the **Arrow Keys** while holding **Ctrl** (varies by app). |
 | Scroll quickly in any direction | Use the **Arrow Keys** while holding **Alt** (varies by app). |
 
+## Shortcuts for Selecting Text
 
-
+| **Action**                           | **Shortcut**                   |
+|--------------------------------------|--------------------------------|
+| Select to the end of the line        | **Shift + End**                |
+| Select to the beginning of the line  | **Shift + Home**               |
+| Select word by word (to the right)   | **Ctrl + Shift + Right Arrow** |
+| Select word by word (to the left)    | **Ctrl + Shift + Left Arrow**  |
