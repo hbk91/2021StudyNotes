@@ -6,7 +6,7 @@ description: "Notes"
 
 ## US Airlines:
 
-| **Rank** | **Airline**             | **Market Share** | **Business Strategy**                                                                                     | **Future Outlook**                                                                                               | **Valuation**              | **Public/Private** |
+| **Rank** | **Airline**             | **Market Share** | **Business Strategy**                                                                                     | **Future Outlook**                                                                                               | **Valuation**              | **Listed** |
 |----------|-------------------------|------------------|-----------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------|--------------------|
 | 1        | American Airlines       | 17.5%            | Extensive domestic and international networks with a hub-and-spoke model.                                   | Strong travel demand and co-branded credit card profitability.                                                  | Market Cap: $11.28 billion | Public             |
 | 2        | Delta Air Lines         | 17.3%            | Focus on premium products, customer service, and global partnerships.                                       | Continued growth through deleveraging and operational efficiency.                                               | Market Cap: $40.96 billion | Public             |
