@@ -49,5 +49,33 @@ description: "Notes"
 
 ## Places to check-out:
 
-1. https://thenashnyc.com/new-york-apartments/, 222 East 39th Street, New York, NY 10016
-2. 
+1. The Nash, 222 East 39th Street, https://thenashnyc.com/new-york-apartments/
+2. Harrington Housing, 12 W 44th St, https://www.harringtonhousing.com/space/studio-basic-ensuite-bath-midtown-manhattan, +1 (888) 619 76 66, 9:00 am to 5pm EST,
+3. Marquis Apts, 150 E 34th St, https://www.marquisapts.com/schedule-a-visit/
+4. The Markle, 123 W 13th St,  https://marklenyc.org/faq/
+5. 92 NY, https://www.92ny.org/residence
+
+## No-Fee Luxury Apartments:
+
+| **#** | **Name**                  | **Address**                     | **Distance (km)** | **Commute Time** | **Website**                                                                                 |
+|-------|---------------------------|---------------------------------|-------------------|------------------|---------------------------------------------------------------------------------------------|
+| 1     | The Metropolis            | 150 E 44th St, New York, NY     | 0.2               | 3-minute walk    | [Visit Website](https://www.rosenyc.com/rentals/the-metropolis/){:target="_blank"}          |
+| 2     | The Buchanan              | 160 E 48th St, New York, NY     | 0.3               | 4-minute walk    | [Visit Website](https://www.thebuchanannyc.com/){:target="_blank"}                          |
+| 3     | The Nash                  | 222 E 39th St, New York, NY     | 0.5               | 6-minute walk    | [Visit Website](https://thenashnyc.com/){:target="_blank"}                                  |
+| 4     | The Towne House           | 160 E 48th St, New York, NY     | 0.5               | 6-minute walk    | [Visit Website](https://www.thetownehouse.com/){:target="_blank"}                           |
+| 5     | The Centra                | 228-238 E 44th St, New York, NY | 0.5               | 6-minute walk    | [Visit Website](https://www.apartments.com/the-centra-new-york-ny/){:target="_blank"}       |
+| 6     | FOUND Study Turtle Bay    | 525 Lexington Ave, New York, NY | 0.6               | 7-minute walk    | [Visit Website](https://foundstudy.com/){:target="_blank"}                                  |
+| 7     | FOUND Study Midtown East  | 569 Lexington Ave, New York, NY | 0.7               | 8-minute walk    | [Visit Website](https://foundstudy.com/){:target="_blank"}                                  |
+| 8     | View 34                   | 401 E 34th St, New York, NY     | 0.8               | 10-minute walk   | [Visit Website](https://www.equityapartments.com/new-york-city/kips-bay/view-34-apartments){:target="_blank"} |
+| 9     | The Anthem                | 222 E 34th St, New York, NY     | 0.9               | 11-minute walk   | [Visit Website](https://www.theanthemnyc.com/){:target="_blank"}                            |
+| 10    | The Murray Hill           | 115 E 34th St, New York, NY     | 1.0               | 12-minute walk   | [Visit Website](https://www.themurrayhillnyc.com/){:target="_blank"}                        |
+| 11    | The Lanthian              | 377 E 33rd St, New York, NY     | 1.1               | 13-minute walk   | [Visit Website](https://www.equityapartments.com/new-york-city/murray-hill/the-lanthian-apartments){:target="_blank"} |
+| 12    | The Horizon               | 415 E 37th St, New York, NY     | 1.2               | 14-minute walk   | [Visit Website](https://www.thehorizonnyc.com/){:target="_blank"}                           |
+| 13    | The Corinthian            | 330 E 38th St, New York, NY     | 1.3               | 15-minute walk   | [Visit Website](https://www.corinthiancondo.com/){:target="_blank"}                         |
+| 14    | The Rivergate             | 606 1st Ave, New York, NY       | 1.4               | 16-minute walk   | [Visit Website](https://www.ogdencapproperties.com/rivergate/){:target="_blank"}            |
+| 15    | The Horizon               | 415 E 37th St, New York, NY     | 1.5               | 17-minute walk   | [Visit Website](https://www.thehorizonnyc.com/){:target="_blank"}                           |
+| 16    | The Corinthian            | 330 E 38th St, New York, NY     | 1.6               | 18-minute walk   | [Visit Website](https://www.corinthiancondo.com/){:target="_blank"}                         |
+| 17    | The Rivergate             | 606 1st Ave, New York, NY       | 1.7               | 19-minute walk   | [Visit Website](https://www.ogdencapproperties.com/rivergate/){:target="_blank"}            |
+| 18    | The Horizon               | 415 E 37th St, New York, NY     | 1.8               | 20-minute walk   | [Visit Website](https://www.thehorizonnyc.com/){:target="_blank"}                           |
+| 19    | The Corinthian            | 330 E 38th St, New York, NY     | 1.9               | 21-minute walk   | [Visit Website](https://www.corinthiancondo.com/){:target="_blank"}                         |
+| 20    | The Rivergate             | 606 1st Ave, New York, NY       | 2.0               | 22-minute walk   | [Visit Website](https://www.ogdencapproperties.com/rivergate/){:target="_blank"}            |
