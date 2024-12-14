@@ -33,7 +33,7 @@ description: "Notes"
 | National at 888 6th Avenue        | Not specified; contact for details | Near 34th St–Herald Square station (B, D, F, M, N, Q, R, W lines) | ~10 minutes              | <a href="https://www.nationalcorporatehousing.com/new-york-metro/national888sixthavenue-1" target="_blank">Apply here</a>           |
 | Marquis Apartments                | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.marquisapts.com/" target="_blank">Apply here</a>           |
 | Windsor Court                     | Not specified; contact for details | Near 33rd St station (6 line)                     | ~5 minutes               | <a href="https://www.relatedrentals.com/apartment-rentals/new-york-city/midtown/windsor-court" target="_blank">Apply here</a>           |
-| The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://www.thecentranyc.com/" target="_blank">Apply here</a>           |
+| The Centra                        | Not specified; contact for details | Near Grand Central–42nd St station (4, 5, 6, 7, S lines) | ~2 minutes               | <a href="https://streeteasy.com/building/the-centra" target="_blank">Apply here</a>           |
 | FOUND Study Turtle Bay            | Not specified; contact for details | Near 51st St station (6 line)                     | ~5 minutes               | <a href="https://www.foundstudy.com/turtlebay" target="_blank">Apply here</a>           |
 
 <br /><br />
@@ -47,4 +47,7 @@ description: "Notes"
 | **Intern Housing NYC**    | Varies by location; contact for details | Various locations near multiple lines               | Varies by location       | <a href="https://interns.nyc/" target="_blank">Apply here</a>                                                 |
 
 
+## Places to check-out:
 
+1. https://thenashnyc.com/new-york-apartments/, 222 East 39th Street, New York, NY 10016
+2. 
