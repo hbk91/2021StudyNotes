@@ -173,6 +173,17 @@ The prefix **`xl`** is used in VBA to represent **Excel-specific constants and e
 | `xlHorizontal`       | Refers to horizontal alignment.                             | Used to set text alignment in cells.              | `Selection.HorizontalAlignment = xlHorizontal`                                                  |
 | `xlVertical`         | Refers to vertical alignment.                               | Used to set text alignment in cells.              | `Selection.VerticalAlignment = xlVertical`                                                      |
 
+## **Accessing Row or Column Numbers**
+
+| **Action**                      | **VBA Code**                               | **Excel Formula**                                     | **Output (for A5:J12)** |
+|----------------------------------|--------------------------------------------|-----------------------------------------------------|-------------------------|
+| Get first row                   | `selRange.Row`                             | `=ROW(A5:J12)`                                      | **5**                  |
+| Get first column                | `selRange.Column`                          | `=COLUMN(A5:J12)`                                   | **1**                  |
+| Count rows                      | `selRange.Rows.Count`                      | `=ROWS(A5:J12)`                                     | **8**                  |
+| Count columns                   | `selRange.Columns.Count`                   | `=COLUMNS(A5:J12)`                                  | **10**                 |
+| Get last row                    | `selRange.Rows(selRange.Rows.Count).Row`   | `=ROW(A5:J12) + ROWS(A5:J12) - 1`                   | **12**                 |
+| Get last column                 | `selRange.Columns(selRange.Columns.Count).Column` | `=COLUMN(A5:J12) + COLUMNS(A5:J12) - 1`            | **10**                 |
+
 ## **Common VBA Issues**
 
 | **Issue**                                 | **Explanation**                                                                                                                                     | **Solution**                                                                                                                                                      |

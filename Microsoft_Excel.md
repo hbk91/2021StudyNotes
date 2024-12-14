@@ -164,6 +164,19 @@ description: "Study Notes"
 | **Alt + Y**: Opens Help tab               |                                                            |
 | **Alt + Enter**: Starts a new line in a cell |                                                        |
 
+## **Accessing Row or Column Numbers**
+
+| **Action**                      | **VBA Code**                               | **Excel Formula**                                     | **Output (for A5:J12)** |
+|----------------------------------|--------------------------------------------|-----------------------------------------------------|-------------------------|
+| Get first row                   | `selRange.Row`                             | `=ROW(A5:J12)`                                      | **5**                  |
+| Get first column                | `selRange.Column`                          | `=COLUMN(A5:J12)`                                   | **1**                  |
+| Count rows                      | `selRange.Rows.Count`                      | `=ROWS(A5:J12)`                                     | **8**                  |
+| Count columns                   | `selRange.Columns.Count`                   | `=COLUMNS(A5:J12)`                                  | **10**                 |
+| Get last row                    | `selRange.Rows(selRange.Rows.Count).Row`   | `=ROW(A5:J12) + ROWS(A5:J12) - 1`                   | **12**                 |
+| Get last column                 | `selRange.Columns(selRange.Columns.Count).Column` | `=COLUMN(A5:J12) + COLUMNS(A5:J12) - 1`            | **10**                 |
+
+
+
 ## Chart Types and Data:
 
 | **Type of Data**                          | **Recommended Chart Type**                                      | **Purpose**                                                   |
