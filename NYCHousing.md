@@ -60,9 +60,9 @@ description: "Notes"
 | **#** | **Name**                  | **Address**                     | **Distance (km)** | **Commute Time** | **Website**                                                                                 |
 |-------|---------------------------|---------------------------------|-------------------|------------------|---------------------------------------------------------------------------------------------|
 | 1     | The Metropolis            | 150 E 44th St, New York, NY     | 0.2               | 3-minute walk    | [Visit Website](https://www.rosenyc.com/rentals/the-metropolis/){:target="_blank"}          |
-| 2     | The Buchanan              | 160 E 48th St, New York, NY     | 0.3               | 4-minute walk    | [Visit Website](https://www.thebuchanannyc.com/){:target="_blank"}                          |
+| 2     | The Buchanan              | 160 E 48th St, New York, NY     | 0.3               | 4-minute walk    | [Visit Website](https://www.thebuchanan.com/){:target="_blank"}                          |
 | 3     | The Nash                  | 222 E 39th St, New York, NY     | 0.5               | 6-minute walk    | [Visit Website](https://thenashnyc.com/){:target="_blank"}                                  |
-| 4     | The Towne House           | 160 E 48th St, New York, NY     | 0.5               | 6-minute walk    | [Visit Website](https://www.thetownehouse.com/){:target="_blank"}                           |
+| 4     | The Towne House           | 160 E 48th St, New York, NY     | 0.5               | 6-minute walk    |                           |
 | 5     | The Centra                | 228-238 E 44th St, New York, NY | 0.5               | 6-minute walk    | [Visit Website](https://www.apartments.com/the-centra-new-york-ny/){:target="_blank"}       |
 | 6     | FOUND Study Turtle Bay    | 525 Lexington Ave, New York, NY | 0.6               | 7-minute walk    | [Visit Website](https://foundstudy.com/){:target="_blank"}                                  |
 | 7     | FOUND Study Midtown East  | 569 Lexington Ave, New York, NY | 0.7               | 8-minute walk    | [Visit Website](https://foundstudy.com/){:target="_blank"}                                  |
