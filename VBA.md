@@ -252,6 +252,17 @@ The prefix **`xl`** is used in VBA to represent **Excel-specific constants and e
 | Resize dynamically             | `Range("A1").Resize(5, 5).Select`            | Selects a 5x5 range starting from `A1`.  |
 | Select used range              | `ActiveSheet.UsedRange.Select`               | Selects the used range of the worksheet. |
 
+
+## **Double Quote Rules in VBA**
+
+| **Rule**                            | **Scenario**                       | **What You Write**                           | **Explanation**                              | **Output**            |
+|-------------------------------------|------------------------------------|---------------------------------------------|---------------------------------------------|-----------------------|
+| Use `""` to represent a single `"`  | Single double-quote in a string    | `"Hello ""World"""`                         | Two double quotes (`""`) represent one `"`   | `Hello "World"`       |
+| Use `& """" &` for dynamic quotes   | Concatenate quotes dynamically     | `"Hello " & """" & "World"""`               | Concatenate `Hello`, a `"` character, and `World` | `Hello "World"`       |
+| Escape quotes inside another string | Quotes within `Evaluate`           | `Evaluate("SHEET(INDIRECT(""Sheet1"" & ""!A1""))")` | Use `""` to escape quotes inside VBA strings | Formula works correctly |
+
+
+
 ## **Common VBA Issues**
 
 | **Issue**                                 | **Explanation**                                                                                                                                     | **Solution**                                                                                                                                                      |
