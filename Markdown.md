@@ -16,3 +16,12 @@ description: "Notes"
 | **Inline Code within Bullet Points**      | Use single backticks (\`) for inline code: `\`like this\``.                                                | Use single backticks for inline code snippets or special keywords.                                                                                                      |
 | **Numbered Lists with Code Blocks**       | For numbered lists, start each item with a number and ensure no empty line between the number and the code. | Indent the code block under the numbered item with at least four spaces, or use triple backticks inside the item for clean formatting.                                  |
 | **Avoid Over-Indentation**                | Do not over-indent bullet points to avoid accidental interpretation as a code block.                       | Ensure proper alignment when nesting code blocks within bullet points.                                                                                                 |
+
+## Rendering Markdown in VS Code:
+
+| **Action**                     | **Shortcut**          | **Description**                                  |
+|--------------------------------|-----------------------|-------------------------------------------------|
+| Side-by-Side Markdown Preview  | `Ctrl + K V`          | Opens the editor and a rendered preview side-by-side. |
+| Standalone Markdown Preview    | `Ctrl + Shift + V`    | Opens a full-page rendered Markdown preview.     |
+| Toggle Focus to Editor         | `Ctrl + Shift + X`    | Switches back focus to the Markdown editor.      |
+| Toggle Sidebar                 | `Ctrl + B`            | Hides/shows the sidebar for more space.          |

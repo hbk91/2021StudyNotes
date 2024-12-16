@@ -55,8 +55,8 @@ description: "Study Notes"
 
 ## **Tree Diagram: Relationship Between VBA Project Components**
 
+```
 **VBAProject (WorkbookName)**
-
 │
 ├── **Microsoft Excel Objects**
 │   ├── Sheet1 (Sheet1)
@@ -76,6 +76,7 @@ description: "Study Notes"
 └── **References (Optional)**
     ├── Libraries
     └── Object Models
+```
 
 ## **Shortcuts for Using Macros in Excel**
 
