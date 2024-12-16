@@ -279,6 +279,18 @@ End Sub
 | **Example 3: Conditional**| N/A (not supported)                        | `Evaluate("IF(SUM(A1:A5)>10, ""Yes"", ""No"")")` |
 | **When to Use**           | Use when you have fixed functions with static arguments for performance and clarity. | Use when you need dynamic, formula-like behavior or range strings. |
 
+## Functions in VBA:
+
+| **Step**                     | **Description**                                | **Example Code**                                                                 |
+|------------------------------|-----------------------------------------------|---------------------------------------------------------------------------------|
+| **1. Declare the Function**  | Use the `Function` keyword with a return type.| `Function Add(x As Integer, y As Integer) As Integer`                           |
+| **2. Perform Operations**    | Write logic or calculations within the function.| `Dim result As Integer: result = x + y`                                        |
+| **3. Assign Return Value**   | Assign the result to the function name.        | `Add = result`                                                                  |
+| **4. Call the Function**     | Call the function in a Sub or expression.      | `Dim total As Integer: total = Add(5, 7)`                                       |
+| **5. Return Types**          | Specify the type of value the function returns.| `As String`, `As Integer`, `As Range`, etc.                                     |
+| **6. Return Arrays**         | Use `Variant` to return an array.              | `Function GetArray() As Variant: GetArray = Array(1, 2, 3)`                     |
+| **7. Return Objects**        | Use `Set` to return an object like `Worksheet`.| `Function GetSheet() As Worksheet: Set GetSheet = ActiveSheet`                  |
+| **8. Use in Worksheet**      | Use VBA functions as UDFs directly in Excel.   | `Function Multiply(x, y): Multiply = x * y` → `=Multiply(5,3)` in Excel.         |
 
 
 ## **Common VBA Issues**
