@@ -78,6 +78,40 @@ description: "Study Notes"
     └── Object Models
 ```
 
+## **`Evaluate` Function in VBA**
+
+| **Feature**                  | **Description**                                    | **Example Code**                                                                 |
+|------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Purpose**                  | Executes Excel formulas or expressions dynamically.| `result = Evaluate("SUM(1, 2, 3)")`                                             |
+| **Syntax**                   | `Evaluate(expression)`                            | `Evaluate("A1:B10")`                                                            |
+| **Supports Excel Functions** | Can run Excel worksheet functions within VBA.      | `If Evaluate("ISREF('Sheet1'!A1)") Then ...`                                     |
+| **Dynamic Range References** | References ranges dynamically.                    | `Set rng = Evaluate("A1:B10")`                                                  |
+| **Return Type**              | Returns a value, range, or result of the formula.  | `MsgBox Evaluate("SUM(A1:A5)")`                                                 |
+| **Not in Excel Formulas**    | Only available in VBA; not usable in worksheet cells. | `Evaluate` cannot be typed directly in Excel as a worksheet formula.           |
+| **Error Handling**           | Invalid expressions throw runtime errors.          | Use `On Error` to handle invalid formulas dynamically.                          |
+
+## **`Evaluate` Code Example**
+```vba
+Sub EvaluateExamples()
+    ' Example 1: Performing Calculations
+    Dim result As Double
+    result = Evaluate("SUM(1, 2, 3, 4)")
+    MsgBox "Sum: " & result  ' Output: 10
+
+    ' Example 2: Dynamic Range Reference
+    Dim rng As Range
+    Set rng = Evaluate("A1:B10")
+    MsgBox "First Cell Value: " & rng.Cells(1, 1).Value
+
+    ' Example 3: Check if Range Exists (ISREF)
+    If Evaluate("ISREF('Sheet1'!A1)") Then
+        MsgBox "Sheet1 Exists!"
+    Else
+        MsgBox "Sheet1 Does Not Exist!"
+    End If
+End Sub
+```
+
 ## **Shortcuts for Using Macros in Excel**
 
 | **Shortcut**             | **Action**                                   | **Description**                                                                                  |
