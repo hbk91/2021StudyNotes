@@ -56,6 +56,7 @@ description: "Study Notes"
 ## **Tree Diagram: Relationship Between VBA Project Components**
 
 **VBAProject (WorkbookName)**
+
 │
 ├── **Microsoft Excel Objects**
 │   ├── Sheet1 (Sheet1)
