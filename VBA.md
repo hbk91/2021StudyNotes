@@ -76,40 +76,6 @@ description: "Study Notes"
     └── Object Models
 ```
 
-## **`Evaluate` Function in VBA**
-
-| **Feature**                  | **Description**                                    | **Example Code**                                                                 |
-|------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
-| **Purpose**                  | Executes Excel formulas or expressions dynamically.| `result = Evaluate("SUM(1, 2, 3)")`                                             |
-| **Syntax**                   | `Evaluate(expression)`                            | `Evaluate("A1:B10")`                                                            |
-| **Supports Excel Functions** | Can run Excel worksheet functions within VBA.      | `If Evaluate("ISREF('Sheet1'!A1)") Then ...`                                     |
-| **Dynamic Range References** | References ranges dynamically.                    | `Set rng = Evaluate("A1:B10")`                                                  |
-| **Return Type**              | Returns a value, range, or result of the formula.  | `MsgBox Evaluate("SUM(A1:A5)")`                                                 |
-| **Not in Excel Formulas**    | Only available in VBA; not usable in worksheet cells. | `Evaluate` cannot be typed directly in Excel as a worksheet formula.           |
-| **Error Handling**           | Invalid expressions throw runtime errors.          | Use `On Error` to handle invalid formulas dynamically.                          |
-
-## **`Evaluate` Code Example**
-```vba
-Sub EvaluateExamples()
-    ' Example 1: Performing Calculations
-    Dim result As Double
-    result = Evaluate("SUM(1, 2, 3, 4)")
-    MsgBox "Sum: " & result  ' Output: 10
-
-    ' Example 2: Dynamic Range Reference
-    Dim rng As Range
-    Set rng = Evaluate("A1:B10")
-    MsgBox "First Cell Value: " & rng.Cells(1, 1).Value
-
-    ' Example 3: Check if Range Exists (ISREF)
-    If Evaluate("ISREF('Sheet1'!A1)") Then
-        MsgBox "Sheet1 Exists!"
-    Else
-        MsgBox "Sheet1 Does Not Exist!"
-    End If
-End Sub
-```
-
 ## **Shortcuts for Using Macros in Excel**
 
 | **Shortcut**             | **Action**                                   | **Description**                                                                                  |
@@ -260,6 +226,58 @@ The prefix **`xl`** is used in VBA to represent **Excel-specific constants and e
 | Use `""` to represent a single `"`  | Single double-quote in a string    | `"Hello ""World"""`                         | Two double quotes (`""`) represent one `"`   | `Hello "World"`       |
 | Use `& """" &` for dynamic quotes   | Concatenate quotes dynamically     | `"Hello " & """" & "World"""`               | Concatenate `Hello`, a `"` character, and `World` | `Hello "World"`       |
 | Escape quotes inside another string | Quotes within `Evaluate`           | `Evaluate("SHEET(INDIRECT(""Sheet1"" & ""!A1""))")` | Use `""` to escape quotes inside VBA strings | Formula works correctly |
+
+## **`Evaluate` Function in VBA**
+
+| **Feature**                  | **Description**                                    | **Example Code**                                                                 |
+|------------------------------|----------------------------------------------------|---------------------------------------------------------------------------------|
+| **Purpose**                  | Executes Excel formulas or expressions dynamically.| `result = Evaluate("SUM(1, 2, 3)")`                                             |
+| **Syntax**                   | `Evaluate(expression)`                            | `Evaluate("A1:B10")`                                                            |
+| **Supports Excel Functions** | Can run Excel worksheet functions within VBA.      | `If Evaluate("ISREF('Sheet1'!A1)") Then ...`                                     |
+| **Dynamic Range References** | References ranges dynamically.                    | `Set rng = Evaluate("A1:B10")`                                                  |
+| **Return Type**              | Returns a value, range, or result of the formula.  | `MsgBox Evaluate("SUM(A1:A5)")`                                                 |
+| **Not in Excel Formulas**    | Only available in VBA; not usable in worksheet cells. | `Evaluate` cannot be typed directly in Excel as a worksheet formula.           |
+| **Error Handling**           | Invalid expressions throw runtime errors.          | Use `On Error` to handle invalid formulas dynamically.                          |
+
+## **`Evaluate` Code Example**
+```vba
+Sub EvaluateExamples()
+    ' Example 1: Performing Calculations
+    Dim result As Double
+    result = Evaluate("SUM(1, 2, 3, 4)")
+    MsgBox "Sum: " & result  ' Output: 10
+
+    ' Example 2: Dynamic Range Reference
+    Dim rng As Range
+    Set rng = Evaluate("A1:B10")
+    MsgBox "First Cell Value: " & rng.Cells(1, 1).Value
+
+    ' Example 3: Check if Range Exists (ISREF)
+    If Evaluate("ISREF('Sheet1'!A1)") Then
+        MsgBox "Sheet1 Exists!"
+    Else
+        MsgBox "Sheet1 Does Not Exist!"
+    End If
+End Sub
+```
+
+## **Worksheet.Function vs Evaluate in VBA**
+
+| **Feature**               | **WorksheetFunction**                        | **Evaluate**                              |
+|---------------------------|---------------------------------------------|------------------------------------------|
+| **Purpose**               | Executes worksheet functions explicitly.    | Evaluates any valid Excel formula or expression. |
+| **Syntax**                | `WorksheetFunction.FunctionName(arguments)` | `Evaluate("Formula or Expression")`      |
+| **Dynamic Ranges**        | Does **not** support range strings.         | Supports Excel-style range strings dynamically. |
+| **Formula Support**       | Limited to worksheet functions (e.g., `SUM`).| Supports full Excel formulas (e.g., `IF`, `SHEET`). |
+| **Error Handling**        | Throws a runtime error on failure.          | Returns an error value (e.g., `#N/A`, `Nothing`). |
+| **Ease of Use**           | Requires structured arguments.              | Allows more flexible, dynamic expressions. |
+| **Conditional Logic**     | Cannot process Excel `IF` dynamically.      | Can evaluate conditional formulas.       |
+| **Performance**           | Faster for direct worksheet functions.      | Slightly slower due to formula parsing.  |
+| **Use Case**              | When the function is known and fixed (e.g., `SUM`, `VLOOKUP`). | When formulas are dynamic or need to be built at runtime. |
+| **Example 1: SUM**        | `WorksheetFunction.Sum(Range("A1:A5"))`      | `Evaluate("SUM(A1:A5)")`                 |
+| **Example 2: VLOOKUP**    | `WorksheetFunction.VLookup("X", Range("A1:B5"), 2, False)` | `Evaluate("VLOOKUP(""X"", A1:B5, 2, FALSE)")` |
+| **Example 3: Conditional**| N/A (not supported)                        | `Evaluate("IF(SUM(A1:A5)>10, ""Yes"", ""No"")")` |
+| **When to Use**           | Use when you have fixed functions with static arguments for performance and clarity. | Use when you need dynamic, formula-like behavior or range strings. |
 
 
 
