@@ -164,7 +164,7 @@ description: "Study Notes"
 | **Alt + Y**: Opens Help tab               |                                                            |
 | **Alt + Enter**: Starts a new line in a cell |                                                        |
 
-## **Accessing Row or Column Numbers**
+## Accessing Row or Column Numbers
 
 | **Action**                      | **VBA Code**                               | **Excel Formula**                                     | **Output (for A5:J12)** |
 |----------------------------------|--------------------------------------------|-----------------------------------------------------|-------------------------|
@@ -175,9 +175,16 @@ description: "Study Notes"
 | Get last row                    | `selRange.Rows(selRange.Rows.Count).Row`   | `=ROW(A5:J12) + ROWS(A5:J12) - 1`                   | **12**                 |
 | Get last column                 | `selRange.Columns(selRange.Columns.Count).Column` | `=COLUMN(A5:J12) + COLUMNS(A5:J12) - 1`            | **10**                 |
 
+### Conditional Formatting Precedence Concept  
+Conditional formatting rules are applied **top-to-bottom**, and Excel stops evaluating once a rule is **TRUE**. Therefore, higher priority rules (e.g., upper thresholds) must appear **first**._
 
+| **Rule Order** | **Condition**                  | **Formatting Applied** | **Example Value** | **Reason**                                                               |
+|-----------------|--------------------------------|------------------------|------------------|--------------------------------------------------------------------------|
+| **1st**        | Value > Upper Threshold        | **Format A**           | 600,000          | Ensures the highest threshold is prioritized to prevent lower matches.   |
+| **2nd**        | Value > Middle Threshold       | **Format B**           | 300,000          | Applied only if the first condition is not met.                         |
+| **3rd**        | Value > Lower Threshold        | **Format C**           | 150,000          | Captures remaining values not covered by the first two conditions.      |
 
-## Chart Types and Data:
+## Chart Types and Data
 
 | **Type of Data**                          | **Recommended Chart Type**                                      | **Purpose**                                                   |
 |-------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------|
