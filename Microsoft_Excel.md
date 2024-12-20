@@ -8,13 +8,6 @@ description: "Study Notes"
 
  How to move focus to the formula bar while editing a cell, using the keyboard?
 
-## Formatting:
-
-- **Display Share Prices and EPS:** upto two decimal places, because that's how they are displayed by convention
-- **Share Count:** We also usually use at least 1 decimal place, sometimes up to 2-3, to display the company's share count. 
-- **Valuation Multiples:** Usually 1 decimal place for valuation multiples
-- **Percentages:** One decimal place as well - even if the financial figures in the model have 0 decimal places
-
 ## Excel Ribbon Dictionary:
 
 - **File:** F
@@ -232,11 +225,6 @@ Conditional formatting rules are applied **top-to-bottom**, and Excel stops eval
 - **Keeping only certain entries in the Legend:** Click/Select the particular data series legend (yes you can do this! - selecting individual legend items), and then just press delete.
 - **Color a single col different in a column/bar chart:** You can do it the manual way, by selecting that particular col, and changing its fill colour. **OR, more dynamically:** Create a helper column that is `#NA` or col value - if(col value = "Ticker reqd.", col value, NA()). Now plot the col and the helper col as a clustered column chart (Alt+N+C1). Next select the Helper col in the plotted chart, and change its `Series Overlap` in `Format Pane` (Ctrl+1) to `100%`. This will plot the Helper col on top of the original column. Make sure to always plot the helper col second, and original col first (original col should be Series 1, and helper Series 2), such that when you change `Series Overlap` to `100%`, the helper col plots on top, and not vice versa.
 
-
-## Combination Charts:
-
-
-
 ## Custom Formatting Symbols:
 
 | **Symbol**   | **Meaning**                                                                                      |
@@ -274,7 +262,6 @@ Conditional formatting rules are applied **top-to-bottom**, and Excel stops eval
 | `[Green]"Profit: "0;[Red]"Loss: "0;0;"Data: "@` | Adds "Profit" or "Loss" to numbers, "Data" to text, zero as-is.    | `200, -200, 0, Hello`| `Profit: 200`, `Loss: 200`, `0`, `Data: Hello` |
 | `#,##0;[Red](#,##0);[Blue]"Zero Value";` | Positive and negative formatted, zero in blue, **text hidden**.    | `123, -123, 0, Hi`   | `123`, `(123)`, `Zero Value`, (hidden) |
 
-
 ## Custom Formatting More Examples:
 
 | **Custom Format**           | **Description**                                                             | **Example Input** | **Displayed Output** |
@@ -298,7 +285,6 @@ Conditional formatting rules are applied **top-to-bottom**, and Excel stops eval
 | `[>1000]0,, "M";0`          | Displays numbers above 1,000 as millions (`M`); others as-is.               | `1500000`         | `1.5 M`              |
 | `[Blue]#,##0;[Red]#,##0;0`  | Displays positives in blue, negatives in red, and zeros as-is.              | `123, -123, 0`    | `123 (blue)`         |
 | `#,##0.00 "USD"`            | Displays numbers with `USD` appended.                                       | `1234.5`          | `1,234.50 USD`       |
-
 
 ## Excel Keyboard Shortcuts:
 

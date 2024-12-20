@@ -14,6 +14,13 @@ description: "Notes"
 | **Calculations**            | Black         | Denotes formula-based data.                                 |
 | **Text**                    | Mostly Black  | Black for standard text, adjusted for contrast on dark backgrounds (e.g., table headings). |
 
+## Formatting:
+
+- **Display Share Prices and EPS:** upto two decimal places, because that's how they are displayed by convention
+- **Share Count:** We also usually use at least 1 decimal place, sometimes up to 2-3, to display the company's share count. 
+- **Valuation Multiples:** Usually 1 decimal place for valuation multiples
+- **Percentages:** One decimal place as well - even if the financial figures in the model have 0 decimal places
+
 ## Plotting a Dynamic Stock Price Line on a Football Field:
 
 **Essentially we have to plot a scatter plot with stock price on one axis as all values, and on the other axis a large number for only one point, and zero for all the others. This is a standard trick to plot straight lines.**

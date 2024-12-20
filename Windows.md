@@ -110,3 +110,4 @@ description: "Notes"
 | Select to the beginning of the line  | **Shift + Home**               |
 | Select word by word (to the right)   | **Ctrl + Shift + Right Arrow** |
 | Select word by word (to the left)    | **Ctrl + Shift + Left Arrow**  |
+
