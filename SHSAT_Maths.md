@@ -8,19 +8,15 @@ description: "Maths Study Material"
 
 ---
 
-## **Crackin’ the Math Code: Your NYC Guide to SHSAT Success**
+## **Crackin’ the Math Code: Your Central Park Guide to SHSAT Success**
 
-What’s your favorite spot in Central Park? Is it the peaceful Ramble, the iconic Bethesda Fountain, or maybe the rolling fields of Sheep Meadow? Now, imagine that each of these landmarks holds a math treasure waiting for you to uncover. Exciting, right? Welcome to the **Central Park Quest**, where math becomes your map, and each topic is a step closer to mastering the SHSAT.
+**What’s your favorite spot in Central Park? Is it the peaceful Ramble, the iconic Bethesda Fountain, or maybe the rolling fields of Sheep Meadow?** Now, imagine that each of these landmarks holds a math treasure waiting for you to uncover. Exciting, right? Welcome to the **Central Park Quest**, where math becomes your map, and each topic is a step closer to mastering the SHSAT.
 
 In this quest, you’ll solve puzzles, decode clues, and conquer adventures inspired by the park’s beauty and charm. Along the way, you’ll sharpen your skills, gain confidence, and prepare to ace the math section like a true New York explorer.
 
 To begin, let’s take a look at your **adventure map** below. Each stop represents a key math topic and its exciting adventures. Are you ready to dive in and unlock the secrets of Central Park? Let’s go!
 
----
-
 ## **Adventure Map of Central Park Math**
-
----
 
 | **Landmark**             | **Math Topic**                                                                    | **Expected Adventures** | **Adventure Intensity** |
 |--------------------------|-----------------------------------------------------------------------------------|-------------------------|-------------------------|
@@ -34,33 +30,21 @@ To begin, let’s take a look at your **adventure map** below. Each stop represe
 
 ---
 
-# ✨🗺️ Follow the Path to Your Next Adventure 🗺️✨
-
+### ✨🗺️ Let's start the Adventure 🗺️✨
 
 ## **Discovering Numbers at Bethesda Fountain - Arithmetic**
 
----
-
-# 🗺️✨ Bethesda Fountain: Where Numbers Flow ✨🗺️
+### 🗺️✨ Bethesda Fountain: Where Numbers Flow ✨🗺️
 
 Have you ever stood by Bethesda Fountain and wondered how much water it holds or how evenly its sections are divided? Numbers are all around us here—hidden in the ripples of water, the angles of the design, and even the people gathered nearby. This is your first stop on the **Central Park Quest**, where we’ll dive into **Arithmetic** and uncover its secrets. Let’s explore!
 
----
+### 💧💦 Trail 1: Sharing the Fountain’s Waters - Fractions 💦💧
 
-### **Trail 1: Sharing the Fountain’s Waters - Fractions**
-
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-💧💦 ~ Sharing the Fountain’s Waters ~ 💦💧
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine dividing the water into equal sections. The **numerator** (top number) shows how many parts you’re working with, and the **denominator** (bottom number) shows the total number of equal parts.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    The fountain is divided into 5 equal sections. If 3 sections are shaded, what fraction of the fountain is shaded?  
    **Solution:**  
@@ -76,20 +60,13 @@ Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine
 
 ---
 
-### **Trail 2: Measuring the Fountain’s Flow - Decimals**
+### **Trail 2: 💧✨ Measuring the Fountain’s Flow ✨💧 - Decimals**
 
----
-
-===========================================
-💧✨ ~ Measuring the Fountain’s Flow ~ ✨💧
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Decimals are another way to express parts of a whole, often used in measurements. For example, if the fountain’s diameter is 2.75 meters, the ".75" represents three-quarters of a meter.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    The fountain’s height is 3.25 meters. Express this as a mixed number.  
    **Solution:**  
@@ -106,18 +83,13 @@ Decimals are another way to express parts of a whole, often used in measurements
 
 ---
 
-### **Trail 3: Dividing the Fountain’s Space - Ratios**
+### **Trail 3: 🌳🧮 ~ Dividing the Fountain’s Space ~ 🧮🌳 - Ratios**
 
----
-
-🌳🧮 ~ Dividing the Fountain’s Space ~ 🧮🌳
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Ratios compare two quantities. If 4 people sit on one side of the fountain and 6 on the other, the ratio of people on one side to the other is 4:6, which simplifies to 2:3.
 
----
-
 ### **Adventurer’s Guide**
+
 1. **Trail Marker 1:**  
    There are 8 ducks and 12 pigeons around the fountain. What is the ratio of ducks to pigeons in simplest form?  
    **Solution:**  
@@ -133,18 +105,13 @@ Ratios compare two quantities. If 4 people sit on one side of the fountain and 6
 
 ---
 
-### **Trail 4: Counting the Fountain’s Visitors - Percentages**
+### **Trail 4: 🚶‍♂️🌟 Counting the Fountain’s Visitors 🌟🚶‍♀️ - Percentages**
 
----
-
-### 🚶‍♂️🌟 **Counting the Fountain’s Visitors** 🌟🚶‍♀️
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Percentages represent parts per 100. If 30% of visitors sit near the fountain, it means 30 out of every 100 people are seated there.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    Out of 500 visitors, 150 are seated near the fountain. What percentage of visitors is seated?  
    **Solution:**  
@@ -261,9 +228,7 @@ Algebraic expressions involve numbers, variables, and operations but no equals s
 
 ---
 
--------------------------------------------------
-🗝️✨ ~ Decoding Castle Scrolls ~ ✨🗝️
--------------------------------------------------
+🗝️✨ Decoding Castle Scrolls ✨🗝️
 
 ### **Rules of the Trail**
 Substitution involves replacing a variable with a known value to evaluate or simplify an expression. It’s like plugging puzzle pieces into place.
