@@ -6,17 +6,18 @@ description: "Study Notes"
 
 ## Navigating a Chat using the keyboard:
 
-| **Action**                          | **Shortcut/Steps**                                                                                  |
-|-------------------------------------|-----------------------------------------------------------------------------------------------------|
-| **Enable Keyboard Navigation**      | `Ctrl + /` to open the shortcuts menu and ensure navigation is active.                             |
-| **Focus on Messages**               | `Ctrl + K` to open the quick switcher, select the server/channel, and press `Enter`.               |
-| **Scroll Through Messages**         | `Alt + Up Arrow` or `Alt + Down Arrow` to navigate through messages.                               |
-| **Highlight a Message**             | Use `Alt + Arrow Keys` to highlight the desired message.                                           |
-| **Reply to a Message**              | Highlight the message, press `Enter` to open the quick action menu, select **Reply**, and press `Enter`. |
-| **Jump to Unread Messages**         | `Shift + Esc`                                                                                      |
-| **Mark All Messages as Read**       | `Shift + Escape`                                                                                   |
-| **Scroll Backward or Forward**      | `Page Up` or `Page Down`                                                                           |
-| **Quick Switch Channels or DMs**    | `Ctrl + K`                                                                                         |
+| **Action**                          | **Shortcut**                                   |
+|-------------------------------------|-----------------------------------------------|
+| **Navigate to Chat Area (Messages)**| Press `Tab` repeatedly until the chat area is focused. |
+| **Navigate Messages in Chat**       | `Up Arrow` / `Down Arrow`                     |
+| **Navigate the Left Sidebar (Servers/Channels)** | `Alt + Up Arrow` / `Alt + Down Arrow`    |
+| **Reply to a Message**              | `Shift + R`                                   |
+| **React to a Message**              | `Shift + \`                                   |
+| **Edit Your Last Message**          | `Up Arrow` (in text box)                      |
+| **Jump to Newest Message**          | `Ctrl + Down Arrow`                           |
+| **Mark Channel as Read**            | `Esc`                                         |
+| **Search in Chat**                  | `Ctrl + F`                                    |
+| **Open Quick Emoji Picker**         | `Ctrl + E`                                    |
 
 ## Other useful shortcuts:
 
