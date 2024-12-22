@@ -110,9 +110,7 @@ Decimals are another way to express parts of a whole, often used in measurements
 
 ---
 
-******************************************
 🌳🧮 ~ Dividing the Fountain’s Space ~ 🧮🌳
-******************************************
 
 ### **Rules of the Trail**
 Ratios compare two quantities. If 4 people sit on one side of the fountain and 6 on the other, the ratio of people on one side to the other is 4:6, which simplifies to 2:3.
@@ -139,9 +137,7 @@ Ratios compare two quantities. If 4 people sit on one side of the fountain and 6
 
 ---
 
--------------------------------------------------
-🚶‍♂️🌟 ~ Counting the Fountain’s Visitors ~ 🌟🚶‍♀️
--------------------------------------------------
+### 🚶‍♂️🌟 **Counting the Fountain’s Visitors** 🌟🚶‍♀️
 
 ### **Rules of the Trail**
 Percentages represent parts per 100. If 30% of visitors sit near the fountain, it means 30 out of every 100 people are seated there.
@@ -180,9 +176,7 @@ Standing tall above Central Park, Belvedere Castle is a place of intrigue and my
 
 ---
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-🔑🧩 ~ Unlocking Hidden Numbers ~ 🧩🔑
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🔑🧩 **Unlocking Hidden Numbers** 🧩🔑
 
 ### **Rules of the Trail**
 An equation is like a scale—it’s balanced. What you do to one side, you must do to the other. Your goal is to isolate the variable (the unknown) by performing operations to simplify both sides of the equation.
@@ -210,9 +204,7 @@ An equation is like a scale—it’s balanced. What you do to one side, you must
 
 ---
 
-===========================================
-⚖️🌟 ~ Balancing the Castle Bridge ~ 🌟⚖️
-===========================================
+⚖️🌟 **Balancing the Castle Bridge** 🌟⚖️
 
 ### **Rules of the Trail**
 Inequalities are like equations but with a twist: instead of an equals sign, you’ll see \( >, <, \geq, \leq \). When multiplying or dividing by a negative number, remember to flip the inequality sign!
@@ -240,9 +232,7 @@ Inequalities are like equations but with a twist: instead of an equals sign, you
 
 ---
 
-******************************************
-📝📜 ~ Exploring Algebraic Expressions ~ 📜📝
-******************************************
+📝📜 **Exploring Algebraic Expressions**  📜📝
 
 ### **Rules of the Trail**
 Algebraic expressions involve numbers, variables, and operations but no equals sign. Simplify expressions by combining like terms and using the distributive property.
