@@ -443,42 +443,29 @@ Amazing work, explorer! You’ve conquered ratios, percentages, and multi-step p
 
 ---
 
-## **Unlocking Patterns at The Ramble - Probability and Statistics**
-
----
-
-# 🌿✨ The Ramble: Discovering the Secrets of Chance and Data ✨🌿
+## **🌿✨ The Ramble: Discovering the Secrets of Chance and Data ✨🌿 - Probability and Statistics**
 
 Deep within the lush trails of **The Ramble**, nature whispers patterns and probabilities. Here, we’ll explore how math can help us make predictions and understand data. **Probability** reveals the likelihood of events happening, while **Statistics** helps us uncover stories hidden in numbers. Are you ready to venture into this maze of chance and data? Let’s begin!
 
----
+#### **Trail 1: 🎲🌟 ~ Rolling the Dice ~ 🌟🎲 - Probability Basics**
 
-### **Trail 1: Rolling the Dice - Probability Basics**
-
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-🎲🌟 ~ Rolling the Dice ~ 🌟🎲
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Probability measures how likely an event is to occur, expressed as a fraction, decimal, or percentage.  
 The formula is:  
 \[
 \text{Probability} = \frac{\text{Favorable Outcomes}}{\text{Total Outcomes}}
 \]
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A single die is rolled. What is the probability of rolling a 4?  
    **Solution:**  
    - Total outcomes = 6 (numbers 1–6).  
    - Favorable outcome = 1 (only the number 4).  
    - Probability = \( \frac{1}{6} \).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A jar contains 3 red marbles, 5 blue marbles, and 2 green marbles. What is the probability of drawing a blue marble?  
    **Solution:**  
    - Total marbles = \( 3 + 5 + 2 = 10 \).  
@@ -487,61 +474,45 @@ The formula is:
 
 ---
 
-### **Trail 2: Predicting Nature’s Paths - Compound Probability**
+### **Trail 2: 🌳🔗 ~ Predicting Nature’s Paths ~ 🔗🌳 - Compound Probability**
 
----
-
-******************************************
-🌳🔗 ~ Predicting Nature’s Paths ~ 🔗🌳
-******************************************
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Compound probability involves the likelihood of multiple events occurring.  
 - For **independent events** (events that don’t affect each other): Multiply probabilities.  
 - For **dependent events** (events that affect each other): Adjust probabilities after each event.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Two coins are flipped. What is the probability of getting two heads?  
    **Solution:**  
    - Probability of heads = \( \frac{1}{2} \).  
    - Probability of two heads = \( \frac{1}{2} \times \frac{1}{2} = \frac{1}{4} \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A bag contains 4 red balls and 6 yellow balls. Two balls are drawn without replacement. What is the probability of drawing two red balls?  
    **Solution:**  
    - Probability of first red = \( \frac{4}{10} \).  
    - Probability of second red = \( \frac{3}{9} \) (one red ball is removed).  
    - Compound probability = \( \frac{4}{10} \times \frac{3}{9} = \frac{12}{90} = \frac{2}{15} \).
 
----
+### **Trail 3: 🦆✨ ~ Counting the Flock ~ ✨🦆 - Mean, Median, and Mode**
 
-### **Trail 3: Counting the Flock - Mean, Median, and Mode**
-
----
-
-===========================================
-🦆✨ ~ Counting the Flock ~ ✨🦆
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **Mean (average)**: Sum of all numbers divided by the count of numbers.  
 - **Median**: The middle number when data is arranged in order.  
 - **Mode**: The number that appears most frequently.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    The ages of five ducks in The Ramble are 2, 4, 6, 4, and 8. Find the mean, median, and mode.  
    **Solution:**  
    - Mean = \( \frac{2 + 4 + 6 + 4 + 8}{5} = \frac{24}{5} = 4.8 \).  
    - Median = Arrange in order: 2, 4, 4, 6, 8 → Middle = 4.  
    - Mode = 4 (appears most frequently).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    The heights (in feet) of five trees are 20, 15, 25, 20, and 10. Find the mean, median, and mode.  
    **Solution:**  
    - Mean = \( \frac{20 + 15 + 25 + 20 + 10}{5} = \frac{90}{5} = 18 \).  
@@ -550,28 +521,21 @@ Compound probability involves the likelihood of multiple events occurring.
 
 ---
 
-### **Trail 4: Gathering Ramble Data - Range and Outliers**
+### **Trail 4: 📊🌟 ~ Gathering Ramble Data ~ 🌟📊 - Range and Outliers**
 
----
-
--------------------------------------------------
-📊🌟 ~ Gathering Ramble Data ~ 🌟📊
--------------------------------------------------
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **Range**: Difference between the highest and lowest values.  
 - **Outliers**: Numbers significantly higher or lower than the rest of the data. These can skew results.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    The weekly visitor counts at The Ramble are 120, 130, 150, 200, and 600. Find the range and identify the outlier.  
    **Solution:**  
    - Range = \( 600 - 120 = 480 \).  
    - Outlier = 600 (significantly higher than the other numbers).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    The test scores of five students are 80, 85, 90, 95, and 150. Find the range and identify the outlier.  
    **Solution:**  
    - Range = \( 150 - 80 = 70 \).  
@@ -583,69 +547,52 @@ Compound probability involves the likelihood of multiple events occurring.
 
 Fantastic work, explorer! You’ve unlocked the secrets of probability and statistics at **The Ramble**. You now understand chance, data patterns, and how to analyze numbers. Your next stop is **Sheep Meadow**, where Number Theory awaits. Ready for the next chapter of your adventure? Let’s go!
 
-## **Cracking Codes at Sheep Meadow - Number Theory**
-
 ---
 
-# 🐑✨ Sheep Meadow: The Magic of Numbers ✨🐑
+## **🐑✨ Sheep Meadow: The Magic of Numbers ✨🐑 - Number Theory**
 
 Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden properties await discovery. **Number Theory** is the study of integers, their relationships, and patterns. From prime numbers to factors and multiples, this trail will uncover the magic behind the numbers that shape the world. Ready to start your quest? Let’s dive in!
 
 ---
 
-### **Trail 1: Counting the Flock - Factors and Multiples**
+### **Trail 1: 🔢🐏 ~ Counting the Flock ~ 🐏🔢 - Factors and Multiples**
 
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-🔢🐏 ~ Counting the Flock ~ 🐏🔢
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **Factors**: Numbers that divide evenly into another number.  
   Example: Factors of 12 are 1, 2, 3, 4, 6, and 12.  
 - **Multiples**: Numbers created by multiplying another number.  
   Example: Multiples of 3 are 3, 6, 9, 12, etc.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Find all the factors of 18.  
    **Solution:**  
    - Factors are numbers that divide evenly into 18: \( 1, 2, 3, 6, 9, 18 \).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Find the first five multiples of 7.  
    **Solution:**  
    - Multiply 7 by \( 1, 2, 3, 4, 5 \): \( 7, 14, 21, 28, 35 \).
 
 ---
 
-### **Trail 2: Finding Hidden Patterns - Prime and Composite Numbers**
+### **Trail 2: 🌟🔍 ~ Finding Hidden Patterns ~ 🔍🌟 - Prime and Composite Numbers**
 
----
-
-******************************************
-🌟🔍 ~ Finding Hidden Patterns ~ 🔍🌟
-******************************************
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **Prime Numbers**: Numbers greater than 1 that have only two factors: 1 and itself.  
   Example: 2, 3, 5, 7, 11.  
 - **Composite Numbers**: Numbers greater than 1 that have more than two factors.  
   Example: 4, 6, 8, 9, 10.
 
----
-
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+#### **Adventurer’s Guide**
+**Trail Marker 1:**  
    Is 29 a prime or composite number?  
    **Solution:**  
    - Factors of 29 are \( 1 \) and \( 29 \).  
    - Since it has only two factors, \( 29 \) is a **prime number**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Is 30 a prime or composite number?  
    **Solution:**  
    - Factors of 30 are \( 1, 2, 3, 5, 6, 10, 15, 30 \).  
@@ -653,22 +600,15 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
 
 ---
 
-### **Trail 3: Exploring Relationships - Greatest Common Factor (GCF) and Least Common Multiple (LCM)**
+### **Trail 3: 🤝✨ ~ Exploring Relationships ~ ✨🤝 - Greatest Common Factor (GCF) and Least Common Multiple (LCM)**
 
----
-
-===========================================
-🤝✨ ~ Exploring Relationships ~ ✨🤝
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **GCF (Greatest Common Factor)**: The largest factor shared by two or more numbers.  
 - **LCM (Least Common Multiple)**: The smallest multiple shared by two or more numbers.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Find the GCF of 12 and 18.  
    **Solution:**  
    - Factors of 12: \( 1, 2, 3, 4, 6, 12 \).  
@@ -676,7 +616,7 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
    - Common factors: \( 1, 2, 3, 6 \).  
    - Greatest common factor = \( 6 \).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Find the LCM of 4 and 5.  
    **Solution:**  
    - Multiples of 4: \( 4, 8, 12, 16, 20 \).  
@@ -685,31 +625,23 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
 
 ---
 
-### **Trail 4: Cracking the Code - Divisibility Rules**
+### **Trail 4: 🔑🌟 ~ Cracking the Code ~ 🌟🔑 - Divisibility Rules**
 
----
-
--------------------------------------------------
-🔑🌟 ~ Cracking the Code ~ 🌟🔑
--------------------------------------------------
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Divisibility rules help quickly determine if one number divides another without leaving a remainder:  
 - **Divisible by 2**: The number is even.  
 - **Divisible by 3**: The sum of the digits is divisible by 3.  
 - **Divisible by 5**: The number ends in 0 or 5.
 
----
-
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+#### **Adventurer’s Guide**
+**Trail Marker 1:**  
    Is 126 divisible by 2, 3, and 5?  
    **Solution:**  
    - **2**: Yes, \( 126 \) is even.  
    - **3**: Sum of digits = \( 1 + 2 + 6 = 9 \), divisible by 3.  
    - **5**: No, \( 126 \) does not end in 0 or 5.  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Is 150 divisible by 2, 3, and 5?  
    **Solution:**  
    - **2**: Yes, \( 150 \) is even.  
@@ -720,60 +652,37 @@ Divisibility rules help quickly determine if one number divides another without 
 
 ### 🏆✨ Treasure Found: Sheep Meadow ✨🏆
 
+---
+
 Amazing work, explorer! You’ve mastered factors, primes, GCF, LCM, and divisibility rules at **Sheep Meadow**. Number theory is no longer a mystery to you! Your next adventure takes you to **Gapstow Bridge**, where Advanced Topics await. Let’s continue this incredible journey!
 
-## **Cracking Secrets at Gapstow Bridge - Advanced Topics**
-
----
-
-## **Cracking Secrets at Gapstow Bridge - Advanced Topics**
-
----
-
-# 🌉✨ Gapstow Bridge: Unlocking Math’s Hidden Layers ✨🌉
+## **🌉✨ Gapstow Bridge: Unlocking Math’s Hidden Layers ✨🌉 - Advanced Topics**
 
 Nestled within the heart of Central Park, **Gapstow Bridge** is a symbol of strength and connection. Just like the bridge, **Advanced Topics** help us connect foundational math concepts to more complex ideas. Here, you’ll explore **functions**, **sequences**, and advanced problem-solving strategies. These tools will prepare you for the trickiest SHSAT challenges. Ready to dive into the deep end of math? Let’s go!
 
----
+### **Trail 1: 📈🌟 ~ Mapping the Journey ~ 🌟📈 - Functions**
 
-### **Trail 1: Mapping the Journey - Functions**
-
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-📈🌟 ~ Mapping the Journey ~ 🌟📈
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 A **function** is a rule that assigns each input exactly one output. Think of it as a machine where you put something in, and it always gives you a specific result.
 
 - Functions are often written as \( f(x) = \text{expression} \), where \( x \) is the input.  
 - To evaluate \( f(x) \), substitute the value of \( x \) into the expression.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    If \( f(x) = 2x + 3 \), find \( f(4) \).  
    **Solution:**  
    - Substitute \( x = 4 \): \( f(4) = 2(4) + 3 = 8 + 3 = 11 \).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    If \( g(x) = x^2 - 5x + 6 \), find \( g(2) \).  
    **Solution:**  
    - Substitute \( x = 2 \): \( g(2) = (2)^2 - 5(2) + 6 = 4 - 10 + 6 = 0 \).
 
----
+### **Trail 2: 🔗📜 ~ Crossing the Pattern ~ 📜🔗 - Arithmetic and Geometric Sequences**
 
-### **Trail 2: Crossing the Pattern - Arithmetic and Geometric Sequences**
-
----
-
-******************************************
-🔗📜 ~ Crossing the Pattern ~ 📜🔗
-******************************************
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 - **Arithmetic Sequence**: A sequence where each term increases or decreases by the same amount.  
   Formula: \( a_n = a_1 + (n - 1)d \), where:
   - \( a_n \): nth term, \( a_1 \): first term, \( d \): common difference.  
@@ -782,16 +691,15 @@ A **function** is a rule that assigns each input exactly one output. Think of it
   Formula: \( a_n = a_1 \times r^{n-1} \), where:
   - \( a_n \): nth term, \( a_1 \): first term, \( r \): common ratio.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Find the 10th term of the arithmetic sequence \( 3, 7, 11, \ldots \).  
    **Solution:**  
    - \( a_1 = 3 \), \( d = 7 - 3 = 4 \), \( n = 10 \).  
    - \( a_{10} = 3 + (10 - 1) \cdot 4 = 3 + 36 = 39 \).  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Find the 4th term of the geometric sequence \( 2, 6, 18, \ldots \).  
    **Solution:**  
    - \( a_1 = 2 \), \( r = 6 / 2 = 3 \), \( n = 4 \).  
@@ -799,21 +707,14 @@ A **function** is a rule that assigns each input exactly one output. Think of it
 
 ---
 
-### **Trail 3: Solving the Bridge’s Mystery - Word Problems with Variables**
+### **Trail 3: 🧩✨ ~ Solving the Bridge’s Mystery ~ ✨🧩 - Word Problems with Variables**
 
----
-
-===========================================
-🧩✨ ~ Solving the Bridge’s Mystery ~ ✨🧩
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 These problems require translating real-world scenarios into equations. Once the equation is formed, solve for the unknown variable step by step.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A bridge spans 200 meters. If a worker repairs 25 meters each day, how many days will it take to complete the repairs?  
    **Solution:**  
    - Let \( x \) = number of days.  
@@ -821,7 +722,7 @@ These problems require translating real-world scenarios into equations. Once the
    - Solve: \( x = \frac{200}{25} = 8 \).  
    - It will take **8 days**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    You have $50. A toll costs $2 per crossing. How many crossings can you afford?  
    **Solution:**  
    - Let \( x \) = number of crossings.  
@@ -831,22 +732,15 @@ These problems require translating real-world scenarios into equations. Once the
 
 ---
 
-### **Trail 4: Mastering the Bridge’s Arc - Systems of Equations**
+### **Trail 4: 🔑🌉 ~ Mastering the Bridge’s Arc ~ 🌉🔑 - Systems of Equations**
 
----
-
--------------------------------------------------
-🔑🌉 ~ Mastering the Bridge’s Arc ~ 🌉🔑
--------------------------------------------------
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 A system of equations involves two or more equations solved together. The goal is to find values for the variables that satisfy all equations.  
 - Solve by **substitution** or **elimination**.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Solve the system:  
    \( x + y = 10 \)  
    \( 2x - y = 4 \).  
@@ -861,7 +755,7 @@ A system of equations involves two or more equations solved together. The goal i
      \( y = 10 - 4.67 = 5.33 \).  
    - Solution: \( x = 4.67 \), \( y = 5.33 \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Solve the system:  
    \( 3a + b = 15 \)  
    \( a - b = 5 \).  
@@ -880,112 +774,88 @@ A system of equations involves two or more equations solved together. The goal i
 
 ### 🏆✨ Treasure Found: Gapstow Bridge ✨🏆
 
-Incredible work, explorer! You’ve mastered functions, sequences, advanced word problems, and systems of equations at **Gapstow Bridge**. With these advanced tools, you’re now ready to tackle the most challenging SHSAT math questions. The quest has brought you to new heights—celebrate your progress and get ready for the final review!
-
-## **Celebrating Success in Central Park - Final Review**
-
 ---
 
-# 🗽✨ Central Park Quest: The Grand Finale ✨🗽
+Incredible work, explorer! You’ve mastered functions, sequences, advanced word problems, and systems of equations at **Gapstow Bridge**. With these advanced tools, you’re now ready to tackle the most challenging SHSAT math questions. The quest has brought you to new heights—celebrate your progress and get ready for the final review!
+
+## **🗽✨ Central Park Quest: The Grand Finale ✨🗽 - Final Review**
 
 You’ve walked the trails, solved riddles, and unlocked the secrets of Central Park’s math treasures. From Bethesda Fountain to Gapstow Bridge, each landmark has tested your skills and made you stronger. Now it’s time to gather all you’ve learned and prove you’re ready for the SHSAT math section. 
 
 Welcome to the **Final Review**—the ultimate challenge of your quest. It’s like the last page of a treasure map. Are you ready to bring it all together? Let’s begin!
 
----
 
-### **Trail 1: Quickfire Challenges**
+### **Trail 1: 🔥🧩 Quickfire Challenges 🧩🔥**
 
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-🔥🧩 ~ Quickfire Challenges ~ 🧩🔥
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 This section is all about speed and accuracy. Answer these quick questions to test your grasp on the fundamentals.
 
----
-
 #### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+
+**Trail Marker 1:**  
    Simplify: \( 3(4x + 5) - 2x \).  
    **Solution:**  
    - \( 12x + 15 - 2x = 10x + 15 \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Find the area of a triangle with a base of 8 units and a height of 5 units.  
    **Solution:**  
    - \( A = \frac{1}{2} \times b \times h = \frac{1}{2} \times 8 \times 5 = 20 \) square units.
 
-3. **Trail Marker 3:**  
+**Trail Marker 3:**  
    If \( f(x) = x^2 + 2x + 1 \), find \( f(3) \).  
    **Solution:**  
    - \( f(3) = (3)^2 + 2(3) + 1 = 9 + 6 + 1 = 16 \).
 
-4. **Trail Marker 4:**  
+**Trail Marker 4:**  
    A bag contains 4 red marbles and 6 blue marbles. What is the probability of drawing a red marble?  
    **Solution:**  
    - \( \text{Probability} = \frac{\text{Favorable Outcomes}}{\text{Total Outcomes}} = \frac{4}{10} = \frac{2}{5} \).
 
 ---
 
-### **Trail 2: Mixed Problem-Solving**
+### **Trail 2: 🧩🌳 ~ Mixed Problem-Solving ~ 🌳🧩**
 
----
-
-******************************************
-🧩🌳 ~ Mixed Problem-Solving ~ 🌳🧩
-******************************************
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Apply multiple concepts in these challenging problems. Take your time and think through each step.
 
----
+##### **Adventurer’s Guide**
 
-#### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A rectangle has a length of \( 12 \) units and a width of \( 8 \) units. If the rectangle’s perimeter is increased by 50%, what is the new perimeter?  
    **Solution:**  
    - Original perimeter = \( 2l + 2w = 2(12) + 2(8) = 24 + 16 = 40 \).  
    - Increased perimeter = \( 40 + 0.5 \times 40 = 40 + 20 = 60 \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Solve for \( x \): \( 4x - 7 = 2x + 5 \).  
    **Solution:**  
    - \( 4x - 2x = 5 + 7 \).  
    - \( 2x = 12 \).  
    - \( x = 6 \).
 
-3. **Trail Marker 3:**  
+**Trail Marker 3:**  
    A sequence starts with \( 3 \) and follows the rule \( a_n = 2a_{n-1} + 1 \). Find the 4th term.  
    **Solution:**  
    - \( a_1 = 3 \), \( a_2 = 2(3) + 1 = 7 \), \( a_3 = 2(7) + 1 = 15 \), \( a_4 = 2(15) + 1 = 31 \).
 
 ---
 
-### **Trail 3: Full Adventure Challenge**
+### **Trail 3: 🏰🗺️ ~ Full Adventure Challenge ~ 🗺️🏰**
 
----
-
-===========================================
-🏰🗺️ ~ Full Adventure Challenge ~ 🗺️🏰
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 This is your ultimate test! These multi-step problems will require all your skills. Take a deep breath and go for it.
 
----
-
 #### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+
+**Trail Marker 1:**  
    A car travels 180 miles in 3 hours. It then slows down and travels the next 120 miles in 4 hours. What was the car’s average speed for the entire journey?  
    **Solution:**  
    - Total distance = \( 180 + 120 = 300 \) miles.  
    - Total time = \( 3 + 4 = 7 \) hours.  
    - Average speed = \( \frac{\text{Total Distance}}{\text{Total Time}} = \frac{300}{7} \approx 42.86 \) mph.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Solve the system of equations:  
    \( 2x + y = 10 \)  
    \( x - y = 2 \).  
@@ -1003,11 +873,11 @@ This is your ultimate test! These multi-step problems will require all your skil
 
 ---
 
-### 🏆✨ Central Park Treasure Found! ✨🏆
+# 🏆✨ Central Park Treasure Found! ✨🏆
 
 Congratulations, explorer! You’ve completed the **Central Park Quest** and mastered every corner of the SHSAT math section. From Arithmetic to Advanced Topics, you’ve proven your skills and resilience. Think back to all the landmarks you’ve visited—each one has prepared you for success. 
 
-Remember, the SHSAT isn’t just a test; it’s your chance to shine and show what you’ve learned. When you sit down for the exam, picture Central Park and know that you’ve already conquered its trails. Go forward with confidence—you’ve got this!
+**Remember, the SHSAT isn’t just a test; it’s your chance to shine and show what you’ve learned. When you sit down for the exam, picture Central Park and know that you’ve already conquered its trails. Go forward with confidence—you’ve got this!**
 
 ---
 
