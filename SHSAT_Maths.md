@@ -30,11 +30,11 @@ To begin, let’s take a look at your **adventure map** below. Each stop represe
 
 ---
 
-## **🗺️✨ Discovering Numbers at Bethesda Fountain 🗺️✨  - Arithmetic**
+## 🗺️✨ Discovering Numbers at Bethesda Fountain 🗺️✨  - Arithmetic
 
 Have you ever stood by Bethesda Fountain and wondered how much water it holds or how evenly its sections are divided? Numbers are all around us here—hidden in the ripples of water, the angles of the design, and even the people gathered nearby. This is your first stop on the **Central Park Quest**, where we’ll dive into **Arithmetic** and uncover its secrets. Let’s explore!
 
-### **Trail 1: 💧💦 The Fountain’s Waters 💦💧 - Fractions**
+### Trail 1: 💧💦 The Fountain’s Waters 💦💧 - Fractions
 
 #### **Rules of the Trail**
 Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine dividing the water into equal sections. The **numerator** (top number) shows how many parts you’re working with, and the **denominator** (bottom number) shows the total number of equal parts.
@@ -56,7 +56,7 @@ Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine
 
 ---
 
-### **Trail 2: 💧✨ Measuring the Fountain’s Flow ✨💧 - Decimals**
+### Trail 2: 💧✨ Measuring the Fountain’s Flow ✨💧 - Decimals
 
 #### **Rules of the Trail**
 Decimals are another way to express parts of a whole, often used in measurements. For example, if the fountain’s diameter is 2.75 meters, the ".75" represents three-quarters of a meter.
@@ -79,7 +79,7 @@ Decimals are another way to express parts of a whole, often used in measurements
 
 ---
 
-### **Trail 3: 🌳🧮 Dividing the Fountain’s Space 🧮🌳 - Ratios**
+### Trail 3: 🌳🧮 Dividing the Fountain’s Space 🧮🌳 - Ratios
 
 #### **Rules of the Trail**
 Ratios compare two quantities. If 4 people sit on one side of the fountain and 6 on the other, the ratio of people on one side to the other is 4:6, which simplifies to 2:3.
@@ -101,7 +101,7 @@ Ratios compare two quantities. If 4 people sit on one side of the fountain and 6
 
 ---
 
-### **Trail 4: 🚶‍♂️🌟 Counting the Fountain’s Visitors 🌟🚶‍♀️ - Percentages**
+### Trail 4: 🚶‍♂️🌟 Counting the Fountain’s Visitors 🌟🚶‍♀️ - Percentages
 
 #### **Rules of the Trail**
 Percentages represent parts per 100. If 30% of visitors sit near the fountain, it means 30 out of every 100 people are seated there.
@@ -127,11 +127,11 @@ Congratulations, explorer! You’ve mastered fractions, decimals, ratios, and pe
 
 ---
 
-## **🏰✨ Belvedere Castle: Unlocking the Mysteries of Algebra ✨🏰**
+## 🏰✨ Belvedere Castle: Unlocking the Mysteries of Algebra ✨🏰
 
 Standing tall above Central Park, Belvedere Castle is a place of intrigue and mystery. Its towers hold the keys to unraveling algebraic secrets. Algebra is like solving a puzzle: you’re given pieces (equations), and your job is to find the missing pieces (solutions). Ready to crack the code? Let’s climb the castle stairs and begin our adventure!
 
-### **Trail 1: 🔑🧩 **Unlocking Hidden Numbers** 🧩🔑 - Solving Equations**
+### Trail 1: 🔑🧩 Unlocking Hidden Numbers 🧩🔑 - Solving Equations
 
 #### **Rules of the Trail**
 An equation is like a scale—it’s balanced. What you do to one side, you must do to the other. Your goal is to isolate the variable (the unknown) by performing operations to simplify both sides of the equation.
@@ -154,7 +154,7 @@ An equation is like a scale—it’s balanced. What you do to one side, you must
 
 ---
 
-### **Trail 2: ⚖️🌟 **Balancing the Castle Bridge** 🌟⚖️ - Inequalities**
+### Trail 2: ⚖️🌟 Balancing the Castle Bridge 🌟⚖️ - Inequalities
 
 #### **Rules of the Trail**
 Inequalities are like equations but with a twist: instead of an equals sign, you’ll see \( >, <, \geq, \leq \). When multiplying or dividing by a negative number, remember to flip the inequality sign!
@@ -177,7 +177,7 @@ Inequalities are like equations but with a twist: instead of an equals sign, you
 
 ---
 
-### **Trail 3: 📝📜 Exploring Algebraic Expressions 📜📝 - Expressions**
+### Trail 3: 📝📜 Exploring Algebraic Expressions 📜📝 - Expressions
 
 #### **Rules of the Trail**
 Algebraic expressions involve numbers, variables, and operations but no equals sign. Simplify expressions by combining like terms and using the distributive property.
@@ -201,7 +201,7 @@ Algebraic expressions involve numbers, variables, and operations but no equals s
 
 ---
 
-### **Trail 4: 🗝️✨ Decoding Castle Scrolls ✨🗝️ - Substitution**
+### Trail 4: 🗝️✨ Decoding Castle Scrolls ✨🗝️ - Substitution
 
 #### **Rules of the Trail**
 Substitution involves replacing a variable with a known value to evaluate or simplify an expression. It’s like plugging puzzle pieces into place.
@@ -226,13 +226,13 @@ Congratulations, explorer! You’ve cracked algebraic codes at Belvedere Castle.
 
 ---
 
-## **🌳✨ The Great Lawn: Discovering the Secrets of Geometry ✨🌳 - Geometry**
+## 🌳✨ The Great Lawn: Discovering the Secrets of Geometry ✨🌳 - Geometry
 
 Step onto the expansive **Great Lawn**, where shapes, angles, and spaces come alive. Geometry is all about understanding the world around us—how shapes fit together, how much space they take, and how they interact. The **Great Lawn** is the perfect place to explore these concepts as we uncover the treasures of Geometry.
 
 Let’s journey into the world of angles, triangles, and circles. Are you ready to solve the mysteries of shapes? Let’s dive in!
 
-### **Trail 1: 📐🌟 ~ Measuring the Lawn’s Corners ~ 🌟📐 - Angles**
+### Trail 1: 📐🌟 ~ Measuring the Lawn’s Corners ~ 🌟📐 - Angles
 
 #### **Rules of the Trail**
 Angles measure the space between two intersecting lines and are measured in degrees. The types of angles include:
@@ -257,7 +257,7 @@ Angles measure the space between two intersecting lines and are measured in degr
 
 ---
 
-### **Trail 2: 🔺🧩 Exploring the Lawn’s Shapes 🧩🔺 - Triangles**
+### Trail 2: 🔺🧩 Exploring the Lawn’s Shapes 🧩🔺 - Triangles
 
 #### **Rules of the Trail**
 
@@ -286,7 +286,7 @@ The **Pythagorean theorem** applies to right triangles:
 
 ---
 
-### **Trail 3: ⭕✨ ~ Circling the Fountain ~ ✨⭕ - Circles**
+### Trail 3: ⭕✨ ~ Circling the Fountain ~ ✨⭕ - Circles
 
 #### **Rules of the Trail**
 A circle is a shape where every point on the edge is equidistant from the center. Key terms:
@@ -308,7 +308,7 @@ A circle is a shape where every point on the edge is equidistant from the center
    - Radius = \( d/2 = 10/2 = 5 \).  
    - \( A = \pi r^2 = \pi(5)^2 = 25\pi \) square units.
 
-### **Trail 4: 📏🌳 ~ Measuring the Lawn’s Space ~ 🌳📏 - Area and Perimeter**
+### Trail 4: 📏🌳 Measuring the Lawn’s Space 🌳📏 - Area and Perimeter
 
 #### **Rules of the Trail**
 The **area** of a shape is the space it occupies, and the **perimeter** is the distance around it.  
@@ -337,11 +337,11 @@ Bravo, explorer! You’ve mastered angles, triangles, circles, and areas at the 
 
 ---
 
-## **🍓✨ Strawberry Fields: Tackling Real-World Math Adventures ✨🍓 - Word Problems**
+## 🍓✨ Strawberry Fields: Tackling Real-World Math Adventures ✨🍓 - Word Problems
 
 Welcome to the tranquil **Strawberry Fields**, a place where numbers meet real life. Here, you’ll embark on the most relatable part of math—**Word Problems**. These riddles mirror the challenges we face in daily life, like splitting a bill, calculating travel time, or planning a picnic. Solving them is like piecing together clues to uncover a hidden answer. Ready to unravel these puzzles? Let’s begin!
 
-### **Trail 1: 🍴🧺 ~ Planning a Picnic ~ 🧺🍴 - Ratios and Proportions**
+### Trail 1: 🍴🧺 ~ Planning a Picnic ~ 🧺🍴 - Ratios and Proportions
 
 #### **Rules of the Trail**
 Ratios compare two quantities, while proportions show that two ratios are equivalent. To solve word problems involving proportions, use cross-multiplication to find the missing value.
@@ -368,7 +368,7 @@ Ratios compare two quantities, while proportions show that two ratios are equiva
 
 ---
 
-### **Trail 2: 🚶‍♂️🏃 ~ Traveling Through the Park ~ 🏃🚶‍♀️ - Distance, Rate, and Time**
+### Trail 2: 🚶‍♂️🏃 ~ Traveling Through the Park ~ 🏃🚶‍♀️ - Distance, Rate, and Time
 
 #### **Rules of the Trail**
 Use the formula \( d = r \times t \) (distance = rate × time) to solve these problems:
@@ -393,7 +393,7 @@ Use the formula \( d = r \times t \) (distance = rate × time) to solve these pr
 
 ---
 
-### **Trail 3: 💰🍕 ~ Splitting the Bill ~ 🍕💰 - Percentages**
+### Trail 3: 💰🍕 Splitting the Bill 🍕💰 - Percentages
 
 #### **Rules of the Trail**
 Percentages represent parts per 100. Use the formula:  
@@ -414,7 +414,7 @@ Percentages represent parts per 100. Use the formula:
    - Total = \( \frac{60}{0.4} = 150 \).  
    - The total cost was **$150**.
 
-### **Trail 4: 🎵🌟 ~ Organizing a Concert ~ 🌟🎵 - Multi-Step Problems**
+### Trail 4: 🎵🌟 ~ Organizing a Concert ~ 🌟🎵 - Multi-Step Problems
 
 #### **Rules of the Trail**
 Multi-step word problems require breaking the problem into smaller pieces. Solve each step systematically to find the final answer.
@@ -443,11 +443,11 @@ Amazing work, explorer! You’ve conquered ratios, percentages, and multi-step p
 
 ---
 
-## **🌿✨ The Ramble: Discovering the Secrets of Chance and Data ✨🌿 - Probability and Statistics**
+## 🌿✨ The Ramble: Discovering the Secrets of Chance and Data ✨🌿 - Probability and Statistics
 
 Deep within the lush trails of **The Ramble**, nature whispers patterns and probabilities. Here, we’ll explore how math can help us make predictions and understand data. **Probability** reveals the likelihood of events happening, while **Statistics** helps us uncover stories hidden in numbers. Are you ready to venture into this maze of chance and data? Let’s begin!
 
-#### **Trail 1: 🎲🌟 ~ Rolling the Dice ~ 🌟🎲 - Probability Basics**
+#### Trail 1: 🎲🌟 Rolling the Dice 🌟🎲 - Probability Basics
 
 #### **Rules of the Trail**
 Probability measures how likely an event is to occur, expressed as a fraction, decimal, or percentage.  
@@ -474,7 +474,7 @@ The formula is:
 
 ---
 
-### **Trail 2: 🌳🔗 ~ Predicting Nature’s Paths ~ 🔗🌳 - Compound Probability**
+### Trail 2: 🌳🔗 Predicting Nature’s Paths 🔗🌳 - Compound Probability
 
 #### **Rules of the Trail**
 Compound probability involves the likelihood of multiple events occurring.  
@@ -496,7 +496,7 @@ Compound probability involves the likelihood of multiple events occurring.
    - Probability of second red = \( \frac{3}{9} \) (one red ball is removed).  
    - Compound probability = \( \frac{4}{10} \times \frac{3}{9} = \frac{12}{90} = \frac{2}{15} \).
 
-### **Trail 3: 🦆✨ ~ Counting the Flock ~ ✨🦆 - Mean, Median, and Mode**
+### Trail 3: 🦆✨ Counting the Flock ✨🦆 - Mean, Median, and Mode
 
 #### **Rules of the Trail**
 - **Mean (average)**: Sum of all numbers divided by the count of numbers.  
@@ -521,7 +521,7 @@ Compound probability involves the likelihood of multiple events occurring.
 
 ---
 
-### **Trail 4: 📊🌟 ~ Gathering Ramble Data ~ 🌟📊 - Range and Outliers**
+### Trail 4: 📊🌟 Gathering Ramble Data 🌟📊 - Range and Outliers
 
 #### **Rules of the Trail**
 - **Range**: Difference between the highest and lowest values.  
@@ -549,13 +549,13 @@ Fantastic work, explorer! You’ve unlocked the secrets of probability and stati
 
 ---
 
-## **🐑✨ Sheep Meadow: The Magic of Numbers ✨🐑 - Number Theory**
+## 🐑✨ Sheep Meadow: The Magic of Numbers ✨🐑 - Number Theory
 
 Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden properties await discovery. **Number Theory** is the study of integers, their relationships, and patterns. From prime numbers to factors and multiples, this trail will uncover the magic behind the numbers that shape the world. Ready to start your quest? Let’s dive in!
 
 ---
 
-### **Trail 1: 🔢🐏 ~ Counting the Flock ~ 🐏🔢 - Factors and Multiples**
+### Trail 1: 🔢🐏 Counting the Flock 🐏🔢 - Factors and Multiples
 
 #### **Rules of the Trail**
 - **Factors**: Numbers that divide evenly into another number.  
@@ -577,7 +577,7 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
 
 ---
 
-### **Trail 2: 🌟🔍 ~ Finding Hidden Patterns ~ 🔍🌟 - Prime and Composite Numbers**
+### Trail 2: 🌟🔍 Finding Hidden Patterns 🔍🌟 - Prime and Composite Numbers
 
 #### **Rules of the Trail**
 - **Prime Numbers**: Numbers greater than 1 that have only two factors: 1 and itself.  
@@ -600,7 +600,7 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
 
 ---
 
-### **Trail 3: 🤝✨ ~ Exploring Relationships ~ ✨🤝 - Greatest Common Factor (GCF) and Least Common Multiple (LCM)**
+### Trail 3: 🤝✨ Exploring Relationships ✨🤝 - Greatest Common Factor (GCF) and Least Common Multiple (LCM)
 
 #### **Rules of the Trail**
 - **GCF (Greatest Common Factor)**: The largest factor shared by two or more numbers.  
@@ -625,7 +625,7 @@ Welcome to the **Sheep Meadow**, where numbers roam freely and their hidden prop
 
 ---
 
-### **Trail 4: 🔑🌟 ~ Cracking the Code ~ 🌟🔑 - Divisibility Rules**
+### Trail 4: 🔑🌟 Cracking the Code 🌟🔑 - Divisibility Rules
 
 #### **Rules of the Trail**
 Divisibility rules help quickly determine if one number divides another without leaving a remainder:  
@@ -656,11 +656,11 @@ Divisibility rules help quickly determine if one number divides another without 
 
 Amazing work, explorer! You’ve mastered factors, primes, GCF, LCM, and divisibility rules at **Sheep Meadow**. Number theory is no longer a mystery to you! Your next adventure takes you to **Gapstow Bridge**, where Advanced Topics await. Let’s continue this incredible journey!
 
-## **🌉✨ Gapstow Bridge: Unlocking Math’s Hidden Layers ✨🌉 - Advanced Topics**
+## 🌉✨ Gapstow Bridge: Unlocking Math’s Hidden Layers ✨🌉 - Advanced Topics
 
 Nestled within the heart of Central Park, **Gapstow Bridge** is a symbol of strength and connection. Just like the bridge, **Advanced Topics** help us connect foundational math concepts to more complex ideas. Here, you’ll explore **functions**, **sequences**, and advanced problem-solving strategies. These tools will prepare you for the trickiest SHSAT challenges. Ready to dive into the deep end of math? Let’s go!
 
-### **Trail 1: 📈🌟 ~ Mapping the Journey ~ 🌟📈 - Functions**
+### Trail 1: 📈🌟 Mapping the Journey 🌟📈 - Functions
 
 #### **Rules of the Trail**
 A **function** is a rule that assigns each input exactly one output. Think of it as a machine where you put something in, and it always gives you a specific result.
@@ -680,7 +680,7 @@ A **function** is a rule that assigns each input exactly one output. Think of it
    **Solution:**  
    - Substitute \( x = 2 \): \( g(2) = (2)^2 - 5(2) + 6 = 4 - 10 + 6 = 0 \).
 
-### **Trail 2: 🔗📜 ~ Crossing the Pattern ~ 📜🔗 - Arithmetic and Geometric Sequences**
+### Trail 2: 🔗📜 Crossing the Pattern 📜🔗 - Arithmetic and Geometric Sequences
 
 #### **Rules of the Trail**
 - **Arithmetic Sequence**: A sequence where each term increases or decreases by the same amount.  
@@ -707,7 +707,7 @@ A **function** is a rule that assigns each input exactly one output. Think of it
 
 ---
 
-### **Trail 3: 🧩✨ ~ Solving the Bridge’s Mystery ~ ✨🧩 - Word Problems with Variables**
+### Trail 3: 🧩✨ Solving the Bridge’s Mystery ✨🧩 - Word Problems with Variables
 
 #### **Rules of the Trail**
 These problems require translating real-world scenarios into equations. Once the equation is formed, solve for the unknown variable step by step.
@@ -732,7 +732,7 @@ These problems require translating real-world scenarios into equations. Once the
 
 ---
 
-### **Trail 4: 🔑🌉 ~ Mastering the Bridge’s Arc ~ 🌉🔑 - Systems of Equations**
+### Trail 4: 🔑🌉 Mastering the Bridge’s Arc 🌉🔑 - Systems of Equations
 
 #### **Rules of the Trail**
 A system of equations involves two or more equations solved together. The goal is to find values for the variables that satisfy all equations.  
@@ -778,14 +778,14 @@ A system of equations involves two or more equations solved together. The goal i
 
 Incredible work, explorer! You’ve mastered functions, sequences, advanced word problems, and systems of equations at **Gapstow Bridge**. With these advanced tools, you’re now ready to tackle the most challenging SHSAT math questions. The quest has brought you to new heights—celebrate your progress and get ready for the final review!
 
-## **🗽✨ Central Park Quest: The Grand Finale ✨🗽 - Final Review**
+## 🗽✨ Central Park Quest: The Grand Finale ✨🗽 - Final Review
 
 You’ve walked the trails, solved riddles, and unlocked the secrets of Central Park’s math treasures. From Bethesda Fountain to Gapstow Bridge, each landmark has tested your skills and made you stronger. Now it’s time to gather all you’ve learned and prove you’re ready for the SHSAT math section. 
 
 Welcome to the **Final Review**—the ultimate challenge of your quest. It’s like the last page of a treasure map. Are you ready to bring it all together? Let’s begin!
 
 
-### **Trail 1: 🔥🧩 Quickfire Challenges 🧩🔥**
+### Trail 1: 🔥🧩 Quickfire Challenges 🧩🔥
 
 #### **Rules of the Trail**
 This section is all about speed and accuracy. Answer these quick questions to test your grasp on the fundamentals.
@@ -814,7 +814,7 @@ This section is all about speed and accuracy. Answer these quick questions to te
 
 ---
 
-### **Trail 2: 🧩🌳 ~ Mixed Problem-Solving ~ 🌳🧩**
+### Trail 2: 🧩🌳 Mixed Problem-Solving 🌳🧩
 
 #### **Rules of the Trail**
 Apply multiple concepts in these challenging problems. Take your time and think through each step.
@@ -841,7 +841,7 @@ Apply multiple concepts in these challenging problems. Take your time and think 
 
 ---
 
-### **Trail 3: 🏰🗺️ ~ Full Adventure Challenge ~ 🗺️🏰**
+### Trail 3: 🏰🗺️ Full Adventure Challenge 🗺️🏰
 
 #### **Rules of the Trail**
 This is your ultimate test! These multi-step problems will require all your skills. Take a deep breath and go for it.
@@ -875,7 +875,7 @@ This is your ultimate test! These multi-step problems will require all your skil
 
 # 🏆✨ Central Park Treasure Found! ✨🏆
 
-Congratulations, explorer! You’ve completed the **Central Park Quest** and mastered every corner of the SHSAT math section. From Arithmetic to Advanced Topics, you’ve proven your skills and resilience. Think back to all the landmarks you’ve visited—each one has prepared you for success. 
+CJongratulations, explorer! You’ve completed the **Central Park Quest** and mastered every corner of the SHSAT math section. From Arithmetic to Advanced Topics, you’ve proven your skills and resilience. Think back to all the landmarks you’ve visited—each one has prepared you for success. 
 
 **Remember, the SHSAT isn’t just a test; it’s your chance to shine and show what you’ve learned. When you sit down for the exam, picture Central Park and know that you’ve already conquered its trails. Go forward with confidence—you’ve got this!**
 
