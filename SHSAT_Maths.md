@@ -41,14 +41,14 @@ Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    The fountain is divided into 5 equal sections. If 3 sections are shaded, what fraction of the fountain is shaded?  
    **Solution:**  
    - Numerator = shaded sections = 3  
    - Denominator = total sections = 5  
    - Fraction = **3/5**
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A gardener waters 2/3 of the plants around the fountain. What fraction is left unwatered?  
    **Solution:**  
    - Total fraction = **1** (whole)  
