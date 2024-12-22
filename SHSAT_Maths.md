@@ -4,7 +4,7 @@ author: "A&A"
 description: "Maths Study Material"
 ---
 
-# 🗺️✨ Welcome to the Central Park Quest ✨🗺️
+# 🗺️✨ **Welcome to the Central Park Quest** ✨🗺️
 
 ---
 
