@@ -30,15 +30,11 @@ To begin, let’s take a look at your **adventure map** below. Each stop represe
 
 ---
 
-### ✨🗺️ Let's start the Adventure 🗺️✨
-
-## **Discovering Numbers at Bethesda Fountain - Arithmetic**
-
-### 🗺️✨ Bethesda Fountain: Where Numbers Flow ✨🗺️
+## **🗺️✨ Discovering Numbers at Bethesda Fountain 🗺️✨  - Arithmetic**
 
 Have you ever stood by Bethesda Fountain and wondered how much water it holds or how evenly its sections are divided? Numbers are all around us here—hidden in the ripples of water, the angles of the design, and even the people gathered nearby. This is your first stop on the **Central Park Quest**, where we’ll dive into **Arithmetic** and uncover its secrets. Let’s explore!
 
-### 💧💦 Trail 1: Sharing the Fountain’s Waters - Fractions 💦💧
+### **Trail 1: 💧💦 The Fountain’s Waters 💦💧 - Fractions**
 
 #### **Rules of the Trail**
 Fractions are a way to represent parts of a whole. At Bethesda Fountain, imagine dividing the water into equal sections. The **numerator** (top number) shows how many parts you’re working with, and the **denominator** (bottom number) shows the total number of equal parts.
@@ -83,7 +79,7 @@ Decimals are another way to express parts of a whole, often used in measurements
 
 ---
 
-### **Trail 3: 🌳🧮 ~ Dividing the Fountain’s Space ~ 🧮🌳 - Ratios**
+### **Trail 3: 🌳🧮 Dividing the Fountain’s Space 🧮🌳 - Ratios**
 
 #### **Rules of the Trail**
 Ratios compare two quantities. If 4 people sit on one side of the fountain and 6 on the other, the ratio of people on one side to the other is 4:6, which simplifies to 2:3.
@@ -129,28 +125,19 @@ Percentages represent parts per 100. If 30% of visitors sit near the fountain, i
 
 Congratulations, explorer! You’ve mastered fractions, decimals, ratios, and percentages at Bethesda Fountain. These tools will help you navigate through the rest of the park. Next up: **Belvedere Castle**, where the mysteries of Algebra await. Let’s keep the adventure going!
 
-## **Cracking Codes at Belvedere Castle - Algebra**
-
 ---
 
-# 🏰✨ Belvedere Castle: Unlocking the Mysteries of Algebra ✨🏰
+## **🏰✨ Belvedere Castle: Unlocking the Mysteries of Algebra ✨🏰**
 
 Standing tall above Central Park, Belvedere Castle is a place of intrigue and mystery. Its towers hold the keys to unraveling algebraic secrets. Algebra is like solving a puzzle: you’re given pieces (equations), and your job is to find the missing pieces (solutions). Ready to crack the code? Let’s climb the castle stairs and begin our adventure!
 
----
+### **Trail 1: 🔑🧩 **Unlocking Hidden Numbers** 🧩🔑 - Solving Equations**
 
-### **Trail 1: The Castle’s Hidden Numbers - Solving Equations**
-
----
-
-🔑🧩 **Unlocking Hidden Numbers** 🧩🔑
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 An equation is like a scale—it’s balanced. What you do to one side, you must do to the other. Your goal is to isolate the variable (the unknown) by performing operations to simplify both sides of the equation.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    Solve for \( x \):  
    \( 3x + 5 = 20 \)  
@@ -167,18 +154,13 @@ An equation is like a scale—it’s balanced. What you do to one side, you must
 
 ---
 
-### **Trail 2: Balancing the Castle Bridge - Inequalities**
+### **Trail 2: ⚖️🌟 **Balancing the Castle Bridge** 🌟⚖️ - Inequalities**
 
----
-
-⚖️🌟 **Balancing the Castle Bridge** 🌟⚖️
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Inequalities are like equations but with a twist: instead of an equals sign, you’ll see \( >, <, \geq, \leq \). When multiplying or dividing by a negative number, remember to flip the inequality sign!
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    Solve for \( x \):  
    \( 4x - 2 > 10 \)  
@@ -195,18 +177,13 @@ Inequalities are like equations but with a twist: instead of an equals sign, you
 
 ---
 
-### **Trail 3: Exploring the Castle Grounds - Expressions**
+### **Trail 3: 📝📜 Exploring Algebraic Expressions 📜📝 - Expressions**
 
----
-
-📝📜 **Exploring Algebraic Expressions**  📜📝
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Algebraic expressions involve numbers, variables, and operations but no equals sign. Simplify expressions by combining like terms and using the distributive property.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    Simplify:  
    \( 5x + 3x - 2 \)  
@@ -224,18 +201,12 @@ Algebraic expressions involve numbers, variables, and operations but no equals s
 
 ---
 
-### **Trail 4: Decoding Castle Scrolls - Substitution**
+### **Trail 4: 🗝️✨ Decoding Castle Scrolls ✨🗝️ - Substitution**
 
----
-
-🗝️✨ Decoding Castle Scrolls ✨🗝️
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Substitution involves replacing a variable with a known value to evaluate or simplify an expression. It’s like plugging puzzle pieces into place.
 
----
-
-### **Adventurer’s Guide**
+#### **Adventurer’s Guide**
 1. **Trail Marker 1:**  
    Evaluate \( 3x + 7 \) when \( x = 4 \).  
    **Solution:**  
@@ -251,6 +222,8 @@ Substitution involves replacing a variable with a known value to evaluate or sim
 ### 🏆✨ Treasure Found: Belvedere Castle ✨🏆
 
 Congratulations, explorer! You’ve cracked algebraic codes at Belvedere Castle. With equations, inequalities, expressions, and substitution mastered, you’re ready to conquer even greater mathematical challenges. Next up: **The Great Lawn**, where Geometry takes center stage. Let’s keep climbing higher!
+
+---
 
 ## **Shapes in Motion at The Great Lawn - Geometry**
 
