@@ -63,14 +63,14 @@ Decimals are another way to express parts of a whole, often used in measurements
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    The fountain’s height is 3.25 meters. Express this as a mixed number.  
    **Solution:**  
    - 3 = whole meters  
    - 0.25 = **1/4** of a meter  
    - Height = **3 1/4 meters**
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    The water flow reduces from 1.5 liters per minute to 0.8 liters per minute. By how much was the flow reduced?  
    **Solution:**  
    - Initial flow = **1.5 liters**  
@@ -86,14 +86,14 @@ Ratios compare two quantities. If 4 people sit on one side of the fountain and 6
 
 ### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    There are 8 ducks and 12 pigeons around the fountain. What is the ratio of ducks to pigeons in simplest form?  
    **Solution:**  
    - Ratio = **8:12**  
    - Simplify by dividing both numbers by 4.  
    - Simplified ratio = **2:3**
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A vendor sells 10 pretzels and 15 ice creams. What is the ratio of pretzels to total items sold?  
    **Solution:**  
    - Total items = **10 + 15 = 25**  
@@ -108,12 +108,12 @@ Percentages represent parts per 100. If 30% of visitors sit near the fountain, i
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Out of 500 visitors, 150 are seated near the fountain. What percentage of visitors is seated?  
    **Solution:**  
    - Percentage = **(150/500) × 100 = 30%**
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A nearby shop offers a 20% discount on a $50 souvenir. What is the discount amount?  
    **Solution:**  
    - Discount = **(20/100) × 50 = $10**  
@@ -138,14 +138,14 @@ An equation is like a scale—it’s balanced. What you do to one side, you must
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Solve for \( x \):  
    \( 3x + 5 = 20 \)  
    **Solution:**  
    - Subtract 5 from both sides: \( 3x = 15 \)  
    - Divide both sides by 3: \( x = 5 \)
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Solve for \( y \):  
    \( 2y - 7 = 13 \)  
    **Solution:**  
@@ -161,14 +161,14 @@ Inequalities are like equations but with a twist: instead of an equals sign, you
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Solve for \( x \):  
    \( 4x - 2 > 10 \)  
    **Solution:**  
    - Add 2 to both sides: \( 4x > 12 \)  
    - Divide both sides by 4: \( x > 3 \)
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Solve for \( y \):  
    \( -3y + 5 \leq 14 \)  
    **Solution:**  
@@ -184,14 +184,14 @@ Algebraic expressions involve numbers, variables, and operations but no equals s
 
 #### **Adventurer’s Guide**
 
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Simplify:  
    \( 5x + 3x - 2 \)  
    **Solution:**  
    - Combine like terms: \( 5x + 3x = 8x \)  
    - Final expression: \( 8x - 2 \)
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Simplify:  
    \( 2(3x + 4) - x \)  
    **Solution:**  
@@ -207,12 +207,13 @@ Algebraic expressions involve numbers, variables, and operations but no equals s
 Substitution involves replacing a variable with a known value to evaluate or simplify an expression. It’s like plugging puzzle pieces into place.
 
 #### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+
+**Trail Marker 1:**  
    Evaluate \( 3x + 7 \) when \( x = 4 \).  
    **Solution:**  
    - Substitute \( x = 4 \): \( 3(4) + 7 = 12 + 7 = 19 \)  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    Evaluate \( 2a - b \) when \( a = 5 \) and \( b = 3 \).  
    **Solution:**  
    - Substitute \( a = 5 \) and \( b = 3 \): \( 2(5) - 3 = 10 - 3 = 7 \)
@@ -225,43 +226,30 @@ Congratulations, explorer! You’ve cracked algebraic codes at Belvedere Castle.
 
 ---
 
-## **Shapes in Motion at The Great Lawn - Geometry**
-
----
-
-# 🌳✨ The Great Lawn: Discovering the Secrets of Geometry ✨🌳
+## **🌳✨ The Great Lawn: Discovering the Secrets of Geometry ✨🌳 - Geometry**
 
 Step onto the expansive **Great Lawn**, where shapes, angles, and spaces come alive. Geometry is all about understanding the world around us—how shapes fit together, how much space they take, and how they interact. The **Great Lawn** is the perfect place to explore these concepts as we uncover the treasures of Geometry.
 
 Let’s journey into the world of angles, triangles, and circles. Are you ready to solve the mysteries of shapes? Let’s dive in!
 
----
+### **Trail 1: 📐🌟 ~ Measuring the Lawn’s Corners ~ 🌟📐 - Angles**
 
-### **Trail 1: Measuring the Lawn’s Corners - Angles**
-
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-📐🌟 ~ Measuring the Lawn’s Corners ~ 🌟📐
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Angles measure the space between two intersecting lines and are measured in degrees. The types of angles include:
 - **Acute angles**: less than 90°.
 - **Right angles**: exactly 90°.
 - **Obtuse angles**: more than 90° but less than 180°.
 - **Straight angles**: exactly 180°.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A triangle has three angles: 50°, 60°, and one unknown angle. What is the measure of the unknown angle?  
    **Solution:**  
    - The sum of angles in a triangle = 180°.  
    - Unknown angle = \( 180° - (50° + 60°) = 180° - 110° = 70° \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    An angle measures \( 135° \). Is it acute, right, or obtuse?  
    **Solution:**  
    - \( 135° \) is more than \( 90° \) but less than \( 180° \).  
@@ -269,26 +257,21 @@ Angles measure the space between two intersecting lines and are measured in degr
 
 ---
 
-### **Trail 2: Exploring the Lawn’s Shapes - Triangles**
+### **Trail 2: 🔺🧩 Exploring the Lawn’s Shapes 🧩🔺 - Triangles**
 
----
+#### **Rules of the Trail**
 
-******************************************
-🔺🧩 ~ Exploring the Lawn’s Shapes ~ 🧩🔺
-******************************************
-
-### **Rules of the Trail**
 Triangles have three sides and three angles. The most common types of triangles are:
 - **Equilateral**: all sides and angles are equal.
 - **Isosceles**: two sides and two angles are equal.
 - **Scalene**: no sides or angles are equal.
+
 The **Pythagorean theorem** applies to right triangles:  
 \( a^2 + b^2 = c^2 \), where \( c \) is the hypotenuse (the longest side).
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    In a right triangle, one leg measures \( 3 \) units and the other leg measures \( 4 \) units. What is the length of the hypotenuse?  
    **Solution:**  
    - Use the Pythagorean theorem: \( a^2 + b^2 = c^2 \).  
@@ -296,68 +279,52 @@ The **Pythagorean theorem** applies to right triangles:
    - \( 9 + 16 = c^2 \)  
    - \( c^2 = 25 \), so \( c = 5 \).
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A triangle has two equal sides measuring \( 8 \) units each and a base of \( 6 \) units. What type of triangle is this?  
    **Solution:**  
    - Two sides are equal, making it an **isosceles triangle**.
 
 ---
 
-### **Trail 3: Circling the Fountain - Circles**
+### **Trail 3: ⭕✨ ~ Circling the Fountain ~ ✨⭕ - Circles**
 
----
-
-===========================================
-⭕✨ ~ Circling the Fountain ~ ✨⭕
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 A circle is a shape where every point on the edge is equidistant from the center. Key terms:
 - **Radius (r)**: Distance from the center to the edge.
 - **Diameter (d)**: Twice the radius, \( d = 2r \).
 - **Circumference (C)**: The distance around the circle, \( C = 2\pi r \) or \( C = \pi d \).
 - **Area (A)**: The space inside the circle, \( A = \pi r^2 \).
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A circle has a radius of \( 7 \) units. Find its circumference.  
    **Solution:**  
    - \( C = 2\pi r = 2\pi(7) = 14\pi \) units.  
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A circle has a diameter of \( 10 \) units. Find its area.  
    **Solution:**  
    - Radius = \( d/2 = 10/2 = 5 \).  
    - \( A = \pi r^2 = \pi(5)^2 = 25\pi \) square units.
 
----
+### **Trail 4: 📏🌳 ~ Measuring the Lawn’s Space ~ 🌳📏 - Area and Perimeter**
 
-### **Trail 4: Measuring the Lawn’s Space - Area and Perimeter**
-
----
-
--------------------------------------------------
-📏🌳 ~ Measuring the Lawn’s Space ~ 🌳📏
--------------------------------------------------
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 The **area** of a shape is the space it occupies, and the **perimeter** is the distance around it.  
 - Rectangle: \( A = l \times w \), \( P = 2l + 2w \).  
 - Triangle: \( A = \frac{1}{2} \times b \times h \).  
 - Square: \( A = s^2 \), \( P = 4s \).
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    A rectangle has a length of \( 10 \) units and a width of \( 4 \) units. Find its area and perimeter.  
    **Solution:**  
    - Area = \( 10 \times 4 = 40 \) square units.  
    - Perimeter = \( 2(10) + 2(4) = 20 + 8 = 28 \) units.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A triangle has a base of \( 6 \) units and a height of \( 4 \) units. Find its area.  
    **Solution:**  
    - \( A = \frac{1}{2} \times b \times h = \frac{1}{2} \times 6 \times 4 = 12 \) square units.
@@ -368,32 +335,20 @@ The **area** of a shape is the space it occupies, and the **perimeter** is the d
 
 Bravo, explorer! You’ve mastered angles, triangles, circles, and areas at the **Great Lawn**. Geometry is no longer a mystery to you! Your next stop is **Strawberry Fields**, where we’ll tackle Word Problems. Ready to take on real-world math adventures? Let’s go!
 
-
-## **Solving Real-World Riddles at Strawberry Fields - Word Problems**
-
 ---
 
-# 🍓✨ Strawberry Fields: Tackling Real-World Math Adventures ✨🍓
+## **🍓✨ Strawberry Fields: Tackling Real-World Math Adventures ✨🍓 - Word Problems**
 
 Welcome to the tranquil **Strawberry Fields**, a place where numbers meet real life. Here, you’ll embark on the most relatable part of math—**Word Problems**. These riddles mirror the challenges we face in daily life, like splitting a bill, calculating travel time, or planning a picnic. Solving them is like piecing together clues to uncover a hidden answer. Ready to unravel these puzzles? Let’s begin!
 
----
+### **Trail 1: 🍴🧺 ~ Planning a Picnic ~ 🧺🍴 - Ratios and Proportions**
 
-### **Trail 1: Planning a Picnic - Ratios and Proportions**
-
----
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-🍴🧺 ~ Planning a Picnic ~ 🧺🍴
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Ratios compare two quantities, while proportions show that two ratios are equivalent. To solve word problems involving proportions, use cross-multiplication to find the missing value.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    You are packing snacks for a picnic. For every 3 sandwiches, you pack 5 juice boxes. If you bring 21 sandwiches, how many juice boxes do you need?  
    **Solution:**  
    - Ratio: \( 3:5 \).  
@@ -402,7 +357,7 @@ Ratios compare two quantities, while proportions show that two ratios are equiva
    - Solve: \( x = \frac{105}{3} = 35 \).  
    - You need **35 juice boxes**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A recipe calls for 2 cups of sugar for every 3 cups of flour. If you use 12 cups of flour, how much sugar is needed?  
    **Solution:**  
    - Ratio: \( 2:3 \).  
@@ -413,30 +368,23 @@ Ratios compare two quantities, while proportions show that two ratios are equiva
 
 ---
 
-### **Trail 2: Traveling Through the Park - Distance, Rate, and Time**
+### **Trail 2: 🚶‍♂️🏃 ~ Traveling Through the Park ~ 🏃🚶‍♀️ - Distance, Rate, and Time**
 
----
-
-******************************************
-🚶‍♂️🏃 ~ Traveling Through the Park ~ 🏃🚶‍♀️
-******************************************
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Use the formula \( d = r \times t \) (distance = rate × time) to solve these problems:
 - \( r = \frac{d}{t} \) (rate = distance ÷ time).
 - \( t = \frac{d}{r} \) (time = distance ÷ rate).
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    You jogged 6 miles in 2 hours. What was your average speed?  
    **Solution:**  
    - Formula: \( r = \frac{d}{t} \).  
    - \( r = \frac{6}{2} = 3 \) miles per hour.  
    - Your average speed was **3 mph**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    If you bike at 8 mph, how long will it take to travel 24 miles?  
    **Solution:**  
    - Formula: \( t = \frac{d}{r} \).  
@@ -445,58 +393,42 @@ Use the formula \( d = r \times t \) (distance = rate × time) to solve these pr
 
 ---
 
-### **Trail 3: Splitting the Bill - Percentages**
+### **Trail 3: 💰🍕 ~ Splitting the Bill ~ 🍕💰 - Percentages**
 
----
-
-===========================================
-💰🍕 ~ Splitting the Bill ~ 🍕💰
-===========================================
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Percentages represent parts per 100. Use the formula:  
 - Part = \( \text{Total} \times \frac{\text{Percentage}}{100} \).  
 - Total = \( \frac{\text{Part}}{\frac{\text{Percentage}}{100}} \).
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    After a meal, the total bill is $120. If you tip 15%, how much is the tip?  
    **Solution:**  
    - Tip = \( 120 \times \frac{15}{100} = 120 \times 0.15 = 18 \).  
    - The tip is **$18**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    You paid $60, which is 40% of the total cost. What was the total cost?  
    **Solution:**  
    - Total = \( \frac{60}{0.4} = 150 \).  
    - The total cost was **$150**.
 
----
+### **Trail 4: 🎵🌟 ~ Organizing a Concert ~ 🌟🎵 - Multi-Step Problems**
 
-### **Trail 4: Organizing a Concert - Multi-Step Problems**
-
----
-
--------------------------------------------------
-🎵🌟 ~ Organizing a Concert ~ 🌟🎵
--------------------------------------------------
-
-### **Rules of the Trail**
+#### **Rules of the Trail**
 Multi-step word problems require breaking the problem into smaller pieces. Solve each step systematically to find the final answer.
 
----
+#### **Adventurer’s Guide**
 
-### **Adventurer’s Guide**
-1. **Trail Marker 1:**  
+**Trail Marker 1:**  
    Tickets for a concert cost $50 each. If 120 people attend, and the event expenses are $2,000, what is the profit?  
    **Solution:**  
    - Total revenue = \( 50 \times 120 = 6,000 \).  
    - Profit = Total revenue - Expenses = \( 6,000 - 2,000 = 4,000 \).  
    - The profit is **$4,000**.
 
-2. **Trail Marker 2:**  
+**Trail Marker 2:**  
    A stage rental costs $500, and each musician is paid $100. If there are 6 musicians, what is the total cost of the event?  
    **Solution:**  
    - Musician cost = \( 6 \times 100 = 600 \).  
@@ -508,6 +440,8 @@ Multi-step word problems require breaking the problem into smaller pieces. Solve
 ### 🏆✨ Treasure Found: Strawberry Fields ✨🏆
 
 Amazing work, explorer! You’ve conquered ratios, percentages, and multi-step problems at **Strawberry Fields**. Word problems are no longer a riddle for you! Your next stop is **The Ramble**, where Probability and Statistics await. Let’s continue the quest!
+
+---
 
 ## **Unlocking Patterns at The Ramble - Probability and Statistics**
 
