@@ -12,6 +12,16 @@ description: "Notes"
 4. Coding & Automation
 5. Reasoning
 
+## AI Platform for Videos:
+
+| **Platform**                | **Capabilities**                                                                 |
+|-----------------------------|---------------------------------------------------------------------------------|
+| **Descript**                | Processes videos, generates transcriptions, and summarizes based on text analysis. |
+| **Synthesia**               | Converts text into video but doesn't directly summarize existing videos.          |
+| **Otter.ai**                | Transcribes video/audio content into text and summarizes or extracts keywords.    |
+| **InVideo**                 | Creates video summaries or content but requires input data.                       |
+| **Google Cloud Video Intelligence** | Analyzes video content for objects, speech, and text, extracting and categorizing scenes. |
+| **Pictory.ai**              | Creates summaries from long-form video content and breaks videos into highlight clips. |
 
 ## Personal Use:
 
