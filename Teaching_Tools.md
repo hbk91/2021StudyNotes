@@ -29,17 +29,7 @@ description: "Study Notes"
 | **Customizable Layout**     | Drag and arrange widgets, with the option to save layouts for future sessions.  |
 | **Multilingual Support**    | Offers multiple language options for diverse classrooms.                       |
 
-## Online whiteboards comparison:
-
-## **Assumptions for Cost Calculation**
-
-1. **User Count**: 10 instructors (assuming 1 instructor per 10 students).
-2. **Usage**: 20 hours per instructor per month.
-3. **Licensing**: Costs are calculated based on the number of instructor accounts required; student access is considered as guest or viewer where applicable.
-
----
-
-## **Whiteboard Tools Comparison for Collaborative Learning**
+## Whiteboard Tools Comparison for Collaborative Learning
 
 | **Tool**                 | **iPad Compatible** | **Apple Pencil Support** | **Real-Time Collaboration** | **Saving Boards** | **Cost Considerations**                                                                                                                                                                                                                       | **Description**                                                                                                                                                                                                                           |
 |---------------------------|---------------------|---------------------------|-----------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
