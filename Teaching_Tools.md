@@ -59,3 +59,4 @@ description: "Study Notes"
 | **Brainfuse**      | Academic and career tutoring  | Math, Writing, Resume writing | SAT, ACT                           | K-12 and college students             | US-based tutors and professionals     |
 | **Revolution Prep**| Test prep, academic tutoring  | Math, Science, Writing        | SAT, ACT, AP Exams                 | High school students                  | US-based, professional educators      |
 | **Kaplan**         | Test prep                     | SAT, ACT, GRE, MCAT, LSAT     | SAT, ACT, MCAT, GRE, LSAT          | Test prep students                    | Mix of US-based and global educators  |
+
