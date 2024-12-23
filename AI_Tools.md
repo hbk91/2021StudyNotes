@@ -23,6 +23,21 @@ description: "Notes"
 | **Google Cloud Video Intelligence** | Analyzes video content for objects, speech, and text, extracting and categorizing scenes. |
 | **Pictory.ai**              | Creates summaries from long-form video content and breaks videos into highlight clips. |
 
+## Comparison: NotebookLM vs ChatGPT-4 for analyzing uploaded documents
+
+| **Feature**                      | **NotebookLM**                                                                 | **ChatGPT-4**                                                                                      |
+|-----------------------------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| **Integration**                  | Built into **Google Workspace**, optimized for Google Docs and Drive.          | Independent of ecosystems, supports a wide range of document types (PDFs, Word, text, etc.).       |
+| **Personalized Context**         | Creates a **personalized AI model** based on uploaded notes/documents.          | Session-based document analysis with no persistent personalization.                               |
+| **Focus**                        | Tailored for **note-taking, organization, and study tools**.                    | A **general-purpose tool** for text-based AI tasks and document analysis.                         |
+| **Summarization**                | Provides **tailored summaries** for Google Docs, linking across your notes.     | Summarizes individual documents within the session but does not link or cross-reference them.      |
+| **Exploration**                  | Deeply integrates with Google Docs, allowing contextual insights across files.  | Can analyze multiple uploaded documents but treats them independently unless uploaded together.    |
+| **Document Persistence**         | Likely offers **persistent insights** tied to your Google account.              | Does not retain documents or data between sessions for privacy reasons.                           |
+| **File Format Support**          | Primarily supports **Google Docs**.                                             | Supports **PDF, Word, Excel, text, and more**.                                                    |
+| **Ease of Use**                  | Seamlessly integrates into the **Google Docs environment**.                     | Requires manual uploads, but highly flexible in terms of file types.                              |
+| **Audience**                     | Ideal for students, researchers, and professionals using **Google Workspace**.  | Suitable for anyone needing **flexible, on-demand document analysis**.                            |
+| **Customization**                | Offers tools for creating **outlines, summaries, and study guides**.            | Provides summaries, insights, and answers but does not create structured guides.                  |
+
 ## Personal Use:
 
 | **Type of Task**        | **AI's Role**                                                             | **Impact on Individuals**                                   | **Top 5 AI Tools**                                                                                                                                                                                                                       |
