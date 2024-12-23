@@ -1,5 +1,5 @@
 ---
-title: "Teaching Tools"
+title: "Online Teaching Analysis"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
