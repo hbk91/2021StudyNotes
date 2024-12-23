@@ -14,7 +14,7 @@ description: "Study Notes"
 | **Purpose**         | To weaken the US dollar and stabilize global trade imbalances              |
 | **Result**          | Dollar depreciation; improved US export competitiveness; Japanese bubble  |
 
-## US Healthcare System:
+## US Healthcare System Analysis:
 
 ### **Strengths of the U.S. Healthcare System**
 
