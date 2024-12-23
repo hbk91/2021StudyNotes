@@ -13,7 +13,7 @@ description: "Study Notes"
 - **Quizizz:** Prepare games on the basis of quizzes, link based. **Kahoot** is another option
 - **PowerPoint Games:** Basic PowerPoint interactive slides to create games  
 
-## Key Features of ClassroomScreen
+## Key Features of ClassroomScreen:
 
 | **Feature**                 | **Description**                                                                 |
 |------------------------------|---------------------------------------------------------------------------------|
@@ -29,7 +29,7 @@ description: "Study Notes"
 | **Customizable Layout**     | Drag and arrange widgets, with the option to save layouts for future sessions.  |
 | **Multilingual Support**    | Offers multiple language options for diverse classrooms.                       |
 
-## Whiteboard Tools Comparison for Collaborative Learning
+## Whiteboard Tools Comparison for Collaborative Learning:
 
 | **Tool**                 | **iPad Compatible** | **Apple Pencil Support** | **Real-Time Collaboration** | **Saving Boards** | **Cost Considerations**                                                                                                                                                                                                                       | **Description**                                                                                                                                                                                                                           |
 |---------------------------|---------------------|---------------------------|-----------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
