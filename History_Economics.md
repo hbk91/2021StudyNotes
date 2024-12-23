@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
-## **1985 Plaza Accord**
+## 1985 Plaza Accord
 
 | **Aspect**         | **Details**                                                                 |
 |---------------------|-----------------------------------------------------------------------------|
@@ -16,9 +16,9 @@ description: "Study Notes"
 
 ## US Healthcare System Analysis:
 
-### **Strengths of the U.S. Healthcare System**
+### Strengths of the U.S. Healthcare System
 
-| **Category**               | **Sub-Points**                           | **Details**                                                                 |
+| **Strength**               | **Advantage**                           | **Details**                                                                 |
 |----------------------------|------------------------------------------|-----------------------------------------------------------------------------|
 | **Medical Advancements**    | Research and Innovation                 | Leader in medical research, technology, and life-saving treatments.        |
 |                            | Pharmaceutical Innovation               | Significant contributor to global drug discoveries and new therapies.       |
