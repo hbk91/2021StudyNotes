@@ -44,3 +44,18 @@ description: "Study Notes"
 1. **User Count**: 10 instructors (assuming 1 instructor per 10 students). 100 students a month.
 2. **Usage**: 20 hours per instructor per month.
 3. **Licensing**: Costs are calculated based on the number of instructor accounts required; student access is considered as guest or viewer where applicable.
+
+##  Online Teaching Platforms in US:
+
+| **Platform**       | **What They Teach**             | **Subjects**                  | **Specific Exams**                  | **Target Students**                   | **Teacher Background**                |
+|---------------------|--------------------------------|--------------------------------|-------------------------------------|---------------------------------------|---------------------------------------|
+| **Chegg**          | Homework help, study aids     | Math, Science, Humanities     | SAT, ACT, GRE                      | High school, college                  | Mostly US-based educators             |
+| **Wyzant**         | Personalized tutoring         | Math, Writing, Programming    | SAT, ACT, AP Exams                 | All grades, adults                    | Mix of US-based and international     |
+| **TutorMe**        | On-demand tutoring            | Math, Science, Writing        | SAT, ACT, GMAT                     | Middle school, high school, college   | Educators from various countries      |
+| **Preply**         | Language learning             | ESL, Spanish, French, etc.    | IELTS, TOEFL                       | All ages, especially adults           | Global, many non-native English tutors|
+| **Varsity Tutors** | Live 1-on-1 tutoring          | All academic subjects         | SAT, ACT, AP Exams, State tests    | All grades, test preppers             | Primarily US-based tutors             |
+| **Skooli**         | Homework help, online classes | Math, Science, English        | None specifically                  | K-12 students                         | Mostly US and Canada-based teachers   |
+| **Club Z!**        | In-person and online tutoring | Math, Science, English        | SAT, ACT, State tests              | K-12 students                         | Local US-based teachers               |
+| **Brainfuse**      | Academic and career tutoring  | Math, Writing, Resume writing | SAT, ACT                           | K-12 and college students             | US-based tutors and professionals     |
+| **Revolution Prep**| Test prep, academic tutoring  | Math, Science, Writing        | SAT, ACT, AP Exams                 | High school students                  | US-based, professional educators      |
+| **Kaplan**         | Test prep                     | SAT, ACT, GRE, MCAT, LSAT     | SAT, ACT, MCAT, GRE, LSAT          | Test prep students                    | Mix of US-based and global educators  |
