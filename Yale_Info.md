@@ -1,10 +1,12 @@
 ---
-title: "Yale Resources for Students"
+title: "Yale Information"
 author: "Aman Jindal"
-description: "Notes as of Dec 12, 2024"
+description: "Notes"
 ---
 
-## Softwares:
+## **Resources for students:**
+
+### Softwares:
 
 | **Software**                          | **Description**                                                                                                                                             | **Access Information**                                                                                                                                     |
 |----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -28,7 +30,7 @@ description: "Notes as of Dec 12, 2024"
 | **See.Click.Fix**                      | App for reporting civic issues in New Haven, such as potholes or broken traffic lights.                                                                     | [Graduate Student Assembly](https://gsa.yale.edu/compass/life-yale/welcome-yale/technology-yale){:target="_blank"}                                          |
 | **STC Studios**                        | Free graphic design and media support services for the Yale community.                                                                                      | [STC at Yale](https://studenttechnology.yale.edu/about-stc){:target="_blank"}                                                                               |
 
-## Newspapers and Magazines:
+### Newspapers and Magazines:
 
 | **Publication**            | **Description**                                                                                                 | **Access Information**                                                                                                                                       |
 |----------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -43,7 +45,7 @@ description: "Notes as of Dec 12, 2024"
 | **STAT News**              | News organization focused on health, medicine, and scientific discovery.                                                                            | [Access Instructions](https://library.medicine.yale.edu/blog/stat){:target="_blank"}                                                                          |
 | **Library PressReader**    | Service providing access to recent issues of newspapers and magazines from around the world.                                                        | [Access Instructions](https://schedule.yale.edu/event/7306551){:target="_blank"}                                                                              |
 
-## Financial and Business Databases:
+### Financial and Business Databases:
 
 | **Database**             | **Description**                                                                                                              | **Access Information**                                                                                                                                         |
 |--------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -55,4 +57,21 @@ description: "Notes as of Dec 12, 2024"
 | **ABI/INFORM Global**    | Contains full-text content from business and management publications worldwide, covering various disciplines.                   | [Access Instructions](https://search.library.yale.edu/databases/13096296){:target="_blank"}                                                                   |
 | **Business Source Complete** | Provides bibliographic and full-text content for scholarly business journals dating back to 1886.                                 | [Access Instructions](https://search.library.yale.edu/databases/7600231){:target="_blank"}                                                                    |
 
+## Yale Faculty Typology:
+
+| **Faculty Type**            | **Description**                                                                                  | **Tenure Status**         | **Primary Responsibilities**             | **Employment Duration**             | **Approximate % of Yale Faculty** |
+|-----------------------------|--------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------|-------------------------------------|-----------------------------------|
+| **Tenured Faculty**         | Professors with permanent positions after successful tenure review.                              | Tenured                   | Research, teaching, and service.         | Permanent                          | 37.6%                             |
+| **Tenure-Track Faculty**    | Professors on the path to tenure, undergoing evaluation.                                         | Tenure-Track              | Research, teaching, and service.         | Fixed-term leading to tenure       | 13.3%                             |
+| **Non-Tenure-Track Faculty**| Faculty not on the tenure track, including lecturers and adjuncts.                               | Non-Tenured               | Primarily teaching, some research/service. | Fixed-term contracts, renewable    | 49.1%                             |
+| **Adjunct Faculty**         | Part-time faculty hired on a course-by-course basis.                                             | Non-Tenured               | Teaching specific courses.               | Short-term, often semester-based   | Included in Non-Tenure-Track      |
+| **Clinical Faculty**        | Faculty focused on practical, applied teaching in professional fields like medicine or law.      | Non-Tenured               | Teaching and supervising practical work. | Fixed-term contracts, renewable    | Included in Non-Tenure-Track      |
+| **Research Faculty**        | Faculty primarily conducting research, often grant-funded.                                       | Non-Tenured (sometimes Tenure-Track) | Research, publishing, grant work.       | Fixed-term or tenure-track         | Included in Non-Tenure-Track      |
+| **Professors of Practice**  | Experienced professionals bringing real-world expertise to academic programs.                    | Non-Tenured               | Teaching and mentoring students.         | Fixed-term contracts, renewable    | Included in Non-Tenure-Track      |
+| **Emeritus Faculty**        | Retired faculty honored for distinguished service, maintaining an affiliation with the university. | Non-Tenured               | Advisory roles, sometimes research or guest lecturing. | Permanent but honorary             | Not specified                     |
+| **Teaching Assistants (TAs)**| Graduate students assisting faculty with teaching and administrative tasks.                     | Non-Tenured               | Assisting in teaching, grading, and research. | Temporary, while enrolled in studies | Not applicable                    |
+| **Postdoctoral Fellows**    | Recent Ph.D. graduates conducting advanced research under faculty supervision.                   | Non-Tenured               | Research, sometimes teaching.            | Temporary, typically 1–3 years     | Not specified                     |
+| **Affiliate/Adjoint Faculty**| Faculty from other institutions collaborating with Yale.                                        | Non-Tenured               | Research or occasional teaching.         | Temporary or part-time             | Not specified                     |
+| **Visiting Professors**     | Senior faculty temporarily visiting from other institutions.                                    | Non-Tenured               | Teaching or research during their visit. | Temporary (short- to mid-term)     | Not specified                     |
+| **Instructional Faculty**   | Faculty focused solely on teaching with minimal research expectations.                           | Non-Tenured               | Teaching and course development.         | Fixed-term contracts, renewable    | Included in Non-Tenure-Track      |
 
