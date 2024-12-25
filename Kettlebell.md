@@ -39,6 +39,6 @@ The unique design of the kettlebell, with its off-center weight distribution, ch
 | **Dead Bugs**              | Alternate straightening legs with kettlebell.| Strengthens core and balance.      |
 | **Kettlebell Pull-Over**   | Move kettlebell overhead to the floor.    | Builds back and shoulder mobility. |
 
-*Note: The above exercises can be seen [here](https://youtu.be/stx7PYeoMao?si=jxiPvLjA5MEUjB8S){:target="_blank"}.*
+*Note: The above exercises can be seen [here](https://youtu.be/stx7PYeoMao){:target="_blank"}.*
 
 
