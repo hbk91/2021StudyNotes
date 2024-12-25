@@ -95,5 +95,5 @@ New York Subway system is one of the most intricate systems in the world. Here i
 |-----------------------|------------------------|-----------------------------------|-----------------------------------------------------|-----------------------------------------|
 | **Houston Street**     | 1, 2, 3, A, C, E      | Lower Manhattan                  | Divides SoHo and Greenwich Village.                 | Katz's Delicatessen, SoHo shopping     |
 | **Delancey Street**     | F, M, J, Z            | Lower East Side                  | Major connector between Williamsburg Bridge and Manhattan. | Essex Market, Williamsburg Bridge     |
-
+    
 ---
