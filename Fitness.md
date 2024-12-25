@@ -31,3 +31,5 @@ description: "Notes"
 10. **Alt Staggered Push-ups:** Push-ups with one hand on the Kettlebell. Alternate between the two hands.
 11. **Dead Bugs:** Lay down with Kettlebell held straight above your chest. Both the knees bent (at 90 degrees) and feet in the air. Then straighten each leg alternatively.
 12. **Kettlebell Pull-over:** Lay down with Kettlebell held straight above your chest, and then take it all the way to the floor, behind your head.
+
+*Note: The above exercises can be seen [here](https://youtu.be/stx7PYeoMao?si=jxiPvLjA5MEUjB8S){:target="_blank"}*
