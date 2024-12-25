@@ -1,5 +1,5 @@
 ---
-title: "NYC Subway in Manhattan"
+title: "NYC Subway System in Manhattan"
 author: "Aman Jindal"
 description: "Notes"
 ---

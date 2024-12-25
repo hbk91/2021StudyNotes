@@ -122,7 +122,7 @@ The **Manhattan Grid System** is a planned urban layout designed to simplify nav
 | **Edgecombe Avenue**   | Harlem and Washington Heights               | Runs along the western edge of Highbridge Park, primarily residential.                                                          | Highbridge Park                                   |
 
 #### Notes:
-1. **Diagonal Avenues:**
+1. **Diagon al Avenues:**
    - **Broadway**: Cuts across the Manhattan grid diagonally and is the longest avenue, spanning the entire borough.
    - **The Bowery**: A short diagonal street, historically significant, connecting the East Village and Lower East Side.
 
