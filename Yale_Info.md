@@ -59,6 +59,8 @@ description: "Notes"
 
 ## Yale Faculty Typology:
 
+<small>
+
 | **Faculty Type**           | **Description**                                                                                  | **Tenure Status**         | **Primary Responsibilities**             | **Employment Duration**         | **% of Yale Faculty**       |
 |----------------------------|--------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------|----------------------------------|-----------------------------|
 | **Tenured Faculty**        | Professors with permanent positions after tenure review.                                         | Tenured                   | Research, teaching, and service.         | Permanent                        | 37.6%                       |
@@ -75,3 +77,4 @@ description: "Notes"
 | **Visiting Professors**    | Senior faculty temporarily visiting from other institutions.                                    | Non-Tenured               | Teaching or research during their visit. | Temporary (short- to mid-term)   | Not specified               |
 | **Instructional Faculty**  | Faculty focused solely on teaching with minimal research expectations.                          | Non-Tenured               | Teaching and course development.         | Fixed-term contracts, renewable  | Included in Non-Tenure-Track |
 
+</small>
