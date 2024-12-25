@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-### Kettlebell
+## **Kettlebell**
 
 A **kettlebell** is a versatile piece of workout equipment shaped like a cannonball with a handle. It originated in Russia and has been used for centuries as a tool for building strength, endurance, and flexibility. Kettlebells come in various weights, making them suitable for beginners and advanced fitness enthusiasts alike.
 
