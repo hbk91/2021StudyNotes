@@ -1,5 +1,5 @@
 ---
-title: "Manhattan Subway"
+title: "NYC Subway in Manhattan"
 author: "Aman Jindal"
 description: "Notes"
 ---

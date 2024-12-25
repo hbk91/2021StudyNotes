@@ -11,11 +11,13 @@ Manhattan is the heart of New York City, known for its iconic skyline, vibrant n
 ![Manhattan Neighborhoods Map](./Images/Manhattan_Map.jpeg)
 
 ### **Neighborhoods in the Upper West Side**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **Lincoln Square**   | Cultural hub with upscale living and performing arts.                           | Lincoln Center, Juilliard School         | W 59th St to W 66th St; Columbus Ave     | West                   |
 
 ### **Neighborhoods in Midtown Manhattan**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **Clinton (Hell’s Kitchen)** | Vibrant area with trendy restaurants and theaters.                             | Intrepid Museum, Broadway theaters       | W 34th St to W 59th St; 8th Ave to Hudson River | West                   |
@@ -28,12 +30,14 @@ Manhattan is the heart of New York City, known for its iconic skyline, vibrant n
 | **Sutton Place**     | Exclusive area with elegant townhouses and serene streets.                      | Sutton Place Park                        | E 53rd St to E 59th St; 1st Ave to East River | East                   |
 
 ### **Neighborhoods in Gramercy and Stuyvesant Town**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **Gramercy Park**    | Exclusive neighborhood with historic homes and private park access.             | Gramercy Park, National Arts Club        | E 20th St to E 23rd St; Park Ave South to 3rd Ave | East                   |
 | **Stuyvesant Town**  | Large residential complex with green spaces.                                    | Stuyvesant Oval                          | E 14th St to E 23rd St; 1st Ave to FDR Dr | East                   |
 
 ### **Neighborhoods in Greenwich Village and Surroundings**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **West Village**     | Charming area with cobblestone streets, boutique shops, and a vibrant nightlife.| Stonewall Inn, Hudson River Park         | Houston St to W 14th St; Hudson River to 7th Ave | West                   |
@@ -43,6 +47,7 @@ Manhattan is the heart of New York City, known for its iconic skyline, vibrant n
 | **ABC City (Alphabet City)**| Sub-neighborhood of East Village with eclectic culture and community gardens.         | Community Gardens, Tompkins Square Park  | Houston St to E 14th St; Ave A to Ave D    | East                   |
 
 ### **Neighborhoods in Chinatown, Little Italy, and Surroundings**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **Little Italy**     | Known for Italian-American heritage and dining.                                | Mulberry St, Feast of San Gennaro        | Canal St to Broome St; Mulberry St to Bowery | East                   |
@@ -51,6 +56,7 @@ Manhattan is the heart of New York City, known for its iconic skyline, vibrant n
 | **Civic Center**     | Government district with courthouses and public buildings.                     | City Hall, Brooklyn Bridge               | Chambers St to Worth St; Broadway to FDR Dr | East                   |
 
 ### **Neighborhoods in Lower Manhattan**
+
 | **Neighborhood**    | **Key Features**                                                                 | **Notable Landmarks**                    | **Approx. Location**                    | **East/West/Across**    |
 |----------------------|----------------------------------------------------------------------------------|------------------------------------------|------------------------------------------|-------------------------|
 | **Two Bridges**      | Residential area between the Manhattan and Brooklyn Bridges.                    | Manhattan Bridge, Brooklyn Bridge Park   | E Broadway to South St; Bowery to East River | East                   |

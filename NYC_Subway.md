@@ -45,7 +45,7 @@ The New York City Subway, operated by the **Metropolitan Transportation Authorit
 
 ---
 
-## Subway  Lines:
+## **Subway  Lines**
 
 ![NYC_Subway_Ofc](./Images/NYC_Subway_Ofc.jpeg)
 
