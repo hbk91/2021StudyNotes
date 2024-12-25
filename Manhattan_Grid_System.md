@@ -82,6 +82,7 @@ The **Manhattan Grid System** is a planned urban layout designed to simplify nav
 | **Park Avenue**     | Formerly part of 4th Avenue; parallel to Lexington and Madison Avenues. | Starts at **Union Square** (as Park Avenue South) and extends north of **42nd Street** through the Upper East Side to Harlem.   | Home to some of the wealthiest real estate in NYC, Grand Central Terminal, Park Avenue Viaduct. |
 | **Madison Avenue**  | Located between 5th Avenue and Park Avenue.   | Begins at **East 23rd Street** and runs north to **Madison Avenue Bridge** (138th Street).                                       | Iconic for luxury fashion boutiques, advertising agencies, and cultural institutions. |
 
+#### Notes:
 1. **Not Part of the Grid:**
    - Lexington, Park, and Madison Avenues are unique in that they do not conform to the typical numbered avenue layout.
 
@@ -120,6 +121,7 @@ The **Manhattan Grid System** is a planned urban layout designed to simplify nav
 | **Pleasant Avenue**    | East Harlem                                 | A short residential street extending from E 114th St to E 120th St.                                                             | Known for its Italian-American heritage           |
 | **Edgecombe Avenue**   | Harlem and Washington Heights               | Runs along the western edge of Highbridge Park, primarily residential.                                                          | Highbridge Park                                   |
 
+#### Notes:
 1. **Diagonal Avenues:**
    - **Broadway**: Cuts across the Manhattan grid diagonally and is the longest avenue, spanning the entire borough.
    - **The Bowery**: A short diagonal street, historically significant, connecting the East Village and Lower East Side.
