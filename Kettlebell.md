@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## Kettlebell
+### Kettlebell
 
 A **kettlebell** is a versatile piece of workout equipment shaped like a cannonball with a handle. It originated in Russia and has been used for centuries as a tool for building strength, endurance, and flexibility. Kettlebells come in various weights, making them suitable for beginners and advanced fitness enthusiasts alike.
 
@@ -12,7 +12,7 @@ The unique design of the kettlebell, with its off-center weight distribution, ch
 
 ![Kettlebell](./Images/Fitness/Kettlebell.jpeg)
 
-## Benefits of Using a Kettlebell
+### Kettlebell Benefits
 
 | **Benefit**               | **Description**                                                                 |
 |---------------------------|---------------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ The unique design of the kettlebell, with its off-center weight distribution, ch
 | **Enhances Core Stability** | Requires core engagement for balance and control during exercises.              |
 | **Compact and Portable**   | Small and easy to store, ideal for home or on-the-go workouts.                  |
 
-### Kettlebell Full-body workout
+### Kettlebell Full Body Workout
 
 | **Exercise**               | **Description**                           | **Benefit**                        |
 |----------------------------|-------------------------------------------|------------------------------------|
