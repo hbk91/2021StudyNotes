@@ -13,6 +13,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 ## **Avenues**
 
 ### **Central Avenues**
+
 | **Avenue Name**     | **Location**                       | **Description**                                         | **Notable Landmarks**                | **Subway Lines**        |
 |---------------------|-------------------------------------|---------------------------------------------------------|---------------------------------------|-------------------------|
 | **Broadway**         | Diagonal from Bowling Green to Inwood | Cuts through the grid, Manhattan’s most famous avenue.   | Times Square, Flatiron Building       | 1, 2, 3, N, Q, R, W    |
@@ -22,6 +23,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **Lexington Avenue** | East Side, parallel to Park Ave    | Major commercial and residential corridor.              | Chrysler Building                     | 4, 5, 6                |
 
 ### **West Side Avenues**
+
 | **Avenue Name**       | **Location**                       | **Description**                                         | **Notable Landmarks**              | **Subway Lines**        |
 |-----------------------|-------------------------------------|---------------------------------------------------------|-------------------------------------|-------------------------|
 | **Central Park West**  | West of Central Park               | Scenic residential area along Central Park’s western edge. | American Museum of Natural History | A, C, B, D             |
@@ -32,6 +34,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **12th Avenue**        | West Side Highway                  | Highway-like avenue, industrial in parts.               | Hudson River Greenway              | No subway lines        |
 
 ### **East Side Avenues**
+
 | **Avenue Name**       | **Location**                       | **Description**                                         | **Notable Landmarks**             | **Subway Lines**        |
 |-----------------------|-------------------------------------|---------------------------------------------------------|------------------------------------|-------------------------|
 | **1st Avenue**         | Easternmost main avenue            | Major residential and commercial street.                | United Nations                    | Closest: 4, 5, 6       |
@@ -41,6 +44,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **Pleasant Avenue**    | East Harlem                       | Short, residential street with Italian-American heritage.| East Harlem                       | Closest: 6             |
 
 ### **Alphabet City Avenues**
+
 | **Avenue Name**       | **Location**                       | **Description**                                         | **Notable Landmarks**             | **Subway Lines**        |
 |-----------------------|-------------------------------------|---------------------------------------------------------|------------------------------------|-------------------------|
 | **Avenue A**           | Alphabet City                     | Runs parallel to 1st Avenue.                            | Tompkins Square Park              | Closest: L             |
@@ -49,6 +53,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **Avenue D**           | Alphabet City                     | Easternmost avenue in Alphabet City.                    | Community-focused                 | Closest: L             |
 
 ### **Special or Diagonal Avenues**
+
 | **Avenue Name**       | **Location**                       | **Description**                                         | **Notable Landmarks**             | **Subway Lines**        |
 |-----------------------|-------------------------------------|---------------------------------------------------------|------------------------------------|-------------------------|
 | **Broadway**           | Diagonal from Bowling Green to Inwood | Cuts through the grid, Manhattan’s most famous avenue.   | Times Square, Broadway Theaters   | 1, 2, 3, N, Q, R, W    |
@@ -57,9 +62,12 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **St. Nicholas Avenue**| Harlem and Washington Heights     | Runs diagonally through northern Manhattan.             | Historical landmarks in Harlem    | A, B, C, D             |
 | **Edgecombe Avenue**   | Harlem and Washington Heights     | Runs along Highbridge Park, primarily residential.       | Highbridge Park                   | Closest: C, 1          |
 
+---
+
 ## **Streets**
 
 ### **Downtown Streets**
+
 | **Street Name**       | **Subway Lines**       | **Location**                     | **Key Features**                                     | **Notable Landmarks**                  |
 |-----------------------|------------------------|-----------------------------------|-----------------------------------------------------|-----------------------------------------|
 | **Wall Street**        | 2, 3, 4, 5            | Financial District               | Major financial hub of NYC.                         | New York Stock Exchange, Trinity Church |
@@ -67,6 +75,7 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **Canal Street**       | N, Q, R, W, J, Z, 6   | Chinatown                        | Major commercial street, hub for Chinatown and SoHo.| Manhattan Bridge entrance              |
 
 ### **Midtown Streets**
+
 | **Street Name**       | **Subway Lines**       | **Location**                     | **Key Features**                                     | **Notable Landmarks**                  |
 |-----------------------|------------------------|-----------------------------------|-----------------------------------------------------|-----------------------------------------|
 | **42nd Street**        | 1, 2, 3, 4, 5, 6, 7, A, C, E, N, Q, R, W | Midtown                          | One of NYC's busiest streets, connecting east and west sides. | Grand Central Terminal, Times Square  |
@@ -74,14 +83,17 @@ New York Subway system is one of the most intricate systems in the world. Here i
 | **14th Street**        | 1, 2, 3, F, M, L, A, C, E | West Village to Union Square      | Connects west to east, major transit hubs.          | Union Square, Chelsea Market           |
 
 ### **Uptown Streets**
+
 | **Street Name**       | **Subway Lines**       | **Location**                     | **Key Features**                                     | **Notable Landmarks**                  |
 |-----------------------|------------------------|-----------------------------------|-----------------------------------------------------|-----------------------------------------|
 | **125th Street**       | 1, 2, 3, A, B, C, D, 4, 5, 6 | Harlem                           | Main commercial street of Harlem.                   | Apollo Theater, Harlem Markets         |
 | **145th Street**       | A, B, C, D, 1, 3        | Harlem                           | Serves as a central transit hub for upper Harlem.    | Jackie Robinson Park                   |
 
 ### **Special/Diagonal Streets**
+
 | **Street Name**       | **Subway Lines**       | **Location**                     | **Key Features**                                     | **Notable Landmarks**                  |
 |-----------------------|------------------------|-----------------------------------|-----------------------------------------------------|-----------------------------------------|
 | **Houston Street**     | 1, 2, 3, A, C, E      | Lower Manhattan                  | Divides SoHo and Greenwich Village.                 | Katz's Delicatessen, SoHo shopping     |
 | **Delancey Street**     | F, M, J, Z            | Lower East Side                  | Major connector between Williamsburg Bridge and Manhattan. | Essex Market, Williamsburg Bridge     |
 
+---
