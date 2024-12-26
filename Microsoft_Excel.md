@@ -169,7 +169,7 @@ description: "Study Notes"
 | Get last column                 | `selRange.Columns(selRange.Columns.Count).Column` | `=COLUMN(A5:J12) + COLUMNS(A5:J12) - 1`            | **10**                 |
 
 ### Conditional Formatting Precedence Concept  
-Conditional formatting rules are applied **top-to-bottom**, and Excel stops evaluating once a rule is **TRUE**. Therefore, higher priority rules (e.g., upper thresholds) must appear **first**._
+Conditional formatting rules are applied **top-to-bottom**, and Excel stops evaluating once a rule is **TRUE**. Therefore, higher priority rules (e.g., upper thresholds) must appear **first**.
 
 | **Rule Order** | **Condition**                  | **Formatting Applied** | **Example Value** | **Reason**                                                               |
 |-----------------|--------------------------------|------------------------|------------------|--------------------------------------------------------------------------|
