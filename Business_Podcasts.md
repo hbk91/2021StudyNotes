@@ -34,7 +34,7 @@ description: "Notes"
 | **Entrepreneurs on Fire**  | John Lee Dumas               | Successful entrepreneurs             | Focuses on entrepreneurial journeys and strategies for building businesses.     | Inspires with actionable strategies from successful business leaders.                   |
 | **Founder's Journal**      | Alex Lieberman               | Startup founders, entrepreneurs      | Shares personal insights and strategies on running and scaling businesses.      | Provides candid and practical advice for modern entrepreneurs.                          |
 
-### **Top 10 Financial Markets Analysis Podcasts**
+### **Top 10 Financial Markets Podcasts**
 
 | **Podcast Name**            | **Host**                      | **Guest Profile**                  | **Overview**                                                                 | **Benefits**                                                                        |
 |------------------------------|-------------------------------|-------------------------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
