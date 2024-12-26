@@ -57,7 +57,7 @@ description: "Notes"
 | **ABI/INFORM Global**    | Contains full-text content from business and management publications worldwide, covering various disciplines.                   | [Access Instructions](https://search.library.yale.edu/databases/13096296){:target="_blank"}                                                                   |
 | **Business Source Complete** | Provides bibliographic and full-text content for scholarly business journals dating back to 1886.                                 | [Access Instructions](https://search.library.yale.edu/databases/7600231){:target="_blank"}                                                                    |
 
-## Yale Faculty Typology:
+## **Yale Faculty Typology**
 
 | **Faculty Type**           | **Description**                                                                                  | **Tenure Status**         | **Primary Responsibilities**             | **Employment Duration**         | **% of Yale Faculty**       |
 |----------------------------|--------------------------------------------------------------------------------------------------|---------------------------|------------------------------------------|----------------------------------|-----------------------------|
