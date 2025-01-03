@@ -8,21 +8,21 @@ description: "Notes"
 
 | **US Unit**        | **Metric Equivalent** |
 |---------------------|-----------------------|
-| 1 ounce (oz)       | 28.35 grams (g)      |
-| 1 pound (lb)       | 0.453592 kilograms (kg) |
-| 1 ton (US)         | 907.184 kilograms (kg) |
+| 1 ounce (oz)       | 28 grams      |
+| 1 pound (lb)       | 454 grams |
+| 1 ton (US)         | 907 kg |
 
 ## **Volume**
 
 | **US Unit**        | **Metric Equivalent** |
 |---------------------|-----------------------|
-| 1 teaspoon (tsp)   | 4.92892 milliliters (mL) |
-| 1 tablespoon (tbsp)| 14.7868 milliliters (mL) |
-| 1 fluid ounce (fl oz)| 29.5735 milliliters (mL) |
-| 1 cup              | 236.588 milliliters (mL) |
-| 1 pint (US)        | 473.176 milliliters (mL) |
-| 1 quart (US)       | 0.946353 liters (L)     |
-| 1 gallon (US)      | 3.78541 liters (L)      |
+| 1 teaspoon (tsp)   | 5 mL |
+| 1 tablespoon (tbsp)| 15 mL |
+| 1 fluid ounce (fl oz)| 30 mL |
+| 1 cup              | 236 ml |
+| 1 pint (US)        | 473 mL |
+| 1 quart (US)       | 0.95 liters     |
+| 1 gallon (US)      | 3.8 liters      |
 
 
 ## **Length**
@@ -30,9 +30,9 @@ description: "Notes"
 | **US Unit**        | **Metric Equivalent** |
 |---------------------|-----------------------|
 | 1 inch (in)        | 2.54 centimeters (cm) |
-| 1 foot (ft)        | 0.3048 meters (m)     |
-| 1 yard (yd)        | 0.9144 meters (m)     |
-| 1 mile             | 1.60934 kilometers (km) |
+| 1 foot (ft)        | 0.3 meters (m)     |
+| 1 yard (yd)        | 0.91 meters (m)     |
+| 1 mile             | 1.61 kilometers (km) |
 
 ## **Temperature**
 
