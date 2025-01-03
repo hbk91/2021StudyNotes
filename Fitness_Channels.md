@@ -34,3 +34,10 @@ description: "Notes"
 | **Pamela Reif**                | Pamela Reif                   | Home workouts and nutrition        | Shares no-equipment, music-driven workout routines and meal tips.           | Offers effective and convenient fitness solutions for home workouts.                          |
 | **MadFit**                     | Maddie Lymburner              | Home workouts and dance fitness    | Features short workouts, stretching routines, and fun dance exercises.      | Provides a variety of fitness options, including dance and flexibility-focused workouts.       |
 | **Scott Herman Fitness**       | Scott Herman                  | Strength training and bodybuilding | Covers gym techniques, form corrections, and workout plans.                 | Delivers in-depth tutorials on weightlifting and building strength.                           |
+
+## Some Important Websites:
+
+- <a href= 'https://www.ifafitness.com/book/weights.htm' target='_blank'>
+International Fitness Association Weight Training</a>
+  - <a href= 'https://www.ifafitness.com/book/bmi-chart.htm#' target='_blank'>
+BMI Chart</a>
