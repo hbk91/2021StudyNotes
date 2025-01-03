@@ -6,6 +6,8 @@ description: "Notes"
 
 ## **Deal Rationale**
 
+*Dec, 2024*
+
 ### **1. Financial Stabilization for Hawaiian Electric Industries (HEI)**
 - HEI faces significant financial obligations, including a nearly $2 billion settlement related to the 2023 Maui wildfires.
 - Proceeds from the sale will strengthen HEI’s balance sheet, providing resources to address ongoing legal and financial challenges.
