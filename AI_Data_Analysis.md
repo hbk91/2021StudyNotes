@@ -65,4 +65,11 @@ Create a file called **SOURCES.md** that indicates that all of the data can be d
 #### **Prompt**
 Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the original data into a zip file that I can download and that would allow others to replicate this analysis.
 
+---
+
+### **Data Analysis Approaches**
+
+- AI knowledge/reasoning based
+- Programmatic
+
 
