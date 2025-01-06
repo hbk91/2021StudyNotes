@@ -4,9 +4,9 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## **Traceability of Analysis/Chats:**
+## **Traceability of Analysis/Chats**
 
-### Goal:
+### **Goal**
 
 | **File Name**       | **Purpose**                                                                                                  |
 |----------------------|------------------------------------------------------------------------------------------------------------|
@@ -15,21 +15,23 @@ description: "Notes"
 | **SOURCES.md**       | Provides links to the data sources used in the project, ensuring transparency and easy access for replication.                     |
 | **Python Scripts**   | Each script performs a specific analysis or visualization and is designed to work with data files in the same directory.            |
 
-### AI Prompts:
+### **AI Prompts**
 
-**Prompt**
+#### **Prompt**
+
 Let's create a traceability document to ensure that others can:
 
 1. **Know what data was used.**
 2. **Understand how the analysis was performed.**
 3. **Identify threats to validity.**
 
-We want a guide for someone else to be able to replicate and understand the limitations of the analysis.`
+We want a guide for someone else to be able to replicate and understand the limitations of the analysis.
 
-**Prompt**
+#### **Prompt**
+
 Save the traceability information as a `README.md`
 
-**Prompt**
+#### **Prompt**
 For each analysis and visualization:
 
 1. **Create a single Python script** that performs the analysis and produces the visualization.
@@ -42,7 +44,7 @@ For each analysis and visualization:
    - The file name of the Python script,
    - A one-sentence description of what it does.
 
-**Prompt**
+#### **Prompt**
 Create a file named **SCRIPTS.md** that includes:
 
 1. A **table** listing:
@@ -53,7 +55,7 @@ Create a file named **SCRIPTS.md** that includes:
    - How to run the script,
    - How it works.
 
-**Prompt**
+#### **Prompt**
 Create a file called **SOURCES.md** that indicates that all of the data can be downloaded from: "our link"
 
 ---
