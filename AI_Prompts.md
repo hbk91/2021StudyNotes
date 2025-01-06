@@ -1,0 +1,63 @@
+---
+title: "AI Prompts"
+author: "Aman Jindal"
+description: "Notes"
+---
+
+## Traceability of Analysis/Chats:
+
+### Goal:
+
+| **File Name**       | **Purpose**                                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------------------------|
+| **README.md**        | Serves as the primary documentation for the project. Includes details about data sources, analysis methods, threats to validity, and instructions for replication. |
+| **SCRIPTS.md**       | Lists all Python scripts with summaries of their functionality and includes sections explaining how to run and understand each script. |
+| **SOURCES.md**       | Provides links to the data sources used in the project, ensuring transparency and easy access for replication.                     |
+| **Python Scripts**   | Each script performs a specific analysis or visualization and is designed to work with data files in the same directory.            |
+
+### AI Prompts:
+
+Let's create a traceability document to ensure that others can:
+
+1. **Know what data was used.**
+2. **Understand how the analysis was performed.**
+3. **Identify threats to validity.**
+
+We want a guide for someone else to be able to replicate and understand the limitations of the analysis.`
+
+---
+
+Save the traceability information as a `README.md`
+
+---
+
+For each analysis and visualization:
+
+1. **Create a single Python script** that performs the analysis and produces the visualization.
+   - The script can assume that the files used are in the same directory as the script.
+
+2. **Save each Python file** with a prefix identifying the analysis it is related to.
+
+3. **Output a table** listing:
+   - The analysis,
+   - The file name of the Python script,
+   - A one-sentence description of what it does.
+
+---
+
+Create a file named **SCRIPTS.md** that includes:
+
+1. A **table** listing:
+   - Each script file,
+   - A summary of the analysis associated with it.
+
+2. **A section for each script** that explains:
+   - How to run the script,
+   - How it works.
+
+---
+
+Create a file called **SOURCES.md** that indicates that all of the data can be downloaded from: "our link"
+
+---
+
