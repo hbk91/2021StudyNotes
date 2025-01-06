@@ -8,8 +8,6 @@ description: "Notes"
 
 ### **Goal**
 
-# File Types and Purposes
-
 | **File Name**         | **Purpose**                                                                                                  |
 |------------------------|------------------------------------------------------------------------------------------------------------|
 | **README.md**          | Serves as the primary documentation for the project. Includes details about data sources, analysis methods, threats to validity, and instructions for replication. |
