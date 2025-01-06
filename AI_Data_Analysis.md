@@ -67,7 +67,10 @@ Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the origina
 
 ### **Data Analysis Approaches**
 
-- AI knowledge/reasoning based
-- Programmatic
+- Knowledge based
+- Reasoning based
+- Programmatic based
+
+
 
 
