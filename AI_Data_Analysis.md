@@ -27,7 +27,7 @@ description: "Notes"
 
 ### **AI Prompts**
 
-#### **Prompt**
+#### **Documenting the work**
 
 Let's create a traceability document to ensure that others can:
 
@@ -37,11 +37,12 @@ Let's create a traceability document to ensure that others can:
 
 We want a guide for someone else to be able to replicate and understand the limitations of the analysis.
 
-#### **Prompt**
+#### **Converting document to Markdown**
 
 Save the traceability information as a `README.md`
 
-#### **Prompt**
+#### **Prompting to output Python scripts used**
+
 For each analysis and visualization:
 
 1. **Create a single Python script** that performs the analysis and produces the visualization.
@@ -54,7 +55,8 @@ For each analysis and visualization:
    - The file name of the Python script,
    - A one-sentence description of what it does.
 
-#### **Prompt**
+#### **Markdown Summary of Scripts**
+
 Create a file named **SCRIPTS.md** that includes:
 
 1. A **table** listing:
@@ -65,20 +67,40 @@ Create a file named **SCRIPTS.md** that includes:
    - How to run the script,
    - How it works.
 
-#### **Prompt**
+#### **Summary of Data Sources in Markdown**
+
 Create a file called **SOURCES.md** that indicates that all of the data can be downloaded from: "our link"
 
-#### **Prompt**
+#### **Zip  of all the files**
+
 Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the original data into a zip file that I can download and that would allow others to replicate this analysis.
 
 ---
 
 ## **Data Creation:**
 
-#### **Prompt**
+#### **Structured Data from Unstructured Data**
 
-- You can paste any randomly formatted data, and then can say something like: Please convert this into CSV Format: Col1, Col2, Col3,...
+- You can paste any randomly formatted data, and then can say something like: Please convert this into CSV Format: 
+  - Name, Description, Topic (1-word)
+  - Next row...
+  
+---
 
+## **Content for PowerPoint:**
+
+Step 1: Create your narrative/story for all the slides, typically broken down into sections
+Step 2: Ask AI for, "Save each element of the narrative that is separated by a horizontal rule as a separate text file."
+Step 3: Upload your Powerpoint template, and ask, "Now, read each file in one by one and insert the text as a slide in the attached PowerPoint template. Put the text into a Title and Content slide as the Content. Populate the title as well"
+
+---
+
+## **Creating Spreadsheet Templates from Scratch**
+
+- We can upload any document and ask AI to create a spreadsheet model to track it. It is useful for procedural things like Expense/Travel Policies
+- We can ask for the spreadsheet structure, and then ask AI to actually create one.
+- We can then ask it to populate it with sample data.
+- We can turn the spreadsheet into a checklist as well.
 
 
 
