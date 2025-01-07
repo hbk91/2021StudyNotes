@@ -13,7 +13,7 @@ description: "Notes"
 | **Model**                   | GPT-4-turbo                                                                                |
 | **Subscription**            | Paid version (e.g., ChatGPT Plus or API usage with GPT-4-turbo).                           |
 | **Free Version Limits**     | Typically capped at **GPT-3.5** with similar token limits but less advanced capabilities.  |
-| **Performance Differences** | GPT-4 offers better reasoning, contextual understanding, and overall accuracy than GPT-3.5. |
+| **Performance Differences** | GPT-4 offers better reasoning, contextual understanding, and overall accuracy than GPT-3.5. |   
 
 ### Input
 

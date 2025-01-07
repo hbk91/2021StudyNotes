@@ -4,6 +4,14 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
+## **Data Analysis Approaches**
+
+- Knowledge based
+- Reasoning based
+- Programmatic based
+
+---
+
 ## **Traceability of Analysis/Chats**
 
 ### **Goal**
@@ -65,11 +73,12 @@ Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the origina
 
 ---
 
-### **Data Analysis Approaches**
+## **Data Creation:**
 
-- Knowledge based
-- Reasoning based
-- Programmatic based
+#### **Prompt**
+
+- You can paste any randomly formatted data, and then can say something like: Please convert this into CSV Format: Col1, Col2, Col3,...
+
 
 
 
