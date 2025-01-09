@@ -103,5 +103,11 @@ Step 3: Upload your Powerpoint template, and ask, "Now, read each file in one by
 - We can turn the spreadsheet into a checklist as well.
 
 
-  
+---
 
+## **Excel Charts**
+
+To create a chart in Excel from a Chart that AI has created in Python/or a screenshot you posted - Break the process in two steps: Putting the data together in a convenient format in Excel, and then plotting the data.
+
+- For replicating this in Excel, what columns are required to make it as easy as possible to visualize/plot?
+- Then, give me step by step process of creating the visual in Excel
