@@ -102,12 +102,26 @@ Step 3: Upload your Powerpoint template, and ask, "Now, read each file in one by
 - We can then ask it to populate it with sample data.
 - We can turn the spreadsheet into a checklist as well.
 
-
 ---
 
 ## **Excel Charts**
 
-To create a chart in Excel from a Chart that AI has created in Python/or a screenshot you posted - Break the process in two steps: Putting the data together in a convenient format in Excel, and then plotting the data.
+To create a chart in Excel from a Chart that AI has created in Python/or a screenshot you posted
 
-- For replicating this in Excel, what columns are required to make it as easy as possible to visualize/plot?
-- Then, give me step by step process of creating the visual in Excel
+### Full-Proof Approach:
+
+Break the process in two steps: Putting the data together in a convenient format in Excel, and then plotting the data.
+- For replicating this in Excel, what columns are required to make it as easy as possible to visualize/plot? Guide me on creating those columns.
+- Then, give me step by step process of creating the visual in Excel.
+
+### Short-cut:
+
+Again, two steps. But in the first step directly ask AI to output the data required for plotting as a CSV/Excel file.
+- Give me the data required to create this, visual as a CSV/Excel File. **(This step may result in errors - Need to verify what AI is giving us)**
+- Then, give me step by step process of creating the visual in Excel.
+
+### Checking your Excel Chart:
+
+Suppose you want to compare two charts, or check your work. For example: One chart was produced by AI with Python, and you created the same chart in Excel
+- Paste screenshots of both the pictures in the Prompt, and ask, "Other than legend, layout, color, fonts, any formatting, etc, Do you see any differences in the two charts, such that, the two charts may be materially different or based on different data"
+
