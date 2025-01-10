@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-# 16 Prompt Engineering Strategies
+# Sixteen Prompt Engineering Strategies
 
 ## 1. Meta Language Creation
 - **What It Is:** Teach the AI a custom way to understand your instructions.
