@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## Sixteen Prompt Engineering Strategies
+## Prompt Engineering Strategies
 
 ### 1. Meta Language Creation
 - **What It Is:** Teach the AI a custom way to understand your instructions.
@@ -134,9 +134,9 @@ description: "Notes"
 
 ---
 
-## Unique Strategies:
+## Other Unique Strategies:
 
-### Specify Answer Format:
+### Specify Answer Format
 
 Discuss Yale University with respect to the Yale School of Medicine. Use the following format:
 
@@ -144,10 +144,32 @@ Title: <Title of Article>
 Author: <Author>
 Summary: <Summary>
 
+### Input-Output Techniques
+
+#### 1. One-Shot Input-Output Technique
+- **What It Is:** A simple and direct approach where you provide a single input and expect a complete output in response.
+- **Use Case:** Best for straightforward problems or tasks where the solution can be produced in one step.
+- **Example:**
+  - **Input:** "The movie was fast-paced but too long", **Output: neutral** 
+  - **Input:** "The movie completely drained me", **Output:**
+---
+
+#### 2. Multi-Step Input-Output Technique
+- **What It Is:** A structured method where the task is broken down into sequential steps, often with alternating "Think" and "Action" phases.
+- **Use Case:** Ideal for complex problems requiring logical reasoning or iterative processes.
+- **Example:**
+  - **Situation:** "You are designing a weekly meal plan for someone with a vegan diet."
+    - **Think:** "Start by listing nutrient-rich vegan foods."
+    - **Action:** "Create a list: lentils, chickpeas, tofu, quinoa, spinach, nuts."
+    - **Think:** "Distribute these foods across breakfast, lunch, and dinner over seven days."
+    - **Action:** "Generate a daily plan, ensuring variety and balance."
+    - **Think:** "Check if there’s a good mix of protein, carbs, and fats."
+    - **Action:** "Adjust meals if necessary for nutritional balance."
+  - **Situation:** "You are designing a week long trip through Chile for someone who has never been to South America"
 ---
 
 ## Use Cases:
 
-### Agent AI: Simulating a Panel of Experts to decide on a topic
+### Agent AI: Simulate a Panel of Experts to decide on a topic
 
 - What if multiple Agents can act like Marketing Head, Finance Head, IT Head, HR, etc and take a decision jointly by evaluating all perspectives?
