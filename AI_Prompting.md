@@ -146,6 +146,8 @@ Summary: <Summary>
 
 ### Input-Output Techniques
 
+*Note: Instead of using generic `Input` or `Output` keywords, you can also use other keywords that are more representative of what you are trying to enter, and what you are trying to receive as an Output.*
+
 #### 1. One-Shot Input-Output Technique
 - **What It Is:** A simple and direct approach where you provide a single input and expect a complete output in response.
 - **Use Case:** Best for straightforward problems or tasks where the solution can be produced in one step.
