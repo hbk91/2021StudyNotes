@@ -140,20 +140,22 @@ description: "Notes"
 
 Discuss Yale University with respect to the Yale School of Medicine. Use the following format:
 
-Title: <Title of Article>
+Title: <Title>
 Author: <Author>
 Summary: <Summary>
+
+---
 
 ### Input-Output Techniques
 
 *Note: Instead of using generic `Input` or `Output` keywords, you can also use other keywords that are more representative of what you are trying to enter, and what you are trying to receive as an Output.*
-
+ 
 #### 1. One-Shot Input-Output Technique
 - **What It Is:** A simple and direct approach where you provide a single input and expect a complete output in response.
 - **Use Case:** Best for straightforward problems or tasks where the solution can be produced in one step.
 - **Example:**
   - **Input:** "The movie was fast-paced but too long", **Output: neutral** 
-  - **Input:** "The movie completely drained me", **Output:**
+  **Input:** "The movie completely drained me", **Output:**
 ---
 
 #### 2. Multi-Step Input-Output Technique
@@ -167,6 +169,7 @@ Summary: <Summary>
     - **Action:** "Generate a daily plan, ensuring variety and balance."
     - **Think:** "Check if there’s a good mix of protein, carbs, and fats."
     - **Action:** "Adjust meals if necessary for nutritional balance."
+  
   - **Situation:** "You are designing a week long trip through Chile for someone who has never been to South America"
 ---
 
