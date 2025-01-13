@@ -175,7 +175,7 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 --- 
 
-## Outline Expander
+### **Outline Expander**
 
 **What It Is:**
 - A prompting technique where the AI acts as an outline generator and expander.
@@ -189,7 +189,25 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 - Useful for creating presentations, reports, or detailed study guides.
 - Helps focus on specific areas of a topic by iteratively expanding chosen sections.
 
+### Menu Actions Pattern
+
+- **What It Is:** A technique where the AI responds to specific commands (menu actions) with predefined tasks and provides contextual outputs. It optionally includes additional menu options and asks the user for the next action after each step.
+
+- **Example:**
+  - Prompt:
+    ```
+    Whenever I type "add ITEM", you will add ITEM to my list and update its details.
+    Whenever I type "remove ITEM", you will remove ITEM from my list and update the total accordingly.
+    Whenever I type "suggest", you will provide recommendations related to the items in my list.
+    At the end, always ask me what action to perform next.
+    Ask me for the first action.
+    ```
+
+- **Use Case:** Useful for creating interactive systems like grocery list managers, task trackers, or project planners where each input corresponds to a specific predefined task.
+
 ---
+
+
 
 ## **AI Applications**
 
