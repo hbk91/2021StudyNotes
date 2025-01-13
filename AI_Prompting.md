@@ -171,6 +171,7 @@ Summary: <Summary>
     - **Action:** "Adjust meals if necessary for nutritional balance."
   
   - **Situation:** "You are designing a week long trip through Chile for someone who has never been to South America"
+ 
 ---
 
 ## Use Cases:
