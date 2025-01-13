@@ -18,6 +18,7 @@ description: "Notes"
 ---
 
 ### **Improving Code Quality**
+
 | **S No.** | **Prompt Type**       | **Overview**                                    | **Use Case**                                             |
 |-----------|-----------------------|------------------------------------------------|----------------------------------------------------------|
 | **1**     | **Code Clustering**   | Separates pure logic from side effects for better modularity. | Enhances code maintainability and testability.           |
@@ -27,6 +28,7 @@ description: "Notes"
 ---
 
 ### **Refactoring & Maintenance**
+
 | **S No.** | **Prompt Type**           | **Overview**                                    | **Use Case**                                             |
 |-----------|---------------------------|------------------------------------------------|----------------------------------------------------------|
 | **1**     | **Pseudo-code Refactoring** | Refactors code to align with user-provided pseudo-code templates. | Offers control over structure without detailed coding requirements. |
@@ -36,12 +38,15 @@ description: "Notes"
 ---
 
 ### **General Prompt Design**
+
 | **S No.** | **Prompt Type**               | **Overview**                                                | **Use Case**                                             |
 |-----------|-------------------------------|------------------------------------------------------------|----------------------------------------------------------|
 | **1**     | **Combination of Patterns**   | Combines complementary patterns (e.g., Requirements Simulator + Visualization Generator) for enriched outputs. | Creates multi-faceted prompts for richer, actionable outputs. |
 | **2**     | **Few-shot Examples**         | Uses examples to iteratively train the LLM for desired outputs. | Ensures precision in tasks requiring context-specific understanding. |
 | **3**     | **Context-specific Prompts**  | Tailors prompts for specific goals, such as Change Request Simulation. | Facilitates focused and goal-oriented outputs.           |
 
+--- 
+            
 ## **Prompts Explained:**
 
 ### ***Requirements & Design***
