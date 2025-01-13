@@ -172,10 +172,26 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
     - **Action:** "Adjust meals if necessary for nutritional balance."
   
   - **Situation:** "You are designing a week long trip through Chile for someone who has never been to South America"
- 
+
+--- 
+
+## Outline Expander
+
+**What It Is:**
+- A prompting technique where the AI acts as an outline generator and expander.
+- The AI generates a numbered bullet point outline based on user input, adheres to a structured numbering format, and asks the user which bullet point to expand further.
+- Each bullet point can include 3–5 sub-bullets, with deeper levels of detail as required.
+
+**Example:** Act as an outline expander. Generate a bullet point outline based on the input that I give you and then ask me which bullet point you should expand on. Use the format [A-Z].[i-v].[* through ****]. Here’s the topic: “Benefits of Remote Work.”
+
+**Use Case:**
+- Ideal for structured brainstorming sessions, detailed project planning, or breaking down complex topics into manageable sections.
+- Useful for creating presentations, reports, or detailed study guides.
+- Helps focus on specific areas of a topic by iteratively expanding chosen sections.
+
 ---
 
-## **Use Cases:**
+## **AI Applications**
 
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
 
