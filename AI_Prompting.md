@@ -155,7 +155,8 @@ Summary: <Summary>
 - **Use Case:** Best for straightforward problems or tasks where the solution can be produced in one step.
 - **Example:**
   - **Input:** "The movie was fast-paced but too long", **Output: neutral** 
-  **Input:** "The movie completely drained me", **Output:**
+  - **Input:** "The movie completely drained me", **Output:**
+  
 ---
 
 #### 2. Multi-Step Input-Output Technique
