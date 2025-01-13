@@ -49,7 +49,7 @@ description: "Notes"
 
 ## **Prompts Explained:**
 
-### ***Requirements & Design***
+### **Requirements & Design**
 
 ### 1. Requirements Simulator
 - **Overview:** Simulates a system to identify gaps or missing requirements early in the development process.
@@ -87,7 +87,7 @@ description: "Notes"
 
 ---
 
-### ***Improving Code Quality***
+### **Improving Code Quality**
 
 ### 1. Code Clustering
 - **Overview:** Separates pure logic from side effects, such as file system access or network calls, to improve modularity and maintainability.
@@ -113,7 +113,7 @@ description: "Notes"
 
 ---
 
-### ***Refactoring & Maintenance***
+### **Refactoring & Maintenance**
 
 ### 1. Pseudo-code Refactoring
 - **Overview:** Refactors code to align with user-provided pseudo-code templates, giving users control over the structure without needing to provide detailed code.
@@ -154,7 +154,7 @@ description: "Notes"
 
 ---
 
-### ***General Prompt Design***
+### **General Prompt Design**
 
 ### 1. Combination of Patterns
 - **Overview:** Combines complementary patterns, such as Requirements Simulator and Visualization Generator, to produce enriched and actionable outputs.
