@@ -1,5 +1,5 @@
 ---
-title: "AI Prompts Typology"
+title: "AI Prompt Engineering"
 author: "Aman Jindal"
 description: "Notes"
 ---
