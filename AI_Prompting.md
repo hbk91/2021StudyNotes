@@ -209,6 +209,22 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
+### Semantic Filter Pattern
+- **What It Is:** A technique where the AI filters information based on a specified condition or criteria. The criteria can be semantic (e.g., removing redundant or sensitive content) and should be clearly defined in the prompt.
+- **Example:**
+  - Prompt:
+    ```
+    Filter this information to exclude X.
+    Replace "X" with what you want to exclude, such as "sensitive personal details," "duplicate entries," or "irrelevant data."
+    
+    Examples:
+    - Filter this document to remove any confidential or proprietary information.
+    - Filter this dataset to exclude entries with incomplete or missing values.
+    ```
+- **Use Case:** Useful for data cleaning, summarization, or redaction tasks, such as preparing documents for public sharing or removing irrelevant information from datasets.
+
+---
+
 ## **AI Applications**
 
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
