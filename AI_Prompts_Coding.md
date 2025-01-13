@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## Summary:
+## **Summary:**
  
 ### **Requirements & Design**
 
@@ -46,7 +46,7 @@ description: "Notes"
 | **3**     | **Context-specific Prompts**  | Tailors prompts for specific goals, such as Change Request Simulation. | Facilitates focused and goal-oriented outputs.           |
 
 --- 
-            
+
 ## **Prompts Explained:**
 
 ### ***Requirements & Design***
