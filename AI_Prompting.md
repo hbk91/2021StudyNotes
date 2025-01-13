@@ -189,6 +189,8 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 - Useful for creating presentations, reports, or detailed study guides.
 - Helps focus on specific areas of a topic by iteratively expanding chosen sections.
 
+---
+
 ### Menu Actions Pattern
 
 - **What It Is:** A technique where the AI responds to specific commands (menu actions) with predefined tasks and provides contextual outputs. It optionally includes additional menu options and asks the user for the next action after each step.
@@ -206,8 +208,6 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 - **Use Case:** Useful for creating interactive systems like grocery list managers, task trackers, or project planners where each input corresponds to a specific predefined task.
 
 ---
-
-
 
 ## **AI Applications**
 
