@@ -134,7 +134,7 @@ description: "Notes"
 
 ---
 
-## Other Unique Strategies:
+## **Other Unique Strategies:**
 
 ### Specify Answer Format
 
@@ -146,7 +146,7 @@ Summary: <Summary>
 
 ---
 
-### Input-Output Techniques
+### **Input-Output Techniques**
 
 *Note: Instead of using generic `Input` or `Output` keywords, you can also use other keywords that are more representative of what you are trying to enter, and what you are trying to receive as an Output.*
  
@@ -174,7 +174,7 @@ Summary: <Summary>
  
 ---
 
-## Use Cases:
+## **Use Cases:**
 
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
 
