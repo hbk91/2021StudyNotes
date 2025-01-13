@@ -140,9 +140,9 @@ description: "Notes"
 
 Discuss Yale University with respect to the Yale School of Medicine. Use the following format:
 
-- **Title:** <Title>
-- **Author:** <Author>
-- **Summary:** <Summary>
+- **Title:** 
+- **Author:** 
+- **Summary:** 
 
 ---
 
