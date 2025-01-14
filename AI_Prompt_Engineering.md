@@ -6,7 +6,7 @@ description: "Notes"
 
 ## **Major Prompt Engineering Strategies Summary Table**
 
-| **S No.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
+| **SNo.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
 |-----------|-------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
 | **1**     | **Meta Language Creation**    | Teach the AI a custom way to understand your instructions.                | Helpful for creating diagrams, maps, or specialized structures. |
 | **2**     | **Output Automater**          | Ask the AI to create a script or step-by-step guide to automate tasks.     | Automating tasks like file handling, cloud setups, or coding. |
@@ -29,7 +29,7 @@ description: "Notes"
 
 ## **Additional Prompt Engineering Strategies Summary Table**
 
-| **S No.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
+| **SNo.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
 |-----------|-------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
 | **1**     | **Specify Answer Format**     | Provide a structured format for the AI's output to ensure consistency and clarity. | Useful for creating standardized summaries or reports.   |
 | **2**     | **Zero-Shot Input-Output**    | Ask the AI to perform a task without providing any prior examples; it relies solely on instructions. | Best for tasks where clear instructions are enough to produce results. |
@@ -265,6 +265,9 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ## **Working with Uploaded Documents:**
 
+- **Document as an Object:** Refers to actions performed on the document itself, such as managing its file attributes, location, or format, without delving into its content.
+- **Document as Knowledge:** Focuses on extracting, interpreting, or utilizing the information within the document for tasks such as analysis, summarization, or translation.
+
 | **Document as an Object** | **Document as Knowledge**   |
 |----------------------------|-----------------------------|
 | Rename                    | Analyze                     |
@@ -277,9 +280,6 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 | Restore                   | Provide Quotes             |
 | Edit                      | Translate                  |
 | Print                     | Cite                       |
-
-- **Document as an Object:** Refers to actions performed on the document itself, such as managing its file attributes, location, or format, without delving into its content.
-- **Document as Knowledge:** Focuses on extracting, interpreting, or utilizing the information within the document for tasks such as analysis, summarization, or translation.
 
 ---
 
