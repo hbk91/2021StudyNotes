@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## **Prompt Engineering Strategies Summary Table**
+## **Major Prompt Engineering Strategies Summary Table**
 
 | **S No.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
 |-----------|-------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
