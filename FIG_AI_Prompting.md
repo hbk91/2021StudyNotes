@@ -1,10 +1,10 @@
 ---
-title: "AI Prompting for FIG (Financial Institutions Group) Investment Banking"
+title: "AI Prompting for FIG Investment Banking"
 author: "Aman Jindal"
 description: "Notes"
 ---
 
-## **Tailored Prompt Patterns for FIG Investment Banking**
+## **Prompt Patterns for FIG (Financial Institutions Group) Investment Banking**
 Below is a collection of prompt patterns tailored to FIG Investment Banking. Each pattern includes the **purpose**, the **problem it addresses**, the **data it requires**, and a **customized prompt**. The collection below is geared towards understanding AI Prompts through the lens of FIG, instead of performing in-depth analysis. 
 
 ---
