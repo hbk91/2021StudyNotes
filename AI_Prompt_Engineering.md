@@ -263,6 +263,26 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
+## **Working with Uploaded Documents:**
+
+| **Document as an Object** | **Document as Knowledge**   |
+|----------------------------|-----------------------------|
+| Rename                    | Analyze                     |
+| Delete                    | Summarize                  |
+| Move                      | Create an Outline          |
+| Copy                      | Read                       |
+| Download                  | Interpret                  |
+| Upload                    | Extract Information        |
+| Archive                   | Perform a Search           |
+| Restore                   | Provide Quotes             |
+| Edit                      | Translate                  |
+| Print                     | Cite                       |
+
+- **Document as an Object:** Refers to actions performed on the document itself, such as managing its file attributes, location, or format, without delving into its content.
+- **Document as Knowledge:** Focuses on extracting, interpreting, or utilizing the information within the document for tasks such as analysis, summarization, or translation.
+
+---
+
 ## **AI Applications**
 
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
