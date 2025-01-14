@@ -298,7 +298,6 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 | **Query Responses**      | Handling nuanced, open-ended queries.                        | N/A                                                 | LLM is better for complex natural language queries.        |
 | **Automations**          | Suggesting approaches for automation.                        | Writing and testing automation scripts.             | Automations need actual code execution by Coder.          |
 
-
 ## **AI Applications**
 
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
