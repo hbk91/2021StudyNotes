@@ -321,3 +321,5 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 ### Agent AI: Simulate a Panel of Experts to decide on a topic
 
 - What if multiple Agents can act like Marketing Head, Finance Head, IT Head, HR, etc and take a decision jointly by evaluating all perspectives?
+
+---
