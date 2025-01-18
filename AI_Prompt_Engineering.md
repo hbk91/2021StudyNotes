@@ -292,6 +292,13 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
+## **Working with Large Documents:**
+
+- **Reading PDF/Document:** Say, "**Extract** this document to plain text, and then read it." Instead of, simply saying "Read the document". Adding extract upfront works better. Then you can ask it to reread the document for more precise details. 
+- **Getting more Output:** If output is cut-off due to single output limit constraints, type **Continue** or **Proceed**
+- **Structured Data:** **Read** and **Explain** the structure of the data in this document.
+- **Index for the Document:** It is helpful to create an Index/Map of the document upfront. This helps AI figure out where to look when you ask it a subsequent question. Say, "Please analyse each page and create a search index that maps key topics to pages."
+
 ## **AI as an LLM vs AI as a Coder:**
 
 | **Task**                 | **LLM**                                                        | **Code Interpreter (Coder)**                        | **Rationale**                                              |
@@ -308,12 +315,6 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 | **Automations**          | Suggesting approaches for automation.                        | Writing and testing automation scripts.             | Automations need actual code execution by Coder.          |
 
 ---
-
-## **Some Useful Tricks:**
-
-- **Reading PDF/Document:** Say, "**Extract** this document to plain text, and then read it." Instead of, simply saying "Read the document". Adding extract upfront works better. Then you can ask it to reread the document for more precise details. 
-- **Getting more Output:** If output is cut-off due to single output limit constraints, type **Continue** or **Proceed**
-- **Structured Data:** **Read** and **Explain** the structure of the data in this document.
 
 ## **AI Applications**
 
