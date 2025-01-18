@@ -174,6 +174,15 @@ description: "Notes"
 
 ## **Additional Prompt Engineering Strategies Explained**
 
+## Creating Software from your ChatsL
+
+- **Overview**: Ask the AI to create a script or step-by-step guide to automate tasks. For example: You created a step by step process of extracting images from a video. At the end you can give the prompt below, such that you have a software to do the same process.
+- **Example**: 
+  - Prompt: "Turn this process into a Python program that I can download and run on my computer and provide the paths to the documents as command-line arguments. Zip up the program for me to download."
+- **Use Case**: Automating tasks like file handling, cloud setups, or coding.
+
+---
+
 ### Specify Answer Format
 
 Discuss Yale University with respect to the Yale School of Medicine. Use the following format:
@@ -302,7 +311,9 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ## **Some Useful Tricks:**
 
-- When uploading a PDF: Say, "**Extract** this document to plain text, and then read it." Instead of, simply saying "Read the document". Adding extract upfront works better.  
+- **Reading PDF/Document:** Say, "**Extract** this document to plain text, and then read it." Instead of, simply saying "Read the document". Adding extract upfront works better. Then you can ask it to reread the document for more precise details. 
+- **Getting more Output:** If output is cut-off due to single output limit constraints, type **Continue** or **Proceed**
+- **Structured Data:** **Read** and **Explain** the structure of the data in this document.
 
 ## **AI Applications**
 
