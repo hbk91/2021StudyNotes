@@ -4,9 +4,9 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## Limitations of ChatGPT and Large Models: 
+## **Limitations of ChatGPT/LLMs, Solutions, and Businesses:** 
 
-| **Limitation**                          | **Potential Solution**                                                                 | **Businesses Working on It**                                              |
+| **Limitation**                          | **Potential Solution**                                                                 | **Businesses trying to Solve it**                                              |
 |------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | **1. Lack of Spatial Intelligence**     | Develop models with advanced 3D spatial understanding, like Large World Models (LWMs).| World Labs, Nvidia Omniverse, Meta Reality Labs                            |
 | **2. Limited Real-Time Decision Making**| Integrate AI with real-time processing systems using edge computing.                  | Nvidia (Jetson), OpenAI (plugins for real-time operations), Tesla FSD      |
