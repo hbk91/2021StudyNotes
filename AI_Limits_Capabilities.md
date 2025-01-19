@@ -41,6 +41,23 @@ description: "Notes"
 
 ---
 
+## **AI as an LLM vs AI as a Coder:**
+
+| **Task**                 | **LLM**                                                        | **Code Interpreter (Coder)**                        | **Rationale**                                              |
+|--------------------------|----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
+| **Language Tasks**       | Explaining concepts, summarizing, drafting text.              | N/A                                                 | LLM excels at natural language understanding.             |
+| **Code Guidance**        | Explaining code or debugging logic.                           | Writing, testing, and running Python scripts.       | LLM explains; Coder executes.                             |
+| **Data Analysis**        | Explaining trends or concepts.                                | Cleaning, analyzing, and visualizing data.          | LLM interprets; Coder handles technical operations.        |
+| **File Handling**        | Explaining file structures.                                   | Analyzing and transforming file data.               | File manipulation requires execution by Coder.            |
+| **Math Problems**        | Explaining concepts or solving simple equations.              | Handling complex calculations or statistical tasks. | Coder is ideal for computationally intensive operations.   |
+| **Visualization**        | Conceptualizing visual representations.                      | Generating charts or plots programmatically.        | LLM conceptualizes; Coder creates visuals.                |
+| **Creative Writing**     | Writing stories, poems, or essays.                           | N/A                                                 | Creativity and fluency make this ideal for LLM.           |
+| **Simulations**          | Explaining models or concepts.                               | Running numerical simulations.                      | Simulations need execution, better suited to Coder.        |
+| **Query Responses**      | Handling nuanced, open-ended queries.                        | N/A                                                 | LLM is better for complex natural language queries.        |
+| **Automations**          | Suggesting approaches for automation.                        | Writing and testing automation scripts.             | Automations need actual code execution by Coder.          |
+
+---
+
 ## **ChatGPT Data Analysis Capabilities**
 
 | **Data Type**          | **Examples**                                  | **Capabilities**                                                                                               | **Technologies/Libraries Used**                       |

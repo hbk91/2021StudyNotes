@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-## **Major Prompt Engineering Strategies Summary Table**
+## **Major Prompt Engineering Strategies Summary**
 
 | **SNo.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
 |-----------|-------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
@@ -27,7 +27,7 @@ description: "Notes"
 
 ---
 
-## **Additional Prompt Engineering Strategies Summary Table**
+## **Additional Prompt Engineering Strategies**
 
 | **SNo.** | **Prompt Type**               | **Overview**                                                              | **Use Case**                                             |
 |-----------|-------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------|
@@ -174,7 +174,7 @@ description: "Notes"
 
 ## **Additional Prompt Engineering Strategies Explained**
 
-## Creating Software from your ChatsL
+### **Creating Software from your Chats**
 
 - **Overview**: Ask the AI to create a script or step-by-step guide to automate tasks. For example: You created a step by step process of extracting images from a video. At the end you can give the prompt below, such that you have a software to do the same process.
 - **Example**: 
@@ -183,7 +183,7 @@ description: "Notes"
 
 ---
 
-### Specify Answer Format
+### **Specify Answer Format**
 
 Discuss Yale University with respect to the Yale School of Medicine. Use the following format:
 
@@ -238,7 +238,7 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
-### Menu Actions Pattern
+### **Menu Actions Pattern**
 
 - **Overview:** A technique where the AI responds to specific commands (menu actions) with predefined tasks and provides contextual outputs. It optionally includes additional menu options and asks the user for the next action after each step.
 
@@ -256,7 +256,8 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
-### Semantic Filter Pattern
+### **Semantic Filter Pattern**
+
 - **Overview:** A technique where the AI filters information based on a specified condition or criteria. The criteria can be semantic (e.g., removing redundant or sensitive content) and should be clearly defined in the prompt.
 - **Example:**
   - Prompt:
@@ -272,7 +273,9 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
-## **Working with Uploaded Documents:**
+## **General Tips & Tricks**
+
+### **Working with Uploaded Documents:**
 
 - **Document as an Object:** Refers to actions performed on the document itself, such as managing its file attributes, location, or format, without delving into its content.
 - **Document as Knowledge:** Focuses on extracting, interpreting, or utilizing the information within the document for tasks such as analysis, summarization, or translation.
@@ -292,37 +295,32 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 
 ---
 
-## **Working with Large Documents:**
+### **Working with Large Documents:**
 
 - **Reading PDF/Document:** Say, "**Extract** this document to plain text, and then read it." Instead of, simply saying "Read the document". Adding extract upfront works better. Then you can ask it to reread the document for more precise details. 
 - **Getting more Output:** If output is cut-off due to single output limit constraints, type **Continue** or **Proceed**
 - **Structured Data:** **Read** and **Explain** the structure of the data in this document.
 - **Index for the Document:** It is helpful to create an Index/Map of the document upfront. This helps AI figure out where to look when you ask it a subsequent question. Say, "Please analyse each page and create a search index that maps key topics to pages."
 
-## **AI as an LLM vs AI as a Coder:**
+---
 
-| **Task**                 | **LLM**                                                        | **Code Interpreter (Coder)**                        | **Rationale**                                              |
-|--------------------------|----------------------------------------------------------------|-----------------------------------------------------|-----------------------------------------------------------|
-| **Language Tasks**       | Explaining concepts, summarizing, drafting text.              | N/A                                                 | LLM excels at natural language understanding.             |
-| **Code Guidance**        | Explaining code or debugging logic.                           | Writing, testing, and running Python scripts.       | LLM explains; Coder executes.                             |
-| **Data Analysis**        | Explaining trends or concepts.                                | Cleaning, analyzing, and visualizing data.          | LLM interprets; Coder handles technical operations.        |
-| **File Handling**        | Explaining file structures.                                   | Analyzing and transforming file data.               | File manipulation requires execution by Coder.            |
-| **Math Problems**        | Explaining concepts or solving simple equations.              | Handling complex calculations or statistical tasks. | Coder is ideal for computationally intensive operations.   |
-| **Visualization**        | Conceptualizing visual representations.                      | Generating charts or plots programmatically.        | LLM conceptualizes; Coder creates visuals.                |
-| **Creative Writing**     | Writing stories, poems, or essays.                           | N/A                                                 | Creativity and fluency make this ideal for LLM.           |
-| **Simulations**          | Explaining models or concepts.                               | Running numerical simulations.                      | Simulations need execution, better suited to Coder.        |
-| **Query Responses**      | Handling nuanced, open-ended queries.                        | N/A                                                 | LLM is better for complex natural language queries.        |
-| **Automations**          | Suggesting approaches for automation.                        | Writing and testing automation scripts.             | Automations need actual code execution by Coder.          |
+### **Overcoming Context Window challenge when creating a Large Document/File**
 
-## **Make AI improve its work:**
+- It is helpful to have AI generate/or you specify a numbered plan/outline upfront.
+- **Prompt:** Execute the plan step by step, and store result of each step in a separate file. When starting a new step, read and reflect upon the results of the previous step to ensure that the new step is in alignment with the previous step.
+- Alternatively, you can break the above prompt yourself in multiple steps by instructing AI to work on one step at a time. When you start a new step ask it to first read and reflect upon the results of the previous step.
+
+---
+
+### **Make AI improve its work:**
 
 - **Prompt:** Look again, and **critique your work. Come up with a plan to fix any issues you see.** Ask me which issues, I would like to be fixed. Then execute the plan.
 
 ---
 
-## **AI Applications**
+## **A few AI Ideas**
 
-### Agent AI: Simulate a Panel of Experts to decide on a topic
+### **Agent AI: Simulate a Panel of Experts to decide on a topic**
 
 - What if multiple Agents can act like Marketing Head, Finance Head, IT Head, HR, etc and take a decision jointly by evaluating all perspectives?
 
