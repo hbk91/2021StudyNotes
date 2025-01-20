@@ -301,7 +301,7 @@ Discuss Yale University with respect to the Yale School of Medicine. Use the fol
 - **Getting more Output:** If output is cut-off due to single output limit constraints, type **Continue** or **Proceed**
 - **Structured Data:** **Read** and **Explain** the structure of the data in this document.
 - **Index for the Document:** It is helpful to create an Index/Map of the document upfront. This helps AI figure out where to look when you ask it a subsequent question. Say, "Please analyse each page and create a search index that maps key topics to pages."
-- **Checking if AI's output is sync with the uploaded document:** Make AI quote identifiers/sections/Page numbers etc. for the output it is producing. Otherwise, make AI directly quote from the Doc a line for each of its analysis/output.
+- **Checking if AI's output is sync with the uploaded document:** Make AI quote identifiers/sections/Page numbers etc. for the output it is producing. Otherwise, make AI directly quote from the Doc a line for each of its analysis/output. 
 
 ---
 
