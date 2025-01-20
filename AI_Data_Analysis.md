@@ -4,8 +4,7 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
-
-# **Ten Strategies for ChatGPT Advanced Data Analysis**
+## **Ten Strategies for ChatGPT Advanced Data Analysis**
 
 | **SNo.** | **Strategy**                              | **Description**                                                                         | **Example**                                                                                                                                                                                                                                                                                                         |
 |-------|-------------------------------------------|-----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,9 +29,9 @@ description: "Notes"
 
 ---
 
-## **Traceability of Analysis/Chats**
+## **Reproducible Analysis/Chats**
 
-### **Goal**
+### **Overall File Structure**
 
 | **File Name**         | **Purpose**                                                                                                  |
 |------------------------|------------------------------------------------------------------------------------------------------------|
@@ -43,9 +42,7 @@ description: "Notes"
 | **Data Files**         | Includes the raw data used in the analysis to allow others to replicate the results.                                             |
 | **Project Zip File**   | Combines all files (README.md, SOURCES.md, SCRIPTS.md, scripts, and data files) into a single archive for easy downloading and replication. |
 
-### **AI Prompts**
-
-#### **Documenting the work**
+### **Documenting the work**
 
 Let's create a traceability document to ensure that others can:
 
@@ -55,11 +52,11 @@ Let's create a traceability document to ensure that others can:
 
 We want a guide for someone else to be able to replicate and understand the limitations of the analysis.
 
-#### **Converting document to Markdown**
+### **Converting document to Markdown**
 
 Save the traceability information as a `README.md`
 
-#### **Prompting to output Python scripts used**
+### **Prompting to output Python scripts used**
 
 For each analysis and visualization:
 
@@ -73,7 +70,7 @@ For each analysis and visualization:
    - The file name of the Python script,
    - A one-sentence description of what it does.
 
-#### **Markdown Summary of Scripts**
+### **Markdown Summary of Scripts**
 
 Create a file named **SCRIPTS.md** that includes:
 
@@ -85,11 +82,11 @@ Create a file named **SCRIPTS.md** that includes:
    - How to run the script,
    - How it works.
 
-#### **Summary of Data Sources in Markdown**
+### **Summary of Data Sources in Markdown**
 
 Create a file called **SOURCES.md** that indicates that all of the data can be downloaded from: "our link"
 
-#### **Zip  of all the files**
+### **Zip  of all the files**
 
 Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the original data into a zip file that I can download and that would allow others to replicate this analysis.
 
@@ -97,7 +94,7 @@ Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the origina
 
 ## **Data Creation:**
 
-#### **Structured Data from Unstructured Data**
+### **Structured Data from Unstructured Data**
 
 - You can paste any randomly formatted data, and then can say something like: Please convert this into CSV Format: 
   - Name, Description, Topic (1-word)
@@ -105,7 +102,7 @@ Now, combine the README.md, SOURCES.md, SCRIPTS.md, the scripts, and the origina
   
 ---
 
-## **Content for PowerPoint:**
+## **PowerPoint Content:**
 
 Step 1: Create your narrative/story for all the slides, typically broken down into sections
 Step 2: Ask AI for, "Save each element of the narrative that is separated by a horizontal rule as a separate text file."
@@ -113,7 +110,7 @@ Step 3: Upload your Powerpoint template, and ask, "Now, read each file in one by
 
 ---
 
-## **Creating Spreadsheet Templates from Scratch**
+## **Spreadsheet Templates from Scratch**
 
 - We can upload any document and ask AI to create a spreadsheet model to track it. It is useful for procedural things like Expense/Travel Policies
 - We can ask for the spreadsheet structure, and then ask AI to actually create one.
@@ -143,3 +140,4 @@ Again, two steps. But in the first step directly ask AI to output the data requi
 Suppose you want to compare two charts, or check your work. For example: One chart was produced by AI with Python, and you created the same chart in Excel
 - Paste screenshots of both the pictures in the Prompt, and ask, "Other than legend, layout, color, fonts, any formatting, etc, Do you see any differences in the two charts, such that, the two charts may be materially different or based on different data"
 
+---
