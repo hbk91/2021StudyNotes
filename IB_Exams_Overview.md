@@ -1,10 +1,10 @@
 ---
-title: "Overview: Investment Banking FINRA Regulatory Exams"
+title: "Overview: Investment Banking Regulatory Exams"
 author: "AJ"
 description: "FINRA Exams for Investment Bankers"
 ---
 
-**To work as an Investment Banker in New York, one needs to pass the following three exams by FINRA (Financial Industry Regulatory Authority):**
+**To work as an Investment Banker in New York, one needs to pass the following three exams:**
 
 - SIE (Security Industry Essentials)
 - Series 63
