@@ -141,3 +141,4 @@ Suppose you want to compare two charts, or check your work. For example: One cha
 - Paste screenshots of both the pictures in the Prompt, and ask, "Other than legend, layout, color, fonts, any formatting, etc, Do you see any differences in the two charts, such that, the two charts may be materially different or based on different data"
 
 ---
+
