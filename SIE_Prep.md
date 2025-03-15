@@ -16,8 +16,6 @@ description: "Maths Study Material"
 
 ### **Formula Relationship**
 
-### **Formula Relationship**
-
 **Issued Stock = Outstanding Stock + Treasury Stock**
 
 ### **Example**
