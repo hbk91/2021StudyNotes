@@ -18,16 +18,18 @@ description: "Maths Study Material"
 
 ### **Formula Relationship**
 
-$$\text{Issued Stock} = \text{Outstanding Stock} + \text{Treasury Stock}$$
+**Issued Stock = Outstanding Stock + Treasury Stock**
 
 ### **Example**
 - A company initially issues **1,000,000 shares**.
 - Over time, it **buys back 200,000 shares**, which become **treasury stock**.
 - The **outstanding shares** now equal **800,000**.
 
-Thus:
+**Thus:**
 
-$$1,000,000 \text{ (Issued Stock)} = 800,000 \text{ (Outstanding Stock)} + 200,000 \text{ (Treasury Stock)}$$
+**1,000,000 (Issued Stock) = 800,000 (Outstanding Stock) + 200,000 (Treasury Stock)**
+
+---
 
 ### **Statutory Voting vs. Cumulative Voting**
 
@@ -44,6 +46,52 @@ $$1,000,000 \text{ (Issued Stock)} = 800,000 \text{ (Outstanding Stock)} + 200,0
 - **Statutory voting** benefits **majority shareholders**, ensuring their preferred candidates win.
 - **Cumulative voting** benefits **minority shareholders**, giving them a chance to elect at least one board member.
 
+---
 
+### **Board Elections: Typical Frequency, Board Size, and Candidate Contests**  
 
+The **number of candidates per board seat**, the **frequency of elections**, and **board size** vary depending on company size and governance practices.  
+
+### **1. Board Elections Frequency**  
+- **Most common: Annual elections** (though some companies have staggered terms).  
+- **Staggered (Classified) Boards:** Some companies elect **one-third of the board** every year to prevent hostile takeovers.  
+
+### **2. Board Size & Number of Candidates per Seat (Large Cap vs. Mid-Market vs. Small Cap)**  
+
+| **Company Size** | **Typical Board Size** | **Number of Candidates per Seat** | **Election Frequency** |
+|-----------------|----------------------|---------------------------------|----------------------|
+| **Large-Cap (S&P 500 firms)** | 9 - 15 directors | Usually 1-2 per seat (often unopposed) | Annual or staggered (every 3 years for a third of the board) |
+| **Mid-Market ($500M - $5B valuation)** | 7 - 11 directors | Usually 1-3 per seat (depends on activist investors) | Annual or staggered |
+| **Small-Cap (< $500M valuation)** | 5 - 9 directors | 1-5 per seat (sometimes competitive, especially in contested elections) | Annual |
+
+### **3. Candidate Contests: How Many People Run for a Seat?**
+- **Most common:** **1 candidate per seat** (the board nominates a candidate who is usually elected uncontested).  
+- **In contested elections:** **2-5 candidates per seat**, especially when activist investors push for board changes.  
+- **Hostile Takeover/Proxy Fight:** Can have **multiple candidates per seat** (e.g., **activist hedge funds** nominate their own directors to challenge management).  
+
+### **4. Real-World Examples**  
+
+#### **Large-Cap Example: Apple Inc. (AAPL)**
+- **Board size:** 8-12 members.  
+- **Election frequency:** **Annual elections**.  
+- **Candidates per seat:** Typically **one nominee per seat** (low competition).  
+- **Voting type:** Statutory voting.  
+
+#### **Mid-Market Example: Dick’s Sporting Goods (DKS)**
+- **Board size:** 7-10 members.  
+- **Election frequency:** **Annual or staggered**.  
+- **Candidates per seat:** Usually **1-2 per seat**, but can increase in activist-driven cases.  
+
+#### **Small-Cap Example: A Startup-turned-Public Company (e.g., Etsy in its early public years)**
+- **Board size:** 5-9 members.  
+- **Election frequency:** Annual.  
+- **Candidates per seat:** 1-5 (more competition, more influence from activist investors).  
+
+### **5. Key Takeaways**
+1. **Larger companies tend to have fewer candidates per seat** (management’s nominees are rarely challenged).  
+2. **Smaller companies are more likely to see contested board elections.**  
+3. **Board size decreases as company size decreases**, with small-cap companies having **5-9 directors** and large-cap companies having **9-15 directors**.  
+4. **Elections are usually annual**, but staggered boards spread elections over three years.  
+
+---
 
