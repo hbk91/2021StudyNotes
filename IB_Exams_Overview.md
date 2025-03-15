@@ -4,7 +4,7 @@ author: "AJ"
 description: "FINRA Exams for Investment Bankers"
 ---
 
-## To work as an Investment Banker in New York, one needs to pass the following three exams by FINRA (Financial Industry Regulatory Authority):
+**To work as an Investment Banker in New York, one needs to pass the following three exams by FINRA (Financial Industry Regulatory Authority):**
 
 - SIE (Security Industry Essentials)
 - Series 63
@@ -28,7 +28,7 @@ description: "FINRA Exams for Investment Bankers"
 | **Registration Fee** | $80 | $147 | $300 |
 | **Sponsorship Required?** | No | Yes | Yes |
 
-===
+---
 
 
 
