@@ -17,9 +17,8 @@ description: "Maths Study Material"
 ### **Formula Relationship**
 
 ### **Formula Relationship**
-$$
-\text{Issued Stock} = \text{Outstanding Stock} + \text{Treasury Stock}
-$$
+
+$$\text{Issued Stock} = \text{Outstanding Stock} + \text{Treasury Stock}$$
 
 ### **Example**
 - A company initially issues **1,000,000 shares**.
@@ -28,9 +27,7 @@ $$
 
 Thus:
 
-$$
-1,000,000 \text{ (Issued Stock)} = 800,000 \text{ (Outstanding Stock)} + 200,000 \text{ (Treasury Stock)}
-$$
+$$1,000,000 \text{ (Issued Stock)} = 800,000 \text{ (Outstanding Stock)} + 200,000 \text{ (Treasury Stock)}$$
 
 ### **Statutory Voting vs. Cumulative Voting**
 
