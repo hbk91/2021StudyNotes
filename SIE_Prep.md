@@ -1,7 +1,7 @@
 ---
 title: "SIE (Securities Industry Essentials) Prep"
 author: "AJ"
-description: "Maths Study Material"
+description: "Notes"
 ---
 
 ### **Issued Stock vs. Outstanding Stock: Key Differences**
