@@ -40,26 +40,23 @@ description: "Notes"
 
 ### **Example: T-Bill Discount Yield Calculation**
 #### **Given Data:**
-- **Face Value (\(F\))** = $1,000  
-- **Purchase Price (\(P\))** = $980  
-- **Days to Maturity (\(D\))** = 90  
+- Face Value (F) = 1,000 dollars  
+- Purchase Price (P) = 980 dollars  
+- Days to Maturity (D) = 90 days  
 
-Using the **discount yield formula**:
+Using the **discount yield formula**, the yield is calculated as:  
 
-$$
-y = \left( \frac{F - P}{F} \right) \times \left( \frac{360}{D} \right)
-$$
+1. Subtract the purchase price from the face value:  
+   (1,000 - 980) = 20  
 
-Substituting the values:
+2. Divide by the face value:  
+   20 ÷ 1,000 = 0.02  
 
-$$
-y = \left( \frac{1000 - 980}{1000} \right) \times \left( \frac{360}{90} \right)
-$$
+3. Multiply by 360 and divide by the number of days to maturity:  
+   (0.02 × 360) ÷ 90 = 0.08  
 
-$$
-y = \left( \frac{20}{1000} \right) \times 4 = (0.02) \times 4 = 8.00\%
-$$
+4. Convert to percentage:  
+   0.08 × 100 = 8.00%  
 
 Thus, the **discount yield of this T-Bill is 8.00%**.
-
 ---
