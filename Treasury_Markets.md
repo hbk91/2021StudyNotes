@@ -39,7 +39,9 @@ description: "Notes"
 ---
 
 ### **Example: T-Bill Discount Yield Calculation**
+
 #### **Given Data:**
+
 - Face Value (F) = 1,000 dollars  
 - Purchase Price (P) = 980 dollars  
 - Days to Maturity (D) = 90 days  
