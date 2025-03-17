@@ -58,6 +58,6 @@ Using the **discount yield formula**, the yield is calculated as:
 4. Convert to percentage:  
    0.08 × 100 = 8.00%  
 
-Thus, the discount yield of this T-Bill is 8.00%
+Thus, the **discount yield of this T-Bill is 8.00%**
 
 ---
