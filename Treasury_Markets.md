@@ -4,7 +4,7 @@ author: "AJ"
 description: "Notes"
 ---
 
-## **Comparison of Treasury Securities Issuance in the U.S. and India**
+## **Comparison of Treasury Securities Issuance in US and India**
 
 | **Aspect**                | **United States**                                  | **India**                                      |
 |---------------------------|----------------------------------------------------|------------------------------------------------|
@@ -59,5 +59,5 @@ y = \left( \frac{20}{1000} \right) \times 4 = (0.02) \times 4 = 8.00\%
 $$
 
 Thus, the **discount yield of this T-Bill is 8.00%**.
-    
+
 ---
