@@ -50,6 +50,8 @@ $$
 y = \left( \frac{F - P}{F} \right) \times \left( \frac{360}{D} \right)
 $$
 
+Substituting the values:
+
 $$
 y = \left( \frac{1000 - 980}{1000} \right) \times \left( \frac{360}{90} \right)
 $$
