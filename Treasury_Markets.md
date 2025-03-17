@@ -4,7 +4,7 @@ author: "AJ"
 description: "Notes"
 ---
 
-## Comparison of Treasury Securities Issuance in the U.S. and India
+## **Comparison of Treasury Securities Issuance in the U.S. and India**
 
 | **Aspect**                | **United States**                                  | **India**                                      |
 |---------------------------|----------------------------------------------------|------------------------------------------------|
@@ -22,3 +22,42 @@ description: "Notes"
 | **Yield Determination**  | Market-driven through auctions and Federal Reserve influence | Market-driven but influenced by RBI’s monetary policy |
 
 
+---
+
+### **Day Count Conventions for Different Fixed-Income Securities in US Markets**
+
+| **Security Type**    | **Day Count Convention** | **Reason for Convention** |
+|---------------------|------------------------|--------------------------|
+| **Treasury Bills (T-Bills)** | **Actual/360** | Used for discount instruments in the money market. |
+| **Treasury Notes (T-Notes)** | **Actual/Actual** | Ensures accurate interest accrual, considering leap years. |
+| **Treasury Bonds (T-Bonds)** | **Actual/Actual** | Standard for long-term U.S. government debt. |
+| **Corporate Bonds** | **30/360** | Simplifies calculations for fixed-income investors and issuers. |
+| **Municipal Bonds** | **30/360** | Standardized calculation method for state and local debt. |
+| **Agency Debt (Fannie Mae, Freddie Mac, FHLB)** | **30/360** | Used for mortgage-backed and structured securities. |
+| **Agency Debt (Ginnie Mae, some others)** | **Actual/360** | Aligns with Treasury market conventions for some government-backed debt. |
+
+---
+
+### **Example: T-Bill Discount Yield Calculation**
+#### **Given Data:**
+- **Face Value (\(F\))** = $1,000  
+- **Purchase Price (\(P\))** = $980  
+- **Days to Maturity (\(D\))** = 90  
+
+Using the **discount yield formula**:
+
+$$
+y = \left( \frac{F - P}{F} \right) \times \left( \frac{360}{D} \right)
+$$
+
+$$
+y = \left( \frac{1000 - 980}{1000} \right) \times \left( \frac{360}{90} \right)
+$$
+
+$$
+y = \left( \frac{20}{1000} \right) \times 4 = (0.02) \times 4 = 8.00\%
+$$
+
+Thus, the **discount yield of this T-Bill is 8.00%**.
+    
+---
