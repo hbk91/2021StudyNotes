@@ -93,7 +93,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 ---
 
-### Major Regulations for the SIE Exam
+### **Major Regulations for the SIE Exam**
 
 | **Regulation** | **Description** | **Regulatory Authority** |
 |----------------|------------------|---------------------------|
