@@ -93,3 +93,19 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 ---
 
+### Major Regulations for the SIE Exam
+
+| **Regulation** | **Description** | **Regulatory Authority** |
+|----------------|------------------|---------------------------|
+| **Regulation T (Reg T)** | Sets initial margin requirements (typically 50%) for buying securities on credit. Also governs the use of credit in margin accounts. | **Federal Reserve Board** |
+| **Regulation U (Reg U)** | Governs how banks can extend credit for the purchase of margin securities. | **Federal Reserve Board** |
+| **Regulation X (Reg X)** | Requires borrowers (customers) to comply with Reg T and U if they obtain credit from foreign lenders to buy securities. | **Federal Reserve Board** |
+| **Regulation D (Reg D)** | Provides exemptions from SEC registration for private placements of securities under specific conditions (e.g., Rule 506). | **SEC** |
+| **Regulation A (Reg A)** | Allows small and mid-sized companies to raise capital with limited SEC registration (Tier 1 and Tier 2 offerings). | **SEC** |
+| **Regulation M (Reg M)** | Prohibits market manipulation during public offerings (e.g., underwriters cannot bid up prices during the restricted period). | **SEC** |
+| **Regulation FD (Reg FD)** | Promotes full and fair disclosure by requiring public dissemination of material nonpublic information. | **SEC** |
+| **Regulation S-P (Reg S-P)** | Requires firms to protect customers' personal financial information and provide privacy notices. | **SEC** |
+| **Regulation S-ID (Reg S-ID)** | Requires broker-dealers and investment advisers to implement identity theft prevention programs ("Red Flag Rules"). | **SEC** |
+| **Regulation SHO (Reg SHO)** | Governs short selling and requires firms to locate securities before executing short sales. | **SEC** |
+
+---
