@@ -145,4 +145,27 @@ The **number of candidates per board seat**, the **frequency of elections**, and
    LLCs are highly flexible and provide **limited liability with fewer formalities**.  
    They are popular among **real estate investors, consultants, freelancers, and small business owners** who want **simple tax treatment and management structure**, and the ability to choose **how they’re taxed**.
 
+### **S-Corp vs. LLC – Key Distinctions and Why It Matters**
+
+| **Factor**                     | **S-Corporation (S-Corp)**                                                                 | **Limited Liability Company (LLC)**                                                              |
+|-------------------------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Taxation**                  | Default **pass-through**; profits/losses pass to shareholders, taxed on personal returns    | **Default pass-through**, but can elect to be taxed as a **C-Corp or S-Corp** (flexible)        |
+| **Self-Employment Taxes**     | **Owners can pay themselves a salary** and avoid self-employment tax on remaining profits   | **All profits subject to self-employment tax** unless taxed as S-Corp                           |
+| **Ownership Restrictions**     | **≤ 100 U.S. individuals only**; no entities, non-resident aliens, or multiple classes of stock | **No restrictions** — members can be individuals, entities, foreigners; multiple ownership classes allowed |
+| **Formality Requirements**    | Requires **Board of Directors, corporate bylaws, shareholder meetings, minutes**            | **Less formal** — no board or annual meetings required (unless state requires)                  |
+| **Profit Distribution**       | Must distribute profits **strictly based on ownership**                                     | Can allocate profits **unevenly**, regardless of ownership %                                     |
+| **Flexibility**               | Less flexible — designed to mirror a traditional corporation                                | Highly flexible — ideal for tailoring agreements among owners                                    |
+| **Ideal For**                 | Businesses that want **corporate structure with tax efficiency**, or plan to **draw salaries** | Businesses needing **flexibility in ownership, management, and profit sharing**                  |
+
+#### **Choose an S-Corp if:**
+- You’re a small U.S.-based business with **≤ 100 shareholders**.
+- You want to **save on self-employment taxes** by paying yourself a reasonable salary.
+- You’re okay with **formal structure** and **equal profit sharing**.
+
+#### **Choose an LLC if:**
+- You want **maximum flexibility** in **ownership** and **profit allocation**.
+- You have **foreign or entity owners** or multiple classes of ownership.
+- You want **minimal corporate formalities** and **customizable agreements**.
+
 ---
+
