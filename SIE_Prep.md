@@ -110,7 +110,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 ---
 
-### Business Entity Comparison with Examples
+### **Business Entity Comparison with Examples**
 
 | **Feature**                     | **C-Corporation (C-Corp)**         | **S-Corporation (S-Corp)**          | **Limited Partnership (LP)**            | **Limited Liability Company (LLC)**         |
 |----------------------------------|------------------------------------|-------------------------------------|------------------------------------------|----------------------------------------------|
@@ -125,5 +125,24 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Ideal For**                   | Large companies, startups, IPOs    | Small-to-mid-sized U.S. businesses  | Private equity, real estate, hedge funds | Small-to-mid-sized businesses, real estate   |
 | **Common Examples**             | Apple, Microsoft, JPMorgan Chase   | Local law firms, medical practices  | Blackstone Real Estate Income Trust (BREIT), Oil & Gas partnerships | Real estate investment LLCs, family businesses |
 | **Common Uses / Industries**    | Tech, banking, manufacturing       | Professional services, small corporations | Investment funds, venture capital, real estate | Real estate, e-commerce, consulting, services |
+
+### **Key Takeaways**
+
+1. **C-Corporations (C-Corps)**  
+   C-Corps are ideal for **large companies or startups seeking significant investment** or planning to **go public (IPO)**.  
+   They offer **unlimited shareholders**, **easy transfer of shares**, and are **attractive to institutional investors** — but they come with **double taxation** (corporate and dividend level).  
+   **Commonly used in tech, finance, and manufacturing** industries due to their **growth needs** and access to capital markets.
+
+2. **S-Corporations (S-Corps)**  
+   S-Corps are suitable for **small to mid-sized domestic businesses**, like **law firms, dental offices, or family businesses**, that want **pass-through taxation** while still enjoying **corporate liability protection**.  
+   They are limited to **100 U.S. individual shareholders** and cannot be owned by entities, which makes them **less flexible for expansion**.
+
+3. **Limited Partnerships (LPs)**  
+   LPs are favored by **investment funds, real estate syndicates, and oil & gas ventures** because they allow **general partners to manage** and **limited partners to invest passively** with **limited liability**.  
+   This structure supports **raising capital without giving up control**, and provides **pass-through tax treatment**.
+
+4. **Limited Liability Companies (LLCs)**  
+   LLCs are highly flexible and provide **limited liability with fewer formalities**.  
+   They are popular among **real estate investors, consultants, freelancers, and small business owners** who want **simple tax treatment and management structure**, and the ability to choose **how they’re taxed**.
 
 ---
