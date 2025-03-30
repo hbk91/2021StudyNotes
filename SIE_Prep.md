@@ -109,3 +109,21 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Regulation SHO (Reg SHO)** | Governs short selling and requires firms to locate securities before executing short sales. | **SEC** |
 
 ---
+
+### Business Entity Comparison with Examples
+
+| **Feature**                     | **C-Corporation (C-Corp)**         | **S-Corporation (S-Corp)**          | **Limited Partnership (LP)**            | **Limited Liability Company (LLC)**         |
+|----------------------------------|------------------------------------|-------------------------------------|------------------------------------------|----------------------------------------------|
+| **Legal Entity**                | Separate from owners               | Separate from owners                | Separate entity                          | Separate from owners                         |
+| **Taxation**                    | **Double taxation** (corporate + personal) | **Pass-through** to shareholders     | **Pass-through** to partners             | Usually **pass-through**, or elect corporate |
+| **Owners**                      | Shareholders                       | ≤ 100 U.S. shareholders             | At least 1 general & 1+ limited partners | Members (no limit)                           |
+| **Liability Protection**        | Yes — for shareholders             | Yes — for shareholders              | Limited for limited partners only        | Yes — for all members                        |
+| **Who Can Own**                 | Anyone (including entities/foreigners) | Only U.S. individuals & certain trusts | Anyone                                   | Anyone                                       |
+| **Shares Transferable?**        | Yes                                | Restricted                          | Usually restricted                       | Often restricted                             |
+| **Management**                  | Board of Directors & Officers      | Board of Directors & Officers       | General partner manages                  | Flexible: member or manager-managed          |
+| **Raising Capital**             | Easiest — public & private funding | Limited by shareholder rules        | Moderate — common in private placements | Moderate — depends on structure              |
+| **Ideal For**                   | Large companies, startups, IPOs    | Small-to-mid-sized U.S. businesses  | Private equity, real estate, hedge funds | Small-to-mid-sized businesses, real estate   |
+| **Common Examples**             | Apple, Microsoft, JPMorgan Chase   | Local law firms, medical practices  | Blackstone Real Estate Income Trust (BREIT), Oil & Gas partnerships | Real estate investment LLCs, family businesses |
+| **Common Uses / Industries**    | Tech, banking, manufacturing       | Professional services, small corporations | Investment funds, venture capital, real estate | Real estate, e-commerce, consulting, services |
+
+---
