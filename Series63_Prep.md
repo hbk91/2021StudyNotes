@@ -21,3 +21,45 @@ description: "Notes"
 
 ---
 
+### **Exempt Securities under the Uniform Securities Act (USA)**
+
+1. **Government Securities**
+   - Securities issued, insured, or guaranteed by the U.S. federal government
+   - Securities issued by U.S. states, municipalities, or public agencies
+   - Securities issued by foreign governments with which the U.S. maintains diplomatic relations
+
+2. **Financial Institution Securities**
+   - Securities issued by U.S. banks, trust companies, or savings institutions
+   - Securities issued by federally or state-chartered credit unions
+   - Securities issued by insurance companies authorized to operate in the state
+
+3. **Public Utility and Common Carrier Securities**
+   - Securities issued by public utility companies or transportation companies regulated by a government authority (e.g., SEC or a public utilities commission)
+
+4. **Nonprofit Organization Securities**
+   - Securities issued by nonprofit organizations operated exclusively for:
+     - Religious
+     - Educational
+     - Benevolent
+     - Charitable
+     - Fraternal
+     - Social
+     - Athletic
+     - Reformatory purposes
+     - Chambers of commerce
+   - Must be **not for pecuniary (financial) gain**
+
+5. **Commercial Paper and Short-Term Debt**
+   - Promissory notes or commercial paper with:
+     - Maturity of **nine months (270 days) or less**
+     - Minimum denomination of **$50,000**
+     - Top three ratings from a recognized credit rating agency
+
+6. **Employee Benefit Plan Securities**
+   - Investment contracts related to:
+     - Employee stock purchase plans
+     - Savings plans
+     - Pensions
+     - Profit-sharing plans
+
+---
