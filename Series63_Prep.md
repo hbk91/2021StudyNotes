@@ -83,7 +83,7 @@ If any of these elements is missing, the product is not a security.
 1. **Underwriting Transactions** Transaction b/w an Issuer and its Underwriter
 2. **Sale to existing shareholders**
 3. **Sale to Institutional Investors/BDs**
-4. **Private or limited offerings:** Any # of Institutional Investors + Max 10 Non-Insti. Investors in a 12-month period. No General advertising/solicitation allowed. No commission can be paid for solicitation of Non-Insti. investors. Also offering must be for investment and not for resale (flipping)
+4. **Private or limited offerings:** Any # of Institutional Investors + Max 10 Non-Institutional investors in a 12-month period. No General advertising/solicitation allowed. No commission can be paid for solicitation of Non-Institutional investors. Also offering must be for investment and not for resale (flipping)
 5. **Unsolicited Brokerage Transaction:** Customer contacts (by himself) the BD to buy/sell securities that are not registered in the state.
 6. **Isolated non-issuer transaction:** Non-registered securities sold infrequently b/w two investors
 7. **Fiduciary Transactions:** An executor/bankruptcy marshall/guardian/etc sells securities held in a deceased's estate/bankruptcy
@@ -99,6 +99,21 @@ If any of these elements is missing, the product is not a security.
 3. **Registration by Qualification:** Registration at the state(s) level: All Prospectus type info, and Consent to Service of Process, and andy fees
 
 ----
+
+### **Accredited Investor vs Qualified Purchaser:**
+
+| **Criteria**                | **Accredited Investor** (Reg D – Rule 501)                          | **Qualified Purchaser** (Investment Company Act – §2(a)(51))           |
+|-----------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------|
+| **Purpose**                 | Invest in private offerings under **Reg D**                          | Access hedge funds/private funds exempt under **3(c)(7)**              |
+| **Net Worth Requirement**   | $1 million (excluding primary residence)                             | $5 million in **investments**                                          |
+| **Income Requirement**      | $200K ($300K with spouse) for past 2 years                           | ❌ No income test                                                       |
+| **Entity Qualification**    | $5 million in assets or all beneficial owners are accredited         | $25 million or more in **investments**                                 |
+| **Regulatory Source**       | SEC **Regulation D**, Rule 501(a)                                    | **Investment Company Act** of 1940, Section 2(a)(51)                   |
+| **Used For**                | Private placements (e.g., startups, Reg D funds)                     | Unregistered investment companies (e.g., hedge funds using 3(c)(7))    |
+| **Threshold (Individual)**  | Lower ($1M net worth or $200K income)                                | Higher ($5M in investments)                                            |
+| **Exclusivity**             | ❌ Less exclusive                                                    | ✅ More exclusive                                                      |
+
+---
 
 ### **Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)**
 
