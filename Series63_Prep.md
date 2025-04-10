@@ -6,7 +6,7 @@ description: "Notes"
 
 ### **Security or Not?**
 
-**Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures**
+**Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures)**
 
 #### **Howey Test for a Security:**
 
