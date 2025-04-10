@@ -4,11 +4,11 @@ author: "AJ"
 description: "Notes"
 ---
 
-### Security or Not?
+### **Security or Not?**
 
 **Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures**
 
-#### Howey Test for a Security:
+#### **Howey Test for a Security:**
 
 To qualify as a security, an instrument usually must meet the Howey Test:
 
@@ -19,32 +19,31 @@ To qualify as a security, an instrument usually must meet the Howey Test:
 
 If any of these elements is missing, the product is not a security.
 
-### USA (Uniform Securities Act) definition of a security:
+### U**SA (Uniform Securities Act) definition of a security:**
 
 - Evidence of Ownership
 - Traded for Value
 - Managed through the efforts of a third party
 
-#### Commodities:
+#### **Commodities:**
 
 1. Are Commodity Futures securities? => No, as regulated by CFTC
 2. Are Options on Commodity Futures securities? => No (Verify), as regulated by CFTC
 
-#### Single-Stocks:
+#### **Single-Stocks:**
 
 1. Are Single-Stock Futures securities? => Yes, as regulated by SEC
 2. Are Single-Stock Options securities? => Yes, as regulated by SEC
 
-#### Broad-based Stock Indexes:
+#### **Broad-based Stock Indexes:**
 
 1. Are Futures on Broad-based Stock Indexes Securities? => No (Verify), as regulated by CFTC
 2. Are Options on Broad-based Stock Indexes Securities? => Yes (Verify), as regulated by SEC
 
-#### Narrow-based Stock Indexes:
+#### **Narrow-based Stock Indexes:**
 
 1. Are Futures on Narrow-based Stock Indexes (less than 10 stocks and have concentrated risk) Securities? => Yes (Verify), as jointly regulated by SEC and CFTC
 2. Are Options on Narrow-based Stock Indexes Securities? => Yes (Verify), as regulated by SEC
-
 
 ---
 
