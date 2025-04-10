@@ -4,11 +4,49 @@ author: "AJ"
 description: "Notes"
 ---
 
-### Questions to check:
+### Security or Not?
 
-1. Are Single-Stock Futures securities? => Yes, Single stock futures are securities as regulated by SEC
-2. Are Options on Commodity Futures securities? => Mostly No (Verify), as regulated by CFTC
-3. Are Futures on Stock Indexes Securities? => Mostly No (Verify), as regulated by CFTC
+**Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures**
+
+#### Howey Test for a Security:
+
+To qualify as a security, an instrument usually must meet the Howey Test:
+
+- An investment of money
+- In a common enterprise
+- With an expectation of profits
+- Derived from the efforts of others
+
+If any of these elements is missing, the product is not a security.
+
+### USA (Uniform Securities Act) definition of a security:
+
+- Evidence of Ownership
+- Traded for Value
+- Managed through the efforts of a third party
+
+#### Commodities:
+
+1. Are Commodity Futures securities? => No, as regulated by CFTC
+2. Are Options on Commodity Futures securities? => No (Verify), as regulated by CFTC
+
+#### Single-Stocks:
+
+1. Are Single-Stock Futures securities? => Yes, as regulated by SEC
+2. Are Single-Stock Options securities? => Yes, as regulated by SEC
+
+#### Broad-based Stock Indexes:
+
+1. Are Futures on Broad-based Stock Indexes Securities? => No (Verify), as regulated by CFTC
+2. Are Options on Broad-based Stock Indexes Securities? => Yes (Verify), as regulated by SEC
+
+#### Narrow-based Stock Indexes:
+
+1. Are Futures on Narrow-based Stock Indexes (less than 10 stocks and have concentrated risk) Securities? => Yes (Verify), as jointly regulated by SEC and CFTC
+2. Are Options on Narrow-based Stock Indexes Securities? => Yes (Verify), as regulated by SEC
+
+
+---
 
 ### Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)
 
