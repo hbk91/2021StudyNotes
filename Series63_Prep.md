@@ -47,7 +47,60 @@ If any of these elements is missing, the product is not a security.
 
 ---
 
-### Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)
+### **Registration of Securities:**
+
+#### **According to USA, it is unlawful to offer/sell a security in a state unless:**
+
+1. Federally covered securities (most securities fall in this bucket - Register with SEC)
+2. Registration at the state level
+3. Exemptions (Exempt Security/Exempt Transaction)
+
+#### **After all said and done only a handful of securities register at the state level. Their characteristics are:**
+
+1. Small issues
+2. Sold in only one state
+3. Not widely traded
+
+#### **Securities that are not Federally covered:**
+
+1. Pink sheet securities
+2. Penny Stock Issues
+3. Bulletin Board Securities
+
+#### **Exempt Securities:**
+
+1. **US/Canada All Govt Securities** All Govt/Agency or Munis
+2. **Other countries Federal Securities** with whom US has diplomatic relationships
+3. **Banking Institutions:** Commercial Banks/Savings and Loans Insti./Trust Companies/Credit Unions/Similar organizations. **No Investment Banks**
+4. **Insurance Companies:** Doesn't extends to their products, only their capital securities
+5. **Commercial Paper/Promissory Note/Bankers Acceptance:** < 270 days, Min $50,000, and Top three credit ratings (S&P, Moody, etc)
+6. **NFPs (Non-Profits)** 
+7. **Public Utility/Railroad/Common Carrier:** Subject to regulation under US Govt Authority such as US Dept of Transportation/Interstate Commerce Commission
+8. **Organization and its Employees** Any contract that is linked to ESOPs, Pension, Employee Stock Purchase, Savings, or Profit-sharing plans
+
+#### **Exempt Transactions:**
+
+1. **Underwriting Transactions** Transaction b/w an Issuer and its Underwriter
+2. **Sale to existing shareholders**
+3. **Sale to Institutional Investors/BDs**
+4. **Private or limited offerings:** Any # of Institutional Investors + Max 10 Non-Insti. Investors in a 12-month period. No General advertising/solicitation allowed. No commission can be paid for solicitation of Non-Insti. investors. Also offering must be for investment and not for resale (flipping)
+5. **Unsolicited Brokerage Transaction:** Customer contacts (by himself) the BD to buy/sell securities that are not registered in the state.
+6. **Isolated non-issuer transaction:** Non-registered securities sold infrequently b/w two investors
+7. **Fiduciary Transactions:** An executor/bankruptcy marshall/guardian/etc sells securities held in a deceased's estate/bankruptcy
+8. **Sale of preorganization certificates:** Max 10 Investors + No commission for solicitation
+9. **Crowdfunding Sales:** Max $5M over a 12 month period. Guidelines vary state by state. 
+
+---
+
+### **Registration Types at State level:**
+
+1. **Notice Filing** (Basically a heads-up that may be required by the state administrators for Federally Covered Securities)
+2. **Registration by Coordination:** Registration at the state(s) level and SEC becomes effective at the same date
+3. **Registration by Qualification:** Registration at the state(s) level: All Prospectus type info, and Consent to Service of Process, and andy fees
+
+----
+
+### **Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)**
 
 | **Feature**                    | **Credit Union**                                    | **Savings Institution**                                  | **Trust Company**                                              | **Bank**                                                       |
 |-------------------------------|-----------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------|
