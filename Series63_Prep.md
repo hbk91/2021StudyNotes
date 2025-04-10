@@ -107,7 +107,7 @@ If any of these elements is missing, the product is not a security.
 | **Purpose**                 | Invest in private offerings under **Reg D**                          | Access hedge funds/private funds exempt under **3(c)(7)**              |
 | **Net Worth Requirement**   | $1 million (excluding primary residence)                             | $5 million in **investments**                                          |
 | **Income Requirement**      | $200K ($300K with spouse) for past 2 years                           | ❌ No income test                                                       |
-| **Entity Qualification**    | $5 million in assets or all beneficial owners are accredited         | $25 million or more in **investments**                                 |
+| **Entity Qualification**    | $5 million in assets or all beneficial owners are accredited         | $25 million or more in **investments**/ all owners are Qualified       |
 | **Regulatory Source**       | SEC **Regulation D**, Rule 501(a)                                    | **Investment Company Act** of 1940, Section 2(a)(51)                   |
 | **Used For**                | Private placements (e.g., startups, Reg D funds)                     | Unregistered investment companies (e.g., hedge funds using 3(c)(7))    |
 | **Threshold (Individual)**  | Lower ($1M net worth or $200K income)                                | Higher ($5M in investments)                                            |
