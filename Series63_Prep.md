@@ -4,6 +4,12 @@ author: "AJ"
 description: "Notes"
 ---
 
+### Questions to check:
+
+1. Are Single-Stock Futures securities? => Yes, Single stock futures are securities as regulated by SEC
+2. Are Options on Commodity Futures securities? => Mostly No (Verify), as regulated by CFTC
+3. Are Futures on Stock Indexes Securities? => Mostly No (Verify), as regulated by CFTC
+
 ### Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)
 
 | **Feature**                    | **Credit Union**                                    | **Savings Institution**                                  | **Trust Company**                                              | **Bank**                                                       |
