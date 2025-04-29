@@ -174,3 +174,15 @@ If any of these elements is missing, the product is not a security.
      - Profit-sharing plans
 
 ---
+
+### **REG BI (Best Interest) Obligations:**
+
+Reg BI stands for Regulation Best Interest, a rule adopted by the Securities and Exchange Commission (SEC) to improve transparency and raise the standard of care that broker-dealers owe to **retail customers** when making investment recommendations Under Regulation Best Interest (Reg BI), broker-dealers must satisfy four core obligations when making recommendations to **retail customers:**
+
+- Disclosure Obligation
+- Care Obligation
+- Conflict of Interest Obligation
+- Compliance Obligation
+
+
+
