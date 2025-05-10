@@ -180,15 +180,21 @@ In any case, inform SEC every six months how much you raised
   - This rule doesn't apply to 504.
 
 **Bad Actors Classification:**
-  - **Criminal Issues:**  
+  - **Criminal Offenses:**  
     - Convicted of any felony in past 10 years.
     - Convicted of any securities related misdemeanor in past 10 years.
-  - **Regulatory:**  
+  - **Regulatory Sanctions:**  
     - Registration revoked by SEC or any SROs   
     - Any State Securities Commissioner barred from doing securities related activities.
     - Court gave a securities related injunction in past **five years.**
-    - 
-### 5. Reg S: Securities offering outside the US of US Issuers
+  - **False Statements or Omissions:**
+    - Lied on U4/U5
+    - Didn't disclose your SD history
+  - **Industry Specific Triggers**
+    - Caused expulsion of your firm from FINRA
+    - Failed to supervise that led to a violation
+
+### 5. Reg S: US Issuers Securities offering outside US to non-US residents
 
 - Not subject to US Registration requirements
 - Person (whether US citizen or not) should reside outside the US
