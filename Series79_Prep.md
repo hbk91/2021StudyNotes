@@ -47,3 +47,155 @@ description: "Notes"
 | **Marketing Flexibility**           | Maximum                                 | Moderate                                 | Minimal                                |
 | **Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
 
+
+### Notes:
+
+- Criminal actions against the company are declared in a 8K. Civil/class action lawsuits maybe not.
+- During a merger 8K is filed atleast twice: When the definitive agreement is signed, and when the merger closes
+
+### Filing Categories:
+
+- Large Accelerated Filers
+- Accelerate Filer
+- Non-accelerated filer
+
+### Corporate Insiders:
+
+- File Form 3
+
+### Syndicate and Selling Group:
+
+- Agreement among Underwriters (AAU)
+- Selected Dealer Agreement
+- POP and Underwriting Proceeds
+  
+### Investor Types:
+
+- **Qualified Purchaser:** > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
+- **Qualified Institutional Buyer:**  > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs: > > USD 10 Mil Discretionary Assets 
+  
+- **Accredited Investors Individuals:**
+
+- Officers, Directors, and General Partners of the issuer automatically qualify
+
+| **Criteria**                              | **Requirement**                                                         |
+|-------------------------------------------|-------------------------------------------------------------------------|
+| **Net Worth**                             | Over $1 million (excluding primary residence)                           |
+| **Annual Income**                         | Over $200,000 (individual) or $300,000 (joint) for past 2 years, with expectation of same |
+| **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
+| **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
+
+- **Accredited Investors Entities:**
+
+| **Entity Type**                            | **Requirement**                                                       |
+|--------------------------------------------|------------------------------------------------------------------------|
+| **Bank, Insurance Company, or Trust**      | Automatically qualifies if regulated                                  |
+| **Corporation, Partnership, LLC, or Trust**| Total assets over $5 million; not formed solely to invest             |
+| **Entity Owned by Accredited Individuals** | All equity owners must be accredited individuals                      |
+| **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
+| **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
+
+- **Accredited Investors:**
+  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
+  - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
+  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
+  - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
+  - Employee Benefit Plan
+  - Charitable Organization
+  - Family Offices providing investment advice
+  - Trusts with a legitimate purpose that have atleast USD 5 Mil Assets
+  - Municipal and ERISA employee benefit plans
+  - Corporation or Partnership with > USD 5 Mil Assets
+  -  Director/Officer/General Partner of the Issuer
+  -  Business in which all the owners are accredited investors
+  -  Trust with > 5 Mil Assets and not formed with the sole intent of investing in the Private Placement under question
+  -  Investors with Series 7, Series 65, or Series 82 Qualification
+  -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
+
+----------
+
+### Exempt Transactions:
+
+### 1. Reg A and A+: Small Businesses
+
+Exempt from SEC registration - small security offerings if they comply with Reg A
+
+  - Reg A: 12 months: 5M (total), 1.5M(secondary), SEC: Nah, Blue Sky: Hell Yeah; 
+  - Reg A+ Tier 1: 12 months: 20M (total), 6M(secondary), SEC: Nah, Blue Sky: Hell Yeah; 
+  - Reg A+ Tier 2: 12 months: 75M (total), 22.5M(secondary), SEC: Yeah (Semi-annual and Annual), Blue Sky: Nah;
+
+In any case, inform SEC every six months how much you raised
+
+### 2. 147 and 147A: Intra-State Offerings
+
+**147: 1974 Rule**
+
+- No restriction on the offering size and #investors
+- Resale after six months to outside state residents. First six months, resale only within the state
+
+  1. Incorporated or Principal place of business (for partnerships) +
+  2. Carry a significant amount of business within the state + 
+    - Majority of employees within the state OR..
+    - 80% of Assets within the state OR..
+    - 80% of revenue from the state (past six months) OR...
+    - 80% of net proceeds will be used within the state
+  3. Offer and sell securities only to the residents of the state
+
+**147A: Updated 2016 Rule**
+
+1. Businesses can be incorporated anywhere. Now Principal place of business counts.
+2. Allows general solicitation, which original 147 doesn't allow.
+3. Rest everything same as 147
+
+### 3. 144 and 144A: 
+  - **144: Public resale of restricted or control securities**
+  - **144A: Private Sale to QIBs (with more than USD 100 M Discretionary Assets)**
+
+**144:**
+   - **Restricted Stock (unregistered stock):** Can be sold to pubic after six months (public issuer), and one year (for private issuer)
+   - **Control Stock:** In a 90 day period can sell max of (1% of outstanding shares, avg. weekly trading volume over past 4 weeks)
+
+**144A:**
+  - Resale of unregistered securities among QIBs
+  - QIB (> USD 100 M Discretionary Assets); Broker Dealers: (> USD 10 M managing on a discretionary basis on behalf of others)
+  - No holding period under 144A as for restricted stock under 144
+  - Mostly used for issue of High-yield debt and pre-IPO shares
+  - Offering memorandum not required under 144A
+  - Eligible for piggyback registration
+
+### 4. Reg D: Private Placement: Rule 504, 506, 506(c)
+
+| **Reg D Safe Harbor**     | **504**          | **506(b)**        | **506(c)**        |
+|--------------------------|------------------|-------------------|-------------------|
+| **Maximum Capital**       | $10 million      | Unlimited         | Unlimited         |
+| **General Solicitation**  | Permitted        | Prohibited        | Permitted         |
+| **Accredited Investors**  | Unlimited        | Unlimited         | Unlimited         |
+| **Non-Accredited Investors** | Unlimited      | 35                | None Permitted    |
+| **Filing Requirement**    | Form D           | Form D            | Form D            |
+
+- All non-accredited investors must be sophisticated. Else, they must be represented by a **purchaser representative (often an attorney or a financial representative)**
+
+**Bad Actors:**
+  - Bad Actors are prohibited from doing a Reg D . Issuer or if anyone connected with the issuer is a bad actor, then no Reg D.
+  - This rule doesn't apply to 504.
+
+**Bad Actors Classification:**
+  - **Criminal Issues:**  
+    - Convicted of any felony in past 10 years.
+    - Convicted of any securities related misdemeanor in past 10 years.
+  - **Regulatory:**  
+    - Registration revoked by SEC or any SROs   
+    - Any State Securities Commissioner barred from doing securities related activities.
+    - Court gave a securities related injunction in past **five years.**
+    - 
+### 5. Reg S: Securities offering outside the US of US Issuers
+
+- Not subject to US Registration requirements
+- Person (whether US citizen or not) should reside outside the US
+- People inside the US (whether US citizen or not) are not eligible
+- **Debt Securities:** Can be sold to US investors after a **holding period of 40 days**
+- **Equity Securities:** 
+  - **Current SEC Filers:** Can be sold to US investors after a **holding period of six months**
+  - **Non-Current SEC Filers:** Can be sold to US investors after a **holding period of twelve months**
+
+  
