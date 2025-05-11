@@ -116,7 +116,7 @@ description: "Notes"
 
 ### Exempt Transactions:
 
-### 1. Reg A and A+: Small Businesses
+### 1. Reg A and A+: Small Businesses (Private Companies) can do Public Offerings
 
 Exempt from SEC registration - small security offerings if they comply with Reg A
 
