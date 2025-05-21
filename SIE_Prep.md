@@ -169,3 +169,18 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 ---
 
+### **SEP IRA vs. SIMPLE IRA**
+
+| **Feature**                           | **SEP IRA**                                                                 | **SIMPLE IRA**                                                             |
+|--------------------------------------|------------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| **Full Name**                        | Simplified Employee Pension IRA                                             | Savings Incentive Match Plan for Employees IRA                            |
+| **Who Can Establish**               | Employers (including self-employed)                                         | Employers with ≤ 100 employees                                            |
+| **Employee Contribution**            | Not allowed                                                                 | Allowed (up to annual limit)                                              |
+| **Employer Contribution**            | Required, **discretionary** (can vary each year)                            | Required, **non-discretionary** (match or fixed 2%)                       |
+| **Contribution Limits (2024)**       | Up to **25% of compensation** or $69,000 max                                | Employee: $16,000<br>Employer: match up to 3% or 2% fixed                 |
+| **Catch-Up Contribution (Age 50+)**  | Not allowed                                                                 | Allowed – additional $3,500                                               |
+| **Vesting**                          | Immediate                                                                   | Immediate                                                                 |
+| **Plan Administration**              | Simple – little paperwork                                                   | Simple – minimal filing                                                   |
+| **Employee Eligibility**             | Must have earned $750+ in 3 of last 5 years                                 | Earned $5,000 in any 2 preceding years and expects $5,000 this year       |
+| **Withdrawals Before 59½**          | Tax + 10% penalty                                                            | Tax + 25% penalty if within 2 years of participation; 10% thereafter      |
+| **Ideal For**                        | Self-employed or small businesses with variable income                      | Small employers seeking a straightforward plan with employee contributions |
