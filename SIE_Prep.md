@@ -209,7 +209,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 #### Margin Agreement:
 
-**When:** Customers must sign and return to their brokers before they begin trading.
+**When:** Customers **must sign and return to their brokers before they begin trading.**
 **What:** Hypothecation Agreement, Credit Agreement, Loan Consent Form (Optional)
 
 #### Margin Disclosure Agreement:
@@ -219,7 +219,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 #### Options Agreement:
 
-**When:** Must sign within 15 days of account approval
+**When:** Must sign **within 15 days of account approval**
 **What:** It has positions limits/allowable options which a customer can take
 
 #### Options Disclosure Document:
@@ -306,4 +306,6 @@ The **number of candidates per board seat**, the **frequency of elections**, and
      - Additional 30 days if the BD has reported the incident to regulator/agency/court
 
 --- 
+---
+
 
