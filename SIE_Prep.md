@@ -312,9 +312,9 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 ### **1. Retirement Accounts:**
 
-#### 1.1 Corporate Retirement Accounts:
+#### **1.1 Corporate Retirement Accounts:**
 
-- Qualified (ERISA Compliant)
+- **Qualified (ERISA Compliant)**
    - **Benefit:** Eligible for pre-tax contribution and investments grow tax-deferred. Completely taxed at withdrawal
    - **Eligibility:**
      - Must be offered to all full-time employees age 21>=, with 1+ year with company
@@ -323,12 +323,32 @@ The **number of candidates per board seat**, the **frequency of elections**, and
    - **Types:**
      - **Defined Benefit:** simply called by a generic name - Pension Plan
      - **Defined Contribution Names:**
-       - 401(k): Private Companies
-       - 403(b): Education Institutions/NFPs/Charities
-       - 457(b): Government Agencies and Charities
-  
-- **Non-Qualified**
+       - Employers can do matching contribution and/or profit sharing
+       - **401(k):** Private Companies. Pre-tax contribution -> Tax-Deferred Growth -> Entirely taxable at withdrawal. RMD requre
+       - **403(b):** Education Institutions/NFPs/Charities. 401(k) by another name.
+       - **457(b):** Government Agencies and Charities. 401(k) by another name.
+
+- **Other Qualified Defined Contribution Plans:**
+   - **Roth 401(k):**
+     - After-Tax contribution, Tax-Deferred Growth, and Tax-Free Withdrawal
+     - Only employees contribution goes in the account, and not the employers. Employer can contribute to only regular 401(k)
+     - Account must be atleast 5 years old, and age>=59.5 for withdrawals
+   - **Keogh Plans or HR-10 Plans:**
+     - Available to only sef-employed people
+   - **SEP-IRA = Simplified Employee Pension Plan**
+     - Offered by small businesses
+     - **Only employer can contribute but the contributions are optional**
+   - **SIMPLE IRA = Savings Incentive Match Plan for Employees**
+     - No. of Employees <=100
+     - Both Employees and Employer can contribute
+     - **Employer contributions are mandatory**
+
+- **Non-Qualified (Non ERISA Compliant)**
   - No tax benefits. 
   - **Types:** 
     - Deferred Compensation
     - Payroll Deduction
+
+#### **1.1 Individual Retirement Accounts:**
+
+
