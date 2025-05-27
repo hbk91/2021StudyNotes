@@ -308,4 +308,27 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 --- 
 ---
 
+## **Tax-Advantaged Accounts:**
 
+### **1. Retirement Accounts:**
+
+#### 1.1 Corporate Retirement Accounts:
+
+- Qualified (ERISA Compliant)
+   - **Benefit:** Eligible for pre-tax contribution and investments grow tax-deferred. Completely taxed at withdrawal
+   - **Eligibility:**
+     - Must be offered to all full-time employees age 21>=, with 1+ year with company
+     - Part time employees: 500 hrs>= in 3 consecutive years
+     - Should have a vesting schedule (must be 100% vested post Year 5)
+   - **Types:**
+     - **Defined Benefit:** simply called by a generic name - Pension Plan
+     - **Defined Contribution Names:**
+       - 401(k): Private Companies
+       - 403(b): Education Institutions/NFPs/Charities
+       - 457(b): Government Agencies and Charities
+  
+- **Non-Qualified**
+  - No tax benefits. 
+  - **Types:** 
+    - Deferred Compensation
+    - Payroll Deduction
