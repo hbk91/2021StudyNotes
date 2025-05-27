@@ -184,3 +184,102 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Employee Eligibility**             | Must have earned $750+ in 3 of last 5 years                                 | Earned $5,000 in any 2 preceding years and expects $5,000 this year       |
 | **Withdrawals Before 59½**          | Tax + 10% penalty                                                            | Tax + 25% penalty if within 2 years of participation; 10% thereafter      |
 | **Ideal For**                        | Self-employed or small businesses with variable income                      | Small employers seeking a straightforward plan with employee contributions |
+
+---
+
+### **Business Conduct Rules:**
+
+#### MSRB Investor Brochure:
+
+- Summarizes kep principles of the MSRB's customer protection rules and provides a link to the MSRB rulebook
+
+---
+
+### **Various Disclosure/Agreement Documents:**
+
+#### New Account Form:
+
+- Script used in telemarketing is retail communication - Approval required by a principal before first use
+- Obtain all necessary information from the customer prior to account opening (Patriot Act)
+- Account has to be approved by a designated principal
+- After, the account is opened a firm has 30 days to send the information back to the customer for verification
+
+#### Margin Agreement:
+
+**When:** Customers must sign and return to their brokers before they begin trading.
+**What:** Hypothecation Agreement, Credit Agreement, Loan Consent Form (Optional)
+
+#### Margin Disclosure Agreement:
+
+**When:** Prior or at the time of opening an account, and annually thereafter
+**What:** General Info and risks of a Margin Account
+
+#### Options Agreement:
+
+**When:** Must sign within 15 days of account approval
+**What:** It has positions limits/allowable options which a customer can take
+
+#### Options Disclosure Document:
+
+**When:** At or before a registered options principal approves the account
+**What:** It has been prepared by the OCC for general info/risks of Options 
+
+#### Discretionary Accounts:
+
+- Principal must approve the account, and approve each discretionary trade promptly after execution
+
+#### DVP vs RVP:
+
+**Delivery vs Payment:** **Pay money before or at the same time** as securities are delivered
+**Receipt vs Payment:** **Pay money before** securities are delivered
+
+
+---
+
+### **Titling Accounts:**
+
+- Individual Accounts
+- Joint Accounts
+- JTIC
+- JTWROS
+- Fiduciary Accounts
+- Trust Account
+  - Revocable: May be cancelled as the trustor pleases
+  - Irrevocable: Can't be cancelled without the approval of the beneficiary
+- Business Accounts:
+   - Corporate Account
+   - Partnership Account (Investment Clubs)
+
+---
+
+### **Customer Account Maintenance:**
+
+#### Account Statements:
+
+- **Send Quarterly statements**, if there is:
+  - Security Position
+  - Money Balance
+  - Any account activity since last statement
+
+- **Send Monthly statement,** if there is:
+   - **Active Account:** Purchases, sales, interest or dividends, or any funds flowing in or out of the account.
+   - **Account has penny stocks or Options**
+
+#### Trade Confirmations
+
+- **When:** At or before settlement
+- **What:** Apart from trade details:
+  - Inform if the broker acted as a broker or a dealer
+  - Any control relationship b/w securities issuer and the broker
+
+#### Munis Confirmations:
+
+- Inform Yield to Worst (lower of YTC or YTM)
+
+#### Customer Mail:
+
+- Broker can hold for 3 months, provided customer gives a written request
+- More than 3 months, customer should give a proper reason: such as security/safety - convenience can't be a reason
+  
+
+### Cus
