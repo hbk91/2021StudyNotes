@@ -233,7 +233,6 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 **Delivery vs Payment:** **Pay money before or at the same time** as securities are delivered
 **Receipt vs Payment:** **Pay money before** securities are delivered
 
-
 ---
 
 ### **Titling Accounts:**
@@ -281,5 +280,27 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 - Broker can hold for 3 months, provided customer gives a written request
 - More than 3 months, customer should give a proper reason: such as security/safety - convenience can't be a reason
   
+---
 
-### Cus
+### Customer Account Protection:
+
+#### Reg S-P:
+
+- **Privacy Notice:** Provided at account opening and annually thereafter
+- Commingling of securities of broker and customer securities is not allowed
+
+#### Protection of Vulnerable Investors:
+
+- **Who is Vulnerable?**
+   - Age 65>=
+   - Age 18>= and have a mental/physical impairment that rendering them unable to protect their interests
+
+- **How to Protect?**
+   - Obtain name and contact of a trusted contact
+   - Can place temporary hold on distribution of funds/securities if broker suspects exploitation
+     - Initially for 15 days
+     - Then can extend by 10 days if suspicion persists
+     - Additional 30 days if the BD has reported the incident to regulator/agency/court
+
+--- 
+
