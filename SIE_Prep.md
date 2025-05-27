@@ -194,7 +194,10 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 - Summarizes kep principles of the MSRB's customer protection rules and provides a link to the MSRB rulebook
 
 ---
+---
 
+## **Customer Accounts:**
+ 
 ### **Various Disclosure/Agreement Documents:**
 
 #### New Account Form:
