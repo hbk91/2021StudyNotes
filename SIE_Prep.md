@@ -244,15 +244,15 @@ description: "Notes"
 ---
 ---
 
-## **Registration of Firms and Agents:**
+## **Registrations**
 
-### **BD Registration:**
+### **1. BD Registration:**
 
 - All BDs must register with SEC aka FINRA => Form BD + New Member Agreement + Business Plan + Fees
 - Registration with SEC means "Authorization" to do securities business, and doesn't mean Approval/Endorsement by SEC/FINRA
   
 
-### **Agent Registration:**
+### **2. Agent Registration:**
 
 #### **U4:**
   - U4 for all agent + Fingerprints + Fees
@@ -292,7 +292,7 @@ description: "Notes"
 #### **Wrap Accounts:**
   - If a BD provided a Wrap Account, BD needs to register as a RIA too
 
-### **RIA (Registered Investment Advisors)**
+### **3. RIA (Registered Investment Advisors)**
 
 #### **ABC Test**
   - Provides **A**dvice
@@ -303,8 +303,17 @@ description: "Notes"
 #### Registration:
    - From ADV
 
-### **IAR (Investment Advisor Representatives)**
+### **4. IAR (Investment Advisor Representatives)**
+
+#### **General Info**
    - Need to register at the state level only, while RIAs register at State/State level depending on size
+
+#### **Exceptions from being an IAR:**
+   - LATE (Lawyers, Accountants, Teachers, & Engineers) are not IARs if they provide advice as incidental to their job
+   - Family office advisors who provide advise to clients of only one family
+   - Banks and BHCs
+   - Newspaper publishers
+   - BDs and their Agents provided they are not providing a Wrap Account
 
 ---
 ---
