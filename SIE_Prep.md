@@ -209,23 +209,23 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 #### Margin Agreement:
 
-**When:** Customers **must sign and return to their brokers before they begin trading.**
-**What:** Hypothecation Agreement, Credit Agreement, Loan Consent Form (Optional)
+- **When:** Customers **must sign and return to their brokers before they begin trading.**
+- **What:** Hypothecation Agreement, Credit Agreement, Loan Consent Form (Optional)
 
 #### Margin Disclosure Agreement:
 
-**When:** Prior or at the time of opening an account, and annually thereafter
-**What:** General Info and risks of a Margin Account
+- **When:** Prior or at the time of opening an account, and annually thereafter
+- **What:** General Info and risks of a Margin Account
 
 #### Options Agreement:
 
-**When:** Must sign **within 15 days of account approval**
-**What:** It has positions limits/allowable options which a customer can take
+- **When:** Must sign **within 15 days of account approval**
+- **What:** It has positions limits/allowable options which a customer can take
 
 #### Options Disclosure Document:
 
-**When:** At or before a registered options principal approves the account
-**What:** It has been prepared by the OCC for general info/risks of Options 
+- **When:** At or before a registered options principal approves the account
+- **What:** It has been prepared by the OCC for general info/risks of Options 
 
 #### Discretionary Accounts:
 
@@ -233,8 +233,8 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 #### DVP vs RVP:
 
-**Delivery vs Payment:** **Pay money before or at the same time** as securities are delivered
-**Receipt vs Payment:** **Pay money before** securities are delivered
+- **Delivery vs Payment:** **Pay money before or at the same time** as securities are delivered
+- **Receipt vs Payment:** **Pay money before** securities are delivered
 
 ---
 
@@ -330,7 +330,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 - **Other Qualified Defined Contribution Plans:**
    - **Roth 401(k):**
-     - After-Tax contribution, Tax-Deferred Growth, and Tax-Free Withdrawal
+     - After-Tax contribution -> Tax-Deferred Growth -> Tax-Free Withdrawal
      - Only employees contribution goes in the account, and not the employers. Employer can contribute to only regular 401(k)
      - Account must be atleast 5 years old, and age>=59.5 for withdrawals
    - **Keogh Plans or HR-10 Plans:**
@@ -344,11 +344,17 @@ The **number of candidates per board seat**, the **frequency of elections**, and
      - **Employer contributions are mandatory**
 
 - **Non-Qualified (Non ERISA Compliant)**
-  - No tax benefits. 
+  - After-tax contribution -> Tax-Deferred Growth -> Tax only on the growth portion (as contributions were already taxed ab-initio)  
   - **Types:** 
     - Deferred Compensation
     - Payroll Deduction
 
-#### **1.1 Individual Retirement Accounts:**
+#### **1.2 Individual Retirement Accounts:**
 
+- **Traditional IRAs**
+   - No Minimum Age. Only earned income can be contributed.
+   - Max (USD 7,000, 100% annual earned income) a year contribution. 50=+ people can contribute USD 1000 extra (called catch-up contribution) 
+   - If contributions limit breached -> 6% penalty on excess amount
+   - Can create a Spousal IRA with same benefits
+   - These accounts are always individual, and never held jointly
 
