@@ -297,7 +297,7 @@ description: "Notes"
   - For **C**ompensation
   - Subject to Fiduciary Standard. Agents of BDs to Suitability/Best Interest Standards
 
-#### Registration:
+#### **Registration:**
    - From ADV
 
 ### **4. IAR (Investment Advisor Representatives)**
@@ -311,6 +311,26 @@ description: "Notes"
    - Banks and BHCs
    - Newspaper publishers
    - BDs and their Agents provided they are not providing a Wrap Account
+
+---
+---
+
+## Extra Notes:
+
+### **Major Regulations for the SIE Exam**
+
+| **Regulation** | **Description** | **Regulatory Authority** |
+|----------------|------------------|---------------------------|
+| **Regulation T (Reg T)** | Sets initial margin requirements (typically 50%) for buying securities on credit. Also governs the use of credit in margin accounts. | **Federal Reserve Board** |
+| **Regulation U (Reg U)** | Governs how banks can extend credit for the purchase of margin securities. | **Federal Reserve Board** |
+| **Regulation X (Reg X)** | Requires borrowers (customers) to comply with Reg T and U if they obtain credit from foreign lenders to buy securities. | **Federal Reserve Board** |
+| **Regulation D (Reg D)** | Provides exemptions from SEC registration for private placements of securities under specific conditions (e.g., Rule 506). | **SEC** |
+| **Regulation A (Reg A)** | Allows small and mid-sized companies to raise capital with limited SEC registration (Tier 1 and Tier 2 offerings). | **SEC** |
+| **Regulation M (Reg M)** | Prohibits market manipulation during public offerings (e.g., underwriters cannot bid up prices during the restricted period). | **SEC** |
+| **Regulation FD (Reg FD)** | Promotes full and fair disclosure by requiring public dissemination of material nonpublic information. | **SEC** |
+| **Regulation S-P (Reg S-P)** | Requires firms to protect customers' personal financial information and provide privacy notices. | **SEC** |
+| **Regulation S-ID (Reg S-ID)** | Requires broker-dealers and investment advisers to implement identity theft prevention programs ("Red Flag Rules"). | **SEC** |
+| **Regulation SHO (Reg SHO)** | Governs short selling and requires firms to locate securities before executing short sales. | **SEC** |
 
 ---
 ---
@@ -338,6 +358,7 @@ description: "Notes"
 
 **1,000,000 (Issued Stock) = 800,000 (Outstanding Stock) + 200,000 (Treasury Stock)**
 
+---
 ---
 
 ### **Statutory Voting vs. Cumulative Voting**
@@ -403,22 +424,6 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 4. **Elections are usually annual**, but staggered boards spread elections over three years.  
 
 ---
-
-### **Major Regulations for the SIE Exam**
-
-| **Regulation** | **Description** | **Regulatory Authority** |
-|----------------|------------------|---------------------------|
-| **Regulation T (Reg T)** | Sets initial margin requirements (typically 50%) for buying securities on credit. Also governs the use of credit in margin accounts. | **Federal Reserve Board** |
-| **Regulation U (Reg U)** | Governs how banks can extend credit for the purchase of margin securities. | **Federal Reserve Board** |
-| **Regulation X (Reg X)** | Requires borrowers (customers) to comply with Reg T and U if they obtain credit from foreign lenders to buy securities. | **Federal Reserve Board** |
-| **Regulation D (Reg D)** | Provides exemptions from SEC registration for private placements of securities under specific conditions (e.g., Rule 506). | **SEC** |
-| **Regulation A (Reg A)** | Allows small and mid-sized companies to raise capital with limited SEC registration (Tier 1 and Tier 2 offerings). | **SEC** |
-| **Regulation M (Reg M)** | Prohibits market manipulation during public offerings (e.g., underwriters cannot bid up prices during the restricted period). | **SEC** |
-| **Regulation FD (Reg FD)** | Promotes full and fair disclosure by requiring public dissemination of material nonpublic information. | **SEC** |
-| **Regulation S-P (Reg S-P)** | Requires firms to protect customers' personal financial information and provide privacy notices. | **SEC** |
-| **Regulation S-ID (Reg S-ID)** | Requires broker-dealers and investment advisers to implement identity theft prevention programs ("Red Flag Rules"). | **SEC** |
-| **Regulation SHO (Reg SHO)** | Governs short selling and requires firms to locate securities before executing short sales. | **SEC** |
-
 ---
 
 ### **Business Entity Comparison with Examples**
@@ -456,6 +461,9 @@ The **number of candidates per board seat**, the **frequency of elections**, and
    LLCs are highly flexible and provide **limited liability with fewer formalities**.  
    They are popular among **real estate investors, consultants, freelancers, and small business owners** who want **simple tax treatment and management structure**, and the ability to choose **how they’re taxed**.
 
+---
+---
+
 ### **S-Corp vs. LLC – Key Distinctions and Why It Matters**
 
 | **Factor**                     | **S-Corporation (S-Corp)**                                                                 | **Limited Liability Company (LLC)**                                                              |
@@ -479,6 +487,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 - You want **minimal corporate formalities** and **customizable agreements**.
 
 ---
+---
 
 ### **SEP IRA vs. SIMPLE IRA**
 
@@ -497,6 +506,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Ideal For**                        | Self-employed or small businesses with variable income                      | Small employers seeking a straightforward plan with employee contributions |
 
 ---
+---f        
 
 ### **Business Conduct Rules:**
 
