@@ -345,6 +345,8 @@ The **number of candidates per board seat**, the **frequency of elections**, and
      - Both Employees and Employer can contribute
      - **Employer contributions are mandatory**
 
+<br>
+
 - **Non-Qualified (Non ERISA Compliant)**
   - After-tax contribution -> Tax-Deferred Growth -> Tax only on the growth portion (as contributions were already taxed ab-initio)  
   - **Types:** 
@@ -353,10 +355,74 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 
 #### **1.2 Individual Retirement Accounts:**
 
-- **Traditional IRAs**
-   - No Minimum Age. Only earned income can be contributed.
-   - Max (USD 7,000, 100% annual earned income) a year contribution. 50=+ people can contribute USD 1000 extra (called catch-up contribution) 
-   - If contributions limit breached -> 6% penalty on excess amount
-   - Can create a Spousal IRA with same benefits
-   - These accounts are always individual, and never held jointly
+#### **Traditional IRAs**
+  - **Characteristics:**
+     - No Minimum Age. Only earned income can be contributed.
+     - Max (USD 7,000, 100% annual earned income) a year contribution. 50=+ people can contribute USD 1000 extra (called catch-up contribution) 
+     - If contributions limit breached -> 6% penalty on excess amount
+     - Can create a Spousal IRA with same benefits
+     - These accounts are always individual, and never held jointly
+     - **Some investments prohibited in IRAs: Fixed life insurance, antiques, risky options like uncovered calls, and real estate**
+   - **Distributions:**
+     - Allowed after 59.5=> age; Also RMDs (Required Minimum Distributions) from Apr 1 of the year following, a o person turns 73
+     - **Withdraw  before 59.5 => 10% Penalty.** Exceptions:
+       - **Medical Reasons:** Death/Disability/Terminally Ill/Medical Expenses
+       - **Education and kids:** Education Expense of self/spouse/children/grand=children; Birth/Adopting a kid (limited to USD 5000 / per parent)
+       - **House and Disaster Area:** First-time homebuyers (upto 10k); living in federal declared disaster areas (upto $22k)
+     - **No withdrawal after 73.5 => 25% excise tax on under-distributed amount.** Excise tax reduced to 10% if the under-distributed amount is fixed in next 2 years
 
+#### **Roth IRAs**
+   - Only available to people who earn below a certain income level
+   - If an individual has multiple IRAs, then the contribution limits apply to all IRAs in aggregate
+
+#### **Rollover:**
+   - Moving from IRA to another IRA within 60 days => avoid any tax consequences
+
+### **2. Annuities**
+
+#### **Annuity Periods:**
+   - Accumulation Period
+   - Annuitization Period
+
+#### **Fixed Annuity:**
+   - Contributions go into the **General Account** of the insurer for investment
+
+#### **Variable Annuity:**
+   - Contributions go into the **Separate Account** of the insurer for investment. This is because, the investment has to be made according to the choice of the investor
+
+### **Payout Options:**
+
+- **Straight Life:** Highest monthly payment
+- **Life with Period Certain:** Payment guaranteed for certain period
+- **Joint with last survivor:** Lowest monthly payment
+
+#### **1035 Exchange:**
+   - Moving from Annuity to another => avoid any tax consequences
+   - However, surrender charges from the insurer may still apply
+
+
+### **3. Education and Individuals with Disability**
+
+#### **529 College Savings Plan:**
+   - Established and maintained by the states. Therefore, are technically -> munis (municipal fund securities), and subject to MSRB
+   - **Must provide Program Disclosure Document**
+   - Operates similar to Roth IRA vis-a-vis tax. Although, states may take their own taxes on distribution if they wish
+   - However, no requirement to contribute earned income, unlike IRAs
+   - Distribution only for qualified education expenses
+   - Can be opened for anyone - minors/adults/self/kids
+   - If the beneficiary doesn't want to use the funds, can transfer the funds to 529 of another family member without penalty. Allowed once per year
+   - If withdrawal not for qualified education expenses, then a penalty of 10% 
+
+#### **Coverdell Education Savings Account:**
+
+   - Similar to 529 above, but not a muni
+   - Tax wise works exactly as Roth IRA/529 CSP
+   - Contributions are limited to USD 2,000 per year per beneficiary
+   - Only available to families below a certain income level
+   - Can be opened for any student <= 18, and funds must be disbursed before 30. (No such restrictions in 529)
+   - Funds can be transferred to Coverdell of any other family member
+   - Much less popular than 529 because of all these restrictions
+
+#### **ABLE Accounts** 
+
+   - 
