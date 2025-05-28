@@ -44,6 +44,10 @@ description: "Notes"
 - **Delivery vs Payment:** **Pay money before or at the same time** as securities are delivered
 - **Receipt vs Payment:** **Pay money before** securities are delivered
 
+### Broker Check Disclosures:
+
+- BDs must provide customers annually Broker-Check website address and info + description of content that customers can access there
+
 ---
 
 ### **Titling Accounts:**
@@ -237,6 +241,62 @@ description: "Notes"
    - Can be opened by individuals who have a disability prior to age 26
    - **Qualified Expenses: Education/Housing/Transportation/Employment Training/Health**
   
+---
+---
+
+## **Registration of Firms and Agents:**
+
+### **BD Registration:**
+
+- All BDs must register with SEC aka FINRA => Form BD + New Member Agreement + Business Plan + Fees
+- Registration with SEC means "Authorization" to do securities business, and doesn't mean Approval/Endorsement by SEC/FINRA
+  
+
+### **Agent Registration:**
+
+- **U4:**
+  - U4 for all agent + Fingerprints + Fees
+  - 5 years of residential history + 10 years of employment history + Education background + SSN + Name
+  - Fingerprints are required within 30 days of filing a U4
+  - Maintain records of people who have left the company for atleast three years
+  - Regular U4 updates required in 30 days, but reportable event (leading to statutory disqualification) should be reported in 10 days
+
+- **U5:**
+   - Reason for termination should be there
+   - Must file within 30 days of termination
+   - Unregistered people subject to 2 years of regulatory jurisdiction (rep to update addresses in this 2 year period)
+
+- **Qualification Exams:** 
+  - If left the industry for 2+ years, retake the appropriate exam
+  - If left the industry for 4+ years, retake SIE too in addition to above (SIE is valid for 4 years)
+
+- **FinPro's MQP (Maintaining Qualification Program):**
+  - Within 2 years of leaving the firm, enroll in FinPro's MQP Program
+  - Complete annual training and pay USD 100 annual fee
+  - Max five years (2+3), beyond that if an individual returns => need to retake the exams
+
+- **Statutory Disqualification:**
+  - **Criminal:**
+    - Any felony conviction in past 10 years
+    - Securities related misdemeanor conviction in past 10 years
+    - Injunction (temp/permanent) issued by a court
+  - **Regulatory:**
+    - Expulsion/Suspension from a SRO/regulator
+    - Findings of falsifications in filings to SROs/regulators or wilful violation of securities laws
+
+- **Continuing Education:**
+  - Regulatory Element by Dec 31
+  - Firm Element by Dec 31 
+  - Failure to comply with Regulator Element may result in CE Inactive Status, while the same is not true for Firm Element
+
+
+### **RIA (Registered Investment Advisors)**
+
+- **ABC Test**
+  - Provides **A**dvice
+  - As a **B**usiness 
+  - For **C**ompensation
+
 ---
 ---
 
