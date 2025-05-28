@@ -506,7 +506,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Ideal For**                        | Self-employed or small businesses with variable income                      | Small employers seeking a straightforward plan with employee contributions |
 
 ---
----f        
+---        
 
 ### **Business Conduct Rules:**
 
