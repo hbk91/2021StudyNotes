@@ -315,6 +315,43 @@ description: "Notes"
 ---
 ---
 
+## **Business Conduct:**
+
+### **Insider Trading:**
+
+- **Misappropriation Theory:** Stealing info and trading on any company's stock not just own company
+- **Penalties:** Both Tipper and Tippee are liable. Treble (3 times) damages (Gain made or losses avoided). 20 year jail and/or USD 5mm penalty
+- **Duty of Trust:** Recipient should have knows that MNPI (material non-public information) is being shared
+**Prevention Mechanisms:**
+   - **Information barriers** between private side and public side (trading/research)
+   - **Restricted List:** List of securities in which Prop + Employee + Solicited Customer Transactions can't be done
+   - **Watch List:** No restrictions but any trading in these securities is closely monitored by the compliance department
+
+### **Anti-Money Laundering:**
+
+#### **Three stages of Money Laundering:**
+   - **Placement:** Depositing money in the system. It is the easiest stage to detect.
+   - **Layering:** Performing a series of transactions to launder the money.
+   - **Integration:** Withdrawing and reintegrating the money into the system.
+ 
+### **FinCEN (Financial Crimes Enforcement Netowrk):**
+
+- **Bank Secrecy Act (BSA)** enacted in 1970, lays the framework for AML
+- FinCEN, a bureau within the treasury administers BSA
+- **IRS and OCC** (other bureaus in Treasury) further assist in AML 
+
+#### **Currency Transaction Report (CTR):**
+ -  Cash/Traveler's Check/Cashier's Check/Money Order totalling more than USD 10,000 in one day => File a CTR with FinCEN. Also inform the customer that CTR has been filed
+
+#### **Suspicious Activity Report (SAR):**
+ -  Cash/Traveler's Check/Cashier's Check/Money Order totalling more than USD 10,000 in one day => File a CTR with FinCEN. Also inform the customer that CTR has been filed
+
+
+
+
+---
+---
+
 ## Extra Notes:
 
 ### **Major Regulations for the SIE Exam**
@@ -506,7 +543,23 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **Ideal For**                        | Self-employed or small businesses with variable income                      | Small employers seeking a straightforward plan with employee contributions |
 
 ---
+---
+
+### **Treasury Department Bureaus:**
+
+| **Bureau**                                     | **What It Does**                                                                 |
+|------------------------------------------------|----------------------------------------------------------------------------------|
+| **Internal Revenue Service (IRS)**             | Administers and enforces federal tax laws; collects federal taxes.              |
+| **Bureau of the Fiscal Service (BFS)**         | Manages the government's accounting, central payment systems, and public debt.  |
+| **Office of the Comptroller of the Currency (OCC)** | Regulates and supervises national banks and federal savings associations.   |
+| **Financial Crimes Enforcement Network (FinCEN)** | Fights money laundering and terrorism financing through data collection and analysis. |
+| **Bureau of Engraving and Printing (BEP)**     | Designs and prints U.S. paper currency and security documents.                  |
+| **U.S. Mint**                                  | Produces coins and manages their distribution.                                  |
+| **Alcohol and Tobacco Tax and Trade Bureau (TTB)** | Regulates alcohol, tobacco, and firearms taxes and trade practices.         |
+| **Community Development Financial Institutions Fund (CDFI Fund)** | Promotes economic opportunity via community development investments.    |
+
 ---        
+---
 
 ### **Business Conduct Rules:**
 
