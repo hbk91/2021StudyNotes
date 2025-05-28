@@ -328,7 +328,7 @@ The **number of candidates per board seat**, the **frequency of elections**, and
        - **403(b):** Education Institutions/NFPs/Charities. 401(k) by another name.
        - **457(b):** Government Agencies and Charities. 401(k) by another name.
 
-<br><br>
+<br>
 
 - **Other Qualified Defined Contribution Plans:**
    - **Roth 401(k):**
