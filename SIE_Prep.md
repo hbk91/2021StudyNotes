@@ -254,28 +254,28 @@ description: "Notes"
 
 ### **Agent Registration:**
 
-- **U4:**
+#### **U4:**
   - U4 for all agent + Fingerprints + Fees
   - 5 years of residential history + 10 years of employment history + Education background + SSN + Name
   - Fingerprints are required within 30 days of filing a U4
   - Maintain records of people who have left the company for atleast three years
   - Regular U4 updates required in 30 days, but reportable event (leading to statutory disqualification) should be reported in 10 days
 
-- **U5:**
+#### **U5:**
    - Reason for termination should be there
    - Must file within 30 days of termination
    - Unregistered people subject to 2 years of regulatory jurisdiction (rep to update addresses in this 2 year period)
 
-- **Qualification Exams:** 
+#### **Qualification Exams:** 
   - If left the industry for 2+ years, retake the appropriate exam
   - If left the industry for 4+ years, retake SIE too in addition to above (SIE is valid for 4 years)
 
-- **FinPro's MQP (Maintaining Qualification Program):**
+#### **FinPro's MQP (Maintaining Qualification Program):**
   - Within 2 years of leaving the firm, enroll in FinPro's MQP Program
   - Complete annual training and pay USD 100 annual fee
   - Max five years (2+3), beyond that if an individual returns => need to retake the exams
 
-- **Statutory Disqualification:**
+#### **Statutory Disqualification:**
   - **Criminal:**
     - Any felony conviction in past 10 years
     - Securities related misdemeanor conviction in past 10 years
@@ -284,18 +284,27 @@ description: "Notes"
     - Expulsion/Suspension from a SRO/regulator
     - Findings of falsifications in filings to SROs/regulators or wilful violation of securities laws
 
-- **Continuing Education:**
+#### **Continuing Education:**
   - Regulatory Element by Dec 31
   - Firm Element by Dec 31 
   - Failure to comply with Regulator Element may result in CE Inactive Status, while the same is not true for Firm Element
 
+#### **Wrap Accounts:**
+  - If a BD provided a Wrap Account, BD needs to register as a RIA too
 
 ### **RIA (Registered Investment Advisors)**
 
-- **ABC Test**
+#### **ABC Test**
   - Provides **A**dvice
   - As a **B**usiness 
   - For **C**ompensation
+  - Subject to Fiduciary Standard. Agents of BDs to Suitability/Best Interest Standards
+
+#### Registration:
+   - From ADV
+
+### **IAR (Investment Advisor Representatives)**
+   - Need to register at the state level only, while RIAs register at State/State level depending on size
 
 ---
 ---
