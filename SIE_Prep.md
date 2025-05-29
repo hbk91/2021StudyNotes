@@ -126,7 +126,7 @@ description: "Notes"
 
 #### **1.1 Corporate Retirement Accounts:**
 
-#### Qualified (ERISA Compliant)**
+#### **Qualified (ERISA Compliant)**
    - **Benefit:** Eligible for pre-tax contribution and investments grow tax-deferred. Completely taxed at withdrawal
    - **Eligibility:**
      - Must be offered to all full-time employees age 21>=, with 1+ year with company
@@ -141,7 +141,7 @@ description: "Notes"
        - **457(b):** Government Agencies and Charities. 401(k) by another name.
 
 
-#### Other Qualified Defined Contribution Plans:**
+#### **Other Qualified Defined Contribution Plans:**
    - **Roth 401(k):**
      - After-Tax contribution -> Tax-Deferred Growth -> Tax-Free Withdrawal
      - Only employees contribution goes in the account, and not the employers. Employer can contribute to only regular 401(k)
@@ -156,7 +156,7 @@ description: "Notes"
      - Both Employees and Employer can contribute
      - **Employer contributions are mandatory**
 
-#### Non-Qualified (Non ERISA Compliant)**
+#### **Non-Qualified (Non ERISA Compliant)**
   - After-tax contribution -> Tax-Deferred Growth -> Tax only on the growth portion (as contributions were already taxed ab-initio)  
   - **Types:** 
     - Deferred Compensation
