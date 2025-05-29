@@ -531,7 +531,10 @@ description: "Notes"
 
 ### **Business Continuity Plans (BCPs):**
    - Give customers a summary of the BCP at account opening
-   - 
+   - Plan's summary should be on the website
+   - Provide customer's a copy of the summary should they need one
+   - Designate two people as emergency contacts (one must be senior management and a registered principal)
+   - Emergency contacts should be reported to FINRA, and any changes must be updated in 30 days
 
 ---
 ---
