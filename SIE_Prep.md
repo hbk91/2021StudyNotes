@@ -97,7 +97,7 @@ description: "Notes"
   
 ---
 
-### Customer Account Protection:
+### **Customer Account Protection:**
 
 #### Reg S-P:
 
@@ -187,6 +187,8 @@ description: "Notes"
 #### **Rollover:**
    - Moving from IRA to another IRA within 60 days => avoid any tax consequences
 
+---
+
 ### **2. Annuities**
 
 #### **Annuity Periods:**
@@ -209,6 +211,7 @@ description: "Notes"
    - Moving from Annuity to another => avoid any tax consequences
    - However, surrender charges from the insurer may still apply
 
+---
 
 ### **3. Education and Individuals with Disability**
 
@@ -248,6 +251,7 @@ description: "Notes"
 - All BDs must register with SEC aka FINRA => Form BD + New Member Agreement + Business Plan + Fees
 - Registration with SEC means "Authorization" to do securities business, and doesn't mean Approval/Endorsement by SEC/FINRA
   
+---  
 
 ### **2. Agent Registration:**
 
@@ -289,6 +293,8 @@ description: "Notes"
 #### **Wrap Accounts:**
   - If a BD provided a Wrap Account, BD needs to register as a RIA too
 
+---
+
 ### **3. RIA (Registered Investment Advisors)**
 
 #### **ABC Test**
@@ -299,6 +305,8 @@ description: "Notes"
 
 #### **Registration:**
    - From ADV
+
+---
 
 ### **4. IAR (Investment Advisor Representatives)**
 
@@ -327,6 +335,8 @@ description: "Notes"
    - **Restricted List:** List of securities in which Prop + Employee + Solicited Customer Transactions can't be done
    - **Watch List:** No restrictions but any trading in these securities is closely monitored by the compliance department
 
+---
+
 ### **Anti-Money Laundering:**
 
 #### **Three stages of Money Laundering:**
@@ -334,20 +344,194 @@ description: "Notes"
    - **Layering:** Performing a series of transactions to launder the money.
    - **Integration:** Withdrawing and reintegrating the money into the system.
  
-### **FinCEN (Financial Crimes Enforcement Netowrk):**
+### **FinCEN (Financial Crimes Enforcement Network):**
 
 - **Bank Secrecy Act (BSA)** enacted in 1970, lays the framework for AML
 - FinCEN, a bureau within the treasury administers BSA
 - **IRS and OCC** (other bureaus in Treasury) further assist in AML 
 
 #### **Currency Transaction Report (CTR):**
- -  Cash/Traveler's Check/Cashier's Check/Money Order totalling more than USD 10,000 in one day => File a CTR with FinCEN. Also inform the customer that CTR has been filed
+ -  Cash/Traveler's Check/Cashier's Check/Money Order totalling more than USD 10,000 in one day => File a CTR with FinCEN **within 15 days**
+ -  Inform the customer that CTR has been filed
 
 #### **Suspicious Activity Report (SAR):**
- -  Cash/Traveler's Check/Cashier's Check/Money Order totalling more than USD 10,000 in one day => File a CTR with FinCEN. Also inform the customer that CTR has been filed
+ -  Filed by BD to FinCEN **within 30 days** if BD suspects money laundering by customer. Ex: Depositing just under USD 10,000
+ -  Customer should not be informed that an SAR has been filed 
 
+---
 
+### **USA Patriot Act: (Enacted in 2001 and strengthened the BSA)**
 
+#### **AML Compliance Program:** 
+  - All BDs must have
+  - Give the AML compliance officer's name/contact info to FINRA. Doesn't need to be a registered representative
+  - Audit the AML program annually by an independent III party within/outside the firm
+
+#### **Customer Identification Program:** 
+  - All BDs must have
+  - **Obtain identity info** of every customer **before opening an account**
+  - **Verify the identity** within a **reasonable time frame before or after opening an account**
+  
+####**SDN (Specially Designated Nationals) List:**
+  - Compiled by OFAC (Office of Foreign Asset Control), an office in the Treasury. 
+  - Can't transact with anyone on SDN. Block the transaction and **report to OFAC within 10 days**
+  - Mandatory information sharing with federal law enforcement
+
+---
+
+#### **Opening a trading account at another BD:**
+   - Approval needed from employer before opening an account
+   - Notify the other BD that you are a registered agent of your firm before opening an account
+   - **If changing firms,** and need to continue your account at this other BD, **obtain approval from new employer within 30 days**
+   - **Immediate Family Members too** bound by this rule. However, it can be waived off if the rep proves that no financial benefit/control exists
+   - **Exceptions:** **Above rules don't apply if the account is for only mutual funds/UITs/or variable annuities**
+
+--- 
+
+#### **Payment to Unregistered Persons:**
+   - Not allowed
+
+---
+
+#### **Continuing Commissions:**
+   - Written Contract prior to leaving the job
+   - Can't be engaged in any securities related activities to continue receiving commissions
+
+---
+
+#### **Outside Business Activity (OBA):**
+
+- OBA = Outside Activity for which rep receives compensation. Even if rep starts a business, but doesn't pay himself a salary, it is a OBA. Notify Employer
+- **Update Form U4**
+
+---
+
+#### **Private Securities Transactions:**
+   - **Compensation received: Prior approval** of firm is needed, **else it is "Selling Away" - a violation**. If approved, the transaction must be recorded on the firm's books, and supervised
+   -  **Compensation not received: Notify employer
+
+---
+
+#### **Gifts:**
+
+- USD 100 per year per person limit
+- Above rule doesn't apply to entertainment expenses, provided the Rep also attends
+
+---
+
+### **Sharing in customer accounts:**
+
+- Not permitted generally
+- **Permitted only if:**
+  - Permission from both employer and the customer
+  - Sharing is proportionate to money contributed by the agent and the customer
+    - Accounts with family members are not subject to proportionate sharing
+- Reps can't be Beneficiary/Executor/Trustee/Power of Attorney holder on behalf of a customer, except when the customer is a family member
+
+---
+
+### **Borrowing/Lending from Customers:**
+
+- Generally prohibited, but allowed if the employer's rules permit and only limited to following:
+   - Family Members
+   - Banks (other financial institutions engaged in that activity)
+   - Personal/Business relationship outside the broker/customer relationship
+
+- Firm's written pre-approval required for case iii above and also if borrowing/lending from banks is not on standard commercial terms. In other words, borrow/lend from family members and from banks on standard commercial terms doesn't require pre-approval. It is just that the companies rules should allow it.
+
+---
+
+### **Customer Complaints:**
+
+#### **Written Complaint:**
+   - Record must be kept no matter what of complaint + action taken
+   - Must be forwarded to the principal
+   - Report to FINRA by 15th of the month after the quarter in which complaint was received
+
+#### **Verbal Complaint:**
+   - Don't need to forward to the principal
+
+---
+
+### **MSRB Investor Brochure:**
+
+- Summarizes kep principles of the MSRB's customer protection rules and provides a link to the MSRB rulebook
+
+---
+
+### **Conflict of Interest:**
+
+- **Verbal Disclosure:** Prior to thr trade
+- **Written Disclosure:** Must appear on trade confirmation
+
+---
+
+### **Political Contributions:**
+
+#### **Pay to Play in Munis:**
+   - Municipal Finance Professionals **(MFPs)** a Muni BD:
+     - Sales
+     - Trading
+     - Underwriting
+     - Research
+   - **MFPs don't include people involved in retail sales**
+   - Records of MFPs and any political contributions should be maintained for 6 years
+   - **If contributed, ban of 2 years on negotiated deals with the muni issuer**
+   - Can contribute upto USD 250 if one is a voter for that candidate
+   - Contributions by spouses of MFPs are not subject to the USD 250 limit, unless the donation was directed by the MFP
+
+---
+
+### **Communication for BDs:**
+
+#### **Retail Communication:**
+
+- **> 25 retail investors over a 30 day period.** Written/Electronic communication distributed/made available
+- Purely verbal communication is not considered a communication with the public
+- Principal approval required prior to first use
+- **Must maintain records** of retail communication and approvals **for 3 years**
+- **Not permitted:** Can't project future performance/ or imply past performance predicts future results
+- **Permitted:** Hypothetical illustration of mathematical principles. A price target but only if it is part of a research report
+
+#### **Correspondence Communication:**
+
+- **<= 25 retail investors over a 30 day period.** Written/Electronic communication distributed/made available
+- Supervision and spot-checks by Principal
+
+#### **Institutional Communication:**
+
+- **Any count of institutional investors but zero retail investors** Written/Electronic communication distributed/made available
+- Supervision and spot-checks by Principal
+
+---
+
+### **Social Media:**
+
+#### **Static Content:**
+   - Permanent content posted on Website/FB/Insta etc.
+   - Treated as retail communication -> prior principal approval necessary
+  
+#### **Interactive Content:**
+   - Transient/real-time content -> tweets/responses/comments
+   - Only supervision and spot checks by the principal
+
+#### **Personal Email:**
+
+- Agent can speak with client over personal email, provided prior approval by employer and the communication is monitored by the firm
+
+---
+
+### **MSRB Communication Rules:**
+
+  - Same rules as FINRA's for BDs but Retail Communication is labeled as advertisement, and the time period is 90 days instead of 30 days. The threshold of 25 retail investors is same.
+  - Record maintenance is for 4 years for MSRB (FINRA one is 3 years)
+  - Also MSRB doesn't controls issuers, so its guidelines are applicable to only communication originated by muni BDs and not to communication by issuers.
+
+---
+
+### **Business Continuity Plans (BCPs):**
+   - Give customers a summary of the BCP at account opening
+   - 
 
 ---
 ---
@@ -557,15 +741,6 @@ The **number of candidates per board seat**, the **frequency of elections**, and
 | **U.S. Mint**                                  | Produces coins and manages their distribution.                                  |
 | **Alcohol and Tobacco Tax and Trade Bureau (TTB)** | Regulates alcohol, tobacco, and firearms taxes and trade practices.         |
 | **Community Development Financial Institutions Fund (CDFI Fund)** | Promotes economic opportunity via community development investments.    |
-
----        
----
-
-### **Business Conduct Rules:**
-
-#### MSRB Investor Brochure:
-
-- Summarizes kep principles of the MSRB's customer protection rules and provides a link to the MSRB rulebook
 
 ---
 ---
