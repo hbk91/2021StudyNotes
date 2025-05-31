@@ -35,7 +35,7 @@ In any case, inform SEC every six months how much you raised
 
 #### **147A: Updated 2016 Rule**
 
-1. Businesses can be incorporated anywhere. Now Principal place of business counts.
+1. Businesses can be incorporated anywhere. Now only Principal place of business counts.
 2. Allows general solicitation, which original 147 doesn't allow.
 3. Rest everything same as 147
 
@@ -136,9 +136,10 @@ In any case, inform SEC every six months how much you raised
 | **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
 
 #### **Accredited Investors:**
-  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
+
+  - Should have > USD 1 Mil Net Worth (Excluding Primary Residence), 
   - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
-  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
+  - Should have > 200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
   - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
   - Employee Benefit Plan
   - Charitable Organization
