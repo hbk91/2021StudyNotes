@@ -4,116 +4,6 @@ author: "AJ"
 description: "Notes"
 ---
 
-### Forms to file with SEC:
-
-| **Form** | **Used For**                                            | **Filed By**                     | **Key Contents**                                  | **Trigger/Event**                              |
-|----------|---------------------------------------------------------|----------------------------------|--------------------------------------------------|------------------------------------------------|
-| **S-1**  | IPO (Initial Public Offering)                           | Private company going public     | Prospectus, financials, risk factors             | First-time public offering                     |
-| **S-3**  | Follow-on offering (seasoned issuers)                   | Public companies                 | Shelf registration, streamlined disclosure       | Secondary or follow-on offerings               |
-| **S-4**  | M&A deals with stock/debt issuance                      | Acquirer (and target if public)  | Proxy, prospectus, deal terms, pro formas        | Stock-financed mergers or exchange offers      |
-| **S-8**  | Employee stock/benefit plans                            | Public companies                 | Securities for compensation plans                | Stock/options granted to employees             |
-| **F-1/F-3/F-4** | Foreign issuer versions of S-1/S-3/S-4             | Foreign private issuers          | Same as above, but tailored to foreign filers    | IPOs, follow-ons, M&A for non-U.S. firms       |
-
-### Reg M-A by SEC:
-
-#### Reg M-A = Regulation Mergers & Acquisitions. It’s an SEC regulation that governs disclosures made in business combinations, such as:
-
-- Mergers
-- Tender offers
-- Exchange offers
-- Going-private transactions
-- Other extraordinary corporate events
-
-| **Form**           | **Used For**                                | **Who Files It**                 | **Reg M-A Applies?** | **Notes**                                      |
-|--------------------|---------------------------------------------|----------------------------------|----------------------|-----------------------------------------------|
-| **S-4**            | Registering securities in stock-based M&A   | Acquirer                         | ✅ Yes               | Includes proxy, prospectus, pro forma financials |
-| **Schedule TO**    | Making a tender or exchange offer           | Acquirer                         | ✅ Yes               | Discloses terms of offer                       |
-| **Schedule 14D-9** | Responding to a tender offer                | Target company                   | ✅ Yes               | Target’s formal position on the offer         |
-| **Schedule 13E-3** | Going-private transactions                  | Company or affiliates taking it private | ✅ Yes         | Protects minority shareholders                |
-| **DEFM14A**        | Merger proxy for shareholder vote           | Target or acquirer               | ✅ Yes               | Used when shareholder approval is needed      |
-
-
-### WKSI (Well Known Seasoned Issuer) vs Seasoned Issuer vs Unseasoned Issuer:
-
-| **Feature**                          | **WKSI**                                | **Seasoned Issuer**                      | **Unseasoned Issuer**                  |
-|-------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
-| **SEC Filing History**              | ≥ 12 months                             | ≥ 12 months                              | < 12 months OR not timely              |
-| **Public Float**                    | ≥ $700 million **OR** ≥ $1B in debt     | ≥ $75 million                            | < $75 million                          |
-| **Form Eligibility**                | S-3 with **automatic shelf**            | S-3 (but **not automatic**)              | S-1 (long-form only)                   |
-| **Shelf Registration Effective?**   | **Immediately (automatic shelf)**       | Only after SEC review and declaration    | Not allowed (must file S-1)            |
-| **Shelf Validity Period**           | 3 years                                 | 3 years                                  | Not applicable                         |
-| **Pay-as-you-go Filing Fees**       | ✅ Yes                                   | ❌ No                                     | ❌ No                                   |
-| **Use of Free Writing Prospectus**  | ✅ Yes (before & after filing)           | ✅ Yes (after filing only)                | ❌ No                                   |
-| **Marketing Flexibility**           | Maximum                                 | Moderate                                 | Minimal                                |
-| **Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
-
-
-### Notes:
-
-- Criminal actions against the company are declared in a 8K. Civil/class action lawsuits maybe not.
-- During a merger 8K is filed atleast twice: When the definitive agreement is signed, and when the merger closes
-
-### Filing Categories:
-
-- Large Accelerated Filers
-- Accelerate Filer
-- Non-accelerated filer
-
-### Corporate Insiders:
-
-- File Form 3
-
-### Syndicate and Selling Group:
-
-- Agreement among Underwriters (AAU)
-- Selected Dealer Agreement
-- POP and Underwriting Proceeds
-  
-### Investor Types:
-
-- **Qualified Purchaser:** > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
-- **Qualified Institutional Buyer:**  > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs: > > USD 10 Mil Discretionary Assets 
-  
-- **Accredited Investors Individuals:**
-
-- Officers, Directors, and General Partners of the issuer automatically qualify
-
-| **Criteria**                              | **Requirement**                                                         |
-|-------------------------------------------|-------------------------------------------------------------------------|
-| **Net Worth**                             | Over $1 million (excluding primary residence)                           |
-| **Annual Income**                         | Over $200,000 (individual) or $300,000 (joint) for past 2 years, with expectation of same |
-| **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
-| **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
-
-- **Accredited Investors Entities:**
-
-| **Entity Type**                            | **Requirement**                                                       |
-|--------------------------------------------|------------------------------------------------------------------------|
-| **Bank, Insurance Company, or Trust**      | Automatically qualifies if regulated                                  |
-| **Corporation, Partnership, LLC, or Trust**| Total assets over $5 million; not formed solely to invest             |
-| **Entity Owned by Accredited Individuals** | All equity owners must be accredited individuals                      |
-| **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
-| **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
-
-- **Accredited Investors:**
-  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
-  - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
-  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
-  - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
-  - Employee Benefit Plan
-  - Charitable Organization
-  - Family Offices providing investment advice
-  - Trusts with a legitimate purpose that have atleast USD 5 Mil Assets
-  - Municipal and ERISA employee benefit plans
-  - Corporation or Partnership with > USD 5 Mil Assets
-  -  Director/Officer/General Partner of the Issuer
-  -  Business in which all the owners are accredited investors
-  -  Trust with > 5 Mil Assets and not formed with the sole intent of investing in the Private Placement under question
-  -  Investors with Series 7, Series 65, or Series 82 Qualification
-  -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
-
-----------
-
 ### Exempt Transactions:
 
 ### 1. Reg A and A+: Small Businesses (Private Companies) can do Public Offerings
@@ -203,5 +93,124 @@ In any case, inform SEC every six months how much you raised
 - **Equity Securities:** 
   - **Current SEC Filers:** Can be sold to US investors after a **holding period of six months**
   - **Non-Current SEC Filers:** Can be sold to US investors after a **holding period of twelve months**
+
+===
+
+### Forms to file with SEC:
+
+| **Form** | **Used For**                                            | **Filed By**                     | **Key Contents**                                  | **Trigger/Event**                              |
+|----------|---------------------------------------------------------|----------------------------------|--------------------------------------------------|------------------------------------------------|
+| **S-1**  | IPO (Initial Public Offering)                           | Private company going public     | Prospectus, financials, risk factors             | First-time public offering                     |
+| **S-3**  | Follow-on offering (seasoned issuers)                   | Public companies                 | Shelf registration, streamlined disclosure       | Secondary or follow-on offerings               |
+| **S-4**  | M&A deals with stock/debt issuance                      | Acquirer (and target if public)  | Proxy, prospectus, deal terms, pro formas        | Stock-financed mergers or exchange offers      |
+| **S-8**  | Employee stock/benefit plans                            | Public companies                 | Securities for compensation plans                | Stock/options granted to employees             |
+| **F-1/F-3/F-4** | Foreign issuer versions of S-1/S-3/S-4             | Foreign private issuers          | Same as above, but tailored to foreign filers    | IPOs, follow-ons, M&A for non-U.S. firms       |
+
+### Reg M-A by SEC:
+
+#### Reg M-A = Regulation Mergers & Acquisitions. It’s an SEC regulation that governs disclosures made in business combinations, such as:
+
+- Mergers
+- Tender offers
+- Exchange offers
+- Going-private transactions
+- Other extraordinary corporate events
+
+| **Form**           | **Used For**                                | **Who Files It**                 | **Reg M-A Applies?** | **Notes**                                      |
+|--------------------|---------------------------------------------|----------------------------------|----------------------|-----------------------------------------------|
+| **S-4**            | Registering securities in stock-based M&A   | Acquirer                         | ✅ Yes               | Includes proxy, prospectus, pro forma financials |
+| **Schedule TO**    | Making a tender or exchange offer           | Acquirer                         | ✅ Yes               | Discloses terms of offer                       |
+| **Schedule 14D-9** | Responding to a tender offer                | Target company                   | ✅ Yes               | Target’s formal position on the offer         |
+| **Schedule 13E-3** | Going-private transactions                  | Company or affiliates taking it private | ✅ Yes         | Protects minority shareholders                |
+| **DEFM14A**        | Merger proxy for shareholder vote           | Target or acquirer               | ✅ Yes               | Used when shareholder approval is needed      |
+
+
+### WKSI (Well Known Seasoned Issuer) vs Seasoned Issuer vs Unseasoned Issuer:
+
+| **Feature**                          | **WKSI**                                | **Seasoned Issuer**                      | **Unseasoned Issuer**                  |
+|-------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
+| **SEC Filing History**              | ≥ 12 months                             | ≥ 12 months                              | < 12 months OR not timely              |
+| **Public Float**                    | ≥ $700 million **OR** ≥ $1B in debt     | ≥ $75 million                            | < $75 million                          |
+| **Form Eligibility**                | S-3 with **automatic shelf**            | S-3 (but **not automatic**)              | S-1 (long-form only)                   |
+| **Shelf Registration Effective?**   | **Immediately (automatic shelf)**       | Only after SEC review and declaration    | Not allowed (must file S-1)            |
+| **Shelf Validity Period**           | 3 years                                 | 3 years                                  | Not applicable                         |
+| **Pay-as-you-go Filing Fees**       | ✅ Yes                                   | ❌ No                                     | ❌ No                                   |
+| **Use of Free Writing Prospectus**  | ✅ Yes (before & after filing)           | ✅ Yes (after filing only)                | ❌ No                                   |
+| **Marketing Flexibility**           | Maximum                                 | Moderate                                 | Minimal                                |
+| **Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
+
+
+### Notes:
+
+- Criminal actions against the company are declared in a 8K. Civil/class action lawsuits maybe not.
+- During a merger 8K is filed atleast twice: When the definitive agreement is signed, and when the merger closes
+
+### Filing Categories:
+
+- Large Accelerated Filers
+- Accelerate Filer
+- Non-accelerated filer
+
+### Corporate Insiders:
+
+- File Form 3
+
+### Syndicate and Selling Group:
+
+- Agreement among Underwriters (AAU)
+- Selected Dealer Agreement
+- POP and Underwriting Proceeds
+  
+### Investor Types:
+
+#### **Qualified Purchaser:** 
+  - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
+  
+#### **Qualified Institutional Buyer:**  
+  - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
+
+  
+#### **Accredited Investors Individuals:**
+
+  - Officers, Directors, and General Partners of the issuer automatically qualify
+  - Eligible for Reg D investments 
+
+| **Criteria**                              | **Requirement**                                                         |
+|-------------------------------------------|-------------------------------------------------------------------------|
+| **Net Worth**                             | Over $1 million (excluding primary residence)                           |
+| **Annual Income**                         | Over $200,000 (individual) or $300,000 (joint) for past 2 years, with expectation of same in current year |
+| **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
+| **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
+
+- **Accredited Investors Entities:**
+
+| **Entity Type**                            | **Requirement**                                                       |
+|--------------------------------------------|------------------------------------------------------------------------|
+| **Bank, Insurance Company, or Trust**      | Automatically qualifies if regulated                                  |
+| **Corporation, Partnership, LLC, or Trust**| Total assets over $5 million; not formed solely to invest             |
+| **Entity Owned by Accredited Individuals** | All equity owners must be accredited individuals                      |
+| **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
+| **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
+
+- **Accredited Investors:**
+  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
+  - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
+  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
+  - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
+  - Employee Benefit Plan
+  - Charitable Organization
+  - Family Offices providing investment advice
+  - Trusts with a legitimate purpose that have atleast USD 5 Mil Assets
+  - Municipal and ERISA employee benefit plans
+  - Corporation or Partnership with > USD 5 Mil Assets
+  -  Director/Officer/General Partner of the Issuer
+  -  Business in which all the owners are accredited investors
+  -  Trust with > 5 Mil Assets and not formed with the sole intent of investing in the Private Placement under question
+  -  Investors with Series 7, Series 65, or Series 82 Qualification
+  -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
+
+----------
+
+
 
   

@@ -539,6 +539,26 @@ description: "Notes"
 ---
 ---
 
+## **Securities:**
+
+### **Exempt Securities:**
+   - US Govt./Agencies/Munis
+   - NFPs
+   - Commercial Banks only (Not BHCs or Investment Banks)
+   - Commercial Paper with maturity < 270 days
+
+### **Exempt Transactions:**
+  
+#### **Intrastate Offerings: Rule 147**
+   - Principal place of business in the state + Any one below
+     - 80% of Revenue within the state
+     - 80% of Assets within the state
+     - 80% of Proceeds to be used within the state
+     - A majority of employees within the state
+
+
+
+
 ## Extra Notes:
 
 ### **Major Regulations for the SIE Exam**
