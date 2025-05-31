@@ -96,6 +96,56 @@ In any case, inform SEC every six months how much you raised
 
 ===
 
+### Investor Types:
+
+#### **Qualified Purchaser:** 
+  - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
+  
+#### **Qualified Institutional Buyer:**  
+  - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
+
+  
+#### **Accredited Investors Individuals:**
+
+  - Officers, Directors, and General Partners of the issuer automatically qualify
+  - Eligible for Reg D investments 
+
+| **Criteria**                              | **Requirement**                                                         |
+|-------------------------------------------|-------------------------------------------------------------------------|
+| **Net Worth**                             | Over $1 million (excluding primary residence)                           |
+| **Annual Income**                         | Over $200,000 (individual) or $300,000 (joint) for past 2 years, with expectation of same in current year |
+| **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
+| **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
+
+- **Accredited Investors Entities:**
+
+| **Entity Type**                            | **Requirement**                                                       |
+|--------------------------------------------|------------------------------------------------------------------------|
+| **Bank, Insurance Company, or Trust**      | Automatically qualifies if regulated                                  |
+| **Corporation, Partnership, LLC, or Trust**| Total assets over $5 million; not formed solely to invest             |
+| **Entity Owned by Accredited Individuals** | All equity owners must be accredited individuals                      |
+| **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
+| **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
+
+- **Accredited Investors:**
+  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
+  - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
+  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
+  - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
+  - Employee Benefit Plan
+  - Charitable Organization
+  - Family Offices providing investment advice
+  - Trusts with a legitimate purpose that have atleast USD 5 Mil Assets
+  - Municipal and ERISA employee benefit plans
+  - Corporation or Partnership with > USD 5 Mil Assets
+  -  Director/Officer/General Partner of the Issuer
+  -  Business in which all the owners are accredited investors
+  -  Trust with > 5 Mil Assets and not formed with the sole intent of investing in the Private Placement under question
+  -  Investors with Series 7, Series 65, or Series 82 Qualification
+  -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
+  
+===
+
 ### Forms to file with SEC:
 
 | **Form** | **Used For**                                            | **Filed By**                     | **Key Contents**                                  | **Trigger/Event**                              |
@@ -160,56 +210,11 @@ In any case, inform SEC every six months how much you raised
 - Agreement among Underwriters (AAU)
 - Selected Dealer Agreement
 - POP and Underwriting Proceeds
+
+===
   
-### Investor Types:
 
-#### **Qualified Purchaser:** 
-  - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
-  
-#### **Qualified Institutional Buyer:**  
-  - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
 
-  
-#### **Accredited Investors Individuals:**
-
-  - Officers, Directors, and General Partners of the issuer automatically qualify
-  - Eligible for Reg D investments 
-
-| **Criteria**                              | **Requirement**                                                         |
-|-------------------------------------------|-------------------------------------------------------------------------|
-| **Net Worth**                             | Over $1 million (excluding primary residence)                           |
-| **Annual Income**                         | Over $200,000 (individual) or $300,000 (joint) for past 2 years, with expectation of same in current year |
-| **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
-| **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
-
-- **Accredited Investors Entities:**
-
-| **Entity Type**                            | **Requirement**                                                       |
-|--------------------------------------------|------------------------------------------------------------------------|
-| **Bank, Insurance Company, or Trust**      | Automatically qualifies if regulated                                  |
-| **Corporation, Partnership, LLC, or Trust**| Total assets over $5 million; not formed solely to invest             |
-| **Entity Owned by Accredited Individuals** | All equity owners must be accredited individuals                      |
-| **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
-| **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
-
-- **Accredited Investors:**
-  - > USD 1 Mil Net Worth (Excluding Primary Residence), 
-  - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
-  - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
-  - Bank, Insurance Company, Registered Investment Company, Business Development Company, Small Business Investment Company
-  - Employee Benefit Plan
-  - Charitable Organization
-  - Family Offices providing investment advice
-  - Trusts with a legitimate purpose that have atleast USD 5 Mil Assets
-  - Municipal and ERISA employee benefit plans
-  - Corporation or Partnership with > USD 5 Mil Assets
-  -  Director/Officer/General Partner of the Issuer
-  -  Business in which all the owners are accredited investors
-  -  Trust with > 5 Mil Assets and not formed with the sole intent of investing in the Private Placement under question
-  -  Investors with Series 7, Series 65, or Series 82 Qualification
-  -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
-
-----------
 
 
 
