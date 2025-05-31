@@ -4,9 +4,9 @@ author: "AJ"
 description: "Notes"
 ---
 
-### Exempt Transactions:
+## **Exempt Transactions:**
 
-### 1. Reg A and A+: Small Businesses (Private Companies) can do Public Offerings
+### **1. Reg A and A+: Small Businesses (Private Companies) can do Public Offerings**
 
 Exempt from SEC registration - small security offerings if they comply with Reg A
 
@@ -16,9 +16,11 @@ Exempt from SEC registration - small security offerings if they comply with Reg 
 
 In any case, inform SEC every six months how much you raised
 
-### 2. 147 and 147A: Intra-State Offerings
+---
 
-**147: 1974 Rule**
+### **2. 147 and 147A: Intra-State Offerings**
+
+#### **147: 1974 Rule**
 
 - No restriction on the offering size and #investors
 - Resale after six months to outside state residents. First six months, resale only within the state
@@ -31,21 +33,23 @@ In any case, inform SEC every six months how much you raised
     - 80% of net proceeds will be used within the state
   3. Offer and sell securities only to the residents of the state
 
-**147A: Updated 2016 Rule**
+#### **147A: Updated 2016 Rule**
 
 1. Businesses can be incorporated anywhere. Now Principal place of business counts.
 2. Allows general solicitation, which original 147 doesn't allow.
 3. Rest everything same as 147
 
-### 3. 144 and 144A: 
+---
+
+### **3. 144 and 144A:**
   - **144: Public resale of restricted or control securities**
   - **144A: Private Sale to QIBs (with more than USD 100 M Discretionary Assets)**
 
-**144:**
+#### **144:**
    - **Restricted Stock (unregistered stock):** Can be sold to pubic after six months (public issuer), and one year (for private issuer)
    - **Control Stock:** In a 90 day period can sell max of (1% of outstanding shares, avg. weekly trading volume over past 4 weeks)
 
-**144A:**
+#### **144A:**
   - Resale of unregistered securities among QIBs
   - QIB (> USD 100 M Discretionary Assets); Broker Dealers: (> USD 10 M managing on a discretionary basis on behalf of others)
   - No holding period under 144A as for restricted stock under 144
@@ -53,7 +57,9 @@ In any case, inform SEC every six months how much you raised
   - Offering memorandum not required under 144A
   - Eligible for piggyback registration
 
-### 4. Reg D: Private Placement: Rule 504, 506, 506(c)
+---
+
+### **4. Reg D: Private Placement: Rule 504, 506, 506(c)**
 
 | **Reg D Safe Harbor**     | **504**          | **506(b)**        | **506(c)**        |
 |--------------------------|------------------|-------------------|-------------------|
@@ -65,11 +71,11 @@ In any case, inform SEC every six months how much you raised
 
 - All non-accredited investors must be sophisticated. Else, they must be represented by a **purchaser representative (often an attorney or a financial representative)**
 
-**Bad Actors:**
+#### **Bad Actors:**
   - Bad Actors are prohibited from doing a Reg D . Issuer or if anyone connected with the issuer is a bad actor, then no Reg D.
   - This rule doesn't apply to 504.
 
-**Bad Actors Classification:**
+#### **Bad Actors Classification:**
   - **Criminal Offenses:**  
     - Convicted of any felony in past 10 years.
     - Convicted of any securities related misdemeanor in past 10 years.
@@ -84,7 +90,9 @@ In any case, inform SEC every six months how much you raised
     - Caused expulsion of your firm from FINRA
     - Failed to supervise that led to a violation
 
-### 5. Reg S: US Issuers Securities offering outside US to non-US residents
+---
+
+### **5. Reg S: US Issuers Securities offering outside US to non-US residents**
 
 - Not subject to US Registration requirements
 - Person (whether US citizen or not) should reside outside the US
@@ -94,16 +102,16 @@ In any case, inform SEC every six months how much you raised
   - **Current SEC Filers:** Can be sold to US investors after a **holding period of six months**
   - **Non-Current SEC Filers:** Can be sold to US investors after a **holding period of twelve months**
 
-===
+---
+---
 
-### Investor Types:
+### **Investor Types:**
 
 #### **Qualified Purchaser:** 
   - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
   
 #### **Qualified Institutional Buyer:**  
   - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
-
   
 #### **Accredited Investors Individuals:**
 
@@ -117,7 +125,7 @@ In any case, inform SEC every six months how much you raised
 | **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
 | **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
 
-- **Accredited Investors Entities:**
+#### **Accredited Investors Entities:**
 
 | **Entity Type**                            | **Requirement**                                                       |
 |--------------------------------------------|------------------------------------------------------------------------|
@@ -127,7 +135,7 @@ In any case, inform SEC every six months how much you raised
 | **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
 | **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
 
-- **Accredited Investors:**
+#### **Accredited Investors:**
   - > USD 1 Mil Net Worth (Excluding Primary Residence), 
   - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
   - >200k annual income (single), >300k annual income (married) in past 2 years, and reasonable expectation of the same income in the current year
@@ -144,9 +152,10 @@ In any case, inform SEC every six months how much you raised
   -  Investors with Series 7, Series 65, or Series 82 Qualification
   -  Knowledgeable employees of HF, PE, VC => but for investments only in their own fund
   
-===
+---
+---
 
-### Forms to file with SEC:
+## **Forms to file with SEC:**
 
 | **Form** | **Used For**                                            | **Filed By**                     | **Key Contents**                                  | **Trigger/Event**                              |
 |----------|---------------------------------------------------------|----------------------------------|--------------------------------------------------|------------------------------------------------|
@@ -156,15 +165,18 @@ In any case, inform SEC every six months how much you raised
 | **S-8**  | Employee stock/benefit plans                            | Public companies                 | Securities for compensation plans                | Stock/options granted to employees             |
 | **F-1/F-3/F-4** | Foreign issuer versions of S-1/S-3/S-4             | Foreign private issuers          | Same as above, but tailored to foreign filers    | IPOs, follow-ons, M&A for non-U.S. firms       |
 
-### Reg M-A by SEC:
+---
+---
 
-#### Reg M-A = Regulation Mergers & Acquisitions. It’s an SEC regulation that governs disclosures made in business combinations, such as:
+## **Reg M-A by SEC:**
 
-- Mergers
-- Tender offers
-- Exchange offers
-- Going-private transactions
-- Other extraordinary corporate events
+### **Reg M-A = Regulation Mergers & Acquisitions**
+  - It’s an SEC regulation that governs disclosures made in business combinations, such as:
+    - Mergers
+    - Tender offers
+    - Exchange offers
+    - Going-private transactions
+    - Other extraordinary corporate events
 
 | **Form**           | **Used For**                                | **Who Files It**                 | **Reg M-A Applies?** | **Notes**                                      |
 |--------------------|---------------------------------------------|----------------------------------|----------------------|-----------------------------------------------|
@@ -174,8 +186,10 @@ In any case, inform SEC every six months how much you raised
 | **Schedule 13E-3** | Going-private transactions                  | Company or affiliates taking it private | ✅ Yes         | Protects minority shareholders                |
 | **DEFM14A**        | Merger proxy for shareholder vote           | Target or acquirer               | ✅ Yes               | Used when shareholder approval is needed      |
 
+---
+---
 
-### WKSI (Well Known Seasoned Issuer) vs Seasoned Issuer vs Unseasoned Issuer:
+## **WKSI (Well Known Seasoned Issuer) vs Seasoned Issuer vs Unseasoned Issuer:**
 
 | **Feature**                          | **WKSI**                                | **Seasoned Issuer**                      | **Unseasoned Issuer**                  |
 |-------------------------------------|-----------------------------------------|------------------------------------------|----------------------------------------|
@@ -189,29 +203,29 @@ In any case, inform SEC every six months how much you raised
 | **Marketing Flexibility**           | Maximum                                 | Moderate                                 | Minimal                                |
 | **Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
 
-
-### Notes:
+### **Notes:**
 
 - Criminal actions against the company are declared in a 8K. Civil/class action lawsuits maybe not.
 - During a merger 8K is filed atleast twice: When the definitive agreement is signed, and when the merger closes
 
-### Filing Categories:
+### **Filing Categories:**
 
 - Large Accelerated Filers
 - Accelerate Filer
 - Non-accelerated filer
 
-### Corporate Insiders:
+### **Corporate Insiders:**
 
 - File Form 3
 
-### Syndicate and Selling Group:
+### **Syndicate and Selling Group:**
 
 - Agreement among Underwriters (AAU)
 - Selected Dealer Agreement
 - POP and Underwriting Proceeds
 
-===
+---
+---
   
 
 
