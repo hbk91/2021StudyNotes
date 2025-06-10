@@ -556,6 +556,28 @@ description: "Notes"
      - 80% of Proceeds to be used within the state
      - A majority of employees within the state
 
+---
+---
+
+## **Equity Securities:**
+
+- Statutory Voting vs Cumulative Voting
+- **Ex-Dividend Date:** **On or After Date** - if shared purchased, buyer receives no dividend
+- **Record Date:** Last date on which the name of the person should be on the list of shareholders to receive the dividend. If trades settle T+1 (Regular settlement), Ex-dividend date = Record Date
+- **Penny Stock:** An unlisted stock trading for less than USD 5 per share
+- **Preferred Stock Types:**
+  - **Straight Preferred Stock:** Vanilla kind
+  - **Cumulative Preferred Stock:** Dividends accumulate if not paid
+  - **Participating Preferred Stock:** Eligible to receive extra dividends
+  - **Convertible Preferred Stock:** Can be converted to common stock
+  - **Callable Preferred:** Can be called by the issuer
+  - **Adjustable-rate Preferred:** Dividend rate is based on a benchmark
+  
+---
+---
+
+## **Debt Securities:**
+
 
 
 

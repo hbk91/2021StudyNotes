@@ -35,26 +35,31 @@ In any case, inform SEC every six months how much you raised
 
 #### **147A: Updated 2016 Rule**
 
-1. Businesses can be incorporated anywhere. Now only Principal place of business counts.
-2. Allows general solicitation, which original 147 doesn't allow.
+1. Businesses can be incorporated anywhere. Now only Principal place of business counts
+2. Allows general solicitation, which original 147 doesn't allow
 3. Rest everything same as 147
 
 ---
 
 ### **3. 144 and 144A:**
   - **144: Public resale of restricted or control securities**
-  - **144A: Private Sale to QIBs (with more than USD 100 M Discretionary Assets)**
+  - **144A: Private Sale to QIBs (with more than USD 100M Discretionary Assets)**
 
 #### **144:**
-   - **Restricted Stock (unregistered stock):** Can be sold to pubic after six months (public issuer), and one year (for private issuer)
-   - **Control Stock:** In a 90 day period can sell max of (1% of outstanding shares, avg. weekly trading volume over past 4 weeks)
+   - **Restricted Stock (unregistered stock):** Can be sold to pubic after **six months (public issuer), and one year (for private issuer)**
+   - **Control Stock:** In a **90 day period** can sell **max of (1% of outstanding shares, avg. weekly trading volume over past 4 weeks)**
+     - Control Stock is stock held by an **Affiliate of the company = Corporate Insider:**
+       - Officer
+       - Director
+       - Investor with >10% voting share
+     - **An Insider must file Form 144 prior to selling control stock.** If the value of stock (90 day period) is **less than USD 50,000 then don't need to file Form 144**
 
 #### **144A:**
   - Resale of unregistered securities among QIBs
   - QIB (> USD 100 M Discretionary Assets); Broker Dealers: (> USD 10 M managing on a discretionary basis on behalf of others)
-  - No holding period under 144A as for restricted stock under 144
+  - **No holding period under 144A as for restricted stock under 144**
   - Mostly used for issue of High-yield debt and pre-IPO shares
-  - Offering memorandum not required under 144A
+  - **Offering memorandum not required under 144A**
   - Eligible for piggyback registration
 
 ---
@@ -72,8 +77,8 @@ In any case, inform SEC every six months how much you raised
 - All non-accredited investors must be sophisticated. Else, they must be represented by a **purchaser representative (often an attorney or a financial representative)**
 
 #### **Bad Actors:**
-  - Bad Actors are prohibited from doing a Reg D . Issuer or if anyone connected with the issuer is a bad actor, then no Reg D.
-  - This rule doesn't apply to 504.
+  - Bad Actors are prohibited from doing a Reg D. Issuer or if anyone connected with the issuer is a bad actor, then no Reg D.
+  - This rule doesn't apply to 504, and only to 506.
 
 #### **Bad Actors Classification:**
   - **Criminal Offenses:**  
@@ -85,7 +90,7 @@ In any case, inform SEC every six months how much you raised
     - Court gave a securities related injunction in past **five years.**
   - **False Statements or Omissions:**
     - Lied on U4/U5
-    - Didn't disclose your SD history
+    - Didn't disclose your SD (Statutory Disqualification) history
   - **Industry Specific Triggers**
     - Caused expulsion of your firm from FINRA
     - Failed to supervise that led to a violation
@@ -99,23 +104,47 @@ In any case, inform SEC every six months how much you raised
 - People inside the US (whether US citizen or not) are not eligible
 - **Debt Securities:** Can be sold to US investors after a **holding period of 40 days**
 - **Equity Securities:** 
-  - **Current SEC Filers:** Can be sold to US investors after a **holding period of six months**
-  - **Non-Current SEC Filers:** Can be sold to US investors after a **holding period of twelve months**
+  - **Current SEC Filers:** Can be sold to US investors after a **holding period of 6 months**
+  - **Non-Current SEC Filers:** Can be sold to US investors after a **holding period of 12 months**
 
 ---
 ---
 
-### **Investor Types:**
+### **Rule 145: Reclassification**
 
-#### **Qualified Purchaser:** 
+- Protect shareholders when company changes its ownership structure. 
+- Investors are essentially being offered new securities, and are thus entitled to same level of protection as if it were a new securities offering:
+  - Securities should be SEC registered
+  - Investors should get a prospectus
+- Applicable in the following scenarios:  
+  - Reclassification: Substituting one class of security with another
+  - M&A: Stock compensation
+  - Transfer of Assets: Stock compensation for sale of Assets
+- **NB:** Stock splits and change in par value are not reclassification under Rule 145
+  
+---
+---
+
+## **Tender Offer:**
+
+- An offer to **purchase at least 5% directly** from shareholders
+- **Exchange Offer: A tender offer where compensation is stock instead of cash**
+- **All holders best price concept**
+
+---
+---
+
+## **Investor Types:**
+
+### **Qualified Purchaser:** 
   - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
   
-#### **Qualified Institutional Buyer:**  
+### **Qualified Institutional Buyer:**  
   - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
   
-#### **Accredited Investors Individuals:**
+### **Accredited Investors Individuals:**
 
-  - Officers, Directors, and General Partners of the issuer automatically qualify
+  - Officers, Partners, and Directors (OPD) of the issuer automatically qualify
   - Eligible for Reg D investments 
 
 | **Criteria**                              | **Requirement**                                                         |
@@ -125,7 +154,7 @@ In any case, inform SEC every six months how much you raised
 | **Professional Certification**            | Holder of Series 7, Series 65, or Series 82 license                     |
 | **Knowledgeable Employee of Private Fund**| Must be investing in that specific fund                                |
 
-#### **Accredited Investors Entities:**
+### **Accredited Investors Entities:**
 
 | **Entity Type**                            | **Requirement**                                                       |
 |--------------------------------------------|------------------------------------------------------------------------|
@@ -135,7 +164,7 @@ In any case, inform SEC every six months how much you raised
 | **Family Office**                          | Must have $5 million+ in assets and investment sophistication          |
 | **Registered Investment Advisers, QIBs**   | Generally qualify based on registration or $100M+ in AUM               |
 
-#### **Accredited Investors:**
+### **Accredited Investors:**
 
   - Should have > USD 1 Mil Net Worth (Excluding Primary Residence), 
   - Institutions with a legitimate purpose that have atleast USD 5 Mil Assets
