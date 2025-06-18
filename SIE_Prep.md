@@ -578,7 +578,22 @@ description: "Notes"
 
 ## **Debt Securities:**
 
+- **EMMA (Electronic Municipal Market Access):** Public online resource operated by MSRB - can be used by investors for research
 
+### **Accrued Interest:** 
+   - Seller's share: Previous Coupon Date to Settlement Date (with the settlement day excluded) 
+   - **Bonds that are in default or are Zero Coupon: trade flat => no accrued interest**
+
+### **Accrued Interest Day Count Convention:**
+  - **Corporate + Munis + Agency + T-Bills:** 30/360
+  - **T-Notes and T-Bonds:** Actual/365
+
+### **Quoting T-Notes and Bonds:**
+   - 1/32th of a point, and quoted as percentage of par
+
+### **Quoting T-Bills:**
+   - Discounted Yield Basis, with the discount expressed as an annual rate based on a 360-day year
+   - Bid Quotes are greater than Ask Quotes over here
 
 
 ## Extra Notes:

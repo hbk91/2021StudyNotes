@@ -4,6 +4,61 @@ author: "AJ"
 description: "Notes"
 ---
 
+## **I. Broker Dealer (BD) and Agent Registration:**
+
+### **1. BDs registration with SEC:**
+
+- Register with SEC almost always, except:
+  - All business within a state, and don't trade via any national exchange
+
+### **BD Branch Registration**
+
+- Notice file along with fees
+
+### **Successor BD and its agents:**
+
+- Application must be filed
+- No Application fee is needed
+
+---
+---
+
+## **V. Communication:**
+
+### Four options may apply:
+
+- Approval before first use
+- Filed before first use
+- Filed concurrently with first use
+- Filed after first use
+
+### **SEC's IA Marketing Rule:**
+
+#### **1+person communication - Advertisement or not?**
+  - Direct/Indirect communication to **1+ person** that offers new/additional securities services.
+  - **Includes** 3rd party media comments endorsed/promoted
+  - **Excludes** live communication (even if broadcast)
+  - **Excludes** required communication/regulatory filing or notices (even if broadcast)
+
+#### **1 person communication - - Advertisement or not?**
+   - Not an advertisement generally
+   - Advertisement if includes hypothetical projections of performance
+     - However, not an Ad if oral communication even if hypothetical projections of performance is discussed
+
+### **RIA's Form ADV:**
+
+   #### **Part 1:**
+     - General Info about RIA's business 
+     - Check-box style
+   #### **Part 2:** 
+     - Plain-english disclosures
+     - Used to create an IA's brochure
+     - **Must be given to prospective and existing clients**
+   ##### **Part 2A:**
+
+---
+---
+
 ### **Security or Not?**
 
 **Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures)**
@@ -19,7 +74,7 @@ To qualify as a security, an instrument usually must meet the Howey Test:
 
 If any of these elements is missing, the product is not a security.
 
-### U**SA (Uniform Securities Act) definition of a security:**
+### **USA (Uniform Securities Act) definition of a security:**
 
 - Evidence of Ownership
 - Traded for Value
@@ -45,6 +100,7 @@ If any of these elements is missing, the product is not a security.
 1. Are Futures on Narrow-based Stock Indexes (less than 10 stocks and have concentrated risk) Securities? => Yes (Verify), as jointly regulated by SEC and CFTC
 2. Are Options on Narrow-based Stock Indexes Securities? => Yes (Verify), as regulated by SEC
 
+---
 ---
 
 ### **Registration of Securities:**
@@ -91,6 +147,7 @@ If any of these elements is missing, the product is not a security.
 9. **Crowdfunding Sales:** Max $5M over a 12 month period. Guidelines vary state by state. 
 
 ---
+---
 
 ### **Registration Types at State level:**
 
@@ -98,7 +155,8 @@ If any of these elements is missing, the product is not a security.
 2. **Registration by Coordination:** Registration at the state(s) level and SEC becomes effective at the same date
 3. **Registration by Qualification:** Registration at the state(s) level: All Prospectus type info, and Consent to Service of Process, and andy fees
 
-----
+---
+---
 
 ### **Accredited Investor vs Qualified Purchaser:**
 
@@ -113,6 +171,7 @@ If any of these elements is missing, the product is not a security.
 | **Threshold (Individual)**  | Lower ($1M net worth or $200K income)                                | Higher ($5M in investments)                                            |
 | **Exclusivity**             | ❌ Less exclusive                                                    | ✅ More exclusive                                                      |
 
+---
 ---
 
 ### **Credit Unions, Savings Institutions, Trust Companies, and Banks (Series 63 Focus)**
@@ -130,6 +189,7 @@ If any of these elements is missing, the product is not a security.
 | **Broker-Dealer Registration** | **Not required** if offering only basic services    | **May be required** if selling securities to the public  | **Not required** if acting solely as fiduciary                 | **Not required** unless engaging directly in securities sales  |
 | **Series 63 Relevance**        | Not subject to Series 63 registration               | Could be subject if offering securities directly         | Exempt under fiduciary rule; no Series 63                      | Exempt if only banking; BD registration triggers Series 63     |
 
+---
 ---
 
 ### **Exempt Securities under the Uniform Securities Act (USA)**
@@ -174,6 +234,7 @@ If any of these elements is missing, the product is not a security.
      - Profit-sharing plans
 
 ---
+---
 
 ### **REG BI (Best Interest) Obligations:**
 
@@ -183,6 +244,9 @@ Reg BI stands for Regulation Best Interest, a rule adopted by the Securities and
 - Care Obligation
 - Conflict of Interest Obligation
 - Compliance Obligation
+
+---
+---
 
 
 
