@@ -47,14 +47,23 @@ description: "Notes"
 
 ### **RIA's Form ADV:**
 
-   #### **Part 1:**
-     - General Info about RIA's business 
-     - Check-box style
-   #### **Part 2:** 
-     - Plain-english disclosures
-     - Used to create an IA's brochure
-     - **Must be given to prospective and existing clients**
-   ##### **Part 2A:**
+#### **Part 1: General Info**
+   - Check-box style/Fill in the blank
+   
+#### **Part 2: Brochure** 
+   - Plain-english
+   - **Must be given to prospective and existing clients**
+  
+##### **Part 2A: Main Brochure**
+   - Nature of the business/Fees/Investment Strategy/Risks/Disciplinary Actions/Code of Ethics/Marketing ACtivities/Brokerage Practices
+   
+##### **Part 2B: Brochure Supplement**
+   - Info on IA representatives who would be dealing with the client or who make decisions for the client portfolio 
+
+#### **Part 3: Relationship Summary (Only for Retail)**
+   - 
+
+
 
 ---
 ---
