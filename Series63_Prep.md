@@ -23,9 +23,9 @@ description: "Notes"
 ---
 ---
 
-## **V. Communication:**
+## **II. Communication:**
 
-### Four options may apply:
+### **Four options:**
 
 - Approval before first use
 - Filed before first use
@@ -54,15 +54,110 @@ description: "Notes"
    - Plain-english
    - **Must be given to prospective and existing clients**
   
-##### **Part 2A: Main Brochure**
+##### **Part 2A: Main Brochure - All about the services offered**
    - Nature of the business/Fees/Investment Strategy/Risks/Disciplinary Actions/Code of Ethics/Marketing ACtivities/Brokerage Practices
    
-##### **Part 2B: Brochure Supplement**
+##### **Part 2B: Brochure Supplement - Info on IA Representatives**
    - Info on IA representatives who would be dealing with the client or who make decisions for the client portfolio 
 
 #### **Part 3: Relationship Summary (Only for Retail)**
-   - 
+   - Summary of the Brochure
+   - **Also known as CRS(Customer Relationship Summary)**
+   - Also given by BDs to their retail clients at account opening
+   - Any material change should be filed with the SEC within 30 days, and communicated to the clients within 60 days
 
+### **Margin Account Disclosure Form**
+   - Hypothecation Agreement + Credit Agreement + Loan Consent Form (Optional)
+   - Customers must return a signed margin agreement promptly after the initial transaction in the account
+
+### **Option Disclosure Document (ODD):**
+   - Sign the ODD within 15 days of account approval
+
+---
+---
+
+## **III. Ethics**
+
+### **USA Unfair Behavior Types**
+
+- **Fraud:** **Intentional Unlawful** behavior
+- **Unlawful:** **Unintentional Unlawful** behavior
+- **Unethical: Wrong behavior - may or mayn't be unlawful**
+
+### **Penalties**
+
+- **USA, 1956 (Uniform Securities Act):** Up to USD 5000 fine/3 year imprisonment
+- **Securities Act, 1933:** Up to USD 10,000 fine/10 year imprisonment
+- **Securities Exchange Act, 1934:** Insider Trading - USD 5M fine/20 year imprisonment/USD 25M for corporations
+
+### **Statute of Limitations:**
+
+- **Criminal Actions:** 5 years
+- **Civil Actions:** 3 years
+
+---
+
+### **Prohibited Practices for BDs (USA and NASAA):**
+
+#### **Price Manipulation:**
+
+- **Painting the Tape/Ramping:** Deceptive activity/rumors to drive-up a stock
+- **Marking the Close**
+- **Short Squeeze**
+  
+#### **Fake Market Activity:**
+
+- **Spoofing/Wash Trades:** Fake orders to show increased trading activity
+- **Matched Trades:** Two parties coordinate buy and sell orders for the same security, at the same price and time, without any real intention to change ownership. 
+
+---
+
+### **Prohibited Practices for Agents (USA and NASAA):**
+
+####  **Borrowing or Lending from customers (other than financial insti's):**
+
+- USA/NASAA prohibits borrowing/lending form customers even if they are family members
+
+#### **Selling Away**
+
+- Need prior permission from the firm for **private securities transactions**
+
+#### **Joint Accounts with customers**
+
+- Only permitted for agents (not allowed for IARs), and that too with prior permission from both customer and the BD
+
+---
+
+### **REG BI (Best Interest) Obligations:**
+
+- Reg BI stands for Regulation Best Interest, a rule adopted by SEC to improve care that **broker-dealers owe to retail customers**. BDs must satisfy four core obligations:
+
+  - Disclosure Obligation
+  - Care Obligation
+  - Conflict of Interest Obligation
+  - Compliance Obligation
+
+- Reg BI prohibits sales contests for individual securities. However, sales contests based on total sales, without distinguishing b/w securities is allowed
+
+---
+
+### **Prohibited Practices for RIAs and IARs:**
+
+- **Subject to Fiduciary standard = Loyalty + Care**
+
+#### **Borrowing money/securities from the client:**
+
+- Not allowed, except:
+  - If the client is a BD
+  - An affiliate of the Investment Advisor
+  - A financial institution engaged in the business of loaning funds
+  
+#### **Lending money/securities from the client:**
+
+- Not allowed, except:
+  - ~~If the client is a BD~~
+  - An affiliate of the Investment Advisor
+  - A financial institution engaged in the business of loaning funds
 
 
 ---
@@ -245,17 +340,8 @@ If any of these elements is missing, the product is not a security.
 ---
 ---
 
-### **REG BI (Best Interest) Obligations:**
 
-Reg BI stands for Regulation Best Interest, a rule adopted by the Securities and Exchange Commission (SEC) to improve transparency and raise the standard of care that broker-dealers owe to **retail customers** when making investment recommendations Under Regulation Best Interest (Reg BI), broker-dealers must satisfy four core obligations when making recommendations to **retail customers:**
 
-- Disclosure Obligation
-- Care Obligation
-- Conflict of Interest Obligation
-- Compliance Obligation
-
----
----
 
 
 
