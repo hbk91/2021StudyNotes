@@ -181,6 +181,16 @@ description: "Notes"
 ---
 ---
 
+**IV. Uniform Securities Act (USA) Admin Provisions:**
+
+
+
+
+
+
+---
+---
+
 ### **Security or Not?**
 
 **Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures)**
