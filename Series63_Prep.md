@@ -124,7 +124,7 @@ description: "Notes"
 
 #### **Joint Accounts with customers**
 
-- Only permitted for agents (not allowed for IARs), and that too with prior permission from both customer and the BD
+- Only permitted for agents (not allowed for IARs/RIAs/BDs), and that too with prior permission from both customer and the BD
 
 ---
 
@@ -159,6 +159,24 @@ description: "Notes"
   - An affiliate of the Investment Advisor
   - A financial institution engaged in the business of loaning funds
 
+#### **Principal Transactions:**
+
+- Give written notice prior and obtain written approval for each trade
+
+#### **Agency Cross Transactions:**
+
+- Give written notice prior and obtains approval for the practice of cross trades
+- Give written confirmation at/before completion of transaction that a cross trade has happened
+- Can't solicit both sides of a cross trade. One side has to enter on an unsolicited basis
+
+#### **Sharing/Rebating Commissions:**
+
+- Not allowed with clients
+
+### **Trusts:**
+
+- UPIA (Uniform Prudent Investor Act) applies to the management of trusts
+- **Limited Partner Trust:** Trust acts as the limited partner, while the trustee manages it. This structure provides liability protection + tax advantages
 
 ---
 ---

@@ -136,8 +136,14 @@ In any case, inform SEC every six months how much you raised
 
 ## **Investor Types:**
 
-### **Qualified Purchaser:** 
-  - > USD 5 Mil individual, and Asset Managers > USD 25 Mil AUM 
+### **Qualified Client:**
+
+- > USD 1.1 Mil AUM (with a particular RIA) or > 2.2 Mil Net worth
+ 
+### **Qualified Purchaser: (Defined Under Investments Company Act, 1940)** 
+  - > USD 5 Mil individual/families/trusts, and Asset Managers > USD 25 Mil AUM
+  - Trust sponsored + managed by qualified purchasers (UPIA - Uniform Prudent Investor Act applies to the governance of trusts)
+  - Entity where all owners are qualified purchasers 
   
 ### **Qualified Institutional Buyer:**  
   - > USD 100 Mil Discretionary Assets. For Broker Dealers to be QIBs:  > USD 10 Mil Discretionary Assets 
