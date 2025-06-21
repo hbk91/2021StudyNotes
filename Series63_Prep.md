@@ -185,13 +185,22 @@ description: "Notes"
 
 - Regulators file Form U6 to report disciplinary actions against individuals / firms
 - Under Federal law, crimes involving securities fraud are felonies punishable upto 20 yrs in prison + USD 5 mil in fines
+- Under USA, crimes involving securities fraud are punishable upto 3 yrs in prison + USD 5,000 in fines
+- **An administrator can seek evidence across state lines and issue subpoena, but can't issue a search warrant or an injunction**
+- An administrator can't require filing fo advertising/sales literature for federal securities
+- An administrator can require reports at a frequency of only quarterly or more, but not monthly
 
-#### Rescission Offer:
+#### **Rescission Offer:**
 
 - 30 day time period
 - If customer accepts within 30 days, customer is made whole, and can't sue
 - If customer rejects in writing within 30 days, customer can go on to sue
 - If customer does nothing over 30 days, customer gives up the right to sue
+
+#### **Record Keeping:**
+
+- **BDs:** **3 years**, with first 2 years at a readily accessible location
+- **IAs:** **5 years**, with first 2 years at a readily accessible location
 
 ---
 ---
