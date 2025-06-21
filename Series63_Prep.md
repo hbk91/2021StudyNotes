@@ -181,7 +181,7 @@ description: "Notes"
 ---
 ---
 
-**IV. Uniform Securities Act (USA) Admin Provisions:**
+## **IV. Uniform Securities Act (USA) Admin Provisions:**
 
 - Regulators file Form U6 to report disciplinary actions against individuals / firms
 - Under Federal law, crimes involving securities fraud are felonies punishable upto 20 yrs in prison + USD 5 mil in fines
@@ -201,6 +201,23 @@ description: "Notes"
 
 - **BDs:** **3 years**, with first 2 years at a readily accessible location
 - **IAs:** **5 years**, with first 2 years at a readily accessible location
+
+---
+---
+
+## **V. Securities and Issuers Regulation:**
+
+### **Securities:**
+
+- **Investment of Money -> In a common enterprise -> to expect profits -> that are derived from the efforts of others**
+
+### **What are not securities?**
+
+- Fixed Insurance/Annuities
+- Endowment Contracts
+- CCC: Commodities + Currencies + Collectibles
+- Personal residence
+- Interest in a retirement plan (401(k), IRA, Keogh)
 
 ---
 ---
