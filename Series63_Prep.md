@@ -183,7 +183,7 @@ description: "Notes"
 
 **IV. Uniform Securities Act (USA) Admin Provisions:**
 
-
+- Regulators file Form U6 to report disciplinary actions against individuals / firms
 
 
 
