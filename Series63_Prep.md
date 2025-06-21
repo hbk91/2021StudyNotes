@@ -228,12 +228,16 @@ description: "Notes"
 - **Retirement Accounts/trusts: Interest in a retirement plan (401(k), IRA, Keogh, etc)**
 - **Future contracts**
 
-### **Federally Covered Securities:**
+### **Federally Covered Securities under the USA:**
 
 - Nationally Listed securities
 - Investment Company securities
 - US Gov't securities + Out of state munis
 - Reg D private placements
+- Securities sold to qualified purchasers:
+  - Qualified Purchaser:
+    - An Individual/family with at least USD 5 Mil in investments
+    - An entity that manages USD 25 Mil for other qualified purchasers or an entity that is completely owned by qualified purchasers
 
 ---
 ---
