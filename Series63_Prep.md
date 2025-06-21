@@ -209,7 +209,15 @@ description: "Notes"
 
 ### **Securities:**
 
-- **Investment of Money -> In a common enterprise -> to expect profits -> that are derived from the efforts of others**
+- Howev Test of a Security: **Investment of Money -> In a common enterprise -> to expect profits -> that are derived from the efforts of others**
+- USA Definition of a Security: **An evidence of ownership + that can be traded for value + and managed by the efforts of 3rd party**
+- Whiskey Warehouse Receipts
+- Preorganization Certificates
+- **Stock futures**
+- Ownership interest in a herd cattle
+- Equipment Trust Certificate
+- Fractional interest in an oil/gas/mineral lease
+- Options/Warrants/Rights
 
 ### **What are not securities?**
 
@@ -217,7 +225,15 @@ description: "Notes"
 - **Endowment Contracts (Obsolete fixed insurance type program)**
 - CCC: Commodities + Currencies + Collectibles
 - Personal residence
-- **Interest in a retirement plan (401(k), IRA, Keogh)**
+- **Retirement Accounts/trusts: Interest in a retirement plan (401(k), IRA, Keogh, etc)**
+- **Future contracts**
+
+### **Federally Covered Securities:**
+
+- Nationally Listed securities
+- Investment Company securities
+- US Gov't securities + Out of state munis
+- Reg D private placements
 
 ---
 ---
@@ -225,23 +241,6 @@ description: "Notes"
 ### **Security or Not?**
 
 **Federal Oversight: The CFTC regulates futures on broad-based indices and commodities, while the SEC oversees security futures (e.g., single-stock futures)**
-
-#### **Howey Test for a Security:**
-
-To qualify as a security, an instrument usually must meet the Howey Test:
-
-- An investment of money
-- In a common enterprise
-- With an expectation of profits
-- Derived from the efforts of others
-
-If any of these elements is missing, the product is not a security.
-
-### **USA (Uniform Securities Act) definition of a security:**
-
-- Evidence of Ownership
-- Traded for Value
-- Managed through the efforts of a third party
 
 #### **Commodities:**
 
