@@ -186,6 +186,13 @@ description: "Notes"
 - Regulators file Form U6 to report disciplinary actions against individuals / firms
 - Under Federal law, crimes involving securities fraud are felonies punishable upto 20 yrs in prison + USD 5 mil in fines
 
+#### Rescission Offer:
+
+- 30 day time period
+- If customer accepts within 30 days, customer is made whole, and can't sue
+- If customer rejects in writing within 30 days, customer can go on to sue
+- If customer does nothing over 30 days, customer gives up the right to sue
+
 ---
 ---
 
