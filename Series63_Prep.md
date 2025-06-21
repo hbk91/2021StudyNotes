@@ -214,10 +214,10 @@ description: "Notes"
 ### **What are not securities?**
 
 - Fixed Insurance/Annuities
-- Endowment Contracts
+- **Endowment Contracts (Obsolete fixed insurance type program)**
 - CCC: Commodities + Currencies + Collectibles
 - Personal residence
-- Interest in a retirement plan (401(k), IRA, Keogh)
+- **Interest in a retirement plan (401(k), IRA, Keogh)**
 
 ---
 ---
