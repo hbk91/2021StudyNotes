@@ -235,9 +235,17 @@ description: "Notes"
 - US Gov't securities + Out of state munis
 - Reg D private placements
 - Securities sold to qualified purchasers:
-  - Qualified Purchaser:
+  - **Qualified Purchaser:**
     - An Individual/family with at least USD 5 Mil in investments
     - An entity that manages USD 25 Mil for other qualified purchasers or an entity that is completely owned by qualified purchasers
+
+---
+---
+
+**VI. Investment Advisors**
+
+
+
 
 ---
 ---
@@ -249,7 +257,6 @@ description: "Notes"
 #### **Commodities:**
 
 1. Are Commodity Futures securities? => No, as regulated by CFTC
-2. Are Options on Commodity Futures securities? => No (Verify), as regulated by CFTC
 
 #### **Single-Stocks:**
 
