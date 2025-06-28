@@ -595,8 +595,24 @@ description: "Notes"
    - Discounted Yield Basis, with the discount expressed as an annual rate based on a 360-day year
    - Bid Quotes are greater than Ask Quotes over here
 
+---
+---
 
 ## Extra Notes:
+
+### Time-in-Force (TIF) Order Types
+
+| **Order Type**           | **Abbreviation** | **Duration / Condition**                                                             |
+|--------------------------|------------------|----------------------------------------------------------------------------------------|
+| **Day Order**            | —                | Valid for the trading day only; **default** if no TIF specified                        |
+| **Good-Til-Canceled**    | GTC              | Stays active until executed or manually canceled (often expires after 90 days)         |
+| **Good-Til-Date**        | GTD              | Remains active until a **specific date** set by the investor                           |
+| **Immediate-or-Cancel**  | IOC              | Must be executed **immediately**, fully or partially; remainder is **canceled**        |
+| **Fill-or-Kill**         | FOK              | Must be **completely filled immediately**, or the entire order is **canceled**         |
+| **At-the-Open**          | —                | Executes only **at market open**; canceled if not filled at the open                   |
+| **At-the-Close**         | —                | Executes only **at market close**; canceled if not filled at the close                 |
+
+---
 
 ### **Major Regulations for the SIE Exam**
 
