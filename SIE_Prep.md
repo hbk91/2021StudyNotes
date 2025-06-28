@@ -572,6 +572,7 @@ description: "Notes"
   - **Convertible Preferred Stock:** Can be converted to common stock
   - **Callable Preferred:** Can be called by the issuer
   - **Adjustable-rate Preferred:** Dividend rate is based on a benchmark
+- All **order memorandums (order ticket)** must be **approved by a supervisor promptly after order execution**
 
 ---
 
