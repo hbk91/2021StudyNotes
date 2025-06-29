@@ -180,7 +180,7 @@ description: "Notes"
 
 #### **Traditional IRAs**
   - **Characteristics:**
-     - No Minimum Age. Only earned income can be contributed.
+     - No Minimum Age. Only earned income can be contributed
      - Max (USD 7,000, 100% annual earned income) a year contribution. 50=+ people can contribute USD 1000 extra (called catch-up contribution) 
      - If contributions limit breached -> 6% penalty on excess amount
      - Can create a Spousal IRA with same benefits
@@ -191,7 +191,7 @@ description: "Notes"
      - **Withdraw  before 59.5 => 10% Penalty.** Exceptions:
        - **Medical Reasons:** Death/Disability/Terminally Ill/Medical Expenses
        - **Education and kids:** Education Expense of self/spouse/children/grand=children; Birth/Adopting a kid (limited to USD 5000 / per parent)
-       - **House and Disaster Area:** First-time homebuyers (upto 10k); living in federal declared disaster areas (upto $22k)
+       - **House and Disaster Area:** First-time homebuyers (upto 10k); living in federal declared disaster areas (upto 22k)
      - **No withdrawal after 73.5 => 25% excise tax on under-distributed amount.** Excise tax reduced to 10% if the under-distributed amount is fixed in next 2 years
 
 #### **Roth IRAs**
