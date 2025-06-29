@@ -6,6 +6,8 @@ description: "Notes"
 
 ## **Macroeconomics:**
 
+### **Recession Indicators:**
+
 | **Leading Indicators**         | **Coincident Indicators**     | **Lagging Indicators**       |
 |--------------------------------|-------------------------------|------------------------------|
 | Bond Yields                    | GDP                           |  Interest Rates/Prime Rates  |
