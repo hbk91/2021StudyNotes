@@ -31,7 +31,7 @@ description: "Notes"
 
 #### Margin Agreement:
 
-- **When:** Customers **must sign and return to their brokers before they begin trading.**
+- **When:** Customers **must sign and return to their brokers before they begin trading**
 - **What:** Hypothecation Agreement, Credit Agreement, Loan Consent Form (Optional)
 
 #### Margin Disclosure Agreement:
@@ -150,7 +150,7 @@ description: "Notes"
      - **Defined Benefit:** simply called by a generic name - Pension Plan
      - **Defined Contribution Names:**
        - Employers can do matching contribution and/or profit sharing
-       - **401(k):** Private Companies. Pre-tax contribution -> Tax-Deferred Growth -> Entirely taxable at withdrawal. RMD requre
+       - **401(k):** Private Companies. Pre-tax contribution -> Tax-Deferred Growth -> Entirely taxable at withdrawal. RMD required post 73
        - **403(b):** Education Institutions/NFPs/Charities. 401(k) by another name.
        - **457(b):** Government Agencies and Charities. 401(k) by another name.
 
