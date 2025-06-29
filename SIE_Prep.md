@@ -4,6 +4,18 @@ author: "AJ"
 description: "Notes"
 ---
 
+## **Macroeconomics:**
+
+| **Leading Indicators**         | **Coincident Indicators**     | **Lagging Indicators**       |
+|--------------------------------|-------------------------------|------------------------------|
+| Bond Yields                    | GDP                           |  Interest Rates/Prime Rates  |
+| Layoff Rates                   | Non-Farm Payrolls             | Unemployment Rate            |
+| Manufacturing Activity         | Sales/Income/Spending         | Corporate Profits            |
+| Stock Markets                  |                               |                              |
+
+---
+---
+
 ## **Customer Accounts:**
  
 ### **Various Disclosure/Agreement Documents:**
@@ -576,6 +588,13 @@ description: "Notes"
 
 ---
 
+### **Media Compensation:**
+
+**Three exceptions:**
+- Paid Advertising
+- Research Reports
+- Compensation clearly disclosed as to specified amount
+
 ### **Time-in-Force (TIF) Order Types**
 
 | **Order Type**           | **Abbreviation** | **Duration / Condition**                                                             |
@@ -607,8 +626,9 @@ description: "Notes"
    - **Bonds that are in default or are Zero Coupon: trade flat => no accrued interest**
 
 ### **Accrued Interest Day Count Convention:**
-  - **Corporate + Munis + Agency + T-Bills:** 30/360
+  - **Corporate + Munis + Agency:** 30/360
   - **T-Notes and T-Bonds:** Actual/365
+  - **T Bill:** Actual/360
 
 ### **Quoting T-Notes and Bonds:**
    - 1/32th of a point, and quoted as percentage of par
