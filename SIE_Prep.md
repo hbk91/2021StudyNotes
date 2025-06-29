@@ -232,7 +232,7 @@ description: "Notes"
 #### **529 College Savings Plan:**
    - Established and maintained by the states. Therefore, are technically -> munis (municipal fund securities), and subject to MSRB
    - **Must provide Program Disclosure Document**
-   - Operates similar to Roth IRA vis-a-vis tax. Although, states may take their own taxes on distribution if they wish
+   - Operates similar to Roth IRA vis-a-vis tax, but no tax on distribution. Although, states may take their own taxes on distribution if they wish
    - However, no requirement to contribute earned income, unlike IRAs
    - Distribution only for qualified education expenses
    - Can be opened for anyone - minors/adults/self/kids
@@ -300,9 +300,13 @@ description: "Notes"
     - Findings of falsifications in filings to SROs/regulators or wilful violation of securities laws
 
 #### **Continuing Education:**
-  - Regulatory Element by Dec 31
+  - **Regulatory Element:** 
+    - **When:** By Dec 31
+    - **Who:** **All registered persons**
   - Firm Element by Dec 31 
-  - Failure to comply with Regulator Element may result in CE Inactive Status, while the same is not true for Firm Element
+    - **When:** By Dec 31
+    - **Who:** **All covered persons** - who interact with customers/supervise those who interact with customers
+  - Failure to comply with Regulatory Element may result in CE Inactive Status, while the same is not true for Firm Element
 
 #### **Wrap Accounts:**
   - If a BD provided a Wrap Account, BD needs to register as a RIA too
@@ -325,7 +329,7 @@ description: "Notes"
 ### **4. IAR (Investment Advisor Representatives)**
 
 #### **General Info**
-   - Need to register at the state level only, while RIAs register at State/State level depending on size
+   - Need to register at the state level only, while RIAs register at Federal/State level depending on size
 
 #### **Exceptions from being an IAR:**
    - LATE (Lawyers, Accountants, Teachers, & Engineers) are not IARs if they provide advice as incidental to their job
@@ -354,9 +358,9 @@ description: "Notes"
 ### **Anti-Money Laundering:**
 
 #### **Three stages of Money Laundering:**
-   - **Placement:** Depositing money in the system. It is the easiest stage to detect.
-   - **Layering:** Performing a series of transactions to launder the money.
-   - **Integration:** Withdrawing and reintegrating the money into the system.
+   - **Placement:** Depositing money in the system. It is the easiest stage to detect
+   - **Layering:** Performing a series of transactions to launder the money
+   - **Integration:** Withdrawing and reintegrating the money into the system
  
 ### **FinCEN (Financial Crimes Enforcement Network):**
 
@@ -440,7 +444,7 @@ description: "Notes"
   - Permission from both employer and the customer
   - Sharing is proportionate to money contributed by the agent and the customer
     - Accounts with family members are not subject to proportionate sharing
-- Reps can't be Beneficiary/Executor/Trustee/Power of Attorney holder on behalf of a customer, except when the customer is a family member
+- Reps can't be Beneficiary/Executor/Trustee/Power of Attorney (POA) holder on behalf of a customer, except when the customer is a family member
 
 ---
 
@@ -475,7 +479,7 @@ description: "Notes"
 
 ### **Conflict of Interest:**
 
-- **Verbal Disclosure:** Prior to thr trade
+- **Verbal Disclosure:** Prior to the trade
 - **Written Disclosure:** Must appear on trade confirmation
 
 ---
