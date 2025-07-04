@@ -389,8 +389,8 @@ description: "Notes"
   - All BDs must have
   - **Obtain identity info** of every customer **before opening an account**
   - **Verify the identity** within a **reasonable time frame before or after opening an account**
-  
-####**SDN (Specially Designated Nationals) List:**
+  l
+#### **SDN (Specially Designated Nationals) List:**
   - Compiled by OFAC (Office of Foreign Asset Control), an office in the Treasury. 
   - Can't transact with anyone on SDN. Block the transaction and **report to OFAC within 10 days**
   - Mandatory information sharing with federal law enforcement
@@ -487,7 +487,7 @@ description: "Notes"
 ### **Political Contributions:**
 
 #### **Pay to Play in Munis:**
-   - Municipal Finance Professionals **(MFPs)** a Muni BD:
+   - Municipal Finance Professionals **(MFPs)** at a Muni BD:
      - Sales
      - Trading
      - Underwriting
