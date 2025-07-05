@@ -40,7 +40,7 @@ description: "Notes"
   - **Excludes** live communication (even if broadcast)
   - **Excludes** required communication/regulatory filing or notices (even if broadcast)
 
-#### **1 person communication - - Advertisement or not?**
+#### **1 person communication - Advertisement or not?**
    - Not an advertisement generally
    - Advertisement if includes hypothetical projections of performance
      - However, not an Ad if oral communication even if hypothetical projections of performance is discussed
@@ -209,7 +209,7 @@ description: "Notes"
 
 ### **Securities:**
 
-- Howev Test of a Security: **Investment of Money -> In a common enterprise -> to expect profits -> that are derived from the efforts of others**
+- Howey Test of a Security: **Investment of Money -> In a common enterprise -> to expect profits -> that are derived from the efforts of others**
 - USA Definition of a Security: **An evidence of ownership + that can be traded for value + and managed by the efforts of 3rd party**
 - Whiskey Warehouse Receipts
 - Preorganization Certificates
