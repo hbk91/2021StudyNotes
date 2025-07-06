@@ -200,7 +200,7 @@ description: "Notes"
 #### **Record Keeping:**
 
 - **BDs:** **3 years**, with first 2 years at a readily accessible location
-- **IAs:** **5 years**, with first 2 years at a readily accessible location
+- **IAs:** **5 years**, with first 2 years at adviser's principal office
 
 ---
 ---
@@ -243,6 +243,31 @@ description: "Notes"
   - **Within 15 days of the first sale in the state**
   - **However, Investment Company securities have to notice file prior to initial offering in the state**
   
+### **Registration by Coordination / Coordinated Review:**
+
+- **To be given to each state: 3 copies of registration statement filed with the SEC** + Consent to Service of Process + Fees
+- **Statement must be on file 10 days prior to taking effect**
+
+### **Exempt Transactions under the USA:**
+
+- Isolated non-issuer transactions
+- Unsolicited brokerage transactions
+- Underwriting transactions
+- Sales to BDs/Institutional Buyers
+  - Employee Benefit Plans with > USD 1 Mil AUM also are Institutional Buyers
+- Fiduciary Transactions (Custodians are not fiduciaries as they are self-appointed)
+- **State Private Placement: <= 10 non-Insti. Investors over a 12-month period**
+  - No flipping of securities
+  - **No commission for soliciting the 10 non-insti investors**
+  - **No general / mass advertising or solicitation**
+- Pre-organization certificates
+  - **<= 10 subscribers**
+  - **No commission for soliciting the 10 non-insti investors**
+- Offers to existing shareholders
+**Crowdfunding:**
+   - **Max USD 5 Mil over a 12-month period**
+   - States vary in how many individual non-accredited investors can invest
+
 ---
 ---
 
@@ -307,9 +332,9 @@ description: "Notes"
 3. **Banking Institutions:** Commercial Banks/Savings and Loans Insti./Trust Companies/Credit Unions/Similar organizations. **No Investment Banks**
 4. **Insurance Companies:** Doesn't extends to their products, only their capital securities
 5. **Commercial Paper/Promissory Note/Bankers Acceptance:** < 270 days, Min $50,000, and Top three credit ratings (S&P, Moody, etc)
-6. **NFPs (Non-Profits)** 
+6. **NFPs (Revocable by Admin)** 
 7. **Public Utility/Railroad/Common Carrier:** Subject to regulation under US Govt Authority such as US Dept of Transportation/Interstate Commerce Commission
-8. **Organization and its Employees** Any contract that is linked to ESOPs, Pension, Employee Stock Purchase, Savings, or Profit-sharing plans
+8. **Organization and its Employees (Revocable by Admin)** Any contract that is linked to ESOPs, Pension, Employee Stock Purchase, Savings, or Profit-sharing plans
 
 #### **Exempt Transactions:**
 
