@@ -218,6 +218,7 @@ description: "Notes"
 - Equipment Trust Certificate
 - Fractional interest in an oil/gas/mineral lease
 - Options/Warrants/Rights
+   - Oil and Gas Futures are not securities, but options on Oil and Gas securities are
 
 ### **What are not securities?**
 
