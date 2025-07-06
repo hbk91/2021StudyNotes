@@ -218,7 +218,7 @@ description: "Notes"
 - Equipment Trust Certificate
 - Fractional interest in an oil/gas/mineral lease
 - Options/Warrants/Rights
-   - Oil and Gas Futures are not securities, but options on Oil and Gas securities are
+   - Oil and Gas Futures are not securities, but options on Oil and Gas securities hnot
 
 ### **What are not securities?**
 
@@ -239,7 +239,10 @@ description: "Notes"
   - **Qualified Purchaser:**
     - An Individual/family with at least USD 5 Mil in investments
     - An entity that manages USD 25 Mil for other qualified purchasers or an entity that is completely owned by qualified purchasers
-
+- **Notice Filing:** Typically required for Federally covered securities - All Docs submitted elsewhere + Consent to Service of Process + Fees
+  - **Within 15 days of the first sale in the state**
+  - **However, Investment Company securities have to notice file prior to initial offering in the state**
+  
 ---
 ---
 
