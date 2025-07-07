@@ -40,7 +40,7 @@ description: "Notes"
   - **Excludes** live communication (even if broadcast)
   - **Excludes** required communication/regulatory filing or notices (even if broadcast)
   - **Third party social media comments that an adviser endorses/promotes is considered advertising**
-  - Response to client service requests are not advertisingb
+  - Response to client service requests are not advertising
 
 #### **1 person communication - Advertisement or not?**
    - Not an advertisement generally
@@ -56,10 +56,10 @@ description: "Notes"
    - Plain-english
    - **Must be given to prospective and existing clients**
   
-##### **Part 2A: Main Brochure - All about the services offered**
+#### **Part 2A: Main Brochure - All about the services offered**
    - Nature of the business/Fees/Investment Strategy/Risks/Disciplinary Actions/Code of Ethics/Marketing Activities/Brokerage Practices
    
-##### **Part 2B: Brochure Supplement - Info on IA Representatives**
+#### **Part 2B: Brochure Supplement - Info on IA Representatives**
    - Info on IA representatives who would be dealing with the client or who make decisions for the client portfolio 
 
 #### **Part 3: Relationship Summary (Only for Retail)**
@@ -68,12 +68,17 @@ description: "Notes"
    - Also given by BDs to their retail clients at account opening
    - Any material change should be filed with the SEC within 30 days, and communicated to the clients within 60 days
 
-### **Margin Account Disclosure Form**
-   - Hypothecation Agreement + Credit Agreement + Loan Consent Form (Optional)
-   - Customers must return a signed margin agreement promptly after the initial transaction in the account
+### **Margin Account Disclosure Form & Margin Agreement**
+
+#### **Margin Disclosure Document:**
+- At or prior to account opening + Annually
+
+#### **Margin Agreement:**
+- Hypothecation Agreement + Credit Agreement + Loan Consent Form (Optional)
+- Customers must return a signed margin agreement promptly after the initial transaction in the account
 
 ### **Option Disclosure Document (ODD):**
-   - Sign the ODD within 15 days of account approval
+- Sign the ODD within 15 days of account approval
 
 ---
 ---
