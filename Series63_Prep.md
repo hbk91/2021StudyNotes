@@ -55,7 +55,7 @@ description: "Notes"
    - **Must be given to prospective and existing clients**
   
 ##### **Part 2A: Main Brochure - All about the services offered**
-   - Nature of the business/Fees/Investment Strategy/Risks/Disciplinary Actions/Code of Ethics/Marketing ACtivities/Brokerage Practices
+   - Nature of the business/Fees/Investment Strategy/Risks/Disciplinary Actions/Code of Ethics/Marketing Activities/Brokerage Practices
    
 ##### **Part 2B: Brochure Supplement - Info on IA Representatives**
    - Info on IA representatives who would be dealing with the client or who make decisions for the client portfolio 
