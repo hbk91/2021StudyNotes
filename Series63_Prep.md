@@ -35,7 +35,7 @@ description: "Notes"
 ### **SEC's IA Marketing Rule:**
 
 #### **1+person communication - Advertisement or not?**
-  - Direct/Indirect communication to **1+ person** that offers new/additional securities services.
+  - Direct/Indirect **written communication** to **1+ person** that offers new/additional securities services.
   - **Includes** 3rd party media comments endorsed/promoted
   - **Excludes** live communication (even if broadcast)
   - **Excludes** required communication/regulatory filing or notices (even if broadcast)
