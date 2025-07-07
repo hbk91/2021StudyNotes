@@ -190,17 +190,22 @@ description: "Notes"
 - An administrator can't require filing fo advertising/sales literature for federal securities
 - An administrator can require reports at a frequency of only quarterly or more, but not monthly
 
-#### **Rescission Offer:**
+### **Rescission Offer:**
 
 - 30 day time period
 - If customer accepts within 30 days, customer is made whole, and can't sue
 - If customer rejects in writing within 30 days, customer can go on to sue
 - If customer does nothing over 30 days, customer gives up the right to sue
 
-#### **Record Keeping:**
+### **Record Keeping:**
 
-- **BDs:** **3 years**, with first 2 years at a readily accessible location
+- **BDs:** **3 years**, with first 2 years at a readily accessible location (typically BD's principal office)
 - **IAs:** **5 years**, with first 2 years at adviser's principal office
+
+### **Appeal against an Administrator's Order:**
+
+- Appeal back to the Administrator within 30 days. Hearing must be put on calendar within 15 days of the receipt of appeal
+- Appeal to the state's court system within 60 days of the issuance. Order remains in effect while it is being challenged
 
 ---
 ---
@@ -273,8 +278,7 @@ description: "Notes"
 
 **VI. Investment Advisors**
 
-
-
+- Registered either at Federal level or State level
 
 ---
 ---
