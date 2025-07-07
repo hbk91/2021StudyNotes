@@ -39,6 +39,7 @@ description: "Notes"
   - **Includes** 3rd party media comments endorsed/promoted
   - **Excludes** live communication (even if broadcast)
   - **Excludes** required communication/regulatory filing or notices (even if broadcast)
+  - **Third party social media comments that an adviser endorses/promotes is considered advertising**
 
 #### **1 person communication - Advertisement or not?**
    - Not an advertisement generally
