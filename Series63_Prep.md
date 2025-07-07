@@ -35,11 +35,12 @@ description: "Notes"
 ### **SEC's IA Marketing Rule:**
 
 #### **1+person communication - Advertisement or not?**
-  - Direct/Indirect **written communication** to **1+ person** that offers new/additional securities services.
+  - Direct/Indirect **written communication** to **1+ person** that offers **new/additional securities services.**
   - **Includes** 3rd party media comments endorsed/promoted
   - **Excludes** live communication (even if broadcast)
   - **Excludes** required communication/regulatory filing or notices (even if broadcast)
   - **Third party social media comments that an adviser endorses/promotes is considered advertising**
+  - Response to client service requests are not advertisingb
 
 #### **1 person communication - Advertisement or not?**
    - Not an advertisement generally
