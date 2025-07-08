@@ -94,7 +94,7 @@ description: "Notes"
 ### **Penalties**
 
 - **USA, 1956 (Uniform Securities Act):** Up to USD 5000 fine/3 year imprisonment
-- **Securities Act, 1933:** Up to USD 10,000 fine/10 year imprisonment
+- **Securities Act, 1933 and 1940 Act:** Up to USD 10,000 fine/10 year imprisonment
 - **Securities Exchange Act, 1934:** Insider Trading - USD 5M fine/20 year imprisonment/USD 25M for corporations
 
 ### **Statute of Limitations:**
@@ -116,14 +116,6 @@ description: "Notes"
 
 - **Spoofing/Wash Trades:** Fake orders to show increased trading activity
 - **Matched Trades:** Two parties coordinate buy and sell orders for the same security, at the same price and time, without any real intention to change ownership. 
-
-## **Penalties:**
-
-### **Criminal Liabilities:**
-
-- **USA:** USD 5000, 3 years
-- **1940 Act:** = USD 10,000, 5 years
-- **1934 Act Insider Trading:** USD 5 Mil, 20 years
 
 ---
 
