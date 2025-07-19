@@ -65,7 +65,7 @@ description: "Notes"
 #### **Part 3: Relationship Summary (Only for Retail)**
    - Summary of the Brochure
    - **Also known as CRS (Customer Relationship Summary)**
-   - Also given by BDs to their retail clients at account opening
+   - Also given by BDs to their **retail clients only** at account opening
    - Any material change should be filed with the SEC within 30 days, and communicated to the clients within 60 days
 
 ### **Margin Account Disclosure Form & Margin Agreement**
@@ -108,7 +108,7 @@ description: "Notes"
 
 #### **Price Manipulation:**
 
-- **Painting the Tape/Ramping:** Deceptive activity/rumors to drive-up a stock
+- **Painting the Tape/Ramping:** Deceptive activity/rumors to drive-u0p a stock
 - **Marking the Close**
 - **Short Squeeze**
   
@@ -194,7 +194,7 @@ description: "Notes"
 - Under Federal law, crimes involving securities fraud are felonies punishable upto 20 yrs in prison + USD 5 mil in fines
 - Under USA, crimes involving securities fraud are punishable upto 3 yrs in prison + USD 5,000 in fines
 - **An administrator can seek evidence across state lines and issue subpoena, but can't issue a search warrant or an injunction**
-- An administrator can't require filing fo advertising/sales literature for federal securities
+- An administrator can't require filing of advertising/sales literature for federal securities
 - An administrator can require reports at a frequency of only quarterly or more, but not monthly
 
 ### **Rescission Offer:**
@@ -366,7 +366,19 @@ description: "Notes"
 
 1. **Notice Filing** (Basically a heads-up that may be required by the state administrators for Federally Covered Securities)
 2. **Registration by Coordination:** Registration at the state(s) level and SEC becomes effective at the same date
-3. **Registration by Qualification:** Registration at the state(s) level: All Prospectus type info, and Consent to Service of Process, and andy fees
+3. **Registration by Qualification:** Registration at the state(s) level: All Prospectus type info, and Consent to Service of Process, and and fees
+
+---
+---
+
+### **Finer Points:**
+
+- Federal covered IAs are excluded from the definition of IA under the USA as they don't need to register at the state level
+- Supervision of IARs triggers registration as an IAR, but supervision of Agents doesn't trigger registration as an Agent
+- Solicitor for an IAR needs to register as an IAR. Solicitor may also be referred to as a promoter. However this promoter is different from the promoter under SEC's IA marketing rule, who provides endorsements/testimonials only, and does not need to register as an IAR
+- A sale only occurs when consideration is paid for a security
+- An IAR never registers with the SEC
+- Can't accept funds before effective date. Must return them back to the customer
 
 ---
 ---
