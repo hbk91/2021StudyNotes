@@ -64,7 +64,7 @@ description: "Notes"
 
 #### **Part 3: Relationship Summary (Only for Retail)**
    - Summary of the Brochure
-   - **Also known as CRS(Customer Relationship Summary)**
+   - **Also known as CRS (Customer Relationship Summary)**
    - Also given by BDs to their retail clients at account opening
    - Any material change should be filed with the SEC within 30 days, and communicated to the clients within 60 days
 
