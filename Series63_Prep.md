@@ -91,10 +91,10 @@ description: "Notes"
 - **Unlawful:** **Unintentional Unlawful** behavior
 - **Unethical: Wrong behavior - may or mayn't be unlawful**
 
-### **Penalties**
+### **Criminal Penalties**
 
 - **USA, 1956 (Uniform Securities Act):** Up to USD 5,000 fine/3 year imprisonment
-- **Securities Act, 1933 and 1940 Act:** Up to USD 10,000 fine/10 year imprisonment
+- **Securities Act, 1933 and 1940 Act:** Up to USD 10,000 fine/5 year imprisonment
 - **Securities Exchange Act, 1934:** Insider Trading - USD 5M fine/20 year imprisonment/USD 25M for corporations
 
 ### **Statute of Limitations:**
@@ -374,11 +374,39 @@ description: "Notes"
 ### **Finer Points:**
 
 - Federal covered IAs are excluded from the definition of IA under the USA as they don't need to register at the state level
+- BD and IAR if exempt from registering in a state, are also exempt from the definition of a BD and IAR as well (same doesn't hold true for Agents and IARs)
 - Supervision of IARs triggers registration as an IAR, but supervision of Agents doesn't trigger registration as an Agent
 - Solicitor for an IAR needs to register as an IAR. Solicitor may also be referred to as a promoter. However this promoter is different from the promoter under SEC's IA marketing rule, who provides endorsements/testimonials only, and does not need to register as an IAR
 - A sale only occurs when consideration is paid for a security
 - An IAR never registers with the SEC
 - Can't accept funds before effective date. Must return them back to the customer
+- If an IAR doesn't complete continuing education, the IAR can still renew, but can't serve until CE is complete. If CE not completed for one more year, IAR can't renew again
+- Net worth requirements:
+  - IA is Federal Covered: SEC requirement, even if state requirements are higher
+  - IA is registered only in the state: Principal office state requirement (even if state requirements are higher than SEC's)
+- Personal Trading:
+  - Report holdings alteast annually
+  - Report trading atleast quarterly
+- Reserve requirements for BDs:
+  - Satisfied via Cash + Marketable securities. Promissory notes are not eligible
+- Agents as Trustees:
+  - An agent can act as a trustee of a client's account. In that case they get the custody as well.
+- Providing updates via the CRD:
+  - BD: Promptly
+  - Agents: Within 30 days
+- Third-party rankings use requirements:
+  - **Due Diligence + Disclosure (Time Period + Rater's Identity + If compensation paid)**
+- When not an IA:
+  - Providing advice only on US Govt/Agencies issues
+- **BCP:**
+  - Identify + Detect
+  - Protect
+  - Backup
+  - Recover
+- RIA record preservation after business termination:
+  - 3 years
+- Testimonial / Endorsement by Affiliates of an IRA:
+  - No disclosure required
 
 ---
 ---
