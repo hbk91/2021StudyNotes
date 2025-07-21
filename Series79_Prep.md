@@ -260,6 +260,15 @@ In any case, inform SEC every six months how much you raised
 - Selected Dealer Agreement
 - POP and Underwriting Proceeds
 
+### **Finer Points:**
+
+- **Final Prospectus:**
+  - 10 copies to be filed with the SEC prior to first use with the public
+- **Securities that can be offered at a discount:**
+  - **Treasuries + Munis + 1940 Act Companies**
+  - IPOs are not offered at a discount. One price for everyone - POP
+  - 
+
 ---
 ---
   
