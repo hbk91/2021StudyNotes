@@ -237,7 +237,7 @@ In any case, inform SEC every six months how much you raised
 | **Pay-as-you-go Filing Fees**       | ✅ Yes                                   | ❌ No                                     | ❌ No                                   |
 | **Use of Free Writing Prospectus**  | ✅ Yes (before & after filing)           | ✅ Yes (after filing only)                | ❌ No                                   |
 | **Marketing Flexibility**           | Maximum                                 | Moderate                                 | Minimal                                |
-| **Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
+| b**Typical Example**                 | Apple, Microsoft, JPMorgan              | Mid-cap public companies                 | Recent IPOs, early-stage filers        |
 
 ### **Notes:**
 
@@ -267,7 +267,13 @@ In any case, inform SEC every six months how much you raised
 - **Securities that can be offered at a discount:**
   - **Treasuries + Munis + 1940 Act Companies**
   - IPOs are not offered at a discount. One price for everyone - POP
-  - 
+**Rule 168:**
+  - Rule 168 is a provision under the Securities Act of 1933 that provides a safe harbor exemption for continued publication of regular business communications by reporting issuers
+**Final Settlement of an IPO:**
+  - Within 90 days of the issuer delivering the securities to syndicate members
+- **Syndicate manager to notify FINRA within 3 days of the deal becoming effective**
+- **Reg M:**
+  - Subject (being sold) + Reference (can be converted into subject) = Covered Security
 
 ---
 ---
