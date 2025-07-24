@@ -122,7 +122,7 @@ description: "Notes"
 
 - **Who is Vulnerable?**
    - Age 65>=
-   - Age 18>= and have a mental/physical impairment that rendering them unable to protect their interests
+   - Age 18>= and have a mental/physical impairment that renders them unable to protect their interests
 
 - **How to Protect?**
    - Obtain name and contact of a trusted contact
