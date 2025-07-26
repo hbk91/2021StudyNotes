@@ -187,10 +187,10 @@ description: "Notes"
      - These accounts are always individual, and never held jointly
      - **Some investments prohibited in IRAs: Fixed life insurance, antiques, risky options like uncovered calls, and real estate**
    - **Distributions:**
-     - Allowed after 59.5=> age; Also RMDs (Required Minimum Distributions) from Apr 1 of the year following, a o person turns 73
+     - Allowed after 59.5=> age; Also RMDs (Required Minimum Distributions) from Apr 1 of the year following, a person turns 73
      - **Withdraw  before 59.5 => 10% Penalty.** Exceptions:
        - **Medical Reasons:** Death/Disability/Terminally Ill/Medical Expenses
-       - **Education and kids:** Education Expense of self/spouse/children/grand=children; Birth/Adopting a kid (limited to USD 5000 / per parent)
+       - **Education and kids:** Education Expense of self/spouse/children/grand-children; Birth/Adopting a kid (limited to USD 5000 / per parent)
        - **House and Disaster Area:** First-time homebuyers (upto 10k); living in federal declared disaster areas (upto 22k)
      - **No withdrawal after 73.5 => 25% excise tax on under-distributed amount.** Excise tax reduced to 10% if the under-distributed amount is fixed in next 2 years
 
