@@ -4,13 +4,13 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
-## Table Phantom Spacing Issues:
+## **Table Phantom Spacing Issues:**
 
 - Interior Margins -> Fix via Alt+5
 - Paragraph Spacing -> Alt + H + P
 - Font Size
 
-## Ctrl Shortcuts:
+## **Ctrl Shortcuts:**
 
 ### **Ctrl + Letter and Ctrl + Shift + Letter Shortcuts**
 
