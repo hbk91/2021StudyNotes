@@ -10,6 +10,10 @@ description: "Study Notes"
 - Paragraph Spacing -> Alt + H + P
 - Font Size
 
+## **Break down a table into objects:**
+
+- Copy -> Paste Special as Windows Metafile / Pictures Metafile -> Then Ungroup twice (Ignore the warning on the first ungroup)
+
 ## **Ctrl Shortcuts:**
 
 ### **Ctrl + Letter and Ctrl + Shift + Letter Shortcuts**
