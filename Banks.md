@@ -35,3 +35,18 @@ description: "Study Notes"
 | **Foreign Bank Branches/Agencies** | Cross-border M&A, debt issuance, restructuring advisory | U.S. asset base, compliance posture, cross-border funding costs |
 | **Industrial Banks (ILCs)** | Partnership structuring, debt issuance, fintech M&A | Loan portfolio yield, partner pipeline, regulatory risk (charter debates) |
 | **Specialized Govt.-Sponsored Banks** | Advisory on funding strategies, balance sheet optimization | Mandated lending scope, funding model, interest rate risk management |
+
+## **FIG 2025 Trends & Pitch Angles**
+
+| **Bank Type** | **2025 Industry Trends** | **Actionable IB Pitch Angles** |
+|---|---|---|
+| **Commercial Banks** | Basel III Endgame begins July 1, 2025 with phased-in capital impacts; CRE credit scrutiny (esp. office) stays elevated; instant payments (FedNow) adoption accelerates. | Capital optimization and RWA rebalancing; balance sheet repositioning (AOCI/HTM strategies); sub debt/preferred issuance; CRE risk transfer/loan-on-loan; instant-payments enablement M&A/partnerships. |
+| **Retail Banks** | Consumer fee model shifts after CFPB overdraft rule activity; deposit costs normalize; mortgage volumes stabilize off 2024 lows. | Fee-income redesign and pricing analytics; card/merchant acquiring partnerships; HELOC/first-lien flow sales and MSR trades; whole-loan sales and securitizations. |
+| **Community Banks** | Consolidation pressure persists; CRE concentration and liquidity remain focal; FDIC special assessment applies only to orgs ≥$5B. | Sell-side/buy-side M&A and branch/portfolio swaps; subordinated debt and preferred raises; core processing/digital partnerships to lower cost-to-serve. |
+| **Credit Unions** | Selective purchases of small banks continue; digital membership growth; capital/product constraints shape strategy. | Advisory on whole-bank purchases/assumptions; loan participations and ALM optimization; CUSO partnerships and fintech JV structuring. |
+| **Savings & Loan Associations (Thrifts)** | Mortgage banking cyclicality; MSR valuations sensitive to rate path; elevated deposit betas vs pre-2022. | MSR sale/leaseback and hedging advisory; mortgage platform M&A; warehouse facilities and RMBS issuance. |
+| **Investment Banks** | ECM/DCM steady vs 2024 with improving pipeline visibility; electronification and balance-sheet-light models continue. | Broker-dealer acquisitions and carve-outs; capital raises for growth adjacencies; tech stack modernization M&A. |
+| **Online-Only / Neobanks** | Shift from growth to profitability; greater reliance on sponsor banks; instant payments use cases expand. | Strategic partnerships with banks/ILCs; structured capital (convertibles); acqui-hire and platform roll-ups. |
+| **Foreign Bank Branches/Agencies** | Focus on USD funding and sanctions/compliance rigor; selective U.S. asset optimization. | U.S. portfolio sales; cross-border M&A; funding strategy advisory (CP, covered bonds, TLAC alignment). |
+| **Industrial Banks (ILCs)** | Fintech partnerships and private-label programs remain active; continued regulatory attention. | ABS take-outs for partner-originated receivables; debt issuance; program acquisitions or JV formations. |
+| **Specialized Govt.-Sponsored Banks** | FHLB advances remain key liquidity backstop; continued modernization of payments/funding models. | Balance sheet optimization, callable debt strategies; capital-markets funding and hedging programs. |
