@@ -1,5 +1,5 @@
 ---
-title: "Banks"
+title: "Banks Industry"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
