@@ -12,7 +12,7 @@ description: "Study Notes"
 
 ## **Break down a table into objects:**
 
-- Copy -> Paste Special as Windows Metafile / Pictures Metafile -> Then Ungroup twice (Ignore the warning on the first ungroup)
+- Copy -> Paste Special as Windows Metafile / Enhanced Metafile -> Then Ungroup twice (Ignore the warning on the first ungroup)
 
 ## **Ctrl Shortcuts:**
 
