@@ -15,6 +15,24 @@ description: "Study Notes"
 | **E**      | Equity           | Credit             | Debit              |
 | **R**      | Revenue          | Credit             | Debit              |
 
+----
+----
+
+## **Products that require Balance Sheet Prowess:**
+
+| **Boutique Bank Products** | **Products Requiring Balance Sheet** |
+|----------------------------|---------------------------------------|
+| Mergers and Acquisitions   | Bank Revolvers                        |
+| Equity Capital Markets     | Investment Grade Syndicated Loans     |
+| Equity Sales & Trading     | Trade Finance, Letter of Credit       |
+| Leveraged Finance and Private Capital | Cash Management            |
+| Investment Management      | Investment Grade Debt Origination     |
+| Wealth Management          | Derivatives (Swaps, Futures, Options) |
+|                            | Credit Trading                        |
+
+---
+---
+
 ## **Types of IB Work**
 
 - Execution / Live Deal
@@ -36,9 +54,13 @@ description: "Study Notes"
 - NIM
 - Efficiency Ratio = Non-Interest Expense/Total Income
 
+## **Capital Roll Forward:**
+
+- CET1 now to CET1 a few years down the line. What is driving the change: Earnings growth/dividends/RWAs? => build that waterfall chart
+
 ## **Benchmarking Banks:**
 
-## **Comparison Dimensions:**
+### **Comparison Dimensions:**
 
 - Profitability
 - Growth
@@ -46,7 +68,7 @@ description: "Study Notes"
 - Quality of Assets
 - Capitalization
 
-## **Selecting Peer Group:**
+### **Selecting Peer Group:**
 
 - Products Offered
 - Size (loan portfolio / assets)
@@ -54,3 +76,15 @@ description: "Study Notes"
 - Industry Server
 - Funding / Capitalization
 
+### **Finding Peer Groups:**
+
+- SNL
+- Bank's Investor Presentation
+- FDIC (difficult)
+
+## **Risk Management Page:**
+
+- NPLs / Total Loans
+- Net Charge off Ratio = Net charge-offs / Total loans
+- Allowance for Credit losses / Total Loans
+- Provision for credit losses and Net charge offs
