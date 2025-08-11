@@ -30,6 +30,41 @@ description: "Study Notes"
 | **Equity Capital Markets** – Raise money in the stock market | **Financing** – Help investors finance their positions |
 |                        | **Research** – Provide investment insights through reports and analysis |
 
+### **Sales and Trading Classifications**
+
+#### **FICC:**
+
+- Rates
+- Currencies
+- Credit
+- Commodities
+- Mortgages
+- Munis
+
+#### **Equities:**
+
+- Cash
+- Derivatives
+- Prime Brokerage
+
+#### **Macro Products: - That rely on overall market/economy**
+- **Rates:**
+    - Bonds
+    - Derivatives
+- **Forex**
+    - Spot
+    - Derivatives
+- **Commodities**
+    - Physical
+    - Financial
+
+#### **Spread Products:**
+
+- Bonds
+- Loans
+- Securitized Products
+- Emerging Markets
+
 ### **Products that require Balance Sheet Prowess:**
 
 | **Boutique Bank Products** | **Products Requiring Balance Sheet** |
@@ -85,6 +120,12 @@ description: "Study Notes"
 - Emerging Markets
 - Liability Management
 - Sovereign Debt / Supranational Agencies
+
+## **Risk Solutions:**
+
+- Provide hedging: Interest rates, Forex, Commodity 
+- Sit with the private side, for private-side transactions
+- Typically uncollateralized - need to calculate xVAs/pricing, etc
 
 ---
 ---
