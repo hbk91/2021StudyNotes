@@ -20,7 +20,7 @@ description: "Study Notes"
 
 ## **General overview:**
 
-## **Investment Bank - Banking vs Markets**
+### **Investment Bank - Banking vs Markets**
 
 | **Investment Banking - Want to raise money** | **Global Markets - Have money and want to invest** |
 |------------------------|--------------------|
