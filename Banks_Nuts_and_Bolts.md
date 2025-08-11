@@ -50,13 +50,41 @@ description: "Study Notes"
 |                    | Debt                   | Commercial Paper (Short Term), Bonds, Loans                    |
 | **Highest Cost**   | Equity                 | IPO (First Issuance), Follow-On (Additional Issuance), Convertible Bonds |
 
-### **M&A Typology:**
+### **M&A Advisory Work**
+
+- Acquisitions
+  - Exclusive Sales
+  - LBOs
+  - Fairness Opinion
+  - Divestiture / Spin-Offs
+  - JVs
+  
+- Restructuring
+- Defense/Activism
 
 | **Invest**    | **Grow**         | **Exit**       |
 |---------------|------------------|----------------|
 | Acquisition   | Bolt-on/Roll-ups | Strategic Sale |
 | Minority Stake| Fundraising      | Secondary Sale |
 |               | Divestiture      | IPO            |
+
+### **ECM Work:**
+
+- IPO
+- Follow-on
+- Converts
+- Share Repurchase
+
+### **DCM Work:**
+
+- **Bonds:** IG & HY
+- **Loans:** IG Loans
+- Money Markets
+- ABS/CLO/MBS
+- Municipal Finance
+- Emerging Markets
+- Liability Management
+- Sovereign Debt / Supranational Agencies
 
 ---
 ---
