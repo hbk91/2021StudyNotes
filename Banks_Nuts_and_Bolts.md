@@ -51,23 +51,19 @@ description: "Study Notes"
 | **Highest Cost**   | Equity                 | IPO (First Issuance), Follow-On (Additional Issuance), Convertible Bonds |
 
 
-
-
 ---
 ---
 
-## **Types of IB Work**
+### **Functional Types of IB Work**
 
 - Execution / Live Deal
 - Pitching / Origination
 - Internal Work
 
-## **Things to do:**
+---
+---
 
-- Capital Roll Forward
-- Benchmarking Analysis
-
-## **Bank Metrics:**
+### **Bank Metrics:**
 
 - Total loan portfolio
 - ROAA
@@ -77,13 +73,22 @@ description: "Study Notes"
 - NIM
 - Efficiency Ratio = Non-Interest Expense/Total Income
 
-## **Capital Roll Forward:**
+---
+---
+
+## **Some example Things to do:**
+
+- Capital Roll Forward
+- Benchmarking Analysis
+- Risk Management
+
+### **Capital Roll Forward:**
 
 - CET1 now to CET1 a few years down the line. What is driving the change: Earnings growth/dividends/RWAs? => build that waterfall chart
 
-## **Benchmarking Banks:**
+### **Benchmarking Banks:**
 
-### **Comparison Dimensions:**
+#### **Comparison Dimensions:**
 
 - Profitability
 - Growth
@@ -91,7 +96,7 @@ description: "Study Notes"
 - Quality of Assets
 - Capitalization
 
-### **Selecting Peer Group:**
+#### **Selecting Peer Group:**
 
 - Products Offered
 - Size (loan portfolio / assets)
@@ -99,15 +104,18 @@ description: "Study Notes"
 - Industry Server
 - Funding / Capitalization
 
-### **Finding Peer Groups:**
+#### **Finding Peer Groups:**
 
 - SNL
 - Bank's Investor Presentation
 - FDIC (difficult)
 
-## **Risk Management Page:**
+### **Risk Management Page:**
 
 - NPLs / Total Loans
 - Net Charge off Ratio = Net charge-offs / Total loans
 - Allowance for Credit losses / Total Loans
 - Provision for credit losses and Net charge offs
+
+---
+---
