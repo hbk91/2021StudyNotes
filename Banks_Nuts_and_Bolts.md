@@ -20,7 +20,6 @@ description: "Study Notes"
 
 ## **General overview:**
 
-
 ## **Investment Bank - Banking vs Markets**
 
 | **Investment Banking** | **Global Markets** |
