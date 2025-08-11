@@ -50,6 +50,13 @@ description: "Study Notes"
 |                    | Debt                   | Commercial Paper (Short Term), Bonds, Loans                    |
 | **Highest Cost**   | Equity                 | IPO (First Issuance), Follow-On (Additional Issuance), Convertible Bonds |
 
+### **M&A Typology:**
+
+| **Invest**    | **Grow**         | **Exit**       |
+|---------------|------------------|----------------|
+| Acquisition   | Bolt-on/Roll-ups | Strategic Sale |
+| Minority Stake| Fundraising      | Secondary Sale |
+|               | Divestiture      | IPO            |
 
 ---
 ---
