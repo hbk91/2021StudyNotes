@@ -22,7 +22,7 @@ description: "Study Notes"
 
 ## **Investment Bank - Banking vs Markets**
 
-| **Investment Banking** | **Global Markets** |
+| **Investment Banking - Want to raise money** | **Global Markets - Have money and want to invest** |
 |------------------------|--------------------|
 | **Mergers & Acquisitions** – Advise on buying and selling companies or segments | **Sales** – Help investors buy or sell stock, bonds, or derivatives |
 | **Debt Capital Markets** – Raise money in bond markets | **Trading** – Buy and sell stocks, bonds, or derivatives from clients |
