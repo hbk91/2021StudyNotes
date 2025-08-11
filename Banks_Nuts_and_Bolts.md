@@ -18,7 +18,20 @@ description: "Study Notes"
 ----
 ----
 
-## **Products that require Balance Sheet Prowess:**
+## **General overview:**
+
+
+## **Investment Bank - Banking vs Markets**
+
+| **Investment Banking** | **Global Markets** |
+|------------------------|--------------------|
+| **Mergers & Acquisitions** – Advise on buying and selling companies or segments | **Sales** – Help investors buy or sell stock, bonds, or derivatives |
+| **Debt Capital Markets** – Raise money in bond markets | **Trading** – Buy and sell stocks, bonds, or derivatives from clients |
+| **Leveraged Finance** – Help high-debt companies raise bonds and loans | **Electronic Trading** – Connect investors to exchanges and execution platforms |
+| **Equity Capital Markets** – Raise money in the stock market | **Financing** – Help investors finance their positions |
+|                        | **Research** – Provide investment insights through reports and analysis |
+
+### **Products that require Balance Sheet Prowess:**
 
 | **Boutique Bank Products** | **Products Requiring Balance Sheet** |
 |----------------------------|---------------------------------------|
@@ -29,6 +42,17 @@ description: "Study Notes"
 | Investment Management      | Investment Grade Debt Origination     |
 | Wealth Management          | Derivatives (Swaps, Futures, Options) |
 |                            | Credit Trading                        |
+
+### **Raising Funds Options:**
+
+| **Cost Level**     | **Category**           | **Instruments / Options**                                      |
+|--------------------|------------------------|-----------------------------------------------------------------|
+| **Lowest Cost**    | Asset Backed Finance    | Receivables, Trade Finance, Inventory                          |
+|                    | Debt                   | Commercial Paper (Short Term), Bonds, Loans                    |
+| **Highest Cost**   | Equity                 | IPO (First Issuance), Follow-On (Additional Issuance), Convertible Bonds |
+
+
+
 
 ---
 ---
