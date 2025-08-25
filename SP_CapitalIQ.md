@@ -6,7 +6,7 @@ description: "Notes"
 
 # SNL & SPG Excel Functions Reference
 
-This guide covers both the **legacy SNLxl functions** and their modern equivalents in **S&P Global MI Office (SPG)**.  
+This covers both the **legacy SNLxl functions** and their modern equivalents in **S&P Global MI Office (SPG)**.  
 Syntax and behavior are nearly identical — just the prefix changes.
 
 ---
