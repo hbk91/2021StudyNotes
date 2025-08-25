@@ -30,6 +30,9 @@ description: "Study Notes"
 | **Equity Capital Markets** – Raise money in the stock market | **Financing** – Help investors finance their positions |
 |                        | **Research** – Provide investment insights through reports and analysis |
 
+---
+---
+
 ### **Sales and Trading Classifications**
 
 #### **FICC:**
@@ -64,6 +67,22 @@ description: "Study Notes"
 - Loans
 - Securitized Products
 - Emerging Markets
+
+#### **Quant Roles:**
+
+- Pricing Models
+- Algo Trading
+- Research
+- Market Risk
+- Counterparty Risk
+
+#### **Research:**
+
+- Equity
+- Macro / Fixed Company
+
+----
+----
 
 ### **Products that require Balance Sheet Prowess:**
 
