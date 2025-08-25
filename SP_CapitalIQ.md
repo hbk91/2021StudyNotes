@@ -4,6 +4,11 @@ author: "Aman Jindal"
 description: "Notes"
 ---
 
+## Useful Pages:
+
+- [SNLxl Product Reference (PDF)](https://pages.stern.nyu.edu/~dfrederi/docs/SNLxl_Product_Reference.pdf){:target="_blank"}  
+- [MI Office Reference Guide (PDF)](https://datacenter.safefrankfurt.de/datacenter/documents/tutorials/SNL_MI_Office_Reference_Guide.pdf){:target="_blank"}  
+
 # SNL & SPG Excel Functions Reference
 
 This covers both the **legacy SNLxl functions** and their modern equivalents in **S&P Global MI Office (SPG)**.  
