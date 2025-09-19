@@ -4,6 +4,27 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
+# **Major U.S. Bank Regulatory Filings**
+
+| **Filing** | **Filed By** | **Filed To** | **Frequency** | **Purpose** |
+|------------|--------------|--------------|---------------|-------------|
+| Y-9C (Consolidated Financial Statements) | Bank Holding Company (BHC) / SLHC | Federal Reserve | Quarterly | Consolidated financial statements, capital monitoring |
+| Y-9LP (Parent Company Only) | Bank Holding Company | Federal Reserve | Quarterly | Parent-only income and condition (double leverage, debt) |
+| Call Report (FFIEC 031/041/051) | Banking Subsidiary | OCC (national banks), Fed (state members), FDIC (state nonmembers) | Quarterly | Core balance sheet, income, capital, loan/deposit detail |
+| FR Y-14 (Stress Test Reports) | Large BHCs > $100B | Federal Reserve | Quarterly / Annual | Data for CCAR/DFAST stress testing |
+| 10-K / 10-Q / 8-K | Public Bank Holding Companies | SEC | 10-K annual, 10-Q quarterly, 8-K event-driven | Investor financials, MD&A, risk, material events |
+| Proxy Statement (DEF 14A) | Public Bank Holding Companies | SEC | Annual | Solicit shareholder votes (directors, comp, proposals) |
+| FR Y-6 (Annual Report) | Bank Holding Company | Federal Reserve | Annual | Corporate structure, ownership, governance |
+| FR Y-10 (Org Structure Changes) | Bank Holding Company | Federal Reserve | Event-driven (30 days) | Report acquisitions, divestitures, control changes |
+| FR Y-15 (Systemic Risk Report) | Large BHCs / IHCs | Federal Reserve | Annual | Systemic footprint for G-SIB surcharge |
+| FR Y-11 (Nonbank Subsidiaries) | Bank Holding Company | Federal Reserve | Quarterly / Annual | Financials of significant nonbank subs |
+| FFIEC 009/009a (Country Exposure) | Banks with foreign exposures | Federal Reserve | Quarterly | Break down international exposures by country |
+| CRA Exams & Public File | Banking Subsidiary | OCC / FDIC / Fed | ~Every 2–3 years | Evaluate community lending to LMI areas |
+| FR Y-16 (Stress Testing for $10B–$100B) | Mid-size BHCs / Banks | Federal Reserve | Annual (when required) | Dodd-Frank stress testing (repealed for many) |
+
+---
+---
+
 ## **DEALER acronym for accounting:**
 
 | **Letter** | **Account Type** | **Increases With** | **Decreases With** |
