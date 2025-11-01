@@ -4,7 +4,7 @@ author: "Aman Jindal"
 description: "Study Notes"
 ---
 
-# 🏦 CEO Compensation in Bank M&A: Change-in-Control & New Arrangements
+# CEO Compensation in Bank M&A: Change-in-Control & New Arrangements
 
 When a bank is acquired, the target CEO often receives a mix of **Change-in-Control (CiC) payments**, **retention incentives**, and **new employment or consulting arrangements**. Below are the major categories and terminology you’ll see in S-4 filings and merger proxy statements.
 
@@ -17,7 +17,7 @@ Designed to protect executives from job loss or demotion following a merger.
 ### 1. **Cash Severance**
 - **Definition:** Lump-sum payment, often **2×–3×** base salary plus target bonus.  
 - **Trigger:** Termination *without cause* or *for good reason* within a set period post-closing (“double trigger”).  
-- 
+
 ---
 
 ### 2. **Acceleration of Equity Awards**
@@ -102,7 +102,7 @@ Formalizes the CEO’s post-closing role in the combined institution.
 
 ## V. **Workflow:**
 
-# 🔎 Step-by-Step Workflow: Finding CEO CiC & New-Comp Details in Bank M&A
+# Step-by-Step Workflow: Finding CEO CiC & New-Comp Details in Bank M&A
 
 This workflow shows exactly where and how to pull **change-in-control (CiC)** payments, **retention/transaction bonuses**, **equity acceleration**, and **new employment/consulting** terms for a **target bank CEO**.
 
