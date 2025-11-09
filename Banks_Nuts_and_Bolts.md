@@ -655,6 +655,87 @@ From the bank’s perspective, deposits are **liabilities** — funds owed to cu
 > - Level of **collateral encumbrance** (liquidity constraint)  
 > - Trends in **reciprocal deposits** (relationship strength)
 
+---
+---
+
+#  Coverage Ratio – Liquidity Strength Metric (Origin Bancorp Example)
+
+---
+
+## **Formula**
+
+\[
+\text{Coverage Ratio} = \frac{(a + b)}{c}
+\]
+
+Where:
+
+| **Symbol** | **Description** | **Value ($000)** |
+|-------------|-----------------|-----------------:|
+| **a** | Total Additional Liquidity Sources (FHLB lines + Unpledged AFS + Fed window) | 4,449,913 |
+| **b** | Cash & Cash Equivalents | 626,909 |
+| **c** | Uninsured, Non-Collateralized Deposits | 3,177,704 |
+| **d = (a + b)/c** | **Coverage Ratio** | **1.60×** |
+
+---
+
+##  **What It Measures**
+
+It measures how much **available liquidity** a bank has relative to its **uninsured, non-collateralized deposits** — i.e., the most flight-prone funding source.
+
+> **Interpretation:**  
+> For every $1 of uninsured, non-collateralized deposits, the bank holds $1.60 of available liquidity.
+
+---
+
+##  **Why It Matters**
+
+| **Aspect** | **Explanation** |
+|-------------|----------------|
+| **Post-SVB Focus** | After 2023’s banking turmoil, investors track uninsured deposit exposure closely. |
+| **Liquidity Stress Test Proxy** | Tests whether the bank could cover a rapid outflow of uninsured deposits. |
+| **Regulatory Lens** | A non-LCR ratio used by community/regional banks to signal resilience. |
+| **Investor Comfort** | Ratios >1.0× suggest enough coverage for high-stress withdrawal scenarios. |
+
+---
+
+##  **Components Explained**
+
+| **Component** | **Nature** | **Liquidity Speed** |
+|----------------|------------|---------------------|
+| **Cash & Cash Equivalents (b)** | Immediate funds held on balance sheet. | Same-day |
+| **Unpledged AFS Securities** | Securities available for sale or repo. | Within 1–2 days |
+| **FHLB Borrowing Availability** | Secured funding line from Federal Home Loan Bank. | Within hours |
+| **Fed Funds Lines & Discount Window** | Emergency access to Federal Reserve liquidity. | Same-day |
+| **Uninsured, Non-Collateralized Deposits (c)** | Deposits above FDIC insurance cap, unpledged. | Can leave quickly |
+
+---
+
+##  **Typical Ranges**
+
+| **Coverage Ratio** | **Interpretation** |
+|--------------------:|-------------------|
+| **>1.5×** | Very strong liquidity; ample cushion. |
+| **1.0–1.5×** | Adequate coverage; manageable stress scenario. |
+| **<1.0×** | Tight liquidity; would require asset sales or external funding. |
+
+OBK’s **1.60×** ratio indicates a **strong liquidity position**.
+
+---
+
+##  **Summary Table**
+
+| **Metric** | **Definition** | **Formula** | **3Q25 Value** | **Meaning** |
+|-------------|----------------|--------------|----------------:|--------------|
+| **Coverage Ratio** | Available liquidity vs. uninsured deposits | (FHLB + Unpledged AFS + Fed Lines + Cash) ÷ Uninsured deposits | **1.60×** | OBK holds $1.60 of accessible liquidity for every $1 of uninsured deposits. |
+
+---
+
+##  **Analyst Tip**
+
+> **Rule of Thumb:** Coverage Ratio ≥ **1.25×** is considered healthy.  
+> Below 1× means the bank could **not fully cover** its uninsured outflows without outside funding.  
+> The higher the ratio, the greater the **liquidity resiliency** and **regulatory comfort**.
 
 ---
 ---
