@@ -378,7 +378,8 @@ For banks, this mainly comes from **changes in fair value of securities**, but c
 | **Step** | **Description** | **Impact on Deal Math** |
 |-----------|------------------|--------------------------|
 | **1️⃣** | Target’s AFS portfolio holds unrealized losses in AOCI. | TBV already reduced by AOCI. |
-| **2️⃣** | Acquirer revalues securities to fair value at closing. | AOCI is wiped out; replaced by fair-value “mark.” |
+| **2️⃣
+** | Acquirer revalues securities to fair value at closing. | AOCI is wiped out; replaced by fair-value “mark.” |
 | **3️⃣** | Mark is amortized (GAAP term) / accreted (economic term) into income over time. | Reduces Day-1 TBV dilution; boosts NII over time. |
 | **4️⃣** | Analysts explicitly include this in merger models. | Captures both capital and earnings effects. |
 
@@ -482,6 +483,178 @@ Even when income **increases** over time (as discounts reverse), GAAP still call
 > - **Assets are always “amortized.”**  
 > - **Liabilities are always “accreted.”**  
 > - The *economic effect* (income up or down) depends on whether it’s a discount or premium — not on the word itself.
+
+---
+---
+
+## **Understanding Bank Deposit Types and Characteristics**
+
+---
+
+### **1️⃣ Overview**
+
+Deposits are the **primary funding source** for a bank.  
+From the bank’s perspective, deposits are **liabilities** — funds owed to customers — and thus are often shown as **negative numbers** in presentations.
+
+\[
+\text{Assets} = \text{Liabilities} + \text{Equity}
+\]
+
+**Deposits = Funding Source (Liability)**  
+**Loans/Securities = Uses of Funds (Asset)**
+
+---
+
+## **2️⃣ Key Deposit Categories**
+
+---
+
+### **A. FDIC Insured Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Balances fully covered by FDIC insurance (up to $250,000 per depositor, per ownership category). |
+| **Typical Source** | Retail customers and small businesses. |
+| **Behavioral Profile** | **Very stable** – core deposit base. |
+| **Cost of Funds** | Low – often noninterest-bearing or low-rate checking/savings. |
+| **Regulatory View** | Strongest funding quality. |
+| **Accounting Treatment** | Liability; shown as a negative number. |
+
+---
+
+### **B. FDIC Insured Reciprocal Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Large customer deposits placed via reciprocal networks (e.g., **IntraFi ICS / CDARS**) that are split into smaller insured chunks across participating banks. |
+| **Mechanism** | Bank places excess funds with the network and receives an equal amount of reciprocal deposits back from other banks. |
+| **Purpose** | Allows customers to maintain **full FDIC coverage** while keeping the relationship with one bank. |
+| **Regulatory Treatment** | **Not brokered** if the bank is well-capitalized and within limits (post-2018 FDIC rule). |
+| **Behavioral Profile** | **Stable / core-like**, relationship-based. |
+| **Cost of Funds** | Slightly higher than retail deposits but cheaper than brokered CDs. |
+
+---
+
+### **C. FDIC Insured Brokered Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Deposits obtained through third-party brokers or online listing services. |
+| **Purpose** | Used to quickly raise liquidity when loan growth exceeds local deposit base. |
+| **Regulatory View** | Considered **non-core / volatile** funding. |
+| **Behavioral Profile** | **Rate-sensitive** and **flight-prone**. |
+| **Cost of Funds** | Higher – requires competitive rates. |
+| **Usage Example** | Common in liquidity-stressed banks or rapid balance sheet expansion. |
+
+---
+
+### **D. Public Funds Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Deposits from **state and local governments, school districts, and other public entities**. |
+| **Examples** | City payroll accounts, school district operating funds, or tax receipts. |
+| **Legal Requirement** | Must be **fully insured or collateralized** above FDIC limit. |
+| **Collateralization** | Pledged securities or FHLB letters of credit. |
+| **Behavioral Profile** | **Moderately stable**, but often **seasonal** (tax and budget cycles). |
+| **Cost of Funds** | Moderate; priced competitively to attract municipalities. |
+| **Liquidity Impact** | Stable but collateralized → reduces balance sheet flexibility. |
+
+---
+
+### **E. Collateralized Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Deposits backed by pledged assets (U.S. Treasuries, municipal bonds, or FHLB LOCs). |
+| **Who Uses Them** | Primarily for **public deposits** above FDIC insurance limits. |
+| **Purpose** | Protects depositor in case of bank failure. |
+| **Accounting Treatment** | Deposit liability offset by pledged collateral (encumbered asset). |
+| **Behavioral Profile** | Stable but **reduces available liquidity** (pledged assets cannot be reused). |
+| **Risk Trade-off** | Safer for depositor, costlier for bank liquidity management. |
+
+---
+
+### **F. Uninsured / Uncollateralized Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Deposits exceeding the $250,000 FDIC insurance limit **and not backed** by pledged collateral. |
+| **Typical Source** | Large corporate, commercial, or wealth-management clients. |
+| **Behavioral Profile** | **Rate-sensitive and volatile** – most likely to move in stress events. |
+| **Risk** | Flight risk during market uncertainty or confidence shocks. |
+| **Cost of Funds** | Higher – must offer competitive yields to retain balances. |
+| **Analyst Focus** | Tracked closely to gauge potential run-off risk and liquidity exposure. |
+
+---
+
+### **G. Total Estimated FDIC-Insured Deposits**
+
+| **Feature** | **Description** |
+|--------------|-----------------|
+| **Definition** | Combined total of FDIC-insured, reciprocal, and brokered deposits that carry explicit insurance. |
+| **Purpose** | Indicates the **insured portion** of total deposit base. |
+| **Interpretation** | A higher share = lower liquidity risk. |
+| **Typical Ratio** | Healthy regional banks show 40–60% insured deposits. |
+
+---
+
+## **3️⃣ Collateralization Explained**
+
+| **Concept** | **Meaning** |
+|--------------|-------------|
+| **Collateral Requirement** | Public deposits above FDIC limits must be secured by pledged assets. |
+| **Common Collateral Types** | U.S. Treasuries, Agency bonds, Municipals, FHLB letters of credit. |
+| **Impact on Liquidity** | Collateral is **encumbered** – cannot be sold or repo’d. |
+| **Trade-Off** | Safer for depositor but limits bank’s flexibility. |
+
+---
+
+## **4️⃣ Deposit Composition Example (OBK – Q3 2025)**
+
+| **Category** | **Balance ($000)** | **QoQ %** | **Key Insight** |
+|---------------|--------------------|------------|-----------------|
+| FDIC Insured | 3,407,017 | +1.0% | Core retail and business deposits. |
+| FDIC Insured Reciprocal | 1,056,176 | +6.4% | Full-insurance relationships via ICS/CDARS. |
+| FDIC Brokered | 0 | (–100%) | Fully eliminated. |
+| Collateralized | 690,933 | –16.8% | Secured public funds using pledged assets. |
+| Public Funds | 865,637 | (flat) | Government entities – seasonal. |
+| **Uninsured / Uncollateralized** | **3,177,704** | **+9.5%** | Large corporate balances – more volatile. |
+
+---
+
+## **5️⃣ Deposit Type Comparison Summary**
+
+| **Deposit Type** | **FDIC-Insured?** | **Collateral Required?** | **Relationship Depth** | **Funding Stability** | **Liquidity Impact** |
+|------------------|--------------------|---------------------------|------------------------|-----------------------|----------------------|
+| Retail / Consumer | ✅ Yes | ❌ No | High | Very Stable | None |
+| Commercial | Partially | ❌ No | High | Stable | None |
+| Public Funds | ✅ Yes | ✅ Yes (above limit) | Medium | Moderately Stable | Encumbers collateral |
+| Reciprocal | ✅ Fully | ❌ No | High | Stable | None |
+| Brokered | ✅ Fully | ❌ No | Low | Volatile | None |
+| Collateralized | ✅/Secured | ✅ Yes | Medium | Stable | Reduces liquidity |
+| Uninsured / Uncollateralized | ❌ No | ❌ No | Medium | Volatile / Flighty | None |
+
+---
+
+## **6️ Key Takeaways**
+
+- **Deposits are liabilities** — shown as negatives because they’re owed to customers.  
+- **Public funds** are government deposits that must be **insured or collateralized**.  
+- **Collateralized deposits** are safe for depositors but **consume liquidity** (pledged assets unavailable).  
+- **Reciprocal deposits** (ICS/CDARS) are insured and relationship-based — **core-like**.  
+- **Uninsured deposits** are the most **rate-sensitive** and **least stable**.  
+- Strong banks monitor mix of **insured vs. uninsured** and **collateralized vs. free** deposits to manage liquidity and cost of funds.
+
+---
+
+> **Analyst Insight:**  
+> When evaluating a bank’s funding profile, focus on:  
+> - % of **insured deposits** (stability)  
+> - % of **uninsured / uncollateralized** (run risk)  
+> - Level of **collateral encumbrance** (liquidity constraint)  
+> - Trends in **reciprocal deposits** (relationship strength)
+
 
 ---
 ---
