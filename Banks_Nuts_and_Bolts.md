@@ -739,3 +739,93 @@ OBK’s **1.60×** ratio indicates a **strong liquidity position**.
 
 ---
 ---
+
+## **Understanding the Statement of Comprehensive Income vs. Income Statement (Using Origin Bancorp Example)**
+
+---
+
+## Core Difference
+
+| **Statement** | **What It Shows** | **Scope** |
+|----------------|------------------|------------|
+| **Income Statement** (Statement of Income) | Performance from **operating activities** — revenues, expenses, provisions, and taxes. | **Net Income** (bottom line of core profitability). |
+| **Statement of Comprehensive Income** | Includes **Net Income + Other Comprehensive Income (OCI)** — changes in equity from non-owner sources. | **Comprehensive Income** (total change in equity excluding capital actions). |
+
+\[
+\text{Comprehensive Income} = \text{Net Income} + \text{Other Comprehensive Income (OCI)}
+\]
+
+---
+
+## Why Banks Need a Separate “Comprehensive” Statement
+
+Banks hold large portfolios of **Available-for-Sale (AFS) securities**, **derivatives**, and **hedges**, which are *marked to market*.  
+Changes in their fair value affect **shareholders’ equity**, but **not net income** — unless the securities are sold.  
+
+Therefore, GAAP requires these unrealized gains/losses to be reported in **Other Comprehensive Income (OCI)**.
+
+---
+
+## How the Two Statements Flow Together
+
+| **Category** | **Appears in Income Statement?** | **Appears in OCI (Comprehensive Statement)?** | **Example (OBK 3Q25)** |
+|---------------|----------------------------------|-----------------------------------------------|-------------------------|
+| Interest income / expense | ✅ Yes | ❌ No | $100.8M Net interest income |
+| Provision for credit losses | ✅ Yes | ❌ No | $36.8M provision |
+| Operating expenses | ✅ Yes | ❌ No | Salaries, occupancy, etc. |
+| **Unrealized gain/loss on AFS securities** | ❌ No | ✅ Yes | $15.8M gain in OCI |
+| **Cash flow hedge gains/losses** | ❌ No | ✅ Yes | $(70)k adjustment |
+| **Tax effects on above items** | ❌ No | ✅ Yes | $3.3M tax expense on AFS gain |
+| **Net income (bottom line)** | ✅ Yes | ✅ Used as starting point |
+| **Comprehensive income (final line)** | ❌ No | ✅ Yes (Net Income + OCI) | $21.0M total comprehensive income |
+
+---
+
+## Typical Components of OCI for a Bank
+
+| **OCI Item** | **Source** | **Why It’s in OCI (not Net Income)** |
+|---------------|-------------|--------------------------------------|
+| **Unrealized gains/losses on AFS securities** | Mark-to-market changes in AFS portfolio | Not realized through sale yet |
+| **Unrealized gains/losses on cash flow hedges** | Derivatives used to hedge interest rate risk | Hedge accounting rules defer recognition |
+| **Foreign currency translation adjustments** | For foreign operations (not relevant for OBK) | Non-cash, unrealized impact |
+| **Pension plan adjustments** | Actuarial changes in defined-benefit plans | Long-term, not core earnings |
+
+---
+
+## Link to AOCI (Balance Sheet)
+
+Everything reported under **Other Comprehensive Income (OCI)** **accumulates** into  
+**AOCI (Accumulated Other Comprehensive Income)** within **Shareholders’ Equity** on the balance sheet.
+
+\[
+\text{Ending AOCI (Balance Sheet)} = \text{Beginning AOCI} + \text{Current Period OCI (Statement of Comprehensive Income)}
+\]
+
+OCI affects **equity** (and thus Tangible Common Equity and TBVPS) — even though it doesn’t affect **earnings**.
+
+---
+
+## Summary Table
+
+| **Aspect** | **Income Statement** | **Comprehensive Income Statement** |
+|-------------|----------------------|------------------------------------|
+| **Purpose** | Measure *profitability* from operations. | Measure *total change in equity* from all sources except capital actions. |
+| **Includes** | Revenues, expenses, provision, taxes. | Net income + OCI (AFS, hedges, etc.). |
+| **Output** | Net Income. | Comprehensive Income. |
+| **Impacts** | Earnings (EPS, ROAA). | Equity (AOCI, TBVPS). |
+| **Used for** | Valuation & P/E analysis. | Capital strength & TBV analysis. |
+| **OBK Example (3Q25)** | Net income $8.6M | OCI $12.4M → Comprehensive income $21.0M. |
+
+---
+
+### Analyst Tip
+
+> The **Income Statement tells you what the bank *earned.***  
+> The **Comprehensive Income Statement tells you what the bank *is worth more or less* by — even before those gains/losses are realized.**
+
+That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AOCI changes **capital**, not **earnings**.
+
+---
+---
+
+
