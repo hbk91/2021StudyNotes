@@ -242,6 +242,21 @@ Conditional formatting rules are applied **top-to-bottom**, and Excel stops eval
 | `[Color]`    | Specifies a color for the value (e.g., `[Red]`, `[Green]`, `[Blue]`).                            |
 | `[Condition]`| Applies formatting based on conditions (e.g., `[>100]`).                                         |
 
+## Colors supported:
+
+- Hex code / custom colors are not supported
+
+| **Color Name** |
+|---------------|
+| **Black** |
+| **Blue** |
+| **Cyan** |
+| **Green** |
+| **Magenta** |
+| **Red** |
+| **White** |
+| **Yellow** |
+
 ## Custom Formatting Order:
 
 | **Section**      | **Purpose**                                   | **Example**          |
