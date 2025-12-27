@@ -266,6 +266,16 @@ Conditional formatting rules are applied **top-to-bottom**, and Excel stops eval
 | 3rd Section       | Format for **zeros**                         | `[Green]Zero`        |
 | 4th Section       | Format for **text**                          | `"Text: "@`          |
 
+## Excel Custom Format – `*` (Asterisk)
+
+| **Format Code** | **Result** | **Explanation** |
+|-----------------|-----------|-----------------|
+| **`*-`** | `-----123` | Repeats `-` to fill cell |
+| **`*.`** | `.....123` | Fills with dots |
+| **`* `** | `     123` | Pushes number using spaces |
+| **`0*-`** | `123-----` | Dashes after number |
+| **`"$"* 0`** | `$     123` | Currency aligned left |
+
 ## Custom Formatting Examples:
 
 | **Custom Format**                     | **Description**                                                     | **Example Input**    | **Displayed Output**      |
