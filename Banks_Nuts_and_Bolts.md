@@ -840,10 +840,10 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
   = **FV − CV**
 
 - **Liability Mark**  
-  = **FV − CV**
+  = **CV - FV**
 
 - **Total Marks**  
-  = **Asset Marks − Liability Marks**
+  = **Asset Marks + Liability Marks**
 
 ---
 
@@ -859,9 +859,14 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
 
 ### Liability Accretion
 - **Liability Accretion**  
-  = **(-Liability Marks) ÷ # of years**
+  = **Liability Marks ÷ # of years**
+- No flipping of sign above, because we already flipped it while calculating Liability marks 
 - **Treatment:**  
   → Just add it to the Liability line items
+
+### Income Statement Accretion of Marks:
+
+- Just add Asset Marks accretion - Liability Marks accretion
 
 ---
 ---
