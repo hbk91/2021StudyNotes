@@ -82,6 +82,7 @@ Use these **inside the search bar (`Ctrl + E`)**:
 ---
 
 ## General Navigation
+
 | **Action** | **Shortcut** |
 |------------|--------------|
 | **Open Search Bar** | `Ctrl + E` |
@@ -97,6 +98,7 @@ Use these **inside the search bar (`Ctrl + E`)**:
 ---
 
 ## Chat & Messaging
+
 | **Action** | **Shortcut** |
 |------------|--------------|
 | **Start New Chat** | `Ctrl + N` |
@@ -115,6 +117,7 @@ Use these **inside the search bar (`Ctrl + E`)**:
 ---
 
 ## Meetings & Calls
+
 | **Action** | **Shortcut** |
 |------------|--------------|
 | **Mute / Unmute** | `Ctrl + Shift + M` |
@@ -131,6 +134,7 @@ Use these **inside the search bar (`Ctrl + E`)**:
 ---
 
 ## Navigation & View
+
 | **Action** | **Shortcut** |
 |------------|--------------|
 | **Go Back** | `Alt + ←` |
@@ -142,6 +146,7 @@ Use these **inside the search bar (`Ctrl + E`)**:
 ---
 
 ## Quick Actions
+
 | **Action** | **Shortcut** |
 |------------|--------------|
 | **Open Settings** | `Ctrl + ,` |
