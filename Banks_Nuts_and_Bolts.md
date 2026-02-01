@@ -851,7 +851,7 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
 
 ### Asset Accretion
 - **Asset Accretion**  
-  = **Asset Marks ÷ # of years**
+  = **(-Asset Marks) ÷ # of years**
 - **Treatment:**  
   → Just add it to the Asset line items
 
@@ -859,7 +859,7 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
 
 ### Liability Accretion
 - **Liability Accretion**  
-  = **Liability Marks ÷ # of years**
+  = **(-Liability Marks) ÷ # of years**
 - **Treatment:**  
   → Just add it to the Liability line items
 
