@@ -828,4 +828,40 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
 ---
 ---
 
+## **Marks Mechanics:**
 
+- **Marked TBV**  
+  = **TBV + Total Marks**
+
+- **Goodwill (GW)**  
+  = **Purchase Price − Marked TBV**
+
+- **Asset Mark**  
+  = **FV − CV**
+
+- **Liability Mark**  
+  = **FV − CV**
+
+- **Total Marks**  
+  = **Asset Marks − Liability Marks**
+
+---
+
+## Accretion Mechanics
+
+### Asset Accretion
+- **Asset Accretion**  
+  = **Asset Marks ÷ # of years**
+- **Treatment:**  
+  → Just add it to the Asset line items
+
+---
+
+### Liability Accretion
+- **Liability Accretion**  
+  = **Liability Marks ÷ # of years**
+- **Treatment:**  
+  → Just add it to the Liability line items
+
+---
+---
