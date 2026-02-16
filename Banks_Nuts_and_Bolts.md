@@ -993,6 +993,124 @@ In high-quality deposit deals:
 
 Higher CDI often signals better funding — even if optics look worse on Day 1.
 
+---
+---
+
+## Pre-Provision Net Revenue (PPNR)  
+
+### 1. What Is PPNR?
+
+Pre-Provision Net Revenue (PPNR) measures a bank’s core operating profitability before credit costs.
+
+It answers:
+
+How much earnings power does the bank generate from its franchise before loan losses?
+
+---
+
+### 2. Core Formula
+
+PPNR = Net Interest Income + Non-Interest Income - Non-Interest Expense
+
+In shorthand:
+
+PPNR = Revenue - Operating Expense
+
+It excludes:
+
+- Provision for credit losses  
+- Taxes  
+- Extraordinary items  
+
+---
+
+### 3. Income Statement Position
+
+| Income Statement Flow | Included in PPNR? |
+|-----------------------|------------------|
+| Net Interest Income | Yes |
+| Non-Interest Income | Yes |
+| Non-Interest Expense | Yes |
+| Provision for Credit Losses | No |
+| Taxes | No |
+| Net Income | No |
+
+PPNR sits right above provision expense.
+
+---
+
+### 4. Why It Matters (Banking Context)
+
+PPNR is critical because it shows:
+
+- Earnings capacity to absorb losses  
+- Operating leverage  
+- Franchise strength  
+- Stress-test resilience  
+
+In downturns:
+
+Strong PPNR can offset elevated provisions.
+
+---
+
+### 5. Example
+
+Assume:
+
+- Net Interest Income = $500mm  
+- Non-Interest Income = $200mm  
+- Non-Interest Expense = $450mm  
+
+PPNR = 500 + 200 - 450 = 250
+
+If provisions = $180mm:
+
+Pre-Tax Income = 250 - 180 = 70
+
+PPNR acts as the loss-absorption cushion.
+
+---
+
+### 6. Why FIG Analysts Focus on It
+
+PPNR drives:
+
+- Stress testing (CCAR/DFAST)  
+- Regulatory capital projections  
+- M&A accretion analysis  
+- Credit cycle downside modeling  
+
+In mergers:
+
+- Cost synergies ↑ PPNR  
+- Revenue synergies ↑ PPNR  
+- Higher PPNR → Faster TBV earnback (all else equal)
+
+---
+
+### 7. Key Ratios Using PPNR
+
+| Metric | Formula | What It Tells You |
+|--------|----------|------------------|
+| PPNR / Assets | PPNR ÷ Avg Assets | Core earnings power |
+| PPNR / Loans | PPNR ÷ Loans | Loss absorption vs credit book |
+| Efficiency Ratio | Expense ÷ Revenue | Inverse driver of PPNR |
+
+Higher efficiency → Higher PPNR.
+
+---
+
+### 8. Strategic Insight
+
+Two banks can have identical net income but:
+
+- Bank A: High PPNR, high provisions  
+- Bank B: Low PPNR, low provisions  
+
+Bank A is usually more resilient.
+
+That’s why regulators and investors focus on PPNR during credit stress.
 
 ---
 ---
