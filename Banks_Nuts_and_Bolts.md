@@ -870,3 +870,129 @@ That’s why analysts often **adjust TBV for AOCI**, but **not EPS**, because AO
 
 ---
 ---
+
+## Core Deposit Intangible (CDI) — Crisp FIG Analysis
+
+### 1. What Is CDI?
+
+- Identifiable intangible asset recorded in a bank acquisition  
+- Represents the present value of funding cost advantage from stable, low-cost core deposits  
+- Exists only in purchase accounting (ASC 805)  
+- Amortized over expected deposit life (typically 7–12 years)  
+
+---
+
+### 2. Economic Logic
+
+CDI = PV[(Market Funding Cost - Deposit Rate) × Balances × Survival]
+
+Core deposits are valuable because they:
+
+- Are sticky  
+- Have low beta  
+- Reduce reliance on wholesale funding  
+- Support NIM stability  
+
+---
+
+### 3. Day 1 Balance Sheet Impact
+
+| Item | Effect |
+|------|--------|
+| Total Equity | No change |
+| Intangible Assets | Increase |
+| Tangible Equity | Decrease |
+| TBV/Share | Decreases |
+
+Tangible Equity = Equity - Goodwill - CDI
+
+Higher CDI → Higher Day 1 TBV dilution
+
+---
+
+### 4. Income Statement Impact
+
+| Item | Effect |
+|------|--------|
+| Amortization Expense | Increases |
+| GAAP Net Income | Decreases |
+| GAAP EPS | Decreases |
+| Cash EPS | Often adjusted back |
+
+Longer amortization life:
+
+- ↓ Annual amort expense  
+- ↓ GAAP dilution  
+- No change to economic value  
+
+---
+
+### 5. Typical Market Ranges
+
+| Metric | Typical Range |
+|--------|---------------|
+| CDI as % of Core Deposits | 1%–3% |
+| CDI Life | 7–12 years |
+| Higher CDI Seen When | High NIB, low beta, strong relationships |
+
+---
+
+### 6. What Drives CDI Size?
+
+- Percentage of Non-Interest Bearing (NIB) deposits  
+- Deposit beta assumptions  
+- Expected runoff/attrition  
+- Market funding curve  
+- Discount rate  
+
+Stronger franchise → Higher CDI.
+
+---
+
+### 7. Interaction with TBV Earnback
+
+Higher CDI:
+
+- ↑ Day 1 dilution  
+- ↑ Amortization drag  
+- Potentially ↑ long-term earnings (if deposits truly durable)
+
+Earnback depends on:
+
+- Spread benefit realization  
+- Synergies  
+- Loan marks & accretion  
+
+---
+
+### 8. What Sophisticated FIG Investors Focus On
+
+Not just:
+
+“How big is CDI?”
+
+But:
+
+- Is runoff assumption realistic?  
+- Is beta assumption conservative?  
+- Is CDI % consistent with deposit mix?  
+- Does funding advantage support sustainable ROTCE?  
+
+---
+
+### 9. Key Modeling Insight
+
+CDI is:
+
+- An accounting penalty upfront  
+- A proxy for franchise strength economically  
+- A major TBV lever  
+- A secondary lever in EPS accretion debates  
+
+In high-quality deposit deals:
+
+Higher CDI often signals better funding — even if optics look worse on Day 1.
+
+
+---
+---
