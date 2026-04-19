@@ -33,3 +33,6 @@ description: "Study Notes"
 | **Price fixing** | Competitors secretly agree on prices | Airlines agreeing to keep ticket prices high |
 | **Market allocation** | Companies divide markets | “You sell in NY, I sell in CA” |
 | **Predatory pricing** | Selling below cost to kill competitors | Big firm undercuts small players until they exit |
+
+---
+---
