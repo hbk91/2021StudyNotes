@@ -1,5 +1,5 @@
 ---
-title: "Competition laws"
+title: "Anti-trust laws"
 author: "Aman Jindal"
 description: "Study Notes"
 ---
