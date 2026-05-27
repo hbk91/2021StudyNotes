@@ -51,6 +51,6 @@ description: "Study Notes"
 | **Best for** | Repeatable workflows, style guides | GitHub, Slack, databases, live APIs | Pre-built domain toolkits | Large parallel tasks | Logging, validation, guardrails, automation triggers |
 
 
-
+---
 
 
