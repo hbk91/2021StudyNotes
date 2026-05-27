@@ -25,4 +25,18 @@ description: "Study Notes"
 | Write | Write to a file |
 
 ---
+
+## Claude Code Basic workflow:
+
+- Explore
+- Plan
+- Code
+- Commit
+
 ---
+
+
+
+
+
+
