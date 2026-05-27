@@ -35,6 +35,22 @@ description: "Study Notes"
 
 ---
 
+## Skills vs MCP vs Plugins:
+
+## Skills vs MCP vs Plugins
+
+| | **Skills** | **MCP** | **Plugins** |
+|---|---|---|---|
+| **What it is** | Markdown instruction file | Protocol + server connecting to external services | Bundled package of Skills + MCP + commands |
+| **One-line role** | Teaches Claude *how* to work | Gives Claude *access* to external tools | Ready-made toolkit combining both |
+| **Analogy** | Recipe card | Kitchen plumbing & ingredients | Full kitchen, stocked and ready |
+| **Setup effort** | Low — drop a `.md` file in your project | Medium — install and configure a server | Low — one-click install |
+| **Works offline** |  Yes |  No | Depends on what's inside |
+| **Token cost** | Very low | Can be high | Varies |
+| **Built by** | You or community | Anthropic, service providers, community | Anthropic or third parties |
+| **Best for** | Workflows, style guides, repeatable processes | GitHub, Slack, databases, APIs, live data | Pre-built domain toolkits (legal, finance, sales) |
+
+---
 
 
 
