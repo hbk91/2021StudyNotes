@@ -35,22 +35,20 @@ description: "Study Notes"
 
 ---
 
-## Skills vs MCP vs Plugins:
+## Skills vs MCP vs Plugins vs Sub-Agents vs Hooks
 
-## Skills vs MCP vs Plugins
-
-| | **Skills** | **MCP** | **Plugins** |
-|---|---|---|---|
-| **What it is** | Markdown instruction file | Protocol + server connecting to external services | Bundled package of Skills + MCP + commands |
-| **One-line role** | Teaches Claude *how* to work | Gives Claude *access* to external tools | Ready-made toolkit combining both |
-| **Analogy** | Recipe card | Kitchen plumbing & ingredients | Full kitchen, stocked and ready |
-| **Setup effort** | Low — drop a `.md` file in your project | Medium — install and configure a server | Low — one-click install |
-| **Works offline** |  Yes |  No | Depends on what's inside |
-| **Token cost** | Very low | Can be high | Varies |
-| **Built by** | You or community | Anthropic, service providers, community | Anthropic or third parties |
-| **Best for** | Workflows, style guides, repeatable processes | GitHub, Slack, databases, APIs, live data | Pre-built domain toolkits (legal, finance, sales) |
-
----
+| | **Skills** | **MCP** | **Plugins** | **Sub-Agents** | **Hooks** |
+|---|---|---|---|---|---|
+| **What it is** | Markdown instruction file | Protocol connecting Claude to external services | Bundled package of Skills, MCP, and commands | Spawned AI worker instance | Event-triggered scripts that fire at specific lifecycle points |
+| **One-line role** | Teaches Claude how to work | Gives Claude access to external tools | Ready-made toolkit combining multiple components | An independent AI co-worker | Intercepts and acts at defined moments in Claude's workflow |
+| **Analogy** | Recipe card | Kitchen plumbing | Full stocked kitchen | A hired specialist | A motion sensor that triggers an action |
+| **Thinks independently** | No | No | No | Yes | No |
+| **Works in parallel** | No | No | No | Yes | No |
+| **Triggered by** | Task relevance | Tool call from Claude | Task relevance | Claude orchestrator | Lifecycle events (before/after tool use, before response, etc.) |
+| **Setup effort** | Low | Medium | Low | Low | Medium |
+| **Works offline** | Yes | No | Depends | Depends | Yes |
+| **Built by** | You or community | Anthropic, providers, community | Anthropic or third parties | Claude automatically | You |
+| **Best for** | Repeatable workflows, style guides | GitHub, Slack, databases, live APIs | Pre-built domain toolkits | Large parallel tasks | Logging, validation, guardrails, automation triggers |
 
 
 
